@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - MOE Kindergarten (MK) Virtual Open House.md
       - P1 2022 Orientation Briefing.md
