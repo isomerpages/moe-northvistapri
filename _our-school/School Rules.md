@@ -23,9 +23,9 @@ Students are expected to:
 
        1.7      Leave the school only when permission is granted.
 
-       1.8      Not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is                                used  or intended to be used to cause harm to others.
+       1.8      Not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used  or intended to be used to cause harm to others.
 
-       1.9      Not to bring mobile phones to school. If they do, they must take personal responsibility of it. The school has designated                              the Meeting Place in front of the General Office for students to use their mobile phones. Should students be observed to                          use their mobile phones in areas other then the Meeting Place, their phones may be confiscated and parents will need to                          collect them from the General Office only **after a week**.
+       1.9      Not to bring mobile phones to school. If they do, they must take personal responsibility of it. The school has designated the Meeting Place in front of the General Office for students to use their mobile phones. Should students be observed to use their mobile phones in areas other then the Meeting Place, their phones may be confiscated and parents will need to collect them from the General Office only **after a week**.
 
         1.10  Practise good personal hygiene by washing hands regularly, do the wipe-down and take temperature daily.
 
@@ -101,4 +101,4 @@ Students are expected to:
 
 *   Students are to wear black sports shoes and white socks.
 *   Socks are to be slightly above the ankles.
-*   School socks can be purchased from our uniform supplier.		 
+*   School socks can be purchased from our uniform supplier.
