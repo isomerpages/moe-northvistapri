@@ -2,6 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Char and Citizenship Edu (CCE)/Form Teacher Guidance Period (FTGP) &
+        Education Career Guidance (ECG).md
       - Char and Citizenship Edu (CCE)/Sexuality Education.md
       - Char and Citizenship Edu (CCE)/Environmental Education (EE).md
       - Char and Citizenship Edu (CCE)/Student Leadership.md
