@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: North Vista Primary School
-      background: /images/hero-banner.png
+      background: /images/hero banner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
