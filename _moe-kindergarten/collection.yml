@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Curriculum/Centre Based Activities.md
       - Our Curriculum/Events & Celebrations.md
       - Our Curriculum/Our Curriculum.md
       - Our Curriculum/.keep
