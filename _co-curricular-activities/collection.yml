@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Overview.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art Connoisseur Club.md
       - Visual & Performing Arts/Les Vista Choristes (Choir).md
       - Visual & Performing Arts/Symphonic Band.md
       - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/International Dance.md
-      - Visual & Performing Arts/Art Connoisseur Club.md
-      - Visual & Performing Arts/.keep
       - ICT & Scholastic/Infocomm Club.md
       - ICT & Scholastic/.keep
       - Sports/Softball.md
