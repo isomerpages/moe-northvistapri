@@ -2,9 +2,9 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Overview.md
       - Visual & Performing Arts/.keep
       - ICT & Scholastic/.keep
       - Sports/.keep
       - Talents/.keep
       - Adventure/.keep
-      - Overview.md
