@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Infocom Technology (ICT)/Cyberwellness (CW).md
       - Infocom Technology (ICT)/.keep
       - Char and Citizenship Edu (CCE)/.keep
       - Char and Citizenship Edu (CCE)/Character and Citizenship Education
