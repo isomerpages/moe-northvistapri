@@ -2,8 +2,8 @@ collections:
   our-team:
     output: true
     order:
+      - School Advisory Committee.md
       - School Management Committee.md
       - 2022 Teaching Staff.md
       - Executive & Administrative Staff.md
       - Useful Links for Staff.md
-      - School Advisory Committee.md
