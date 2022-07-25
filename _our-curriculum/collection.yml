@@ -2,5 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Char and Citizenship Edu (CCE)/Character and Citizenship Education
+        (CCE).md
       - Char and Citizenship Edu (CCE)/.keep
       - Our Curriculum.md
