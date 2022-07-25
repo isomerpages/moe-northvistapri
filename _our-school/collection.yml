@@ -2,8 +2,8 @@ collections:
   our-school:
     output: true
     order:
+      - Our Accolades/.keep
+      - Our Accolades/2021.md
       - Our Accolades/2020.md
       - Our Accolades/2019.md
-      - Our Accolades/2021.md
-      - Our Accolades/.keep
       - Principal's Message.md
