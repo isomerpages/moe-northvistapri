@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - PE , Aesthetics & Music (PAM)/Programme for Active Learning (PAL).md
       - PE , Aesthetics & Music (PAM)/.keep
       - Infocom Technology (ICT)/Infocommunication Technology (ICT).md
       - Infocom Technology (ICT)/Applied Learning Programme (ALP).md
