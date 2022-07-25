@@ -53,3 +53,44 @@ links:
         url: /our-curriculum/ict/
       - title: Char & Citizenship Edu (CCE)
         url: /our-curriculum/cce/
+  - title: Co-Curricular Activities
+    url: /cca/overview/
+    sublinks:
+      - title: Overview
+        url: /cca/overview/
+      - title: Visual & Performing Arts
+        url: /cca/visual-and-performing-arts/
+      - title: ICT & Scholastic
+        url: /cca/ict-and-scholastic/
+      - title: Sports
+        url: /cca/sports/
+      - title: Talents
+        url: /cca/talents/
+      - title: Adventure
+        url: /cca/adventure/
+  - title: Parents and Students
+    url: /parents-and-students/information-for-parents/
+    sublinks:
+      - title: Information for Parents
+        url: /parents-and-students/information-for-parents/
+      - title: Parent Support Group
+        url: /parents-and-students/PSG/
+      - title: North Vista Primary Alumni
+        url: /parents-and-students/alumni/
+      - title: Useful Links for Parents
+        url: /parents-and-students/useful-links-for-parents/
+  - title: MOE Kindergarten
+    url: /Kindergarten/
+    sublinks:
+      - title: Vision,Mission & Values
+        url: /Kindergarten/
+      - title: Our People
+        url: /Kindergarten/our-people/
+      - title: Our Programmes
+        url: /Kindergarten/our-programmes/
+      - title: Our Curriculum
+        url: /Kindergarten/our-curriculum/
+      - title: Our Learning Environment
+        url: /Kindergarten/our-learning-environment/
+      - title: Our Partnerships
+        url: /Kindergarten/our-partnerships/
