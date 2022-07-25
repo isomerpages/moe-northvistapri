@@ -18,3 +18,27 @@ description: ""
 #### School Fees 
 
 ##### **School/Miscellaneous/Fees: GIRO Scheme**
+
+1\. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO. <br>
+2\. Monthly deductions will be made on the 26th of each month from February to December. The fees payable for January and February will be deducted together on 26th February.   <br>
+3\. Parents are to ensure there is sufficient fund in their bank accounts before the deduction dates. <br>
+4\. Parents are required to approach the General Office for application forms for GIRO Scheme or to make any changes to their GIRO Scheme.
+
+#### MOE Financial Assistance Scheme (MOE FAS) for students who are Singapore Citizens
+
+##### **Income Limits**
+
+A student is eligible for MOE FAS if the Gross Household Income (GHI) does not exceed $2750 per month or Per Capita Income (PCI) does not exceed $690 per month.
+
+The introduction of Per Capita Income (PCI) will enable students from larger families to benefit from financial assistance. Household members include parents, unmarried siblings and grandparents of the child as well as other dependents living in the same household. PCI is computed by dividing the gross household income by the number of members in the household. For more details, please refer to https://www.moe.gov.sg/financial-matters/financial-assistance
+
+##### **Benefits Under MOE FAS Scheme for Primary Level**
+
+1. Full waiver of $6.50 per month for Standard Miscellaneous Fees <br>
+2\. Free textbooks <br>
+3\. Free school attire <br>
+4\. Transport subsidy of 60% of school bus fares for students taking school bus, or $15 per month from month of approval, up to $180 per annum for students taking public transport. <br>
+5\. Subsidy for 7 meals per 5-day school week from month of approval, for up to 40 school weeks per annum. <br>
+
+##### **How to Apply**
+
