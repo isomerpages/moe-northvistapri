@@ -1,8 +1,38 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our School
+    url: /our-school/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message/
+      - title: School Vision,Mission,Values..
+        url: /our-school/core-values/
+      - title: School Crest
+        url: /our-school/school-crest/
+      - title: School Song
+        url: /our-school/school-song/
+      - title: School Rules
+        url: /our-school/school-rules/
+      - title: School Hours
+        url: /our-school/school-hours/
+      - title: School Services
+        url: /our-school/school-services/
+      - title: Homework Guidelines
+        url: /our-school/homework-guidelines/
+      - title: General Information
+        url: /our-school/general-information/
+      - title: Our Accolades
+        url: /our-school/our-accolades/
+  - title: Our team
+    url: /our-team/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-team/school-advisory-committee/
+      - title: School Management Committee
+        url: /our-team/school-management-committee/
+      - title: 2022 Teaching Staff
+        url: /our-team/2022-teaching-staff/
+      - title: Executive & Administrative...
+        url: /our-team/executive-and-administrative-staff/
+      - title: Useful Links for Staff
+        url: /our-team/useful-links-for-staff/
