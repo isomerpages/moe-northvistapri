@@ -80,7 +80,6 @@ Students are expected to:
 *   All students are to iron on and stitch the name tags on their school shirt/blouse.
 *   The nametag should be positioned on the left hand side of the wearer and 1 cm above the boy’s chest pocket. Girls should wear their nametags on the left hand side and slightly above the school crest. Please refer to the illustrations below.
 
-![](/images/uniform%20nametag.jpg)
 <img src="/images/uniform%20nametag.jpg" 
      style="width:80%">
 		 
