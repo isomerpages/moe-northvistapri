@@ -40,7 +40,7 @@ sections:
   - infobar:
       title: MOE Kindergarten (MK) Virtual Open House
       description: Is your child turning 5 years old in 2023?
-      button: Click here To find out more
+      button: Find out more
       url: https://staging.d177jz78e0t9fa.amplifyapp.com/mk-virtual-open-house/
   - infobar:
       title: P1 2022 Orientation Briefing
