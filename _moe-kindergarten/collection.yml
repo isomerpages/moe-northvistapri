@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Curriculum/Our Curriculum.md
       - Our Curriculum/.keep
       - Our Programmes.md
       - Our People.md
