@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Infocom Technology (ICT)/Applied Learning Programme (ALP).md
       - Infocom Technology (ICT)/Cyberwellness (CW).md
       - Infocom Technology (ICT)/.keep
       - Char and Citizenship Edu (CCE)/.keep
