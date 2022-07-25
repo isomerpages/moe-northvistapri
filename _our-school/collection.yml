@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Homework Guidelines.md
       - General Information for Parents and Guardians.md
       - Our Accolades/.keep
       - Our Accolades/2021.md
