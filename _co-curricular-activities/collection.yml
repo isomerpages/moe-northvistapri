@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Visual & Performing Arts/Art Connoisseur Club.md
       - Visual & Performing Arts/.keep
       - ICT & Scholastic/.keep
       - Sports/.keep
