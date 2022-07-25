@@ -17,10 +17,10 @@ sections:
           url: /announcements/
         - title: School Calender
           description: ""
-          url: /calender/
+          url: /school-calender/
         - title: Parents Gateway
           description: ""
-          url: /parents-gateway/
+          url: https://pg.moe.edu.sg/
         - title: SLS Login
           description: ""
           url: https://vle.learning.moe.edu.sg/login
