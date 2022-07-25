@@ -2,13 +2,13 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Curriculum/.keep
+      - Our Curriculum/Our Curriculum.md
       - Our Curriculum/HI Light Programme.md
       - Our Curriculum/Starlight (EL & MTL).md
       - Our Curriculum/WoW Projects.md
       - Our Curriculum/Centre Based Activities.md
       - Our Curriculum/Events & Celebrations.md
-      - Our Curriculum/Our Curriculum.md
-      - Our Curriculum/.keep
       - Our Programmes.md
       - Our People.md
       - Vision,Mission & Values.md
