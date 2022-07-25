@@ -73,3 +73,32 @@ Students are expected to:
 													
 <img src="/images/attire%20requirement.jpg" 
      style="width:80%">
+		 
+**School Uniform**
+
+*   School uniform to be neat and tidy, and worn tucked out during non-PE days. 
+*   All students are to iron on and stitch the name tags on their school shirt/blouse.
+*   The nametag should be positioned on the left hand side of the wearer and 1 cm above the boy’s chest pocket. Girls should wear their nametags on the left hand side and slightly above the school crest. Please refer to the illustrations below.
+
+![](/images/uniform%20nametag.jpg)
+<img src="/images/uniform%20nametag.jpg" 
+     style="width:80%">
+		 
+<img src="/images/pe%20attire.jpg" 
+     style="width:80%">
+		 
+**PE Attire**
+
+*   PE T-shirts will be worn during designated PE days, together with the school PE shorts or culottes.
+*   PE T-shirts are to be tucked in.
+*   PE T-shirts are according to House colours.
+*   The nametag should be positioned slightly above the school badge on the left side of the PE T-shirt. Please refer to the illustration below.
+
+<img src="/images/pe%20attire%20nametag.jpg" 
+     style="width:50%">
+		 
+**School Shoes and Socks**
+
+*   Students are to wear black sports shoes and white socks.
+*   Socks are to be slightly above the ankles.
+*   School socks can be purchased from our uniform supplier.		 
