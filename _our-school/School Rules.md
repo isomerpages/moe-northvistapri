@@ -69,4 +69,7 @@ Students are expected to:
 
                            v.  Nails must be kept short, and clean without nail polish.
 
-                          vi.  Accessories like hair clips and hair bands must be in dark blue or black.				
+                          vi.  Accessories like hair clips and hair bands must be in dark blue or black.
+													
+<img src="/images/attire%20requirement.jpg" 
+     style="width:80%">
