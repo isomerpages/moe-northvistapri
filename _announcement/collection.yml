@@ -2,6 +2,7 @@ collections:
   announcement:
     output: true
     order:
+      - North Vista Primary Alumni.md
       - Graduating Class of 2021.md
       - MOE Kindergarten (MK) Virtual Open House.md
       - P1 2022 Orientation Briefing.md
