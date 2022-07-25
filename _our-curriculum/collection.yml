@@ -2,19 +2,20 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Our Curriculum.md
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
+      - PE , Aesthetics & Music (PAM)/.keep
       - PE , Aesthetics & Music (PAM)/Physical Education, Aesthetics & Music
         (PAM).md
       - PE , Aesthetics & Music (PAM)/Learning for Life Programme (LLP).md
       - PE , Aesthetics & Music (PAM)/Programme for Active Learning (PAL).md
-      - PE , Aesthetics & Music (PAM)/.keep
+      - Infocom Technology (ICT)/.keep
       - Infocom Technology (ICT)/Infocommunication Technology (ICT).md
       - Infocom Technology (ICT)/Applied Learning Programme (ALP).md
       - Infocom Technology (ICT)/Cyberwellness (CW).md
-      - Infocom Technology (ICT)/.keep
       - Char and Citizenship Edu (CCE)/.keep
       - Char and Citizenship Edu (CCE)/Character and Citizenship Education
         (CCE).md
@@ -25,4 +26,3 @@ collections:
       - Char and Citizenship Edu (CCE)/Sexuality Education.md
       - Char and Citizenship Edu (CCE)/Environmental Education (EE).md
       - Char and Citizenship Edu (CCE)/Student Leadership.md
-      - Our Curriculum.md
