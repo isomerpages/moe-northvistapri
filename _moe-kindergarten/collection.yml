@@ -2,5 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Programmes.md
       - Our People.md
       - Vision,Mission & Values.md
