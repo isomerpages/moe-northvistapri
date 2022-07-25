@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Char and Citizenship Edu (CCE)/Environmental Education (EE).md
       - Char and Citizenship Edu (CCE)/Student Leadership.md
       - Char and Citizenship Edu (CCE)/Character and Citizenship Education
         (CCE).md
