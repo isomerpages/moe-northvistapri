@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - ICT & Scholastic/.keep
       - Sports/.keep
       - Talents/.keep
       - Adventure/.keep
