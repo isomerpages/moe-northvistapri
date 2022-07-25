@@ -36,3 +36,20 @@ links:
         url: /our-team/executive-and-administrative-staff/
       - title: Useful Links for Staff
         url: /our-team/useful-links-for-staff/
+  - title: Our Curriculum
+    url: /our-curriculum/english/
+    sublinks:
+      - title: English
+        url: /our-curriculum/english/
+      - title: Mathematics
+        url: /our-curriculum/mathematics/
+      - title: Science
+        url: /our-curriculum/science/
+      - title: Mother Tongue
+        url: /our-curriculum/mother-tongue/
+      - title: P.E , Aesthetics & Music (PAM)
+        url: /our-curriculum/PAM/
+      - title: Infocom Technology (ICT)
+        url: /our-curriculum/ict/
+      - title: Char & Citizenship Edu (CCE)
+        url: /our-curriculum/cce/
