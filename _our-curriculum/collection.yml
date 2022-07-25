@@ -2,6 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Char and Citizenship Edu (CCE)/National Education and Social Studies
+        (NESS).md
       - Char and Citizenship Edu (CCE)/Form Teacher Guidance Period (FTGP) &
         Education Career Guidance (ECG).md
       - Char and Citizenship Edu (CCE)/Sexuality Education.md
