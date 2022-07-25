@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Principal's Message.md
       - School Vision,Mission,Values and Student Outcomes.md
       - School Crest.md
       - School Song.md
@@ -14,4 +15,3 @@ collections:
       - Our Accolades/2021.md
       - Our Accolades/2020.md
       - Our Accolades/2019.md
-      - Principal's Message.md
