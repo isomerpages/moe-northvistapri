@@ -77,5 +77,5 @@ description: ""
 |  |  |
 |---|---|
 | Address: <br>Email Address: <br> Website:<br> Facebook: | 20 Compassvale Link Singapore (544974) <br>  nvtps@moe.edu.sg <br> https://www.northvistapri.moe.edu.sg https://www.facebook.com/NorthVistaPrimary |
-| General Office Telephone:  Facsimile: | 6484 3566   6484 3568 |
+| General Office Telephone: <br> Facsimile: | 6484 3566  <br> 6484 3568 |
 |  |  |
