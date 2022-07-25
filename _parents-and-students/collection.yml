@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Useful Links for Parents.md
       - North Vista Primary Alumni/.keep
       - North Vista Primary Alumni/North Vista Primary Alumni.md
       - North Vista Primary Alumni/Our Pride.md
