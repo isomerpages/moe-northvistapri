@@ -2,11 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Useful Links for Parents.md
-      - North Vista Primary Alumni/.keep
-      - North Vista Primary Alumni/North Vista Primary Alumni.md
-      - North Vista Primary Alumni/Our Pride.md
-      - Parent Support Group.md
       - Information for Parents/.keep
       - Information for Parents/2022 Semester 2 P3 Assessment Topics,Format &
         Schedule.md
@@ -21,3 +16,8 @@ collections:
       - Information for Parents/NVTPS e Newsletter.md
       - Information for Parents/Home Based Learning (HBL).md
       - Information for Parents/2020 Curriculum Briefing P2 to P4.md
+      - Parent Support Group.md
+      - North Vista Primary Alumni/.keep
+      - North Vista Primary Alumni/North Vista Primary Alumni.md
+      - North Vista Primary Alumni/Our Pride.md
+      - Useful Links for Parents.md
