@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Information for Parents/NVTPS e Newsletter.md
       - Information for Parents/MOE Kindergarten.md
       - Information for Parents/2022 P1 Orientation Briefing.md
       - Information for Parents/2022 Semester 2 P6 Assessment Topics,Format &
