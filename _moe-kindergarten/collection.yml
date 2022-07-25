@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Curriculum/Starlight (EL & MTL).md
       - Our Curriculum/WoW Projects.md
       - Our Curriculum/Centre Based Activities.md
       - Our Curriculum/Events & Celebrations.md
