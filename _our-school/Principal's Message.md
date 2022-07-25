@@ -15,7 +15,9 @@ Mr. Phua Kia Wang, the founding Principal has set the initial directions for the
 
 With the setup of the MOE Kindergarten, we hope to provide a seamless K-6 education experience for our students in North Vista. Together with the continued strong support of the school community, we can realize our vision of building a Community of Learners who are:
 
-**| Self-directed Learners _|_ Gracious and Confident Learners |** 
-**| Tech-savvy Creators | Balanced Individuals |**
+* **Self-directed Learners**
+* **Gracious and Confident Learners**
+* **Tech-savvy Creators**
+* **Balanced Individuals**
 
 ##### Mr Ong Lye Whatt <br>Principal
