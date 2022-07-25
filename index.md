@@ -42,4 +42,9 @@ sections:
       description: Is your child turning 5 years old in 2023?
       button: Click here To find out more
       url: https://staging.d177jz78e0t9fa.amplifyapp.com/mk-virtual-open-house/
+  - infobar:
+      title: P1 2022 Orientation Briefing
+      description: You can refer to the P1 2022 Orientation slides
+      button: click here
+      url: https://staging.d177jz78e0t9fa.amplifyapp.com/parents-and-students/Information-for-Parents/p1-orientation-briefing/
 ---
