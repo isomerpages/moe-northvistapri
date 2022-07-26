@@ -39,12 +39,12 @@ description: ""
 
 | Class | Form Teachers  |  |
 |:---:|:---:|:---:|
-| P 3-1  | Mrs Letitia Lim  letitia_tan_xiu_xian@moe.edu.sg  | Mdm Cui Wenjuan  cui_wenjuan@moe.edu.sg |
-| P 3-2 | Mrs Chiu Wan Ting  yong_wan_ting@moe.edu.sg | Mr Rohman  rohman_nor_b_suib@moe.edu.sg |
-| P 3-3 | Ms Adeline Sim  sim_yuin_ling_adeline@moe.edu.sg   | Miss Loke Mei Yen   loke_mei_yen@moe.edu.sg    |
-| P 3-4 | Mr Arden Lim  lim_kang_xiang_arden@moe.edu.sg | Mr John Wu  wu_chuheng@moe.edu.sg |
-| P 3-5 | Mdm Yeong Yimei  yeong_yi_mei@moe.edu.sg | Mr Teo Ting Rui teo_ting_rui@moe.edu.sg |
-| P 3-6 | Mr Joel Wong  wong_seow_wei@moe.edu.sg   | Mdm Nur Ashiqin   nur_ashiqin_mohamed_sall@moe.edu.sg |
+| P 3-1  | Mrs Letitia Lim <br> [letitia_tan_xiu_xian@moe.edu.sg](letitia_tan_xiu_xian@moe.edu.sg)  | Mdm Cui Wenjuan <br> [cui_wenjuan@moe.edu.sg](cui_wenjuan@moe.edu.sg) |
+| P 3-2 | Mrs Chiu Wan Ting <br> [yong_wan_ting@moe.edu.sg](yong_wan_ting@moe.edu.sg) | Mr Rohman <br> [rohman_nor_b_suib@moe.edu.sg](rohman_nor_b_suib@moe.edu.sg) |
+| P 3-3 | Ms Adeline Sim <br> [sim_yuin_ling_adeline@moe.edu.sg](sim_yuin_ling_adeline@moe.edu.sg)   | Miss Loke Mei Yen <br>  [loke_mei_yen@moe.edu.sg](loke_mei_yen@moe.edu.sg)    |
+| P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](lim_kang_xiang_arden@moe.edu.sg) | Mr John Wu <br> [wu_chuheng@moe.edu.sg](wu_chuheng@moe.edu.sg) |
+| P 3-5 | Mdm Yeong Yimei <br> [yeong_yi_mei@moe.edu.sg](yeong_yi_mei@moe.edu.sg) | Mr Teo Ting Rui <br> [teo_ting_rui@moe.edu.sg](teo_ting_rui@moe.edu.sg) |
+| P 3-6 | Mr Joel Wong <br> [wong_seow_wei@moe.edu.sg](wong_seow_wei@moe.edu.sg)   | Mdm Nur Ashiqin <br>  [nur_ashiqin_mohamed_sall@moe.edu.sg](nur_ashiqin_mohamed_sall@moe.edu.sg) |
 |
 
 #### Primary Four
