@@ -37,3 +37,15 @@ description: ""
 | **Reading Program / 阅读活动** <br> <br> 读万卷书，行万里路。书籍是我们观察世界的窗口。从小养成阅读的好习惯，将受益终生。 | **Program Membaca** <br> <br> Program Membaca bertujuan untuk memupuk minat kepada para pelajar membaca buku Bahasa Melayu serta meningkatkan penguasaan pembacaan para pelajar. |
 | **Festival Celebrations / 庆祝传统节日** <br> <br> 传统节日承载了丰富的文化意义，通过庆祝华人新年和中秋节，学生可以感受节日气氛，更能了解华族文化。 | **Festival Celebrations / Sambutan Perayaan**<br> <br>memupuk kesedaran terhadap budaya berbilang bangda melalui sambutan perayaan |
 |
+
+![](/images/mother%20tongue%201.jpg)
+
+![](/images/mother%20tongue%202.jpg)
+
+![](/images/mother%20tongue%203.jpg)
+
+![](/images/mother%20tongue%204.jpg)
+
+![](/images/mother%20tongue%205.jpg)
+
+![](/images/mother%20tongue%206.jpg)
