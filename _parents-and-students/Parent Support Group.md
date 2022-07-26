@@ -68,16 +68,10 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-qrmi">Facebook</td>
-    <td class="tg-qrmi">PSG Registration</td>
-  </tr>
-</thead>
-</table>
 
-<p><a href="https://www.facebook.com/PSGVista-373732262658906">
-<img style="width:55%" src="/images/FaceBookFreeQR.png" align = left>
-</a></p>
+<img src="/images/FaceBookFreeQR.png" style="width:45%;" align = "left">
+		
+![](images/psgqrcodeupdated.png)
+<img src="/images/psgqrcodeupdated.pngg" style="width:45%;" align = "left">
 
-<p><a href="https://www.facebook.com/PSGVista-373732262658906">
-<img style="width:45%" src="/images/psgqrcodeupdated.png" align = right>
-</a></p>
+		
