@@ -35,3 +35,49 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 
 <img src="/images/2022%20PSG%20Exco.jpeg" 
      style="width:65%" >
+		 
+**PSG EXCO Members 2022**
+**Top Row (From the left)**: Mdm Joyce Teo (Chairperson), Mdm Alicia Lim (Vice-Chairperson), Mdm Akanksha (IT Officer) <br>
+**Middle Row (From the left):** Mdm Janelle Liew (Secretary), Mdm Ivy Zhao (Publicity Officer), Mdm Doris Ngai (Bistro IC),<br>
+**Bottom Row (From the left):** Mdm Ng Siao Hui (Event Coordinator), Mr Sam Wong (Dad For Life IC), Mdm Ang Yuat Poh
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-c3ow"><span style="font-weight:bold;color:#00009B">Join us in this meaningful endeavour today!</span></td>
+  </tr>
+</thead>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qrmi{background-color:#FFF;border-color:inherit;color:#1C4587;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-qrmi">Facebook</td>
+    <td class="tg-qrmi">PSG Registration</td>
+  </tr>
+</thead>
+</table>
+
+<p><a href="https://www.facebook.com/PSGVista-373732262658906">
+<img style="width:55%" src="/images/FaceBookFreeQR.png"align = left>
+</a></p>
+
+<p><a href="https://www.facebook.com/PSGVista-373732262658906">
+<img style="width:45%" src="/images/psgqrcodeupdated.png"align = right>
+</a></p>
