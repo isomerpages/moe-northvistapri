@@ -96,14 +96,14 @@ description: ""
 
 | SN | Teacher  | SN  | Teacher |
 |:---:|:---:|:---:|:---:|
-| 1 | Mrs Lim Chia Lin   lee_chia_lin_a@moe.edu.sg  | 2 | Mrs Lim Choon Num  lim_choon_num@moe.edu.sg  |
-|  3 | Mdm Jaclyn Lee   lee_kah_poh_jaclyn@moe.edu.sg   |  4 | Mrs Gilbert  gilbert_veronica@moe.edu.sg  |
-| 5 | Ms Eileen Chee  eileen_chee@moe.edu.sg  | 6 | Miss Pang Lin Hua  pang_lin_hua@moe.edu.sg  |
-| 7 | Mdm Ang Lay Hoon  ang_lay_hoon@moe.edu.sg   |  8 |  Mdm Margaret Teo Hung Kimg  teo_hung_kimg_margaret@moe.edu.sg  |
-| 9  | Miss Lee Siok Cheng  lee_siok_cheng@moe.edu.sg  |  10 | Mr Stanley Soh Hong Hwee  soh_hong_hwee_stanley@moe.edu.sg   |
-| 11  | Mr Gerald Lee Zhao Hong  lee_zhaohong_gerald@moe.edu.sg  | 12 | Mrs Irene Tan   tan_irene@moe.edu.sg |
-| 13 | Mrs Jennifer Poh  tiew_tsui_lu_jennifer@moe.edu.sg  | 14  | Mdm Diyanah  nur_diyanah_amalina_abdul@moe.edu.sg  |
-|  15 | Mrs Eleanor Tan  tan_yi_ling_eleanor@moe.edu.sg  |  16 | Mdm Norsafrina  norsafrina_sapari@moe.edu.sg |
-|  17 | Mdm Lim Jia Min  lim_jia_min@moe.edu.sg |  18 | Mrs Ashley Mak  tan_sock_kee@moe.edu.sg   |
-|  19  | Ms Lee Siew Lee   |  20 | Mrs Kelly Lim  mak_wenjing@moe.edu.sg   |
+| 1 | Mrs Lim Chia Lin <br>  [lee_chia_lin_a@moe.edu.sg](lee_chia_lin_a@moe.edu.sg)  | 2 | Mrs Lim Choon Num <br> [lim_choon_num@moe.edu.sg](lim_choon_num@moe.edu.sg)  |
+|  3 | Mdm Jaclyn Lee <br>  [lee_kah_poh_jaclyn@moe.edu.sg](lee_kah_poh_jaclyn@moe.edu.sg)   |  4 | Mrs Gilbert <br> [gilbert_veronica@moe.edu.sg](gilbert_veronica@moe.edu.sg)  |
+| 5 | Ms Eileen Chee <br> [eileen_chee@moe.edu.sg](eileen_chee@moe.edu.sg)  | 6 | Miss Pang Lin Hua <br> [pang_lin_hua@moe.edu.sg](pang_lin_hua@moe.edu.sg)  |
+| 7 | Mdm Ang Lay Hoon <br> [ang_lay_hoon@moe.edu.sg](ang_lay_hoon@moe.edu.sg)   |  8 |  Mdm Margaret Teo Hung Kimg <br> [teo_hung_kimg_margaret@moe.edu.sg](teo_hung_kimg_margaret@moe.edu.sg)  |
+| 9  | Miss Lee Siok Cheng <br> [lee_siok_cheng@moe.edu.sg](lee_siok_cheng@moe.edu.sg)  |  10 | Mr Stanley Soh Hong Hwee <br> [soh_hong_hwee_stanley@moe.edu.sg](soh_hong_hwee_stanley@moe.edu.sg)   |
+| 11  | Mr Gerald Lee Zhao Hong <br> [lee_zhaohong_gerald@moe.edu.sg](lee_zhaohong_gerald@moe.edu.sg)  | 12 | Mrs Irene Tan <br>  [tan_irene@moe.edu.sg](tan_irene@moe.edu.sg) |
+| 13 | Mrs Jennifer Poh <br> [tiew_tsui_lu_jennifer@moe.edu.sg](tiew_tsui_lu_jennifer@moe.edu.sg)  | 14  | Mdm Diyanah <br> [nur_diyanah_amalina_abdul@moe.edu.sg](nur_diyanah_amalina_abdul@moe.edu.sg)  |
+|  15 | Mrs Eleanor Tan <br> [tan_yi_ling_eleanor@moe.edu.sg](tan_yi_ling_eleanor@moe.edu.sg)  |  16 | Mdm Norsafrina <br> [norsafrina_sapari@moe.edu.sg](norsafrina_sapari@moe.edu.sg) |
+|  17 | Mdm Lim Jia Min <br> [lim_jia_min@moe.edu.sg](lim_jia_min@moe.edu.sg) |  18 | Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](tan_sock_kee@moe.edu.sg)   |
+|  19  | Ms Lee Siew Lee   |  20 | Mrs Kelly Lim <br> [mak_wenjing@moe.edu.sg](mak_wenjing@moe.edu.sg)   |
 |
