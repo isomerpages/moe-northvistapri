@@ -27,11 +27,11 @@ third_nav_title: Char and Citizenship Edu (CCE)
 
 (iv)      Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) **website unavailable** for more information on MOE Sexuality Education.
 
 #### Overview of North Vista Primary School's Sexuality Education Programme for 2022
 
-1.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum.
+1.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) **website unavailable** for more information on the scope of Sexuality Education in the school curriculum.
 2. The subjects that incorporate topics on sexuality include:
 
 a.  Science <br>
@@ -58,7 +58,7 @@ c.  Character and Citizenship Education (CCE) <br>
 
 1.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-2.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd_Opt_Out_Form.pdf) . *website unavailable* The completed opt-out form is to be submitted by 11/02/2022.
+2.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd_Opt_Out_Form.pdf) . The completed opt-out form is to be submitted by 11/02/2022.
 
 3.  Parents can contact the school at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) or 6484 3566  for discussion or to seek clarification about the school's sexuality education programme.
 
