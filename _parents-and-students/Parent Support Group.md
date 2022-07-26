@@ -77,4 +77,4 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 		
 <img src="/images/psgqrcodeupdated.png" style="width:40%;" align = "left">
 		
- [NVTPSPSG](https://tinyurl.com/NVTPSPSG)		
+ [NVTPSPSG](https://tinyurl.com/NVTPSPSG)
