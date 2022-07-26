@@ -75,9 +75,9 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 </table>
 
 <p><a href="https://www.facebook.com/PSGVista-373732262658906">
-<img style="width:55%" src="/images/FaceBookFreeQR.png"align = left>
+<img style="width:55%" src="/images/FaceBookFreeQR.png" align = left>
 </a></p>
 
 <p><a href="https://www.facebook.com/PSGVista-373732262658906">
-<img style="width:45%" src="/images/psgqrcodeupdated.png"align = right>
+<img style="width:45%" src="/images/psgqrcodeupdated.png" align = right>
 </a></p>
