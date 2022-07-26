@@ -82,14 +82,11 @@ _North Vista Primary holds my dearest and fond memories of my childhood. It was 
 
 _My leadership journey started off in P3, where I was offered the opportunity to be a part of the Vista Student Leader (VSL) community. This was where I realized my passion and drive for being an exemplary leader. As the years went by, I held various leadership positions, such as being a Peer Leader in P4, a Councillor in P5, and a Vice-Head Prefect in P6. I’ve been through a fruitful experience as a leader in North Vista, and that was where my leadership growth just began. _
 
-_As I continuously grew and strived towards excellence as a leader, my journey did not stop there. During my P5 year, I had to opportunity to be part of a Cultural Immersion Trip to Shanghai, China, where we visited the Shanghai Singapore International School and a local school, where I had a fulfilling experience. As we embarked on this trip, I learnt many new skills, especially through my participation in the programmes they provided us with.  
-_
+_As I continuously grew and strived towards excellence as a leader, my journey did not stop there. During my P5 year, I had to opportunity to be part of a Cultural Immersion Trip to Shanghai, China, where we visited the Shanghai Singapore International School and a local school, where I had a fulfilling experience. As we embarked on this trip, I learnt many new skills, especially through my participation in the programmes they provided us with.  _
 
-_Not only does North Vista Primary provide overseas learning opportunities and an insightful leadership journey, I was also provided with numerous workshops and competitions for me to participate in, aiding me in my growth in the diverse areas. There were Mathematics competitions, Speech and Drama workshops, leadership workshops and many more!  
-_
+_Not only does North Vista Primary provide overseas learning opportunities and an insightful leadership journey, I was also provided with numerous workshops and competitions for me to participate in, aiding me in my growth in the diverse areas. There were Mathematics competitions, Speech and Drama workshops, leadership workshops and many more!  _
 
-_North Vista Primary provided me with a space for continual value-adding growth, not just guiding us towards being a Vistalite – to uphold the school values, but also as an exemplary leader. The positive and open learning environment, teachers who constantly guided us, and the people I got to know at North Vista Primary allowed me to learn to the best of my ability. I strongly encourage prospective students to join the Vistalite family for an invaluable 6-year experience! When you fall, don’t remain on the ground. Pick yourself up, understand your mistakes, solve the problems and overcome these difficulties and continue embarking on your journey!  
-_
+_North Vista Primary provided me with a space for continual value-adding growth, not just guiding us towards being a Vistalite – to uphold the school values, but also as an exemplary leader. The positive and open learning environment, teachers who constantly guided us, and the people I got to know at North Vista Primary allowed me to learn to the best of my ability. I strongly encourage prospective students to join the Vistalite family for an invaluable 6-year experience! When you fall, don’t remain on the ground. Pick yourself up, understand your mistakes, solve the problems and overcome these difficulties and continue embarking on your journey!  _
 
 **Yeo Hurley** <br>
 **Class of 2019** <br>
@@ -99,13 +96,11 @@ _
 
 _North Vista Primary has been a place that teaches me my moral values and firmly planted my character together with 6 core values Respect, Responsibility, Respect, Responsibility, Resilience, Integrity, Care, and Harmony (R3ICH). North Vista Primary has also provided me with many life learning experiences. All this have built me to who I am today. They also have supporting teachers and peers, who have always been by my side whenever I need help, and a listening ear to support me when I am going through problems. I am very grateful to have someone to support me through my 6 years in North Vista Primary._
 
-_I had my first experience as a leader in Primary 2. I was selected to be a prefect, for the next two years we were tested to see whether we were capable to be a prefect. From Primary 4 onwards, I officially became a prefect. This really impacted me as I am able to lead my peers which then other pupils would then eventually become potential leaders like me.  
-_
+_I had my first experience as a leader in Primary 2. I was selected to be a prefect, for the next two years we were tested to see whether we were capable to be a prefect. From Primary 4 onwards, I officially became a prefect. This really impacted me as I am able to lead my peers which then other pupils would then eventually become potential leaders like me.  _
 
 _Not only was I able to show my leadership skills by being a prefect. For CCA, I joined softball which was a team sport. Therefore each of us was able to show our leading skills. We had to go through many hard times during competition but with perseverance we got together our team spirit we overcame all difficulties and come out as champions._
 
-_Finally, I would like to thank everyone in north vista who supported me through my 6 years. For everything North Vista Primary has done for me, I have decided to give back to the school by joining NVTPS Alumni. Like what the seven time world champion, Michael Schumacher says “Once there is a passion, the motivation is there.”  
-_
+_Finally, I would like to thank everyone in north vista who supported me through my 6 years. For everything North Vista Primary has done for me, I have decided to give back to the school by joining NVTPS Alumni. Like what the seven time world champion, Michael Schumacher says “Once there is a passion, the motivation is there.”  _
 
 **Cayden Chew** <br>
 **Class of 2020**<br>
@@ -119,8 +114,7 @@ _In North Vista Primary, I was offered many CCA opportunities. As a member of th
 
 _In addition, I was honored to be a Class Chairperson and Student Leader. In P3, I was nominated to be a prefect. I officially became a prefect in P4 with the rank of Peer Leader. In P5, I was selected to be a Councilor and I became a vice-head prefect in P6. During my time as a student leader, I had experienced many leadership workshops to improve my leadership skills and many different types of morning and afternoon duties such as flag raising duties, announcer duties and recess duties. These made me more confident to speak in front of the whole school as well as become more disciplined. Furthermore, in P6, when I ran for Head Prefect, I learnt to be a more confident leader through the speeches, campaigns and interviews. I had a great deal of fun while running for the position too. Even though I did not manage to become Head Prefect, I was still glad that I was given the chance to experience the campaign._
 
-_To sum it all up, North Vista Primary nurtured me into who I am today. It provided me with a conducive environment for my learning and there was always someone that would look out for me. I would still remember my friend asking if I was alright and comforting me when she saw that I was feeling down. Truly, North Vista Primary would always be a part of me and I would treasure the memories of my time in North Vista Primary.  
-_
+_To sum it all up, North Vista Primary nurtured me into who I am today. It provided me with a conducive environment for my learning and there was always someone that would look out for me. I would still remember my friend asking if I was alright and comforting me when she saw that I was feeling down. Truly, North Vista Primary would always be a part of me and I would treasure the memories of my time in North Vista Primary. _
 
 **Amelia Chong**  <br>
 **Class of 2020**<br>
@@ -134,8 +128,7 @@ _Moreover, my CCA, choir, provided a multitude of opportunities for us to perfor
 
 _Finally, the teachers at NVTPS were proficient in preparing us for the PSLE. During our final year, they put in their best effort to help us excel in the examinations, while ensuring our mental wellbeing at the same time. This was evident in how they purposefully organized the remedial sessions for students who wanted to improve themselves, or how they shared their past students’ experiences in hopes of us doing better. Some teachers seemed strict in our eyes at that time, but we eventually realized that what they did was in fact immensely helpful during that crucial year._
 
-_Overall, my experience at NVTPS was a memorable and valuable one. Aside from the points stated above, the school also shone through other aspects as well, through the provision of learning journeys and enrichment programmes. The friendships and memories forged there have shaped me into who I am today, and will continue to play a role in my life.  
-_
+_Overall, my experience at NVTPS was a memorable and valuable one. Aside from the points stated above, the school also shone through other aspects as well, through the provision of learning journeys and enrichment programmes. The friendships and memories forged there have shaped me into who I am today, and will continue to play a role in my life. _
 
 _To future Vistalites: Enjoy and treasure the experiences at NVTPS, for they will truly prove to be of great worth to you in the future._
 
@@ -151,8 +144,7 @@ _I was selected to be a Prefect. I officially became one in Primary Four, becomi
 
 _Not only this, but North Vista Primary also provides more than leadership opportunities. We embarked on a fruitful voyage as we went on learning journeys, took part in many kinds of competitions, initiated many Values-In-Actions projects, and joined CCAs. We met many people from across the school and bonded with them during sessions._
 
-_I want to thank everyone who has helped me in my six years in North Vista Primary and the teachers who gave me their time, support, and love. For what everyone in North Vista Primary has done to make me who I am today, I took on the role, Chairperson of NVTPS Alumni to express my gratitude and contribute back to the school that holds most of my childhood memories. So join me, fellow alumni, in thanking the ones who have sacrificed their time and spent so much effort in guiding us to where we are today!  
-_
+_I want to thank everyone who has helped me in my six years in North Vista Primary and the teachers who gave me their time, support, and love. For what everyone in North Vista Primary has done to make me who I am today, I took on the role, Chairperson of NVTPS Alumni to express my gratitude and contribute back to the school that holds most of my childhood memories. So join me, fellow alumni, in thanking the ones who have sacrificed their time and spent so much effort in guiding us to where we are today! _
 
 **Koh Sin Yen** <br>
 **Class of 2020 (Valedictorian)**<br>
@@ -166,4 +158,4 @@ _North Vista taught me the value of resilience from events such as the Primary 5
 
 **Rushvida Reddy**  <br>
 **Class of 2021 (Valedictorian)** <br>
-**Crescent Girls’ School** 
+**Crescent Girls’ School**
