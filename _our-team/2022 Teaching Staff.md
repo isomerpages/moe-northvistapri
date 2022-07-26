@@ -76,12 +76,12 @@ description: ""
 
 | Class | Form Teachers  |  |
 |:---:|:---:|:---:|
-| P 6-1 | Mdm Nor Sarah   nor_sarah_banu_gulam@moe.edu.sg  | Ms Krishnan  rani_ratha_krishnan@moe.edu.sg  Mr Cavin Lee  lee_chun_wan_cavin@moe.edu.sg  |
-|  P 6-2  | Mr Tan Kheng Eng   tan_kheng_eng@moe.edu.sg   | Mr Faizan   mohamed_faizan_juli@moe.edu.sg  |
-| P 6-3 | Mdm Peh Shay Ling   peh_shay_ling@moe.edu.sg  | Miss Chiang Yan Sing chiang_yan_sing@moe.edu.sg  |
-| P 6-4 | Mrs Eng I-Ling  wong_i-ling@moe.edu.sg  | Mrs Lim Seok Hong  sim_seok_hong@moe.edu.sg |
-|  P 6-5 | Miss Nisa nur_khairunnisa_jawahir@moe.edu.sg   | Mdm Zhang Lei   zhang_lei@moe.edu.sg  |
-| P 6-6 |   Ms Evelyn Leo  leo_chia_min_evelyn@moe.edu.sg  | Mrs Jusuf-Leow Hui Mei   leow_hui_mei@moe.edu.sg |
+| P 6-1 | Mdm Nor Sarah <br>  [nor_sarah_banu_gulam@moe.edu.sg](nor_sarah_banu_gulam@moe.edu.sg)  | Ms Krishnan <br> [rani_ratha_krishnan@moe.edu.sg](rani_ratha_krishnan@moe.edu.sg) <br> Mr Cavin Lee <br> [lee_chun_wan_cavin@moe.edu.sg](lee_chun_wan_cavin@moe.edu.sg)  |
+|  P 6-2  | Mr Tan Kheng Eng <br>  [tan_kheng_eng@moe.edu.sg](tan_kheng_eng@moe.edu.sg)   | Mr Faizan <br> [mohamed_faizan_juli@moe.edu.sg](mohamed_faizan_juli@moe.edu.sg)  |
+| P 6-3 | Mdm Peh Shay Ling <br>  [peh_shay_ling@moe.edu.sg](peh_shay_ling@moe.edu.sg)  | Miss Chiang Yan Sing <br>[chiang_yan_sing@moe.edu.sg](chiang_yan_sing@moe.edu.sg)  |
+| P 6-4 | Mrs Eng I-Ling <br> [wong_i-ling@moe.edu.sg](wong_i-ling@moe.edu.sg)  | Mrs Lim Seok Hong <br> [sim_seok_hong@moe.edu.sg](sim_seok_hong@moe.edu.sg) |
+|  P 6-5 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](nur_khairunnisa_jawahir@moe.edu.sg)   | Mdm Zhang Lei <br>  [zhang_lei@moe.edu.sg](zhang_lei@moe.edu.sg)  |
+| P 6-6 |   Ms Evelyn Leo <br> [leo_chia_min_evelyn@moe.edu.sg](leo_chia_min_evelyn@moe.edu.sg)  | Mrs Jusuf-Leow Hui Mei <br>  [leow_hui_mei@moe.edu.sg](leow_hui_mei@moe.edu.sg) |
 |
 
 #### Special Educational Needs Officers (SEN)
