@@ -22,3 +22,12 @@ description: ""
 
 #### Teaching & Learning
 
+|  |  |
+|---|---|
+| Academy of Singapore Teachers (AST) | [https://www.academyofsingaporeteachers.moe.gov.sg/](https://www.academyofsingaporeteachers.moe.gov.sg/) |
+| One Portal All Learners (OPAL 2) | [https://opal2.moe.edu.sg](https://opal2.moe.edu.sg) |
+| Skills Future for Educators(SFEd) | [https://go.gov.sg/SFEd](https://go.gov.sg/SFEd) |
+| Student Learning Space  | [https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg)  |
+| My Skills Future Student Portal | [https://www.myskillsfuture.gov.sg/content/student/en/primary.html](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) |
+| Resource Booking System  | [https://rbs.avero-tech.com/](https://rbs.avero-tech.com/)  |
+|  |  |
