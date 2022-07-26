@@ -42,7 +42,8 @@ Students do observational drawings and explore still-life drawing using pencils,
      style="width:49%" align = right>
 
 <br> <br> <br> <br> 
-<br> <br> <br>
+<br> <br> <br> <br>
+<br> <br> <br> <br> 
 
 <img src="/images/LLP%203.jpg" 
      style="width:49%" align = left>
