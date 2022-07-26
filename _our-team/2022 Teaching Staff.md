@@ -24,15 +24,15 @@ description: ""
 
 | Class | Form Teachers  |  |
 |:---:|:---:|:---:|
-| P 2-1 | Ms Ian Farah   [ian_farah_mohamed@moe.edu.sg](ian_farah_mohamed@moe.edu.sg)  | Mr Wu Hekun  [wu_hekun@moe.edu.sg](wu_hekun@moe.edu.sg)  |
-| P 2-2 | Ms Naomi Ashley  [naomi_ashley@moe.edu.sg](naomi_ashley@moe.edu.sg)  | Mr Jason Goh [ goh_choon_heng_jason@moe.edu.sg]( goh_choon_heng_jason@moe.edu.sg)    |
-| P 2-3 |   Ms Amy Ong   [amy_ong_poh_ling@moe.edu.sg](amy_ong_poh_ling@moe.edu.sg)  | Mr Zaki  [mohd_zaki_hashim@moe.edu.sg](mohd_zaki_hashim@moe.edu.sg)  |
-| P 2-4 | Miss Jaya  [sugashini_jayabalan@moe.edu.sg](sugashini_jayabalan@moe.edu.sg)   | Mrs Simon Foo   [tan_wui_leng_wendy@moe.edu.sg](tan_wui_leng_wendy@moe.edu.sg)  |
-| P 2-5 | Miss Cheryl [Tai tai_xin_yi_cheryl@moe.edu.sg](Tai tai_xin_yi_cheryl@moe.edu.sg) | Ms Liu Lingzhu   [liu_lingzhu@moe.edu.sg](liu_lingzhu@moe.edu.sg)  |
-| P 2-6  |  Ms Yeo Simin   [yeo_si_min@moe.edu.sg](yeo_si_min@moe.edu.sg) | Miss Lai Liyu   [lai_liyu@moe.edu.sg](lai_liyu@moe.edu.sg)  |
-| P 2-7 | Mdm Rozita  [rozita_selamat@moe.edu.sg](rozita_selamat@moe.edu.sg)   | Ms Wu Lihua   [wu_lihua@moe.edu.sg](wu_lihua@moe.edu.sg)  |
-| P 2-8 | Mrs Tan Yan Bing  [tan_yan_bing@moe.edu.sg](tan_yan_bing@moe.edu.sg)   | Mrs Anne Wong   [ying_leng@moe.edu.sg](ying_leng@moe.edu.sg)  |
-| P2-9  | Mdm Siti Raudah  [siti_raudah_fawzi_laza@moe.edu.sg](siti_raudah_fawzi_laza@moe.edu.sg) |   Ms Jakin Ng   [ng_yan_lin_jakin@moe.edu.sg](ng_yan_lin_jakin@moe.edu.sg) |
+| P 2-1 | Ms Ian Farah <br> [ian_farah_mohamed@moe.edu.sg](ian_farah_mohamed@moe.edu.sg)  | Mr Wu Hekun <br> [wu_hekun@moe.edu.sg](wu_hekun@moe.edu.sg)  |
+| P 2-2 | Ms Naomi Ashley <br> [naomi_ashley@moe.edu.sg](naomi_ashley@moe.edu.sg)  | Mr Jason Goh <br> [ goh_choon_heng_jason@moe.edu.sg]( goh_choon_heng_jason@moe.edu.sg)    |
+| P 2-3 |   Ms Amy Ong <br>  [amy_ong_poh_ling@moe.edu.sg](amy_ong_poh_ling@moe.edu.sg)  | Mr Zaki<br> [mohd_zaki_hashim@moe.edu.sg](mohd_zaki_hashim@moe.edu.sg)  |
+| P 2-4 | Miss Jaya <br> [sugashini_jayabalan@moe.edu.sg](sugashini_jayabalan@moe.edu.sg)   | Mrs Simon Foo <br>  [tan_wui_leng_wendy@moe.edu.sg](tan_wui_leng_wendy@moe.edu.sg)  |
+| P 2-5 | Miss Cheryl<br> [Tai tai_xin_yi_cheryl@moe.edu.sg](Tai tai_xin_yi_cheryl@moe.edu.sg) | Ms Liu Lingzhu  <br> [liu_lingzhu@moe.edu.sg](liu_lingzhu@moe.edu.sg)  |
+| P 2-6  |  Ms Yeo Simin <br>  [yeo_si_min@moe.edu.sg](yeo_si_min@moe.edu.sg) | Miss Lai Liyu <br>  [lai_liyu@moe.edu.sg](lai_liyu@moe.edu.sg)  |
+| P 2-7 | Mdm Rozita<br>  [rozita_selamat@moe.edu.sg](rozita_selamat@moe.edu.sg)   | Ms Wu Lihua   [wu_lihua@moe.edu.sg](wu_lihua@moe.edu.sg)  |
+| P 2-8 | Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](tan_yan_bing@moe.edu.sg)   | Mrs Anne Wong  <br> [ying_leng@moe.edu.sg](ying_leng@moe.edu.sg)  |
+| P2-9  | Mdm Siti Raudah<br>  [siti_raudah_fawzi_laza@moe.edu.sg](siti_raudah_fawzi_laza@moe.edu.sg) |   Ms Jakin Ng   <br>[ng_yan_lin_jakin@moe.edu.sg](ng_yan_lin_jakin@moe.edu.sg) |
 |
 
 #### Primary Three
