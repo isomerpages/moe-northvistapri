@@ -28,7 +28,7 @@ You can submit the registration via [Nvtpsa](https://go.gov.sg/nvtpsa)
 
 _NVTPS has helped me grow in many areas by providing me with a variety of opportunities to pursue my passions and try out new things._
 
-__I am a proud alumnus of the school choir, Les Vista Choristes. My CCA taught me the foundations of music which in part influenced my decision to join the Higher Music Programme in NYGH. It has also given me ample opportunities to perform for public concerts as well as international competitions, which have given me invaluable experiences.__
+_I am a proud alumnus of the school choir, Les Vista Choristes. My CCA taught me the foundations of music which in part influenced my decision to join the Higher Music Programme in NYGH. It has also given me ample opportunities to perform for public concerts as well as international competitions, which have given me invaluable experiences._
 
 _When I was in Primary 3, I was selected to be a prefect. In Primary 4, I got a chance to do podium duty, which allowed me to train my public speaking skills and learn to remain calm under pressure. By Primary 6, I got to mentor others which further honed my leadership skills._
 
