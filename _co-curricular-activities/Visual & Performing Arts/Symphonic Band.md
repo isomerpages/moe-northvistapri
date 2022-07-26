@@ -35,6 +35,7 @@ Mondays, Tuesdays and Fridays. Schedule will be sent to parents via Parents Gate
 | Mdm Siti Raudah | [siti_raudah_fawzi_laza@moe.edu.sg](siti_raudah_fawzi_laza@moe.edu.sg) |
 | Mrs Anne Wong | [ying_leng@moe.edu.sg](ying_leng@moe.edu.sg) |
 | Mr Teo Ting Rui | [ting_rui_teo@moe.edu.sg](ting_rui_teo@moe.edu.sg) |
+|
 
 ![](/images/band%201.jpg)
 
