@@ -21,7 +21,11 @@ Mondays and Fridays. Schedule will be sent to parents via Parent's Gateway befor
 
 | Mrs Eng I-Ling (Overall-In-Charge) | wong_i-ling@moe.edu.sg |
 |---|---|
-| Miss Norazizah Ajis  | norazizah_ajis@moe.edu.sg |
-| Miss Devaki D/O Vindinnada  | devaki_vindinnada@moe.edu.sg  |
-| Mdm Rozita  | rozita_selamat@moe.edu.sg  |
+| Miss Norazizah Ajis  | [norazizah_ajis@moe.edu.sg](norazizah_ajis@moe.edu.sg) |
+| Miss Devaki D/O Vindinnada  | [devaki_vindinnada@moe.edu.sg](devaki_vindinnada@moe.edu.sg)  |
+| Mdm Rozita  | [rozita_selamat@moe.edu.sg](rozita_selamat@moe.edu.sg)  |
 |
+
+![](/images/international%20dance%201.jpg)
+
+![](/images/international%20dance%202.jpg)
