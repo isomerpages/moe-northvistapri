@@ -9,9 +9,9 @@ description: ""
 
 | Class | Form Teachers   |  |
 |:---:|:---:|:---:|
-| P 1-1 | Miss Subhadra  subhadra_ganesan@moe.edu.sg  | Miss Norazizah   norazizah_ajis@moe.edu.sg  |
-| P 1-2 | Miss Chong Yuan Ping  chong_yuan_ping@moe.edu.sg  | Mdm Analiza   analiza_suboh@moe.edu.sg  |
-| P 1-3 |   Mdm Nur Faezah  nur_faezah_mohammed_ali@moe.edu.sg  | Mdm Audrey Heng  heng_ming_hwee@moe.edu.sg   |
+| P 1-1 | Miss Subhadra  subhadra_ganesan@moe.edu.sg  | Miss Norazizah   [norazizah_ajis@moe.edu.sg](norazizah_ajis@moe.edu.sg)  |
+| P 1-2 | Miss Chong Yuan Ping  chong_yuan_ping@moe.edu.sg  | Mdm Analiza   [analiza_suboh@moe.edu.sg](analiza_suboh@moe.edu.sg)  |
+| P 1-3 |   Mdm Nur Faezah  [nur_faezah_mohammed_ali@moe.edu.sg](nur_faezah_mohammed_ali@moe.edu.sg)  | Mdm Audrey Heng  [heng_ming_hwee@moe.edu.sg](heng_ming_hwee@moe.edu.sg)   |
 | P 1-4 | Miss Atiroh  atiroh_salma_mohamed_yasin@moe.edu.sg  | Mr Alvin Lee   lee_dong_alvin@moe.edu.sg  |
 | P 1-5 |   Mrs Vivien Lim lim_kim_ee_vivien@moe.edu.sg  |   Miss Devaki  devaki_vindinnada@moe.edu.sg  |
 |  P 1-6  | Mdm Jelena Chia  chia_wanlin_jelena@moe.edu.sg  | Ms Sukainah  sukainah_mohamed_mohsen@moe.edu.sg  |
