@@ -29,3 +29,7 @@ Schedule will be sent to parents via Parent Gateway before the start of a new se
 | Mrs  Letitia Lim  | [letitia_tan_xiu_xian@moe.edu.sg](letitia_tan_xiu_xian@moe.edu.sg)  |
 | Miss Cheryl Tai  | [tai_xin_yi_cheryl@moe.edu.sg](tai_xin_yi_cheryl@moe.edu.sg) |
 |
+
+![](/images/GB%201.jpg)
+
+![](/images/GB%202.jpg)
