@@ -51,13 +51,13 @@ description: ""
 
 | Class | Form Teachers  |  |
 |:---:|:---:|:---:|
-| P 4-1 | Miss Josephine Ong  josephine_ong_yan_ting@moe.edu.sg  | Mdm Liu Jin  liu_jin@moe.edu.sg  |
-| P 4-2 | Miss Yanni  nurhariyanni_ramli@moe.edu.sg  | Ms Jasmine Gan  gan_hwee_ping@moe.edu.sg  |
-| P 4-3 |  Ms Ang Lee Im  ang_lee_im@moe.edu.sg  |  Mr Dennis Tan  tan_kim_leong_dennis@moe.edu.sg  |
-|  P 4-4 | Mr Michael Au au_kah_wai_michael@moe.edu.sg |    Mr Huang Shihao  huang_shihao@moe.edu.sg  |
-|  P 4-5  | Miss Yap Wei Tien  yap_wei_tien@moe.edu.sg  | Mr Francis Yam  yam_hai_sun_francis@moe.edu.sg  |
-| P 4-6 | Mrs Tan Huishan  wang_huishan@moe.edu.sg  | Mdm Nurshidah   nurshidah_mokhtar@moe.edu.sg  |
-|  P4-7 | Miss Shamin Lin   lin_yunzhen_shamin@moe.edu.sg |   Mr Suryadi  suryadi_mohd_bajuri@moe.edu.sg |
+| P 4-1 | Miss Josephine Ong <br> [josephine_ong_yan_ting@moe.edu.sg](josephine_ong_yan_ting@moe.edu.sg)  | Mdm Liu Jin  <br>[liu_jin@moe.edu.sg](liu_jin@moe.edu.sg)  |
+| P 4-2 | Miss Yanni <br> [nurhariyanni_ramli@moe.edu.sg](nurhariyanni_ramli@moe.edu.sg)  | Ms Jasmine Gan <br> [gan_hwee_ping@moe.edu.sg](gan_hwee_ping@moe.edu.sg)  |
+| P 4-3 |  Ms Ang Lee Im <br> [ang_lee_im@moe.edu.sg](ang_lee_im@moe.edu.sg)  |  Mr Dennis Tan <br> [tan_kim_leong_dennis@moe.edu.sg](tan_kim_leong_dennis@moe.edu.sg)  |
+|  P 4-4 | Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](au_kah_wai_michael@moe.edu.sg) |    Mr Huang Shihao <br> [huang_shihao@moe.edu.sg](huang_shihao@moe.edu.sg)  |
+|  P 4-5  | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](yap_wei_tien@moe.edu.sg  | Mr Francis Yam  [yam_hai_sun_francis@moe.edu.sg](yam_hai_sun_francis@moe.edu.sg)  |
+| P 4-6 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](wang_huishan@moe.edu.sg)  | Mdm Nurshidah  <br> [nurshidah_mokhtar@moe.edu.sg](nurshidah_mokhtar@moe.edu.sg)  |
+|  P4-7 | Miss Shamin Lin <br>  [lin_yunzhen_shamin@moe.edu.sg](lin_yunzhen_shamin@moe.edu.sg) |   Mr Suryadi <br> [suryadi_mohd_bajuri@moe.edu.sg](suryadi_mohd_bajuri@moe.edu.sg) |
 | 
 
 #### Primary Five
