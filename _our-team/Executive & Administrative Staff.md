@@ -30,7 +30,7 @@ description: ""
 
 | SN | Officer  | SN | Officer |
 |:---:|:---:|:---:|:---:|
-| 1 | Mr Kumerasan Kanayson, ICT Manager <br> kumerasan_kanayson@moe.edu.sg | 4 | Mrs Susan Tan, Librarian <br>susan_tan_ler@moe.edu.sg  |
-| 2 | Mr Shamel, Desktop Engineer    | 5 | Mdm Gajendran Parameswari, Laboratory Assistant <br> gajendran_parameswari@moe.edu.sg |
+| 1 | Mr Kumerasan Kanayson, ICT Manager <br> [kumerasan_kanayson@moe.edu.sg](kumerasan_kanayson@moe.edu.sg) | 4 | Mrs Susan Tan, Librarian <br> [susan_tan_ler@moe.edu.sg](susan_tan_ler@moe.edu.sg)  |
+| 2 | Mr Shamel, Desktop Engineer    | 5 | Mdm Gajendran Parameswari, Laboratory Assistant <br> [gajendran_parameswari@moe.edu.sg](gajendran_parameswari@moe.edu.sg) |
 |  3 | Miss Christina Er Mei Ting, Desktop Engineer    |   |   |
 |
