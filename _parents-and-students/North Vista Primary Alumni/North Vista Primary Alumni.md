@@ -128,7 +128,7 @@ _Moreover, my CCA, choir, provided a multitude of opportunities for us to perfor
 
 _Finally, the teachers at NVTPS were proficient in preparing us for the PSLE. During our final year, they put in their best effort to help us excel in the examinations, while ensuring our mental wellbeing at the same time. This was evident in how they purposefully organized the remedial sessions for students who wanted to improve themselves, or how they shared their past students’ experiences in hopes of us doing better. Some teachers seemed strict in our eyes at that time, but we eventually realized that what they did was in fact immensely helpful during that crucial year._
 
-_Overall, my experience at NVTPS was a memorable and valuable one. Aside from the points stated above, the school also shone through other aspects as well, through the provision of learning journeys and enrichment programmes. The friendships and memories forged there have shaped me into who I am today, and will continue to play a role in my life. _
+_Overall, my experience at NVTPS was a memorable and valuable one. Aside from the points stated above, the school also shone through other aspects as well, through the provision of learning journeys and enrichment programmes. The friendships and memories forged there have shaped me into who I am today, and will continue to play a role in my life._
 
 _To future Vistalites: Enjoy and treasure the experiences at NVTPS, for they will truly prove to be of great worth to you in the future._
 
@@ -144,7 +144,7 @@ _I was selected to be a Prefect. I officially became one in Primary Four, becomi
 
 _Not only this, but North Vista Primary also provides more than leadership opportunities. We embarked on a fruitful voyage as we went on learning journeys, took part in many kinds of competitions, initiated many Values-In-Actions projects, and joined CCAs. We met many people from across the school and bonded with them during sessions._
 
-_I want to thank everyone who has helped me in my six years in North Vista Primary and the teachers who gave me their time, support, and love. For what everyone in North Vista Primary has done to make me who I am today, I took on the role, Chairperson of NVTPS Alumni to express my gratitude and contribute back to the school that holds most of my childhood memories. So join me, fellow alumni, in thanking the ones who have sacrificed their time and spent so much effort in guiding us to where we are today! _
+_I want to thank everyone who has helped me in my six years in North Vista Primary and the teachers who gave me their time, support, and love. For what everyone in North Vista Primary has done to make me who I am today, I took on the role, Chairperson of NVTPS Alumni to express my gratitude and contribute back to the school that holds most of my childhood memories. So join me, fellow alumni, in thanking the ones who have sacrificed their time and spent so much effort in guiding us to where we are today!_
 
 **Koh Sin Yen** <br>
 **Class of 2020 (Valedictorian)**<br>
