@@ -64,12 +64,12 @@ description: ""
 
 | Class | Form Teachers  |  |
 |:---:|:---:|:---:|
-| P 5-1 | Mr Chua Gim Sen   chua_gim_sen@moe.edu.sg  | Mdm Lua Wee Suan  lua_wee_suan@moe.edu.sg  |
-| P 5-2 | Mdm Choo Siang Beng  choo_siang_beng@moe.edu.sg  | Ms Tan Hui Min  chen_huimin@moe.edu.sg  |
-|  P 5-3  | Miss Nur Syafiqah   nur_syafiqah_mohamed_shah@moe.edu.sg   | Mr Boh Zuze boh_zuze@moe.edu.sg   |
-|  P 5-4  |   Miss Tam Fong U  tam_fong_u@moe.edu.sg  | Mr Desmond Tan  tan_junhao_desmond@moe.edu.sg   |
-| P 5-5 | Miss Jessica Tan jessica_tan_jia_hui@moe.edu.sg   | Mr Reuben Lim   reuben_lim_sin_hua@moe.edu.sg  |
-| P 5-6 |  Mdm Roxanne Chua  roxanne_chua_wan_xuan@moe.edu.sg  | Mr Ng Chun Hao  ng_chun_hao@moe.edu.sg |
+| P 5-1 | Mr Chua Gim Sen <br>  [chua_gim_sen@moe.edu.sg](chua_gim_sen@moe.edu.sg)  | Mdm Lua Wee Suan <br> [lua_wee_suan@moe.edu.sg](lua_wee_suan@moe.edu.sg)  |
+| P 5-2 | Mdm Choo Siang Beng <br> [choo_siang_beng@moe.edu.sg](choo_siang_beng@moe.edu.sg)  | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](chen_huimin@moe.edu.sg)  |
+|  P 5-3  | Miss Nur Syafiqah <br>  [nur_syafiqah_mohamed_shah@moe.edu.sg](nur_syafiqah_mohamed_shah@moe.edu.sg)   | Mr Boh Zuze <br>[boh_zuze@moe.edu.sg](boh_zuze@moe.edu.sg)   |
+|  P 5-4  |   Miss Tam Fong U <br> [tam_fong_u@moe.edu.sg](tam_fong_u@moe.edu.sg)  | Mr Desmond Tan <br> [tan_junhao_desmond@moe.edu.sg](tan_junhao_desmond@moe.edu.sg)   |
+| P 5-5 | Miss Jessica Tan <br> [jessica_tan_jia_hui@moe.edu.sg](jessica_tan_jia_hui@moe.edu.sg)   | Mr Reuben Lim <br>   [reuben_lim_sin_hua@moe.edu.sg](reuben_lim_sin_hua@moe.edu.sg)  |
+| P 5-6 |  Mdm Roxanne Chua <br> [roxanne_chua_wan_xuan@moe.edu.sg](roxanne_chua_wan_xuan@moe.edu.sg)  | Mr Ng Chun Hao <br>  [ng_chun_hao@moe.edu.sg](ng_chun_hao@moe.edu.sg) |
 | 
 
 #### Primary Six
