@@ -58,7 +58,7 @@ c.  Character and Citizenship Education (CCE) <br>
 
 1.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-2.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.northvistapri.moe.edu.sg/qql/slot/u502/2019%20-%20Our%20Curriculum%20(section)/CCE/Sexuality%20Education/SEd_Opt_Out_Form.pdf) . The completed opt-out form is to be submitted by 11/02/2022.
+2.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd_Opt_Out_Form.pdf) . *website unavailable* The completed opt-out form is to be submitted by 11/02/2022.
 
 3.  Parents can contact the school at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) or 6484 3566  for discussion or to seek clarification about the school's sexuality education programme.
 
