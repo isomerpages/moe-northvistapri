@@ -26,7 +26,7 @@ The first tier of the CCA programme is made available to all P3 and P4 students 
 The second tier of the CCA programme aims to deepen the CCA learning experiences of the students who have experienced the breadth of the different Modular CCAs they have selected throughout their P3-P4 years. At this juncture, the students will then make an informed decision on their selected area of interest in which they would deepen and extend their learning experience. The student will then specialize in a particular CCA of choice and will continue with this CCA from P5 onwards until they graduate in P6.
 
 <img src="/images/CCA%20p5P6.jpg" 
-     style="width:75%">
+     style="width:65%">
 
 The third tier is the VISTA Programme. In this tier, various pathways of excellence are offered to students who have shown talent and will be identified to engage in this programme. Students in this programme undergo intense training under specialized coaches and instructors with the objective of refining and nurturing their potential. In turn these students will be exposed to various platforms that would offer them opportunities to enhance and further hone their talents. This may come in the form of competitions, performances, exhibitions at various levels (inter-school, national or international).
 
