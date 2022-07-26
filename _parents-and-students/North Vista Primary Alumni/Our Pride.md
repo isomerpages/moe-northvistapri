@@ -10,8 +10,10 @@ third_nav_title: North Vista Primary Alumni
 
 <img src="/images/Valedictorian_Rushvida_Speech_3.jpg" style="width:35%;" align = "left">
 
-	* Good morning school leaders, respected guests, parents, teachers and fellow graduates, I am Rushvida Reddy. I am extremely honored to be standing here today, representing the graduating class of 2021 as this year’s valedictorian and head prefect.
+Good morning school leaders, respected guests, parents, teachers and fellow graduates, I am Rushvida Reddy. I am extremely honored to be standing here today, representing the graduating class of 2021 as this year’s valedictorian and head prefect.
 	
+<br>	
+
 **These past 6 years have been a wonderful journey, filled with many ups and downs**. I have made so many new memories since I walked in through those gates as a bright-eyed primary 1 student, ready to begin a new chapter of my life. With a blink of an eye, this chapter is coming to an end. I am filled with nothing but love and gratitude for this school and everyone in this community.
 
 **My leadership journey has always played a significant role in my primary school education****.** From becoming a Vista student leader to becoming North Vista Primary’s head prefect, I recalled my leadership journey as fraught with many unexpected challenges. As I recall the happy times where I worked with my friends in the student council, I was also reminded of the moments where there were clashes of ideas within the team. Very often, I had to come in as a mediator when disagreements occurred. Through these experiences, I learnt to become a better listener and a better decision maker. I am very grateful to be given such opportunities to hone my leadership qualities.
