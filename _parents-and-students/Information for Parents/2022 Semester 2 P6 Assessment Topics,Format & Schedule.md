@@ -30,7 +30,7 @@ third_nav_title: Information for Parents
 </thead>
 <tbody>
   <tr>
-    <td colspan="5" class="tg-zeox">Prelim Exam (100%)</td>
+    <td class="tg-zeox" colspan="5">Prelim Exam (100%)</td>
   </tr>
   <tr>
     <td class="tg-zeox">T3W5</td>
@@ -438,4 +438,5 @@ third_nav_title: Information for Parents
 </table>
 
 #### Links
-* 
+* [P6 Term 3 Assessment Schedule 2022](/files/P6%20Term%203%20Assessment%20Schedule%202022.pdf)
+* [P6 Sem 2 Topics  Format 2022](/files/P6%20Sem%202%20Topics%20%20Format%202022.pdf)
