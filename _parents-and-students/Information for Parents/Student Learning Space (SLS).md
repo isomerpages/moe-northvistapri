@@ -42,4 +42,4 @@ Students can only contact the **SLS Helpline**  outside the school operating h
 **Saturdays: 9.00 a.m. - 9.00 p.m.**<br>
 **\*Closed on Sundays & Public Holidays**<br>
 
-Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
