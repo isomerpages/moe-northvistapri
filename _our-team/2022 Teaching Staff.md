@@ -16,7 +16,7 @@ description: ""
 | P 1-5 |   Mrs Vivien Lim <br> [lim_kim_ee_vivien@moe.edu.sg](lim_kim_ee_vivien@moe.edu.sg)  |   Miss Devaki <br> [devaki_vindinnada@moe.edu.sg](devaki_vindinnada@moe.edu.sg)  |
 |  P 1-6  | Mdm Jelena Chia <br> [chia_wanlin_jelena@moe.edu.sg](chia_wanlin_jelena@moe.edu.sg)  | Ms Sukainah <br> [sukainah_mohamed_mohsen@moe.edu.sg](sukainah_mohamed_mohsen@moe.edu.sg)  |
 |  P 1-7  | Mr Lawrence Lim <br> [lim_qi_wen_lawrence@moe.edu.sg](lim_qi_wen_lawrence@moe.edu.sg) | Miss Jessica Cheah <br>[jessica_cheah_jeay_sye@moe.edu.sg](jessica_cheah_jeay_sye@moe.edu.sg)   |
-| P 1-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](xu_lupin@moe.edu.sg)   | Mdm Lydia  [lydia_mohamed_yacob@moe.edu.sg](lydia_mohamed_yacob@moe.edu.sg)  |
+| P 1-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](xu_lupin@moe.edu.sg)   | Mdm Lydia <br> [lydia_mohamed_yacob@moe.edu.sg](lydia_mohamed_yacob@moe.edu.sg)  |
 | P 1-9 | Mdm Rose Iliyana <br> [Rose_Iliyana_Mohamad_Said@moe.edu.sg](Rose_Iliyana_Mohamad_Said@moe.edu.sg)   |  Mdm Zheng Hui <br> [zheng_hui@moe.edu.sg](zheng_hui@moe.edu.sg)  |
 |
 
