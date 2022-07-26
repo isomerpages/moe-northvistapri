@@ -35,5 +35,3 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 
 <img src="/images/2022%20PSG%20Exco.jpeg" 
      style="width:65%" >
-		 
-		 
