@@ -15,3 +15,22 @@ description: ""
 | 3 |   Mdm Theresa Ng Siew San, Corporate Support Officer <br> [ng_siew_san@moe.edu.sg](ng_siew_san@moe.edu.sg)   | 7 |  Ms Chua Kim Lian Susan, Administrative Executive  <br>  [chua_kim_lian_susan@moe.edu.sg](chua_kim_lian_susan@moe.edu.sg)  |
 | 4 |   Miss Tan Young Choo Lilian, Corporate Support Officer <br> [tan_young_choo_lilian@moe.edu.sg](tan_young_choo_lilian@moe.edu.sg)  |   |  |
 |
+
+#### Operations
+
+|  |  |  |  |
+|---|---|---|---|
+| SN | Officer  | SN | Officer |
+| 1 | Mr John Leong, Operations Manager <br> [ leong_kok_kheong_john@moe.edu.sg]( leong_kok_kheong_john@moe.edu.sg)  | 5 | Mdm Yeo Chor Tin, Operations Support Officer <br> [yeo_chor_tin@moe.edu.sg](yeo_chor_tin@moe.edu.sg)  |
+| 2 | Mr Neo Kim Ye, Operations Support Officer <br> [neo_kim_ye@moe.edu.sg](neo_kim_ye@moe.edu.sg)  | 6 | Mdm Ting Sieng Mee, Operations Support Officer <br> [ting_sieng_mee@moe.edu.sg](ting_sieng_mee@moe.edu.sg)  |
+|  3 | Mr Tay Kok Meng, Operations Support Officer <br> [tay_kok_meng@moe.edu.sg](tay_kok_meng@moe.edu.sg)  |  7 | Mdm Ng Sok Cheng, Operations Support Officer <br> [ng_sok_cheng@moe.edu.sg](ng_sok_cheng@moe.edu.sg)  |
+|  4 | Mdm Mary Ong, Operations Support Officer <br>  [ong_mary@moe.edu.sg](ong_mary@moe.edu.sg)   |  |  |
+
+#### Support
+
+| SN | Officer  | SN | Officer |
+|:---:|:---:|:---:|:---:|
+| 1 | Mr Kumerasan Kanayson, ICT Manager <br> kumerasan_kanayson@moe.edu.sg | 4 | Mrs Susan Tan, Librarian <br>susan_tan_ler@moe.edu.sg  |
+| 2 | Mr Shamel, Desktop Engineer    | 5 | Mdm Gajendran Parameswari, Laboratory Assistant <br> gajendran_parameswari@moe.edu.sg |
+|  3 | Miss Christina Er Mei Ting, Desktop Engineer    |   |   |
+|
