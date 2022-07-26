@@ -18,6 +18,7 @@ Tuesdays and Thursdays - Juniors
 Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
 #### Teachers-In-Charge
+
 | Name of Teacher | Email Address |
 |---|---|
 | Miss Shamin Lin (Overall-In-Charge) |[lin_yunzhen_shamin@moe.edu.sg](lin_yunzhen_shamin@moe.edu.sg) |
