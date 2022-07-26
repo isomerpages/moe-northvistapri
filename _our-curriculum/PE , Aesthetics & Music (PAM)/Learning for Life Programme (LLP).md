@@ -36,25 +36,23 @@ Students learn how to make small projects using ceramic clay. They also learn to
 Students do observational drawings and explore still-life drawing using pencils, painting using watercolours and acrylic paints on various mediums.
 
 <img src="/images/LLP%201.jpg" 
-     style="width:45%" align = left>
+     style="width:49%" align = left>
 
 <img src="/images/LLP%202.jpg" 
-     style="width:45%" align = right>
+     style="width:49%" align = right>
 
-<br> <br>
-<br> <br>
+<br> <br> <br> <br> <br> <br>
 
 <img src="/images/LLP%203.jpg" 
-     style="width:45%" align = left>
+     style="width:49%" align = left>
 
 <img src="/images/LLP%204.jpg" 
-     style="width:45%" align = right>
+     style="width:49%" align = right>
 		 
-<br> <br> <br>
+<br> <br> <br> <br> <br> <br>
 
 <img src="/images/LLP%205.jpg" 
-     style="width:45%" align = left>
-		
+     style="width:49%" align = left>
 
 <img src="/images/LLP%206.jpg" 
-     style="width:45%" align = right>
+     style="width:49%" align = right>		 
