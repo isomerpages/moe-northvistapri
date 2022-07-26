@@ -34,3 +34,11 @@ Children are naturally inquisitive and the inquiry approach aims to harness this
 
 <img src="/images/NESS%20social%20studies.png" 
      style="width:65%">
+		 
+#### Syllabus
+The syllabus is framed by knowledge, skills and values outcomes that students will acquire in order to be informed, concerned and participative citizens with a global outlook.
+
+It is organised in three clusters:
+*   Cluster 1 (Primary 1 & 2): Discovering Self and Immediate Environment
+*   Cluster 2 (Primary 3 & 4): Understanding Singapore in the Past and Present
+*   Cluster 3 (Primary 5 & 6): Appreciating the World and Region We Live
