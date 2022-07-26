@@ -39,3 +39,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mr Lim Kang Xiang, Arden |[lim_kang_xiang_arden@moe.edu.sg](lim_kang_xiang_arden@moe.edu.sg)|
 | Mrs Chiu Wan Ting |[yong_wan_ting@moe.edu.sg](yong_wan_ting@moe.edu.sg)|
 |
+
+![](/images/scouts%201.jpg)
+
+![](/images/scouts%202.jpg)
