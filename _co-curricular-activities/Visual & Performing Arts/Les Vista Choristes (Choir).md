@@ -34,6 +34,7 @@ Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before
 | Miss Chong Yuan Ping | [chong_yuan_ping@moe.edu.sg](chong_yuan_ping@moe.edu.sg) |
 | Miss Jessica Cheah | [jessica_cheah_jeay_sye@moe.edu.sg](jessica_cheah_jeay_sye@moe.edu.sg) |
 | Miss Jessica Tan  | [jessica_tan_jia_hui@moe.edu.sg](jessica_tan_jia_hui@moe.edu.sg)  |
+|
 
 ![](/images/choir%201.jpg)
 
