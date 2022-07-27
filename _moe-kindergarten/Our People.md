@@ -11,5 +11,5 @@ description: ""
 |:---:|:---:|
 | Ms Rachael Lui | Centre Head<br> |
 | Ms Janis Ann Pereira | Deputy Centre Head<br> |
-|  Mdm An Hong |  <br>Senior Teacher (Mother Tongue Language) |
+|  Mdm An Hong |  Senior Teacher <br> (Mother Tongue Language) |
 |
