@@ -24,12 +24,12 @@ description: ""
 |  Ms Nursyazana |  Kindergarten 1<br> |
 |  Ms Nur Sabrina  |  Kindergarten 1<br> |
 |  Ms Chan Wei Ling |  Kindergarten 2<br> |
-|  Ms Charlene Quek |   <br>Kindergarten 2<br> |
-|  Mdm Herma Ayuni |  <br> Kindergarten 2<br> |
-|  Ms Joey Yuen |   <br>Kindergarten 2<br> |
-|  Ms Nita Sonia |   <br>Kindergarten 2<br> |
-|  Ms Nithiya Ashok |   <br>Kindergarten 2<br> |
-|  Ms Nur Syafiqah |   <br>Kindergarten 2 |
+|  Ms Charlene Quek |  Kindergarten 2<br> |
+|  Mdm Herma Ayuni |   Kindergarten 2<br> |
+|  Ms Joey Yuen |   Kindergarten 2<br> |
+|  Ms Nita Sonia |   Kindergarten 2<br> |
+|  Ms Nithiya Ashok |   Kindergarten 2<br> |
+|  Ms Nur Syafiqah |   Kindergarten 2 |
 |
 
 #### Teaching Staff
