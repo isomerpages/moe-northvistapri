@@ -6,8 +6,8 @@ description: ""
 ### Vision, Mission & Values
 
 <img src="/images/MKNV%20Pantone.png" 
-     style="width:45%" align = left>
-<br><br><br>
+     style="width:35%" align = left>
+<br><br><br><br>
 #### Vision
 A Strong Start For Every Child
 
