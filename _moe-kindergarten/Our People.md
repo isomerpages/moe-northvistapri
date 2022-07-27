@@ -22,7 +22,7 @@ description: ""
 | Ms Audrey Lim | Kindergarten 1<br> |
 | Ms Joey Inez Lee | Kindergarten 1<br> |
 |  Ms Nursyazana |  Kindergarten 1<br> |
-|  Ms Nur Sabrina  |  <br>Kindergarten 1<br> |
+|  Ms Nur Sabrina  |  Kindergarten 1<br> |
 |  Ms Chan Wei Ling |  Kindergarten 2<br> |
 |  Ms Charlene Quek |   <br>Kindergarten 2<br> |
 |  Mdm Herma Ayuni |  <br> Kindergarten 2<br> |
