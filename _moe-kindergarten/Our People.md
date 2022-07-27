@@ -43,9 +43,9 @@ description: ""
 | Mdm Tan Lin Chia | Kindergarten 1 <br>(Chinese Language)<br> |
 | Mdm Lian Yanli  |  Kindergarten 2<br> (Chinese Language)<br> |
 | Mdm Leng Yingwen | Kindergarten 2<br> (Chinese Language)<br> |
-| Ms Lexie Wong |  <br>Kindergarten 2<br> (Chinese Language)<br> |
+| Ms Lexie Wong |  Kindergarten 2<br> (Chinese Language)<br> |
 | Mdm Wen Tianjing |  Kindergarten 2<br> (Chinese Language)<br> |
-|  Mdm Nur Hafizah |  <br>Kindergarten 1<br> (Malay Language)<br> |
-|  Mdm Siti Suzanna |  <br>Kindergarten 2 <br>(Malay Language)<br> |
-|  Ms Anees Aaysha |  <br>Kindergarten 1 & 2<br> (Tamil Language) |
+|  Mdm Nur Hafizah |  Kindergarten 1<br> (Malay Language)<br> |
+|  Mdm Siti Suzanna | Kindergarten 2 <br>(Malay Language)<br> |
+|  Ms Anees Aaysha | Kindergarten 1 & 2<br> (Tamil Language) |
 |
