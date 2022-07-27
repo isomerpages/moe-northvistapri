@@ -4,31 +4,14 @@ permalink: /Kindergarten/our-curriculum/
 description: ""
 third_nav_title: Our Curriculum
 ---
-### Our Programmes
+### Our Curriculum
 
-#### Programme Eligibility
+#### Flagship Programmes
+The children embark on an exciting learning journey through the two flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English Language (EL) and Mother Tongue Languages (MTL). In addition, the children will also engage in a Weeks of Wonder(WoW) project each term.
 
-| Programme(for Singapore Citizens & Permanent Residents) | Eligibility |
-|:---:|:---:|
-| Kindergarten 1 (K1) | Children turning 5 in the year of enrolment |
-| Kindergarten 2 (K2) | Children turning 5 in the year of enrolment |
-|  Kindergarten Care (KCare) | Children enrolled in MK@NV  |
-|
+![](/images/MK_Our%20Curriculum_Flagship%20Programme.jpg)
 
-#### Programme Hours
+#### Centre-based Programmes 
+Other than the flagship programmes, our Kindergarten has other centre-based programmes that aim to enhance the children's holistic learning and development in the MK.
 
-| K1 & K2  | (4-hour MK Programme) |
-|:---:|:---:|
-| AM Session | 8 a.m. to 12 noon |
-| PM Session | 1 p.m. to 5 p.m. |
-|
-
-_MK@NV follows MOE's calendar of school terms and school holidays._
-
-| K1 & K2  | (Full day MK & KCare Programme) |
-|:---:|:---:|
-| K1 & K2 children who attend the MOE Kindergarten AM Session | 7 a.m. to 8 a.m. (KCare)<br>8 a.m. to 12 noon (MK)<br>12 noon to 7 p.m. (KCare)<br> |
-| K1 & K2 children who attend the MOE Kindergarten PM Session | 7 a.m. to 1 p.m. (KCare)<br>1 p.m. to 5 p.m. (MK)<br>5 p.m. to 7 p.m. (KCare) |
-|
-
-_KCare operates from 7 a.m. to 7 p.m. on Mondays to Fridays, including school holidays._
+![](/images/Centre-based%20Programme%20Overview.jpg)
