@@ -7,4 +7,5 @@ description: ""
 
 We aim to enrich the children's learning through fostering strong partnership and close collaboration with different stakeholders.
 
-![](/images/Mk%20Partnership.jpg)
+<img src="/images/Mk%20Partnership.jpg" 
+     style="width:65%">
