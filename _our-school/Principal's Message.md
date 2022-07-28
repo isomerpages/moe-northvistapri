@@ -9,7 +9,7 @@ description: ""
 
 Since its founding in 2008, the school has always placed its emphasis on the holistic development of Vistalites with a focus on leveraging technological affordances for teaching and learning. 
 
-<br> <br> <br>
+<br> <br> 
 
 It has an Applied Learning Programme (ALP) which aims to develop computational and logical thinking in students through coding and the development of 21 CC through the application of the digital skills learnt to solve real world issues.  The school’s Learning for Life Programme (LLP), focusing on the Visual and Performing Art allows students to learn and appreciate the various art forms e.g. music, photography, ceramic and batik painting and work creatively and collaboratively to finish the projects assigned.
 
