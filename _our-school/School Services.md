@@ -45,42 +45,10 @@ The introduction of Per Capita Income (PCI) will enable students from larger fa
 Parents can approach the school directly if they require financial assistance.
 Please bring the following supporting documents with you during your application:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-fymr"></th>
-    <th class="tg-fymr"></th>
-    <th class="tg-fymr"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">For each working Household Member</td>
-    <td class="tg-c3ow">For each Self-employed/Unemployed Family Member</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Documents required</td>
-    <td class="tg-0pky">Recent pay slip; or<br>Letter from the employer certifying the gross monthly income<br>CPF Transaction Statement for past 12 months </td>
-    <td class="tg-0pky">Latest Income Tax Assessment Returns reflecting his/her current income status; or<br>Written declaration at Section A/B of Annex II in the application form<br>CPF Transaction Statement for past 12 months.</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
+|  | For each working Household Member | For each Self-employed/Unemployed Family Member |
+|:---:|:---:|---|
+| Documents required | Recent pay slip; or Letter from the employer certifying the gross monthly income CPF Transaction Statement for past 12 months  | Latest Income Tax Assessment Returns reflecting his/her current income status; or Written declaration at Section A/B of Annex II in the application form CPF Transaction Statement for past 12 months. |
+|
 
 #### PC-Bundle Application Form
 * [NPP PC-Bundle Application Form (Non MOE-SPED FAS)](/files/NPP%20PC-Bundle%20Application%20Form%20(Non%20MOE-SPED%20FAS).pdf)
