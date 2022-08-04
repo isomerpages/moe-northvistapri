@@ -5,11 +5,16 @@ description: ""
 ---
 ### School Management Committee
 
-![](/images/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg)
 
-![](/images/%20Mr%20Amran%20Bin%20Tasrif%20Vice%20Principal%20EO.png)
+| |
+|:---:|
+| <img src="/images/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg" style="width:25%">	Mr Tarn Sien Hao <br> Chairman |
+|<img src="/images/Mr%20Amran%20Bin%20Tasrif%20Vice%20Principal%20EO.png" style="width:25%"> Mr Toe Tiong Hock <br> PBM Treasurer |
+|<img src="/images/Mrs%20Audrey%20Lee%20-%20Vice%20Principal%20(Admin).jpg" style="width:25%"> Mr Ang Tian Chua <br>Member |
+|
 
-![](/images/Mrs%20Audrey%20Lee%20-%20Vice%20Principal%20(Admin).jpg)
+<br>
+
 
 | SN | Designation | Name | Email |
 |:---:|---|---|---|
