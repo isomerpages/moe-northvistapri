@@ -70,9 +70,12 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
   <tr>
 
 <img src="/images/FaceBookFreeQR.png" style="width:45%;">
-<br><br>
+<br>
+		
 [PSGVista Facebook Page](https://www.facebook.com/PSGVista-373732262658906)
 				
+<br>		
 <img src="/images/psgqrcodeupdated.png" style="width:40%;">
-<br><br>
+<br>
+		
 [NVTPSPSG](https://tinyurl.com/NVTPSPSG)
