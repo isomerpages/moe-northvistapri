@@ -10,7 +10,7 @@ third_nav_title: Information for Parents
 
 2. Students will click on (link to be updated) to access the respective lesson packages during HBL days.
 
-3. Students will complete their online assignments for the respective subjects through the [Student Learning Space(SLS)](https://vle.learning.moe.edu.sg/login) .Varieties of assessment modes are included to help the students monitor their own learning. There would be also opportunities for the students to video conference with their subject teachers to seek clarifications in learning via platforms such as Google Meet and Zoom.
+3. Students will complete their online assignments for the respective subjects through the [Student Learning Space(SLS)](https://vle.learning.moe.edu.sg/login)**website unavailable** .Varieties of assessment modes are included to help the students monitor their own learning. There would be also opportunities for the students to video conference with their subject teachers to seek clarifications in learning via platforms such as Google Meet and Zoom.
 
 * [User-Guide-For-Google-Meet](/files/User-Guide-For-Google-Meet.pdf)
 * [User-Guide-For-Zoom](/files/User-Guide-For-Zoom.pdf)
