@@ -23,4 +23,4 @@ North Vista, shine forth! <br>
 Noblest in Aspiration <br>
 North Vista, shine forth! <br>
 
-**audio**
+**audio player**
