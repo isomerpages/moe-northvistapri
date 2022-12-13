@@ -20,7 +20,6 @@ Students are expected to:
 * Be punctual at all times.
 
 * Report to school latest by 7.25 a.m.
-
 			 
 ##### 3.  Assembly / Pledge-Taking
 
