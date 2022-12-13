@@ -3,8 +3,6 @@ title: School Song
 permalink: /our-school/school-song/
 description: ""
 ---
-### School Song
-
 From far and near we have come <br>
 Our hearts and minds to be inspired <br>
 A family of learners <br>
