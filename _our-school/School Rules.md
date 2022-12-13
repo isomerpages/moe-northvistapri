@@ -49,12 +49,10 @@ Female students must be neat in appearance.
 * Multiple earrings are not allowed. Only plain gold or silver round ear studs are allowed.
 * Nails must be kept short, and clean without nail polish.
 * Accessories like hair clips and hair bands must be in dark blue or black.
-												
+
+**School Uniform**
 <img src="/images/attire%20requirement.jpg" 
      style="width:80%">
-		 
-**School Uniform**
-
 * School uniform to be neat and tidy, and worn tucked out during non-PE days. 
 * All students are to iron on and stitch the name tags on their school shirt/blouse.
 * The nametag should be positioned on the left hand side of the wearer and 1 cm above the boy’s chest pocket. Girls should wear their nametags on the left hand side and slightly above the school crest. Please refer to the illustrations below.
@@ -77,6 +75,7 @@ Female students must be neat in appearance.
 		 
 **School Shoes and Socks**
 
-*   Students are to wear black sports shoes and white socks.
-*   Socks are to be slightly above the ankles.
-*   School socks can be purchased from our uniform supplier.
+* Students are to wear black sports shoes and white socks.
+* Socks are to be slightly above the ankles.
+* School socks can be purchased from our uniform supplier.
+
