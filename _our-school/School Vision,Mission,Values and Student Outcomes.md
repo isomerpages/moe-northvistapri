@@ -3,8 +3,6 @@ title: School Vision,Mission,Values and Student Outcomes
 permalink: /our-school/core-values/
 description: ""
 ---
-### School Vision, Mission, Values & Student Outcomes
-
 #### School Vision
 Community of Learners @ the School for the Future
 
