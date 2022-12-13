@@ -18,11 +18,10 @@ description: ""
 #### School Fees 
 
 ##### School/Miscellaneous/Fees: GIRO Scheme
-
-1\. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO. <br>
-2\. Monthly deductions will be made on the 26th of each month from February to December. The fees payable for January and February will be deducted together on 26th February.   <br>
-3\. Parents are to ensure there is sufficient fund in their bank accounts before the deduction dates. <br>
-4\. Parents are required to approach the General Office for application forms for GIRO Scheme or to make any changes to their GIRO Scheme.
+1. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO. 
+2. Monthly deductions will be made on the 26th of each month from February to December. The fees payable for January and February will be deducted together on 26th February.   
+3. Parents are to ensure there is sufficient fund in their bank accounts before the deduction dates. <br>
+Parents are required to approach the General Office for application forms for GIRO Scheme or to make any changes to their GIRO Scheme.
 
 #### MOE Financial Assistance Scheme (MOE FAS) for students who are Singapore Citizens
 
