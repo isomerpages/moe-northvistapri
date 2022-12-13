@@ -18,9 +18,9 @@ description: ""
 
 #### Teaching Staff
 ##### English Medium Language Department  
-||| 
+|   |   | 
 |:---:|:---:|
-| **Name of Teacher** | **Teaching Level** |
+| **Name** | **Designation** | 
 | Ms Audrey Lim | Kindergarten 1<br> |
 | Ms Jasmine Chen Jiamin | Kindergarten 1<br> |
 |  Ms Nursyazana |  Kindergarten 1<br> |
