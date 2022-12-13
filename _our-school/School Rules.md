@@ -53,7 +53,7 @@ Female students must be neat in appearance.
 * Accessories like hair clips and hair bands must be in dark blue or black.
 
 **School Uniform**
-<img src="/images/attire%20requirement.jpg" 
+<img src="/images/Uniform %20Photo1.jpg" 
      style="width:80%">
 * School uniform to be neat and tidy, and worn tucked out during non-PE days. 
 * All students are to iron on and stitch the name tags on their school shirt/blouse.
