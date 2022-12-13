@@ -7,18 +7,20 @@ description: ""
 
 #### Key Personnel
 
-| Name | Designation |
+
+|   |   | 
 |:---:|:---:|
-| Ms Rachael Lui | Centre Head<br> |
-| Ms Janis Ann Pereira | Deputy Centre Head<br> |
+| **Name** | **Designation** | 
+| Ms Janis Ann Pereira | Centre Head<br> |
+| Ms Jasmine Chen Jiamin  | Deputy Centre Head<br> |
 |  Mdm An Hong |  Senior Teacher <br> (Mother Tongue Language) |
 |
 
 #### Teaching Staff
 ##### English Medium Language Department  
-
-| Name of Teacher | Teaching Level |
+||| 
 |:---:|:---:|
+| **Name of Teacher** | **Teaching Level** |
 | Ms Audrey Lim | Kindergarten 1<br> |
 | Ms Joey Inez Lee | Kindergarten 1<br> |
 |  Ms Nursyazana |  Kindergarten 1<br> |
@@ -35,8 +37,9 @@ description: ""
 #### Teaching Staff
 ##### Mother Tongue Language Department  
 
-| Name of Teacher | Teaching Level |
+||| 
 |:---:|:---:|
+| **Name of Teacher** | **Teaching Level** |
 | Mdm An Hong | Kindergarten 1<br> (Chinese Language)<br> |
 | Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |
 | Mdm Soh Ah Kiow | Kindergarten 1 <br>(Chinese Language)<br> |
