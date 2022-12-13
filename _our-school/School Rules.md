@@ -3,31 +3,19 @@ title: School Rules
 permalink: /our-school/school-rules/
 description: ""
 ---
-### School Rules 
-
 Students are expected to:  
-
 ##### 1.  General conduct
-
-       1.1      Greet everyone.
-
-       1.2      Be courteous, helpful and respectful.
-
-       1.3      Move quietly and behave in an orderly manner along the corridors and staircases.
-
-       1.4      Handle all school equipment and properties with care.
-
-       1.5      Keep the classrooms and school premises clean.
-
-       1.6      Engage in safe play.
-
-       1.7      Leave the school only when permission is granted.
-
-       1.8      Not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used  or intended to be used to cause harm to others.
-
-       1.9      Not to bring mobile phones to school. If they do, they must take personal responsibility of it. The school has designated the Meeting Place in front of the General Office for students to use their mobile phones. Should students be observed to use their mobile phones in areas other then the Meeting Place, their phones may be confiscated and parents will need to collect them from the General Office only **after a week**.
-
-        1.10  Practise good personal hygiene by washing hands regularly, do the wipe-down and take temperature daily.
+* Greet everyone.
+* Be courteous, helpful and respectful.
+* Move quietly and behave in an orderly manner along the corridors and staircases.
+* Handle all school equipment and properties with care.
+* Keep the classrooms and school premises clean.
+* Engage in safe play.
+* Leave the school only when permission is granted.
+* Not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used  or intended to be used to cause harm to others.
+* Not to bring mobile phones to school. If they do, they must take personal responsibility of it. The school has designated the Meeting Place in front of the General Office for students to use their mobile phones. Should students be observed to use their mobile phones in areas other then the Meeting Place, their phones may be confiscated and parents will need to collect them from the General Office only **after a week**.
+* Practise good personal hygiene by washing hands regularly, do the wipe-down and take temperature daily.
+      
 
 ##### 2.  Attendance and Punctuality
 
