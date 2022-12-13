@@ -10,5 +10,5 @@ description: ""
 * **Tech-savvy Creators**
 * **Balanced Individuals**
 
-##### Mr Ong Lye Whatt  
-Principal
+##### Mr Ong Lye Whatt  <br>Principal
+
