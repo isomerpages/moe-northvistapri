@@ -32,7 +32,7 @@ description: ""
 |  Ms Nita Sonia |   Kindergarten 2<br> |
 |  Ms Nithiya Ashok |   Kindergarten 2<br> |
 |  Ms Nur Syafiqah |   Kindergarten 2 |
-|
+
 
 #### Teaching Staff
 ##### Mother Tongue Language Department  
