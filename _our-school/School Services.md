@@ -27,7 +27,7 @@ description: ""
 
 ##### Income Limits
 
-A student is eligible for MOE FAS if the Gross Household Income (GHI) does not exceed $2750 per month or Per Capita Income (PCI) does not exceed $690 per month.
+A student is eligible for MOE FAS if the Gross Household Income (GHI) does not exceed $3000 per month or Per Capita Income (PCI) does not exceed $690 per month.
 
 The introduction of Per Capita Income (PCI) will enable students from larger families to benefit from financial assistance. Household members include parents, unmarried siblings and grandparents of the child as well as other dependents living in the same household. PCI is computed by dividing the gross household income by the number of members in the household. For more details, please refer to https://www.moe.gov.sg/financial-matters/financial-assistance
 
