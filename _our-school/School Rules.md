@@ -23,11 +23,10 @@ Students are expected to:
 * Report to school latest by 7.25 a.m.
 			 
 ##### 3.  Assembly / Pledge-Taking
+* Sing the National Anthem and recite the Pledge with the right fist placed over the heart as long as they are Singapore Citizen.
 
-       3.1        Sing the National Anthem and recite the Pledge with the right fist placed over the heart as long as they are Singapore Citizen.
-
-       3.2        Sing the school song with pride.			
-			 
+* Sing the school song with pride.
+     
 ##### 4.  Attire and Appearance
 
        4.1          Wear the prescribed school uniform. Modification to the uniform is not allowed.
