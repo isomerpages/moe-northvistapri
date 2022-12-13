@@ -3,8 +3,6 @@ title: School Crest
 permalink: /our-school/school-crest/
 description: ""
 ---
-### School Crest
-
 <img src="/images/logo.png" 
      style="width:25%">
 		 
