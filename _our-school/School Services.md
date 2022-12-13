@@ -23,7 +23,7 @@ description: ""
 3. Parents are to ensure there is sufficient fund in their bank accounts before the deduction dates. <br>
 Parents are required to approach the General Office for application forms for GIRO Scheme or to make any changes to their GIRO Scheme.
 
-#### MOE Financial Assistance Scheme (MOE FAS) for students who are Singapore Citizens
+##### MOE Financial Assistance Scheme (MOE FAS) for students who are Singapore Citizens
 
 ##### Income Limits
 
