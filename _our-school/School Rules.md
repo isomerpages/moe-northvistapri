@@ -30,6 +30,7 @@ Students are expected to:
 
 * Sing the school song with pride.
      
+		 
 ##### 4.  Attire and Appearance
 Students are expected to: 
 * Wear the prescribed school uniform. Modification to the uniform is not allowed.
@@ -79,4 +80,3 @@ Female students must be neat in appearance.
 * Students are to wear black sports shoes and white socks.
 * Socks are to be slightly above the ankles.
 * School socks can be purchased from our uniform supplier.
-
