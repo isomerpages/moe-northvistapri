@@ -14,7 +14,7 @@ Our school crest consists of a shield which frames the globe, our earth, with th
 #### Grounded in Values
 The white road signifies the responsibility of our school in guiding our students on the road leading towards the True North, symbolised by the huge golden North Star. The colour white symbolises purity and virtue. Our students are imbued with the values that will stand them in good stead for the future. The white road also gives our school our identity as it divides the globe into N and V, which is North Vista.
 
-#### Holistic Development of our Pupils
+#### Holistic Development of our Students
 The five golden stars next to the True North, represent the holistic development of our students in the cognitive aspect, the physical aspect, the moral aspect, the social aspect and the aesthetics aspect.
 
 #### The Community of Learners
