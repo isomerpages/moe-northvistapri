@@ -79,3 +79,4 @@ Female students must be neat in appearance.
 * Students are to wear black sports shoes and white socks.
 * Socks are to be slightly above the ankles.
 * School socks can be purchased from our uniform supplier.
+
