@@ -7,8 +7,9 @@ description: ""
 
 #### Primary One
 
-| Class | Form Teachers   |  |
+||||
 |:---:|:---:|:---:|
+| **Class** | **Form Teacher 1** | **Form Teacher 2** |
 | P 1-1 | Miss Subhadra <br> [subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  | Miss Norazizah <br>  [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)  |
 | P 1-2 | Miss Chong Yuan Ping<br>  [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  | Mdm Analiza <br>  [analiza_suboh@moe.edu.sg](mailto:analiza_suboh@moe.edu.sg)  |
 | P 1-3 |   Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mdm Audrey Heng <br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)   |
