@@ -23,6 +23,7 @@ Students are expected to:
 
 * Report to school latest by 7.25 a.m.
 			 
+			 
 ##### 3.  Assembly / Pledge-Taking
 Students are expected to:  
 * Sing the National Anthem and recite the Pledge with the right fist placed over the heart as long as they are Singapore Citizen.
@@ -78,4 +79,3 @@ Female students must be neat in appearance.
 * Students are to wear black sports shoes and white socks.
 * Socks are to be slightly above the ankles.
 * School socks can be purchased from our uniform supplier.
-
