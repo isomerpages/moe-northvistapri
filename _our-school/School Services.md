@@ -36,7 +36,7 @@ The introduction of Per Capita Income (PCI) will enable students from larger fa
 1. Full waiver of $6.50 per month for Standard Miscellaneous Fees <br>
 2\. Free textbooks <br>
 3\. Free school attire <br>
-4\. Transport subsidy of 60% of school bus fares for students taking school bus, or $15 per month from month of approval, up to $180 per annum for students taking public transport. <br>
+4\. Transport subsidy of 65% of school bus fares for students taking school bus, or $17 per month from month of approval, up to $204 per annum for students taking public transport. <br>
 5\. Subsidy for 7 meals per 5-day school week from month of approval, for up to 40 school weeks per annum. <br>
 
 ##### How to Apply
