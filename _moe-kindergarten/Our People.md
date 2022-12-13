@@ -22,7 +22,7 @@ description: ""
 |:---:|:---:|
 | **Name of Teacher** | **Teaching Level** |
 | Ms Audrey Lim | Kindergarten 1<br> |
-| Ms Joey Inez Lee | Kindergarten 1<br> |
+| Ms Jasmine Chen Jiamin | Kindergarten 1<br> |
 |  Ms Nursyazana |  Kindergarten 1<br> |
 |  Ms Nur Sabrina  |  Kindergarten 1<br> |
 |  Ms Chan Wei Ling |  Kindergarten 2<br> |
@@ -51,4 +51,4 @@ description: ""
 |  Mdm Nur Hafizah |  Kindergarten 1<br> (Malay Language)<br> |
 |  Mdm Siti Suzanna | Kindergarten 2 <br>(Malay Language)<br> |
 |  Ms Anees Aaysha | Kindergarten 1 & 2<br> (Tamil Language) |
-|
+| Ms Maga Panchatcharam | Kindergarten 1 & 2<br> (Tamil Language) |
