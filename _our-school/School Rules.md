@@ -3,8 +3,8 @@ title: School Rules
 permalink: /our-school/school-rules/
 description: ""
 ---
-Students are expected to:  
 ##### 1.  General conduct
+Students are expected to:  
 * Greet everyone.
 * Be courteous, helpful and respectful.
 * Move quietly and behave in an orderly manner along the corridors and staircases.
@@ -18,11 +18,13 @@ Students are expected to:
      
 		 
 ##### 2.  Attendance and Punctuality
+Students are expected to:  
 * Be punctual at all times.
 
 * Report to school latest by 7.25 a.m.
 			 
 ##### 3.  Assembly / Pledge-Taking
+Students are expected to:  
 * Sing the National Anthem and recite the Pledge with the right fist placed over the heart as long as they are Singapore Citizen.
 
 * Sing the school song with pride.
