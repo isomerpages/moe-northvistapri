@@ -15,7 +15,7 @@ description: ""
 | Student Care Service  Telephone: <br> Email Address: <br> Opening Hours: | Nascans Student Care Centre (North Vista Primary School) <br> <br> 9829 2889 / 9622 4924 <br> nvscc@nascans.com <br>11.00 a.m. to 7.00 p.m. |
 |
 
-#### School Fees 
+### School Fees 
 
 ##### School/Miscellaneous/Fees: GIRO Scheme
 1. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO. 
