@@ -12,7 +12,7 @@ description: ""
 | School Uniform <br>  Address: <br> Telephone: <br> Email: <br> | Chop Kong Chong <br>  604 Sembawang Rd #02-13, Sembawang Shopping Centre, Singapore 758459 <br> 6753 1489  <br>sales@euniforms.com.sg <br>  <br>Parents can arrange for home delivery for purchases above $50. There is a delivery charge of $4/- for each delivery. Alternatively, parents can purchase the uniform from the school bookshop during school days. |
 | School Bus Service  Telephone: <br> Fax: <br> Email Address: | SFX Transport Pte Ltd <br> <br> 6282 0262 <br> 6382 0262 <br> enquiry@sfxtransport.com.sg |
 | School Library <br> Opening Hours: | My Little Library <br> 8.00 a.m. – 4.00 p.m. |
-| Student Care Service  Telephone: <br> Email Address: <br> Opening Hours: | Nascans Student Care Centre (North Vista Primary School) <br> 9829 2889 / 9622 4924 <br> nvscc@nascans.com <br>11.00 a.m. to 7.00 p.m. |
+| Student Care Service  Telephone: <br> Email Address: <br> Opening Hours: | Nascans Student Care Centre (North Vista Primary School) <br> <br> 9829 2889 / 9622 4924 <br> nvscc@nascans.com <br>11.00 a.m. to 7.00 p.m. |
 |
 
 #### School Fees 
