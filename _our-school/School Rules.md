@@ -30,35 +30,26 @@ Students are expected to:
 * Sing the school song with pride.
      
 ##### 4.  Attire and Appearance
-
-       4.1          Wear the prescribed school uniform. Modification to the uniform is not allowed.
-
-        4.2        Keep their appearance neat and tidy. No fanciful hairstyle is allowed.			 
+Students are expected to: 
+* Wear the prescribed school uniform. Modification to the uniform is not allowed.
+* Keep their appearance neat and tidy. No fanciful hairstyle is allowed.			 
 				
- **a.**  **Male students must be neat in appearance, clean-shaven and no facial hair is allowed.**
+Male students must be neat in appearance, clean-shaven and no facial hair is allowed.
 
-                             i.  Hair must be neat and short. Hair must not be dyed.  No fanciful hairstyle is allowed.
+* Hair must be neat and short. 
+* Hair must not be dyed. No fanciful hairstyle is allowed.
+* Earrings or ear studs are not allowed.
+* Nails must be kept short and clean.
 
-                            ii.  Earrings or ear studs are not allowed.
+Female students must be neat in appearance.
 
-                           iii.  Nails must be kept short and clean.
-
-  
-
-                        **b.  Female students must be neat in appearance.**
-
-                            i.  Long hair must be plaited or tied up neatly.
-
-                           ii.  Hair must not be tinted or dyed.
-
-                          iii.  Make up is not allowed.
-
-                          iv.  Multiple earrings are not allowed. Only plain gold or silver round ear studs are allowed.
-
-                           v.  Nails must be kept short, and clean without nail polish.
-
-                          vi.  Accessories like hair clips and hair bands must be in dark blue or black.
-													
+* Long hair must be plaited or tied up neatly.
+* Hair must not be tinted or dyed.
+* Make up is not allowed.
+* Multiple earrings are not allowed. Only plain gold or silver round ear studs are allowed.
+* Nails must be kept short, and clean without nail polish.
+* Accessories like hair clips and hair bands must be in dark blue or black.
+												
 <img src="/images/attire%20requirement.jpg" 
      style="width:80%">
 		 
