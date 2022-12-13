@@ -15,7 +15,8 @@ Students are expected to:
 * Not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used  or intended to be used to cause harm to others.
 * Not to bring mobile phones to school. If they do, they must take personal responsibility of it. The school has designated the Meeting Place in front of the General Office for students to use their mobile phones. Should students be observed to use their mobile phones in areas other then the Meeting Place, their phones may be confiscated and parents will need to collect them from the General Office only **after a week**.
 * Practise good personal hygiene by washing hands regularly, do the wipe-down and take temperature daily.
-      
+     
+		 
 ##### 2.  Attendance and Punctuality
 * Be punctual at all times.
 
