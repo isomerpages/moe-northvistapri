@@ -45,7 +45,7 @@ Please bring the following supporting documents with you during your application
 
 |  | For each working Household Member | For each Self-employed/Unemployed Family Member |
 |:---:|:---:|---|
-| Documents required | Recent pay slip; or <br> Letter from the employer certifying the gross monthly income. <br> CPF Transaction Statement for past 12 months  | Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> Written declaration at Section A/B of Annex II in the application form. <br> CPF Transaction Statement for past 12 months. |
+| Documents required | a) Recent pay slip; or <br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months  | a) Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> b) Written declaration at Section A/B of Annex II in the application form. <br> c) CPF Transaction Statement for past 12 months. |
 |
 
 #### PC-Bundle Application Form
