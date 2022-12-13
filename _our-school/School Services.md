@@ -23,7 +23,6 @@ description: ""
 Parents are required to approach the General Office for application forms for GIRO Scheme or to make any changes to their GIRO Scheme.
 
 ##### MOE Financial Assistance Scheme (MOE FAS) for students who are Singapore Citizens
-
 ##### Income Limits
 
 A student is eligible for MOE FAS if the Gross Household Income (GHI) does not exceed $3000 per month or Per Capita Income (PCI) does not exceed $750 per month.
