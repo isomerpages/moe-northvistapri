@@ -11,7 +11,7 @@ description: ""
 | 1.30 p.m.* | Dismissal Time |
 |
 
-*Note: Timings of CCAs vary and students will be informed separately. School bus will only leave the school at about 1.45 p.m. every day.
+Note: Timings of CCAs vary and students will be informed separately. School bus will only leave the school at about 1.45 p.m. every day.
 
 ##### Recesses
 
