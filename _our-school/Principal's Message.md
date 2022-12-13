@@ -3,8 +3,6 @@ title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-### Principal's Message
-
 <img src="/images/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg" style="width:25%;" align = "left">
 
 <br><br><br>
