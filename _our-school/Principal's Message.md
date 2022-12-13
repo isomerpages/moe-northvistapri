@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
 ---
-|<img src="/images/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg" style="width:25%;" align = "left"> Since its founding in 2008, the school has always placed its emphasis on the holistic development of Vistalites with a focus on leveraging technological affordances for teaching and learning. It has an Applied Learning Programme (ALP) which aims to develop computational and logical thinking in students through coding and the development of 21 CC through the application of the digital skills learnt to solve real world issues.  The school’s Learning for Life Programme (LLP), focusing on the Visual and Performing Art allows students to learn and appreciate the various art forms e.g. music, photography, ceramic and batik painting and work creatively and collaboratively to finish the projects assigned.
+|<img src="/images/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg" style="width:25%;" align = "left">  Since its founding in 2008, the school has always placed its emphasis on the holistic development of Vistalites with a focus on leveraging technological affordances for teaching and learning. It has an Applied Learning Programme (ALP) which aims to develop computational and logical thinking in students through coding and the development of 21 CC through the application of the digital skills learnt to solve real world issues.  The school’s Learning for Life Programme (LLP), focusing on the Visual and Performing Art allows students to learn and appreciate the various art forms e.g. music, photography, ceramic and batik painting and work creatively and collaboratively to finish the projects assigned.
 
 
 
