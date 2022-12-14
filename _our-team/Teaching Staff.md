@@ -9,7 +9,7 @@ description: ""
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 1-1 | Mdm Norsafrina <br> [norsafrina_sapari@moe.edu.sg](mailto:norsafrina_sapari@moe.edu.sg)  | Mdm Lim Jia Min <br>  [lim_jia_min@moe.edu.sg](mailto:lim_jia_min@moe.edu.sg)  |
-| P 1-2 | Ms Yeo Si Min<br>  [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg)  | Mdm Analiza <br>  [analiza_suboh@moe.edu.sg](mailto:analiza_suboh@moe.edu.sg)  |
+| P 1-2 | Ms Yeo Si Min<br>  [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg)  | Mdm Liu Jin <br>  [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg)  |
 | P 1-3 |   Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mdm Audrey Heng <br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)   |
 | P 1-4 | Miss Atiroh<br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  | Mr Alvin Lee <br>[lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
 | P 1-5 |   Mrs Vivien Lim <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  |   Miss Devaki <br> [devaki_vindinnada@moe.edu.sg](mailto:devaki_vindinnada@moe.edu.sg)  |
