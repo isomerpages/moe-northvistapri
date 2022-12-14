@@ -14,7 +14,7 @@ description: ""
 | P 1-4 | Mdm Rozita<br>  [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  | Miss Chong Yuan Ping <br>[chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  |
 | P 1-5 |   Ms Wu Lihua <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)  |   Mr Cavin Lee <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
 |  P 1-6  | Ms Ang Lee Im <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Ms Vijayalakshmi <br> [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)  |
-|  P 1-7  | Mr Lawrence Lim <br> [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg) | Miss Jessica Cheah <br>[jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg)   |
+|  P 1-7  | Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg) | Miss Jessica Cheah <br>[jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg)   |
 | P 1-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)   | Mdm Lydia <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
 | P 1-9 | Mdm Rose Iliyana <br> [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg)   |  Mdm Zheng Hui <br> [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg)  |
 |
