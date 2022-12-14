@@ -55,7 +55,7 @@ description: ""
 
 
 ### School Fees 
-##### School/Miscellaneous/Fees: GIRO Scheme
+##### School/Miscellaneous/Fees -  GIRO Scheme
 1. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO. 
 2. Monthly deductions will be made on the 26th of each month from February to December. The fees payable for January and February will be deducted together on 26th February.   
 3. Parents are to ensure there is sufficient fund in their bank accounts before the deduction dates. <br><br>
