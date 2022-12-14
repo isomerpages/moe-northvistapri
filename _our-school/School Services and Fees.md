@@ -89,7 +89,7 @@ Parents can  approach the school directly if they require financial assistance. 
 
 | | For each working household member | For each self-employed/unemployed family member |
 | -------- | -------- | -------- |
-| Documents required | a) Recent pay slip; or <br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months | Text     |
+| Documents required | a) Recent pay slip; or <br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months | a) Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> b) Written declaration at Section A/B of Annex II in the application form. <br> c) CPF Transaction Statement for past 12 months.     |
 
 
 
