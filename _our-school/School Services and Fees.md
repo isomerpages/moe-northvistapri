@@ -64,6 +64,15 @@ A student is eligible for MOE FAS if the Gross Household Income (GHI) does not e
 
 The introduction of Per Capita Income (PCI) will enable students from larger families to benefit from financial assistance. Household members include parents, unmarried siblings and grandparents of the child as well as other dependents living in the same household. PCI is computed by dividing the gross household income by the number of members in the household. For more details, please refer to https://www.moe.gov.sg/financial-matters/financial-assistance
 
+##### Benefits Under MOE FAS Scheme for Primary Level
+1. Full waiver of $6.50 per month for Standard Miscellaneous Fees 
+2. Free textbooks
+3. Free school attire 
+4. Transport subsidy of 65% of school bus fares for students taking school bus, or $17 per month from month of approval, up to $204 per annum for students taking public transport. 
+5. Subsidy for 7 meals per 5-day school week from month of approval, for up to 40 school weeks per annum. 
+
+
+
 
 
 
