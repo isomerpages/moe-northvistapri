@@ -78,9 +78,7 @@ Should parents have any feedback, they may use the following channels of communi
 
 #### 11\. Change of Contact Information
 
-Parents are to notify the school promptly if there is a change of address and/or telephone numbers. The school records will be 
-
-updated accordingly. In case of emergencies, such information is vital.
+Parents are to notify the school promptly if there is a change of address and/or telephone numbers. The school records will be updated accordingly. In case of emergencies, such information is vital.
 
 #### 12\. Responsibility for Personal Properties
 
