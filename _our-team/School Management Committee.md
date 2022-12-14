@@ -28,12 +28,11 @@ description: ""
 | 11 | Year Head (Middle Primary/P3 & P4)   | Mrs Simon Foo  | [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  |
 |  12 | Year Head (Upper Primary/P5 & P6)   | Mr John Wu  | [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)  |
 |  13 | Level Head (Chinese Language)   |  Ms Fiona Yoong | [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)  |
-|  12 | Level Head (Mathematics)    | Mrs Jusuf-Leow Hui Mei  | [leow_hui_mei@moe.edu.sg](mailto:leow_hui_mei@moe.edu.sg)  |
-|  13 | Subject Head (Malay Language)   | Mr Suryadi  | [suryadi_mohd_bajuri@moe.edu.sg](mailto:suryadi_mohd_bajuri@moe.edu.sg)  |
-| 14  | Subject Head (Science & Environmental Ed.)   | Mr Boh Zuze  | [boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)  |
-| 15 | Subject Head (Innovation & Cyber Wellness)    | Ms Tan Hui Min  | [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
-|  16 | Subject Head (Character & Citizenship Ed.)   | Mrs Ashley Mak  | [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)  |
-|  17 | Subject Head (National Ed. & Social Studies)   | Ms Jasmine Gan  | [gan_hwee_ping@moe.edu.sg](mailto:gan_hwee_ping@moe.edu.sg)  |
+|  14 | Subject Head (Malay Language)   | Mr Suryadi  | [suryadi_mohd_bajuri@moe.edu.sg](mailto:suryadi_mohd_bajuri@moe.edu.sg)  |
+| 15  | Subject Head (Science & Environmental Ed.)   | Mr Boh Zuze  | [boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)  |
+| 16 | Subject Head (Innovation & Cyber Wellness)    | Ms Tan Hui Min  | [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
+|  17 | Subject Head (Character & Citizenship Ed.)   | Mrs Ashley Mak  | [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)  |
+|  18 | Subject Head (National Ed. & Social Studies)   | Ms Jasmine Gan  | [gan_hwee_ping@moe.edu.sg](mailto:gan_hwee_ping@moe.edu.sg)  |
 |   18 | Subject Head (Student Well-Being)  | Mdm Audrey Heng | [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)   |
 |   19 | Subject Head (Student Leadership Development)  | Mr Huang Shihao | [huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)    |
 |  20 | Assistant Year Head (Lower Primary/P2)   | Mdm Lydia  | [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
