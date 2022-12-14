@@ -9,12 +9,3 @@ description: ""
 |:---:|:---| 
 |**Name**|Field Dental Clinic by HPB|
 |**Telephone**| 8764 0230 |
-|**Opening Hours**| Text     |
-
-
-
-##### School Dental Service
-| | | 
-|:---:|:---| 
-|**Name**|Field Dental Clinic by HPB|
-|**Telephone**| 8764 0230 |
