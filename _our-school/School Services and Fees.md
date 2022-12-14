@@ -39,7 +39,14 @@ description: ""
 | Name | SFX Transport Pte Ltd |
 | Telephone | 6282 0262 |
 | Fax | 6282 0262 |
-| Email | enquiry@sfxtransport.com.sg| 
+| Email | enquiry@sfxtransport.com.sg|
+
+#### School Library Service
+
+|  |  |
+| -------- | -------- | 
+| Name | My Little Library |
+| Opening hours | 8.00 a.m. to 4.00 p.m. |
 
 
 
