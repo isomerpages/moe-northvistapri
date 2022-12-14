@@ -3,7 +3,7 @@ title: School Services and Fees
 permalink: /our-school/school-services/
 description: ""
 ---
-[nametag order.pdf](nametag order.pdf)### School Services
+### School Services
 
 |  |  |
 |---|---|
@@ -15,7 +15,6 @@ description: ""
 | Student Care Service:  Telephone: <br> Email Address: <br> Opening Hours: | Nascans Student Care Centre (North Vista Primary School) <br> <br> 9829 2889 / 9622 4924 <br> nvscc@nascans.com <br>11.00 a.m. to 7.00 p.m. |
 |
 
-For the purchase of name tag, parents can fill up the name tag order [form](/files/nametag%20order.pdf) and submit to the school bookshop.
 ### School Fees 
 ##### School/Miscellaneous/Fees: GIRO Scheme
 1. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO. 
@@ -44,7 +43,7 @@ Please bring the following supporting documents with you during your application
 
 |  | For each working Household Member | For each Self-employed/Unemployed Family Member |
 |:---:|---|---|
-| Documents required | <font align="left">a) Recent pay slip; or </font><br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months  | a) Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> b) Written declaration at Section A/B of Annex II in the application form. <br> c) CPF Transaction Statement for past 12 months. |
+| Documents required | a) Recent pay slip; or <br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months  | a) Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> b) Written declaration at Section A/B of Annex II in the application form. <br> c) CPF Transaction Statement for past 12 months. |
 |
 
 ##### PC-Bundle Application Form
