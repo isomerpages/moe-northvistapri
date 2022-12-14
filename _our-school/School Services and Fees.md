@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Services
 
-#### School Dental Service
+#### School Dental 
 
 * **Name**: Field Dental Clinic by HPB <br>
 * **Telephone**: 8764 0230 <br>
@@ -56,7 +56,14 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 | -------- | -------- | -------- |
 | Opening Hours  | 8 a.m. to 4 p.m.     | |
 
-#### School Student Care Service
+#### Student Care 
+
+
+| Name | Nascans Student Care Centre | |
+| -------- | -------- | -------- |
+| Telephone  | 9829 2889 or 9622 4924  | |
+| Email | nvscc@nascans.com | |
+| Opening Hours | 11 a.m. to 7 p.m.
 
 
 
