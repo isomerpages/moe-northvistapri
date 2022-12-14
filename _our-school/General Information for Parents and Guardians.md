@@ -30,9 +30,7 @@ On CCA days, parents/caregivers will pick the students from the main gate. They 
 
 #### 5\. Outside the School  
 
-Students are to use the pedestrian crossing and obey traffic signals. They are to exercise care and caution when crossing the road,
-
-such as always look right, look left, look right again and raise the right hand before crossing the road.
+Students are to use the pedestrian crossing and obey traffic signals. They are to exercise care and caution when crossing the road, such as always look right, look left, look right again and raise the right hand before crossing the road.
 
 ![](/images/Safe%20Route%20to%20School%202022.jpg)
 
