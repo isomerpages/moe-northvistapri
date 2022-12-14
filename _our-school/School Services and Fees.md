@@ -69,7 +69,12 @@ The introduction of Per Capita Income (PCI) will enable students from larger fa
 2. Free textbooks
 3. Free school attire 
 4. Transport subsidy of 65% of school bus fares for students taking school bus, or $17 per month from month of approval, up to $204 per annum for students taking public transport. 
-5. Subsidy for 7 meals per 5-day school week from month of approval, for up to 40 school weeks per annum. 
+5. Subsidy for 7 meals per 5-day school week from month of approval, for up to 40 school weeks per annum.
+
+##### How to Apply
+
+Parents can approach the school directly if they require financial assistance.
+Please bring the following supporting documents with you during your application:
 
 
 
