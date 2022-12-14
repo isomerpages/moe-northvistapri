@@ -18,12 +18,12 @@ description: ""
 | 1 | Master Teacher (Math)   | Ms Chan Min Lie | [chan_min_lie@moe.edu.sg](mailto:chan_min_lie@moe.edu.sg)  |
 | 2 | School Staff Developer   | Mdm Lua Wee Suan | [lua_wee_suan@moe.edu.sg](mailto:lua_wee_suan@moe.edu.sg)  |
 | 3 | Head of Department (English)   | Mr Nelson Ong | [nelson_ong@moe.edu.sg](mailto:nelson_ong@moe.edu.sg)  |
-| 3 | Head of Department (Mother Tongue)  | Mdm Zhang Lei | [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
-|  4  | Head of Department (Mathematics)    | Mrs Lim Seok Hong  | [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg)  |
-| 5 | Head of Department (Science)   | Mr Francis Yam  | [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg)  |
-|  6  | Head of Department (PE/CCA/Aesthetics)   | Mr Alvin Lee  | [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
-|  7  | Head of Department (ICT)   | Mr Ng Chun Hao  | [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
-| 8 | Head of Department (Student Management)   | Mr Faizan   | [mohamed_faizan_juli@moe.edu.sg](mailto:mohamed_faizan_juli@moe.edu.sg)  |
+| 4 | Head of Department (Mother Tongue)  | Mdm Zhang Lei | [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
+|  5  | Head of Department (Mathematics)    | Mrs Lim Seok Hong  | [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg)  |
+| 6 | Head of Department (Science)   | Mr Francis Yam  | [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg)  |
+|  7  | Head of Department (PE/CCA/Aesthetics)   | Mr Alvin Lee  | [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
+|  8  | Head of Department (ICT)   | Mr Ng Chun Hao  | [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
+| 9 | Head of Department (Student Management)   | Mr Faizan   | [mohamed_faizan_juli@moe.edu.sg](mailto:mohamed_faizan_juli@moe.edu.sg)  |
 | 8 | Year Head (Lower Primary/P1)  | Mrs Simon Foo  | [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  |
 | 9 | Year Head (Middle Primary/P3 & P4)   | Mr John Wu  | [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)  |
 |  10 | Year Head (Upper Primary/P6)   | Mr Cavin Lee  | [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
