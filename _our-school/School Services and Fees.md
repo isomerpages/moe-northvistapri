@@ -10,7 +10,7 @@ description: ""
 |**Name**|Field Dental Clinic by HPB|
 |**Telephone**| 8764 0230 |
 |**Opening Hours**| Text     |
-|**Opening Hours**|Monday to Friday (alternate weeks), from 8.00 a.m. to 5.30 p.m. (lunch hour from 12.30 p.m. to 1.30 p.m.)|
+
 
 
 ##### School Dental Service
@@ -18,7 +18,3 @@ description: ""
 |:---:|:---| 
 |**Name**|Field Dental Clinic by HPB|
 |**Telephone**| 8764 0230 |
-
-
-
-
