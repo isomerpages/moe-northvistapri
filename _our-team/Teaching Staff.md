@@ -44,7 +44,7 @@ description: ""
 | P 3-2 | Ms Gan Hui Ling Jen <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg) | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg) |
 | P 3-3 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Mrs Kelly Lim <br>  [mak_wenjing@moe.edu.sg  ](mailto:mak_wenjing@moe.edu.sg  )    |
 | P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg) | Ms Jasmine Gan <br> [gan_hwee_ping@moe.edu.sg](mailto:gan_hwee_ping@moe.edu.sg) |
-| P 3-5 | Mdm Yeong Yimei <br> [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) | Mr Teo Ting Rui <br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) |
+| P 3-5 | Miss Lai Liyu <br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg) | Mdm Sarah<br> [nor_sarah_banu_gulam@moe.edu.sg](mailto:nor_sarah_banu_gulam@moe.edu.sg) |
 | P 3-6 | Mr Joel Wong <br> [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)   | Mdm Nur Ashiqin <br>  [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg) |
 |
 
