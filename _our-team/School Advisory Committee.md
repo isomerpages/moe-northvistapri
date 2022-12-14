@@ -3,10 +3,6 @@ title: School Advisory Committee
 permalink: /our-team/school-advisory-committee/
 description: ""
 ---
-### School Advisory Committee
-
-
-
 		 
 | |
 |:---:|
@@ -16,4 +12,3 @@ description: ""
 |<img src="/images/Mdm%20Tan%20Puay%20Hwee%20Katrina_Member.jpg" style="width:25%"> Mdm Tan Puay Hwee Katrina <br> Member|
 |<img src="/images/Mr%20Seow%20Soon%20Yong_Member.jpg" style="width:25%"> Mr Seow Soon Yong <br> Member |
 |
-
