@@ -39,8 +39,8 @@ description: ""
 
 ||||
 |:---:|:---:|:---:|
-| **Class** | **Form Teacher 1** | **Form Teacher 2** |
-| P 3-1  | Mrs Letitia Lim <br> [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)  | Mdm Cui Wenjuan <br> [cui_wenjuan@moe.edu.sg](mailto:cui_wenjuan@moe.edu.sg) |
+| **Class** | **Form Teacher** | **Form Teacher** |
+| P 3-1  | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg)  | Mr Francis Yam <br> [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg) |
 | P 3-2 | Mrs Chiu Wan Ting <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg) | Mr Rohman <br> [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg) |
 | P 3-3 | Ms Adeline Sim <br> [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg)   | Miss Loke Mei Yen <br>  [loke_mei_yen@moe.edu.sg](mailto:loke_mei_yen@moe.edu.sg)    |
 | P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg) | Mr John Wu <br> [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg) |
