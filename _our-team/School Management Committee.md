@@ -27,7 +27,7 @@ description: ""
 | 10 | Year Head (Lower Primary/P1 & P2)  | Mr Cavin Lee  | [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
 | 11 | Year Head (Middle Primary/P3 & P4)   | Mrs Simon Foo  | [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  |
 |  12 | Year Head (Upper Primary/P5 & P6)   | Mr John Wu  | [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)  |
-|  11 | Level Head (English)   | Ms Krishnan Rani  | [rani_ratha_krishnan@moe.edu.sg](mailto:rani_ratha_krishnan@moe.edu.sg)  |
+|  13 | Level Head (Chinese Language)   |  Ms Fiona Yoong | [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)  |
 |  12 | Level Head (Mathematics)    | Mrs Jusuf-Leow Hui Mei  | [leow_hui_mei@moe.edu.sg](mailto:leow_hui_mei@moe.edu.sg)  |
 |  13 | Subject Head (Malay Language)   | Mr Suryadi  | [suryadi_mohd_bajuri@moe.edu.sg](mailto:suryadi_mohd_bajuri@moe.edu.sg)  |
 | 14  | Subject Head (Science & Environmental Ed.)   | Mr Boh Zuze  | [boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)  |
