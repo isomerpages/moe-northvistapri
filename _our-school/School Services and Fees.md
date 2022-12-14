@@ -7,9 +7,7 @@ description: ""
 
 #### School Dental 
 
-* **Name**: Field Dental Clinic by HPB <br>
-* **Telephone**: 8764 0230 <br>
-* **Opening Hours**: Monday to Friday (alternate weeks), 8.00 a.m. to 5.30 p.m. (Please note that lunch hour is from 12.30 p.m. to 1.30 p.m.)
+
 
 | Name | Field Dental Clinic by HPB |  |
 | -------- | -------- | -------- |
@@ -64,9 +62,3 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 | Telephone  | 9829 2889 or 9622 4924  | |
 | Email | nvscc@nascans.com | |
 | Opening Hours | 11 a.m. to 7 p.m.
-
-
-
-
-
-
