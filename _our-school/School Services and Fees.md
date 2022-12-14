@@ -48,3 +48,25 @@ description: ""
 | Telephone | 9829 2889 / 9622 4924 |
 | Email | nvscc@nascans.com
 |Opening hours | 11.00 p.m. to 7.00 p.m. |
+
+### School Fees
+#### School/Miscellaneous/Fee - GIRO Scheme
+
+1. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO. 
+2. Monthly deductions will be made on the 26th of each month from February to December. The fees payable for January and February will be deducted together on 26th February.   
+3. Parents are to ensure there is sufficient fund in their bank accounts before the deduction dates. <br><br>
+Parents are required to approach the General Office for application forms for GIRO Scheme or to make any changes to their GIRO Scheme.
+
+##### MOE Financial Assistance Scheme (MOE FAS) for students who are Singapore Citizens
+##### Income Limits
+
+A student is eligible for MOE FAS if the Gross Household Income (GHI) does not exceed $3000 per month or Per Capita Income (PCI) does not exceed $750 per month.
+
+The introduction of Per Capita Income (PCI) will enable students from larger families to benefit from financial assistance. Household members include parents, unmarried siblings and grandparents of the child as well as other dependents living in the same household. PCI is computed by dividing the gross household income by the number of members in the household. For more details, please refer to https://www.moe.gov.sg/financial-matters/financial-assistance
+
+
+
+
+
+
+
