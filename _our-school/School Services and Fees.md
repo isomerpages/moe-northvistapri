@@ -6,6 +6,6 @@ description: ""
 ### School Services
 ##### School Dental Service
 | | | 
-|:---:|---| 
+|:---:|:---:| 
 |Name|Field Dental Clinic by HPB|
 | Telephone | 8764 0230 |
