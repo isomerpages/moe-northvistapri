@@ -3,11 +3,6 @@ title: 2023 Teaching Staff
 permalink: /our-team/2022-teaching-staff/
 description: ""
 ---
-
-
-
-### 2023 Teaching Staff
-
 #### Primary One
 
 ||||
