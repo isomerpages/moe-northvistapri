@@ -12,7 +12,7 @@ description: ""
 | Name | Field Dental Clinic by HPB |  |
 | -------- | -------- | -------- |
 | Telephone | 8764 0230 |    |
-| Opening hours  | Monday to Friday (alternate weeks), 8.00 a.m. to 5.30 p.m.     |    |
+| Opening Hours  | Monday to Friday (alternate weeks), 8.00 a.m. to 5.30 p.m.     |    |
 | Lunch Hour | 12.30 p.m. to 1.30 p.m.
 
 #### School Bookshop 
@@ -31,7 +31,7 @@ During term time, parents are requested to purchase items during non-peak hours.
 
 | Name | Chop Kong Chong | |
 | -------- | -------- | -------- |
-| Address | 604 Sembawang Road #02-13, Sembawang Shopping Centre Singapore 758459 | |
+| Address | 604 Sembawang Road #02-13, Sembawang Shopping Centre, Singapore 758459 | |
 | Telephone | 6753 1489 | |
 | Email | sales@euniforms.com.sg| |
 
@@ -52,7 +52,7 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 
 | Name | My Little Library | |
 | -------- | -------- | -------- |
-| Opening Hours  | 8 a.m. to 4 p.m.     | |
+| Opening Hours  | 8 a.m. to 4 p.m. | |
 
 #### Student Care 
 
@@ -80,7 +80,8 @@ The introduction of Per Capita Income (PCI) will enable students from larger fam
 1. Full wavier of $6.50 per month for standard miscellaneous fees
 2. Free textbooks
 3. Free school attire
-4. Transport subsidy of 65% of school bus fares for students taking school bus, or $17 per month from month of approval, for up to 40 school weeks per annum.
+4. Transport subsidy of 65% of school bus fares for students taking school bus, or $17 per month from month of approval, for up to $204 per annum for students taking public transport.
+5. Subsidy for 7 meals per 5-day school week from month of approval, for up to 40 school weeks per annum.
 
 ##### How to apply
 
@@ -89,9 +90,4 @@ Parents can  approach the school directly if they require financial assistance. 
 
 | | For each working household member | For each self-employed/unemployed family member |
 | -------- | -------- | -------- |
-| Documents required | a) Recent pay slip; or <br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months | a) Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> b) Written declaration at Section A/B of Annex II in the application form. <br> c) CPF Transaction Statement for past 12 months.     |
-
-
-
-
-
+| Documents required | a) Recent pay slip; or <br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months. | a) Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> b) Written declaration at Section A/B of Annex II in the application form. <br> c) CPF Transaction Statement for past 12 months.     |
