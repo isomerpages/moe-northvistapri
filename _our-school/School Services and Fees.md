@@ -4,11 +4,15 @@ permalink: /our-school/school-services/
 description: ""
 ---
 ### School Services
-
-|  |  |
-|---|---|
-| School Dental Clinic: <br>  Telephone: <br> Opening Hours: | Field Dental Clinic by HPB  <br><br> 8764 0230 <br> Monday to Friday (alternate weeks), from 8.00 a.m. to 5.30 p.m. (lunch hour from 12.30 p.m. to 1.30 p.m.) |
-| School Bookshop:  Telephone: <br> Opening Hours: | BL Marketing Pte Ltd <br>  6481 2378 <br> Daily from 7.30 a.m. to 2.30 p.m. During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up the [name tag order form](/files/nametag%20order.pdf) and submit to the school bookshop. |
+|   |   | 
+|:---:|---|
+#### School Dental Service 
+| School Dental Clinic | Field Dental Clinic by HPB <br>|
+| Telephone | 8764 0230 |
+| Opening Hours | Monday to Friday (alternate weeks), from 8.00 a.m. to 5.30 p.m. (lunch hour from 12.30 p.m. to 1.30 p.m.) |
+| School Bookshop | BL Marketing Pte Ltd |
+| Telephone | 6481 2378 |
+| Opening Hours | Daily from 7.30 a.m. to 2.30 p.m. During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up the [name tag order form](/files/nametag%20order.pdf) and submit to the school bookshop. |
 | School Uniform: <br>  Address: <br> Telephone: <br> Email: <br> | Chop Kong Chong <br>  604 Sembawang Rd #02-13, Sembawang Shopping Centre, Singapore 758459 <br> 6753 1489  <br>sales@euniforms.com.sg <br>  <br>Parents can arrange for home delivery for purchases above $50. There is a delivery charge of $4/- for each delivery. Alternatively, parents can purchase the uniform from the school bookshop during school days. |
 | School Bus Service:  Telephone: <br> Fax: <br> Email Address: | SFX Transport Pte Ltd <br> <br> 6282 0262 <br> 6382 0262 <br> enquiry@sfxtransport.com.sg |
 | School Library: <br> Opening Hours: | My Little Library <br> 8.00 a.m. – 4.00 p.m. |
