@@ -9,7 +9,7 @@ description: ""
 | |
 |:---:|
 | <img src="/images/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg" style="width:25%">	Mr Ong Lye Whatt <br> Principal |
-|<img src="/images/Mr%20Amran%20Bin%20Tasrif%20Vice%20Principal%20EO.png" style="width:25%"> Mr Toe Tiong Hock <br> PBM Treasurer |
+|<img src="/images/Mr%20Amran%20Bin%20Tasrif%20Vice%20Principal%20EO.png" style="width:25%"> Mr Amran Tasrif <br> Vice Principal |
 |<img src="/images/Mrs%20Audrey%20Lee%20-%20Vice%20Principal%20(Admin).jpg" style="width:25%"> Mr Ang Tian Chua <br>Member |
 |
 
