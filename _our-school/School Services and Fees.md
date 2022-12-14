@@ -26,10 +26,7 @@ description: ""
 | Opening Hours | Monday to Friday, 7.30 a.m. to 2.30 p.m.
 
 
-During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up and submit to the school bookshop.
-
-
-
+During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up the [name tag order form](/files/nametag%20order.pdf) and submit to the school bookshop.
 
 
 
