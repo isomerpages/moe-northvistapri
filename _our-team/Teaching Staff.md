@@ -55,7 +55,7 @@ description: ""
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 4-1 | Ms Liu Lingzhu <br> [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  | Mdm Nurshidah  <br>[nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)  |
 | P 4-2 | Mrs Chiu Wan Ting<br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)  | Mr Rohman <br> [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg)  |
-| P 4-3 |  Ms Ang Lee Im <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  |  Mr Dennis Tan <br> [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)  |
+| P 4-3 |  Mr Ralph Ong <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  |  Mr Suryadi <br> [suryadi_mohd_bajuri@moe.edu.](mailto:suryadi_mohd_bajuri@moe.edu.)  |
 |  P 4-4 | Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg) |    Mr Huang Shihao <br> [huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)  |
 |  P 4-5  | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg)  | Mr Francis Yam <br> [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg)  |
 | P 4-6 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)  | Mdm Nurshidah  <br> [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)  |
