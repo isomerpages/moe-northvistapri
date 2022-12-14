@@ -39,15 +39,16 @@ During term time, parents are requested to purchase items during non-peak hours.
 
 Parents can arrange for home delivery for purchases above $50. There is a delivery charge of $4 for each delivery. Alternatively, parents can purchase the uniform from the school bookshop during school days.
 
+#### School Bus
 
 
+| Name | SFX Transport Pte Ltd | |
+| -------- | -------- | -------- |
+| Telephone | 6282 0262 | |
+| Fax | 6382 0262 | |
+| Email | enquiry@sfxtransport.com.sg | |
 
-
-
-
-
-
-
+#### School Library
 
 
 
