@@ -33,11 +33,12 @@ description: ""
 | 16 | Subject Head (Innovation & Cyber Wellness)    | Ms Tan Hui Min  | [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
 |  17 | Subject Head (Character & Citizenship Ed.)   | Mrs Ashley Mak  | [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)  |
 |  18 | Subject Head (National Ed. & Social Studies)   | Ms Jasmine Gan  | [gan_hwee_ping@moe.edu.sg](mailto:gan_hwee_ping@moe.edu.sg)  |
-|   18 | Subject Head (Student Well-Being)  | Mdm Audrey Heng | [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)   |
-|   19 | Subject Head (Student Leadership Development)  | Mr Huang Shihao | [huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)    |
-|  20 | Assistant Year Head (Lower Primary/P2)   | Mdm Lydia  | [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
-|  21 | Assistant Year Head (Upper Primary/P5)  | Mr Desmond Tan   | [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg)   |
-|  22 | Lead Teacher (Science)   | Mr Rohman  | [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg)   |
+|   19 | Subject Head (Student Well-Being)  | Mdm Audrey Heng | [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)   |
+|   20 | Subject Head (Student Leadership Development)  | Mr Huang Shihao | [huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)    |
+|  21 | Assistant Year Head (Lower Primary/P2)   | Mdm Lydia  | [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
+|  22 | Assistant Year Head (Upper Primary/P6)  | Mr Desmond Tan   | [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg)   |
+|  23 | Lead Teacher (Science)   | Mr Rohman  | [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg)   |
+|  24 | Senior Teacher (English)   | Mrs Eng I-Ling  | [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)   |
 |  23 | Senior Teacher (Chinese Language)    | Mdm Liu Jin  | [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg) |
 |  24 | Senior Teacher (Malay Language)    | Mr Zaki | [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)  |
 |  25 | Senior Teacher (PE)   | Mdm Yeong Yi Mei  | [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)   |
