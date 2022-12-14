@@ -13,6 +13,7 @@ description: ""
 <br>
 
 
+
 | SN | Designation | Name | Email |
 |:---:|---|---|---|
 | 1 | Master Teacher (Math)   | Ms Chan Min Lie | [chan_min_lie@moe.edu.sg](mailto:chan_min_lie@moe.edu.sg)  |
