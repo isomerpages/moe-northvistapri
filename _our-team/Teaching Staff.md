@@ -42,7 +42,7 @@ description: ""
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 3-1  | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg)  | Mr Francis Yam <br> [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg) |
 | P 3-2 | Ms Gan Hui Ling Jen <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg) | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg) |
-| P 3-3 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Miss Loke Mei Yen <br>  [loke_mei_yen@moe.edu.sg](mailto:loke_mei_yen@moe.edu.sg)    |
+| P 3-3 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Mrs Kelly Lim <br>  [mak_wenjing@moe.edu.sg  ](mailto:mak_wenjing@moe.edu.sg  )    |
 | P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg) | Mr John Wu <br> [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg) |
 | P 3-5 | Mdm Yeong Yimei <br> [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) | Mr Teo Ting Rui <br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) |
 | P 3-6 | Mr Joel Wong <br> [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)   | Mdm Nur Ashiqin <br>  [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg) |
