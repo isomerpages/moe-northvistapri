@@ -39,7 +39,9 @@ description: ""
 |  22 | Assistant Year Head (Upper Primary/P6)  | Mr Desmond Tan   | [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg)   |
 |  23 | Lead Teacher (Science)   | Mr Rohman  | [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg)   |
 |  24 | Senior Teacher (English)   | Mrs Eng I-Ling  | [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)   |
-|  23 | Senior Teacher (Chinese Language)    | Mdm Liu Jin  | [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg) |
-|  24 | Senior Teacher (Malay Language)    | Mr Zaki | [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)  |
-|  25 | Senior Teacher (PE)   | Mdm Yeong Yi Mei  | [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)   |
+|  25 | Senior Teacher (Chinese Language)    | Mdm Liu Jin  | [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg) |
+|  26 | Senior Teacher (Malay Language)    | Mr Zaki | [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)  |
+|  27 | Senior Teacher (PE)   | Mdm Yeong Yi Mei  | [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)   |
 |
+
+
