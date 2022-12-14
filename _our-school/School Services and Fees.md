@@ -48,8 +48,14 @@ description: ""
 | Name | My Little Library |
 | Opening hours | 8.00 a.m. to 4.00 p.m. |
 
+#### School Student Care Service
 
-
+|  |  | 
+| -------- | -------- |
+| Name | Nascans Student Care Centre |
+| Telephone | 9829 2889 / 9622 4924 |
+| Email | nvscc@nascans.com
+|Opening hours | 11.00 p.m. to 7.00 p.m. |
 
 
 
