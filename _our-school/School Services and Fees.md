@@ -76,7 +76,8 @@ The introduction of Per Capita Income (PCI) will enable students from larger fa
 Parents can approach the school directly if they require financial assistance.
 Please bring the following supporting documents with you during your application:
 
-
+|  | For each working Household Member | For each Self-employed/Unemployed Family Member |
+|:---:|---|---|
 
 
 
