@@ -58,7 +58,7 @@ description: ""
 | P 4-3 |  Mr Ralph Ong <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  |  Mr Suryadi <br> [suryadi_mohd_bajuri@moe.edu.](mailto:suryadi_mohd_bajuri@moe.edu.)  |
 |  P 4-4 | Ms Shamin Lin <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |    Mr Wu Hekun <br> [wu_hekun@moe.edu.sg](mailto:wu_hekun@moe.edu.sg)  |
 |  P 4-5  | Mdm Rose Iliyana <br> [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg)  | Mrs Eng I-Ling<br> [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  |
-| P 4-6 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)  | Mdm Nurshidah  <br> [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)  |
+| P 4-6 | Ms Naomi Ashley <br> [naomi_ashley@moe.edu.sg](mailto:naomi_ashley@moe.edu.sg)  | Mdm Nurshidah  <br> [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)  |
 |  P4-7 | Miss Shamin Lin <br>  [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |   Mr Suryadi <br> [suryadi_mohd_bajuri@moe.edu.sg](mailto:suryadi_mohd_bajuri@moe.edu.sg) |
 | 
 
