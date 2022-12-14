@@ -26,7 +26,7 @@ description: ""
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 2-1 | Miss Subhadra <br> [subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  | Miss Norazizah <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)  |
 | P 2-2 | Mdm Diyanah <br> [nur_diyanah_amalina_abdul@moe.edu.sg](mailto:nur_diyanah_amalina_abdul@moe.edu.sg)  | Mdm Cui Wenjuan <br> [cui_wenjuan@moe.edu.sg](mailto:cui_wenjuan@moe.edu.sg)    |
-| P 2-3 |   Ms Amy Ong <br>  [amy_ong_poh_ling@moe.edu.sg](mailto:amy_ong_poh_ling@moe.edu.sg)  | Mr Zaki<br> [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)  |
+| P 2-3 |   Mdm Nur Faezah <br>  [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mdm Audrey Heng<br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)  |
 | P 2-4 | Miss Jaya <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)   | Mrs Simon Foo <br>  [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  |
 | P 2-5 | Miss Cheryl Tai <br> [tai_xin_yi_cheryl@moe.edu.sg](mailto:tai_xin_yi_cheryl@moe.edu.sg) | Ms Liu Lingzhu  <br> [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  |
 | P 2-6  |  Ms Yeo Simin <br>  [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg) | Miss Lai Liyu <br>  [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg)  |
