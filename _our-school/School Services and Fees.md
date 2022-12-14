@@ -32,14 +32,14 @@ description: ""
 | Telephone | 6753 1489 |
 | Email | sales@euniforms.com.sg <br><br>Parents can arrange for home delivery for purchases above $50. There is a delivery charge of $4/- for each delivery. Alternatively, parents can purchase the uniform from the school bookshop  during the school days.|
 
+#### School Bus Service
 
-
-
-
-
-
-
-
+|  |  | 
+| -------- | -------- |
+| Name | SFX Transport Pte Ltd |
+| Telephone | 6282 0262 |
+| Fax | 6282 0262 |
+| Email | enquiry@sfxtransport.com.sg| 
 
 
 
