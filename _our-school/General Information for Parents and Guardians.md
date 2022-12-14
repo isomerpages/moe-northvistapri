@@ -41,7 +41,7 @@ When a student is unwell, the school will contact the parent/guardian to pick th
 
 #### 7\. Insurance
 
-The school provides basic insurance coverage for all students. For claims, parents may go [](https://www.northvistapri.moe.edu.sg/)[online](https://studentgpa.incomegroupins.com.sg/#/) or complete the hard copy of the claim form obtainable from the General Office.
+The school provides basic insurance coverage for all students. For claims, parents may go [](https://www.northvistapri.moe.edu.sg/)[online](https://studentgpa.incomegroupins.com.sg/#/) .
 
 Parents may choose to buy additional coverage at their own discretions.
 
