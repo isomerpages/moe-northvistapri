@@ -4,20 +4,55 @@ permalink: /our-school/school-services/
 description: ""
 ---
 ### School Services
+#### School Dental Service
+| | | 
+|:---:|---| 
+| Name | Field Dental Clinic by HPB <br>|
+| Telephone | 8764 0230 |
+| Opening Hours | Monday to Friday (alternate weeks), <br>from 8.00 a.m. to 5.30 p.m. <br>(lunch - 12.30 p.m. to 1.30 p.m.) |
+
+##### School Bookshop Service
+|  |  | 
+|:---:|---| 
+| Name | BL Marketing Pte Ltd |
+| Telephone | 6481 2378 |
+| Opening Hours | 7.30 a.m. to 2.30 p.m. daily<br><br>During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up the [name tag order form](/files/nametag%20order.pdf) and submit to the school bookshop. |
+
+
+#### School Uniform Service 
 |   |   | 
 |:---:|---|
-#### School Dental Service 
-| School Dental Clinic | Field Dental Clinic by HPB <br>|
-| Telephone | 8764 0230 |
-| Opening Hours | Monday to Friday (alternate weeks), from 8.00 a.m. to 5.30 p.m. (lunch hour from 12.30 p.m. to 1.30 p.m.) |
-| School Bookshop | BL Marketing Pte Ltd |
-| Telephone | 6481 2378 |
-| Opening Hours | Daily from 7.30 a.m. to 2.30 p.m. During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up the [name tag order form](/files/nametag%20order.pdf) and submit to the school bookshop. |
-| School Uniform: <br>  Address: <br> Telephone: <br> Email: <br> | Chop Kong Chong <br>  604 Sembawang Rd #02-13, Sembawang Shopping Centre, Singapore 758459 <br> 6753 1489  <br>sales@euniforms.com.sg <br>  <br>Parents can arrange for home delivery for purchases above $50. There is a delivery charge of $4/- for each delivery. Alternatively, parents can purchase the uniform from the school bookshop during school days. |
-| School Bus Service:  Telephone: <br> Fax: <br> Email Address: | SFX Transport Pte Ltd <br> <br> 6282 0262 <br> 6382 0262 <br> enquiry@sfxtransport.com.sg |
-| School Library: <br> Opening Hours: | My Little Library <br> 8.00 a.m. – 4.00 p.m. |
-| Student Care Service:  Telephone: <br> Email Address: <br> Opening Hours: | Nascans Student Care Centre (North Vista Primary School) <br> <br> 9829 2889 / 9622 4924 <br> nvscc@nascans.com <br>11.00 a.m. to 7.00 p.m. |
-|
+| Name | Chop Kong Chong |  
+| Address | 604 Sembawang Rd #02-13, Sembawang Shopping Centre, Singapore 758459 |
+| Telephone | 6753 1489
+|Email |  sales@euniforms.com.sg <br><br> Parents can arrange for home delivery for purchases above $50. There is a delivery charge of $4/- for each delivery. Alternatively, parents can purchase the uniform from the school bookshop during school days.|
+ 
+##### School Bus Service
+|   |   | 
+|:---:|---|
+| Name | SFX Transport Pte Ltd |
+| Telephone | 6282 0262 |
+| Fax | 6282 0262 |
+|Email | enquiry@sfxtransport.com.sg |
+
+
+##### School Library Service
+|   |   | 
+|:---:|---|
+| Name | My Little Library |
+| Opening hours |  8.00 a.m. – 4.00 p.m. |
+
+
+
+##### School Student Care Service
+|   |   | 
+|:---:|---|
+| Name | Nascans Student Care Centre |
+| Telephone | 9829 2889 / 9622 4924 |
+| Email | nvscc@nascans.com |
+| Opening hours | 11.00 a.m. to 7.00 p.m. |
+
+
 
 ### School Fees 
 ##### School/Miscellaneous/Fees: GIRO Scheme
