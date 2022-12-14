@@ -32,7 +32,7 @@ description: ""
 | P 2-6  |  Mdm Jelena Chia <br>  [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) | Miss Sukainah <br>  [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)  |
 | P 2-7 | Mr Dennis Tan <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)   | Ms Ian Farah  <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)  |
 | P 2-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)   | Ms Jakin Ng  <br> [ng_yan_lin_jakin@moe.edu.sg](mailto:ng_yan_lin_jakin@moe.edu.sg) <br> Mdm Lydia  <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg) |
-| P2-9  | Mdm Zheng Hui <br>  [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg) |   Ms Jakin Ng   <br>[ng_yan_lin_jakin@moe.edu.sg](mailto:ng_yan_lin_jakin@moe.edu.sg) |
+| P2-9  | Mdm Zheng Hui <br>  [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg) |   Ms Adeline Sim   <br>[sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg) |
 |
 
 #### Primary Three
