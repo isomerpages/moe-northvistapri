@@ -30,7 +30,7 @@ description: ""
 | P 2-4 | Ms Jaya <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)   | Mr Teo Ting Rui <br>  [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) <br>Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  |
 | P 2-5 | Mrs Vivien Lim  <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg) | Miss Devaki  <br> [devaki_vindinnada@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  |
 | P 2-6  |  Mdm Jelena Chia <br>  [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) | Miss Sukainah <br>  [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)  |
-| P 2-7 | Mdm Rozita<br>  [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)   | Ms Wu Lihua  <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)  |
+| P 2-7 | Mr Dennis Tan <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)   | Ms Wu Lihua  <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)  |
 | P 2-8 | Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg)   | Mrs Anne Wong  <br> [ying_leng@moe.edu.sg](mailto:ying_leng@moe.edu.sg)  |
 | P2-9  | Mdm Siti Raudah<br>  [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg) |   Ms Jakin Ng   <br>[ng_yan_lin_jakin@moe.edu.sg](mailto:ng_yan_lin_jakin@moe.edu.sg) |
 |
