@@ -40,11 +40,7 @@ description: ""
 
 | SN | Name | Email |
 | -------- | -------- | -------- |
-| 1     | Mr Kumerasan s/o Kanayson, ICT Manager     | Text     |
+| 1     | Mr Kumerasan s/o Kanayson, ICT Manager     | [kumerasan_kanayson@moe.edu.sg](mailto:kumerasan_kanayson@moe.edu.sg.)   |
 | 2     | Miss Christina Er Mei Teng, Desktop Engineer     | Text     |
 | 3     | Mdm Gajendran Parameswari, Laboratory Assistant    | Text     |
 | 4    | Mrs Susan Tan, Librarian     | Text     |
-
-
-
-
