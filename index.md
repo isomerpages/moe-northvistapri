@@ -15,12 +15,6 @@ sections:
           url: /announcements/
       subtitle: Build Character, Inspire Passion in Learning
   - infobar:
-      title: Alumni
-      subtitle: North Vista Primary
-      description: We would like to invite all North Vista Primary Alumni to join Alumni
-      button: Registration
-      url: https://form.gov.sg/#!/606048116323630011ea7790
-  - infobar:
       title: "Congratulations "
       subtitle: Graduating Class of 2021
       description: Let's reminisce what valedictorian Rushvida Reddy had shared during
