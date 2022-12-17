@@ -43,7 +43,9 @@ description: ""
 | 1     | Mr Kumerasan s/o Kanayson, ICT Manager     | [kumerasan_kanayson@moe.edu.sg](mailto:kumerasan_kanayson@moe.edu.sg)   |
 | 2     | Miss Christina Er Mei Teng, Desktop Engineer     |   |
 | 3     | Mdm Gajendran Parameswari, Laboratory Assistant    | [gajendran_parameswari@moe.edu.sg](mailto:gajendran_parameswari@moe.edu.sg)    |
-| 4    | Mrs Susan Tan, Librarian     | [kumerasan_kanayson@moe.edu.sg](mailto:kumerasan_kanayson@moe.edu.sg.)     |
+| 4    | Mrs Susan Tan, Librarian     | [susan_tan_ler@moe.edu.sg](mailto:susan_tan_ler@moe.edu.sg)     |
+
+
 
 
 
