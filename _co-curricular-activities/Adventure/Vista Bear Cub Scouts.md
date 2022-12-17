@@ -33,7 +33,7 @@ A leadership camp aimed at training exemplary cub scouts so that they can fulfil
  #### CCA Schdedule
 Fridays.
 
-Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Schedule will be sent to parents via Parents Gateway before the start of a new semester. Students can also check the schedule via the CCA noticeboard at the bistro entrance.
 
 #### Scout Teachers
 
