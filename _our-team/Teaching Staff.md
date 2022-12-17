@@ -79,7 +79,7 @@ description: ""
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 6-1 | Mr Chua Gim Sen <br>  [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg)  | Ms Krishnan <br> [rani_ratha_krishnan@moe.edu.sg](mailto:rani_ratha_krishnan@moe.edu.sg) <br> Mr Cavin Lee <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
+| P 6-1 | Mr Chua Gim Sen <br>  [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg)  | Mdm Lua Wee Suan <br> [lua_wee_suan@moe.edu.sg](mailto:lua_wee_suan@moe.edu.sg) <br> Mr Cavin Lee <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
 |  P 6-2  | Mr Tan Kheng Eng <br>  [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)   | Mr Faizan <br> [mohamed_faizan_juli@moe.edu.sg](mailto:mohamed_faizan_juli@moe.edu.sg)  |
 | P 6-3 | Mdm Peh Shay Ling <br>  [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg)  | Miss Chiang Yan Sing <br>[chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg)  |
 | P 6-4 | Mrs Eng I-Ling <br> [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  | Mrs Lim Seok Hong <br> [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) |
