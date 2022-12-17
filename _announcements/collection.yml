@@ -1,5 +1,5 @@
 collections:
-  announcement:
+  announcements:
     output: true
     order:
       - North Vista Primary Alumni.md
