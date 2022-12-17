@@ -72,7 +72,7 @@ description: ""
 |  P 5-4  |   Ms Yanni <br> [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg)  | Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)   |
 | P 5-5 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mdm Yeong Yimei <br>   [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) <br> Mr John Wu <br>   [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)   |
 | P 5-6 |  Mdm Roxanne Chua <br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mdm Zhang Lei <br>  [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg) |
-| P 5-7 | Miss Atiroh <br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  | Mdm Lua Wee Suan <br> [lua_wee_suan@moe.edu.sg](mailto:lua_wee_suan@moe.edu.sg)  || 
+| P 5-7 | Miss Atiroh <br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  | Mrs Letitia Lim <br> [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)  || 
 
 #### Primary Six
 
