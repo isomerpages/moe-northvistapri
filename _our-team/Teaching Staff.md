@@ -95,6 +95,14 @@ description: ""
 | 3 | Miss Michelle Ho Hui Li <br>   [ho_hui_li_michelle@moe.edu.sg](mailto:ho_hui_li_michelle@moe.edu.sg)  | 4 | Mrs Christine Er  <br> [chen_chiu_hsia@moe.edu.sg](mailto:chen_chiu_hsia@moe.edu.sg)  |
 | 5 | Mr Sharizal Chandrayana Bin Sulaiman <br> [sharizal_sulaiman@moe.edu.sg](mailto:sharizal_sulaiman@moe.edu.sg)  |
 
+
+
+
+| SN | Name  | Email| |
+|:---:|:---:|:---:|:---:|
+| 1 | Miss Yeo Mei Fong ,  Senior Counsellor | [yeo_mei_fong@moe.edu.sg](mailto:yeo_mei_fong@moe.edu.sg) |  
+
+
 #### Other Teaching Staff
 
 | SN | Teacher  | SN  | Teacher |
