@@ -15,6 +15,5 @@ sections:
           url: /announcements/
       subtitle: Build Character, Inspire Passion in Learning
   - resources:
-      title: News & Updates
       button: Click here for MORE
 ---
