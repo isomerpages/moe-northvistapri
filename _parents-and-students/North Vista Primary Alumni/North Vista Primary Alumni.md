@@ -21,7 +21,7 @@ You can submit the registration via [Nvtpsa](https://go.gov.sg/nvtpsa)
 
 #### North Vista Primary Alumni Committee Organization Structure
 
-<img src="/images/2022%20North%20Vista%20Alumni.jpg" style="width:90%">
+<img src="/images/Alumni/2022%20North%20Vista%20Alumni.jpg" style="width:90%">
 
 #### Words from the Alumni Committee ...
 
