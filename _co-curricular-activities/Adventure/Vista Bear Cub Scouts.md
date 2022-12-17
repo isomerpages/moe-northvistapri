@@ -18,10 +18,10 @@ Our sessions are targeted to develop our cub scouts into independent individuals
 
 #### Key Programmes
 
-**\* Job Week**
+**\* Job Week**<br>
 Job Week is an annual educational experience for all Scouts. The main purpose of the Job Week is to inculcate in Scouts the dignity of labour and the value of honest work and to help others. These values are important to develop them to be better citizens of the 21st Century and is an integral part of the Scout Programme.
 
-**\*Sixer Training Camp**
+**\*Sixer Training Camp**<br>
 A leadership camp aimed at training exemplary cub scouts so that they can fulfil their appointed sixer or assistant sixer duties ably and confidently once they return to their unit.
 
 ![](/images/scouts-adventure.jpg)
