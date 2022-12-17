@@ -1,20 +1,20 @@
 title: North Vista Primary School
-url: ""
+url: https://www.open.gov.sg
 favicon: /images/logo.png
 colors:
   primary-color: "#073f7c"
   secondary-color: "#e39506"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#073f7c"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#49759a"
     - title: media-color-three
-      color: "#00838f"
+      color: "#4a90e2"
     - title: media-color-four
-      color: "#00838f"
+      color: "#073f7c"
     - title: media-color-five
-      color: "#00838f"
+      color: "#49759a"
 description: ""
 permalink: none
 baseurl: ""
