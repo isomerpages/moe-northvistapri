@@ -82,7 +82,7 @@ description: ""
 | P 6-1 | Mr Chua Gim Sen <br>  [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg)  | Mdm Lua Wee Suan <br> [lua_wee_suan@moe.edu.sg](mailto:lua_wee_suan@moe.edu.sg) <br>   |
 |  P 6-2  | Mdm Choo Siang Beng <br>  [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg)   | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
 | P 6-3 | Mdm Nur Ashiqin <br>  [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)  | Mr Boh Zuze<br>[boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)  |
-| P 6-4 | Mrs Eng I-Ling <br> [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  | Mrs Lim Seok Hong <br> [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) |
+| P 6-4 | Miss Tam Fong U <br> [tam_fong_u@moe.edu.sg](mailto:tam_fong_u@moe.edu.sg)  | Mrs Lim Seok Hong <br> [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) |
 |  P 6-5 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Mdm Zhang Lei <br>  [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
 | P 6-6 |   Ms Evelyn Leo <br> [leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg)  | Mrs Jusuf-Leow Hui Mei <br>  [leow_hui_mei@moe.edu.sg](mailto:leow_hui_mei@moe.edu.sg) |
 |
