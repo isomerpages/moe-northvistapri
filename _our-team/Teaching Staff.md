@@ -83,7 +83,7 @@ description: ""
 |  P 6-2  | Mdm Choo Siang Beng <br>  [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg)   | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
 | P 6-3 | Mdm Nur Ashiqin <br>  [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)  | Mr Boh Zuze<br>[boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)  |
 | P 6-4 | Miss Tam Fong U <br> [tam_fong_u@moe.edu.sg](mailto:tam_fong_u@moe.edu.sg)  | Mr Desmond Tan  <br> [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg) |
-|  P 6-5 | Miss Jessica Tan <br> [jessica_tan_jia_hui@moe.edu.sg](mailto:jessica_tan_jia_hui@moe.edu.sg)   | Mr Alvin Lee <br>  [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
+|  P 6-5 | Miss Jessica Tan <br> [jessica_tan_jia_hui@moe.edu.sg](mailto:jessica_tan_jia_hui@moe.edu.sg)   | Mr Alvin Lee <br>  [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
 | P 6-6 |   Ms Evelyn Leo <br> [leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg)  | Mrs Jusuf-Leow Hui Mei <br>  [leow_hui_mei@moe.edu.sg](mailto:leow_hui_mei@moe.edu.sg) |
 |
 
