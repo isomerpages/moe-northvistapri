@@ -13,6 +13,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+      subtitle: Build Character, Inspire Passion in Learning
   - infobar:
       title: Alumni
       subtitle: North Vista Primary
