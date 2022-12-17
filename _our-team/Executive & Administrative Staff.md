@@ -21,13 +21,17 @@ description: ""
 
 #### Operations
 
-| SN | Officer  | SN | Officer |
-|:---:|:---:|:---:|:---:|
-| 1 | Mr John Leong, Operations Manager <br> [ leong_kok_kheong_john@moe.edu.sg](mailto:leong_kok_kheong_john@moe.edu.sg)  | 5 | Mdm Yeo Chor Tin, Operations Support Officer <br> [yeo_chor_tin@moe.edu.sg](mailto:yeo_chor_tin@moe.edu.sg)  |
-| 2 | Mr Neo Kim Ye, Operations Support Officer <br> [neo_kim_ye@moe.edu.sg](mailto:neo_kim_ye@moe.edu.sg)  | 6 | Mdm Ting Sieng Mee, Operations Support Officer <br> [ting_sieng_mee@moe.edu.sg](mailto:ting_sieng_mee@moe.edu.sg)  |
-|  3 | Mr Tay Kok Meng, Operations Support Officer <br> [tay_kok_meng@moe.edu.sg](mailto:tay_kok_meng@moe.edu.sg)  |  7 | Mdm Ng Sok Cheng, Operations Support Officer <br> [ng_sok_cheng@moe.edu.sg](mailto:ng_sok_cheng@moe.edu.sg)  |
-|  4 | Mdm Mary Ong, Operations Support Officer <br>  [ong_mary@moe.edu.sg](mailto:ong_mary@moe.edu.sg)   |  |  |
-|
+
+
+| SN | Name | Email |
+| -------- | -------- | -------- |
+| 1     |  Mr John Leong Kok Kheong     | [leong_kok_kheong_john@moe.edu.sg](mailto:leong_kok_kheong_john@moe.edu.sg)     |
+| 2     |  Mr Neo Kim Ye     | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)     |
+| 3     |  Mdm Yeo Chor Tin     | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)     |
+| 4     |  Mr Tay Kok Meng     | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)     |
+| 5     |  Mdm Mary Ong     | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)     |
+| 6     |  Mdm Ng Sok Cheng     | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)     |
+| 7     |  Mdm Ting Sieng Mee     | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)     |
 
 #### Support
 
