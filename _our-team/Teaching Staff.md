@@ -88,9 +88,12 @@ description: ""
 
 
 #### Special Educational Needs Officers (SEN)
-| SN | Name  | Email| |
-|:---:|:---:|:---:|:---:|
-| 1 | Miss Yeo Mei Fong ,  Senior Counsellor | [yeo_mei_fong@moe.edu.sg](mailto:yeo_mei_fong@moe.edu.sg) |  || 2 | Ms Stacey Shannon Lim Pei Fen | [yeo_mei_fong@moe.edu.sg](mailto:yeo_mei_fong@moe.edu.sg) | |
+| SN | Name | Email |
+| -------- | -------- | -------- |
+| 1 | Miss Yeo Mei Fong (Senior Counsellor)    | [yeo_mei_fong@moe.edu.sg](mailto:yeo_mei_fong@moe.edu.sg)   |  
+| 2 | Ms Stacey Shannon Lim Pei Fen   | [shannon_lim@moe.edu.sg](mailto:shannon_lim@moe.edu.sg)   |  
+
+
 
 
 
