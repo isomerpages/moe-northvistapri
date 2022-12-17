@@ -15,15 +15,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: School Calender
-          description: ""
-          url: /school-calender/
-        - title: Parents Gateway
-          description: ""
-          url: https://pg.moe.edu.sg/
-        - title: SLS Login
-          description: ""
-          url: https://vle.learning.moe.edu.sg/login
   - infobar:
       title: Alumni
       subtitle: North Vista Primary
