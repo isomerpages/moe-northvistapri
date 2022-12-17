@@ -70,7 +70,7 @@ description: ""
 | P 5-2 | Mr Tan Kheng Eng <br> [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)  | Mr Ng Chun Hao <br> [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
 |  P 5-3  | Mr Zaki <br>  [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)   | Mr Huang Shihao <br>[huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)   |
 |  P 5-4  |   Ms Yanni <br> [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg)  | Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)   |
-| P 5-5 | Miss Jessica Tan <br> [jessica_tan_jia_hui@moe.edu.sg](mailto:jessica_tan_jia_hui@moe.edu.sg)   | Mr Reuben Lim <br>   [reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg)  |
+| P 5-5 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mr Reuben Lim <br>   [reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg)  |
 | P 5-6 |  Mdm Roxanne Chua <br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mr Ng Chun Hao <br>  [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg) |
 | P 5-7 | Mr Chua Gim Sen <br>  [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg)  | Mdm Lua Wee Suan <br> [lua_wee_suan@moe.edu.sg](mailto:lua_wee_suan@moe.edu.sg)  || 
 
