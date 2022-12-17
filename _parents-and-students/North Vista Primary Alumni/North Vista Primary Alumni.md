@@ -6,9 +6,9 @@ third_nav_title: North Vista Primary Alumni
 ---
 ### North Vista Primary Alumni
 
-<img src="/images/NVTPS%20Alumni.jpg" 
+<img src="/images/Alumni/Alumni_logo.png" 
      style="width:25%">
-		 
+
 #### Mission
 
 *   To forge school ties between North Vista Primary School and its graduates
@@ -21,8 +21,8 @@ You can submit the registration via [Nvtpsa](https://go.gov.sg/nvtpsa)
 
 #### North Vista Primary Alumni Committee Organization Structure
 
-<img src="/images/Alumni_logo.jpg" style="width:90%">
- 
+<img src="/images/2022%20North%20Vista%20Alumni.jpg" style="width:90%">
+
 #### Words from the Alumni Committee ...
 
 _NVTPS has helped me grow in many areas by providing me with a variety of opportunities to pursue my passions and try out new things._
