@@ -65,7 +65,7 @@ description: ""
 
 ||||
 |:---:|:---:|:---:|
-| **Class** | **Form Teacher 1** | **Form Teacher 2** |
+| **Class** | **Form Teacher** | **Form Teacher** |
 | P 5-1 | Mr Chua Gim Sen <br>  [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg)  | Mdm Lua Wee Suan <br> [lua_wee_suan@moe.edu.sg](mailto:lua_wee_suan@moe.edu.sg)  |
 | P 5-2 | Mdm Choo Siang Beng <br> [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg)  | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
 |  P 5-3  | Miss Nur Syafiqah <br>  [nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg)   | Mr Boh Zuze <br>[boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)   |
