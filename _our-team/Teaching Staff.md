@@ -68,7 +68,7 @@ description: ""
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 5-1 | Mr Jason Goh <br>  [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg)  | Ms Fiona Yoong <br> [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg) <br> Mr Faizan <br> [mohamed_faizan_juli@moe.edu.sg](mailto:mohamed_faizan_juli@moe.edu.sg)   |
 | P 5-2 | Mr Tan Kheng Eng <br> [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)  | Mr Ng Chun Hao <br> [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
-|  P 5-3  | Miss Nur Syafiqah <br>  [nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg)   | Mr Boh Zuze <br>[boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)   |
+|  P 5-3  | Mr Zaki <br>  [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)   | Mr Boh Zuze <br>[boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)   |
 |  P 5-4  |   Miss Tam Fong U <br> [tam_fong_u@moe.edu.sg](mailto:tam_fong_u@moe.edu.sg)  | Mr Desmond Tan <br> [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg)   |
 | P 5-5 | Miss Jessica Tan <br> [jessica_tan_jia_hui@moe.edu.sg](mailto:jessica_tan_jia_hui@moe.edu.sg)   | Mr Reuben Lim <br>   [reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg)  |
 | P 5-6 |  Mdm Roxanne Chua <br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mr Ng Chun Hao <br>  [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg) |
