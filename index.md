@@ -9,8 +9,6 @@ sections:
   - hero:
       title: North Vista Primary School
       background: /images/Hero/hero_scouts.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: ""
