@@ -36,4 +36,7 @@ sections:
       button: Find out more
       url: https://staging.d177jz78e0t9fa.amplifyapp.com/mk-virtual-open-house/
       image: /images/2020 MK OH FB IG 002.png
+  - resources:
+      title: News & Updates
+      button: Resources Button Name
 ---
