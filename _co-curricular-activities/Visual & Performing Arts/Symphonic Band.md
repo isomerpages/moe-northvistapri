@@ -29,12 +29,12 @@ Mondays, Tuesdays and Fridays. Schedule will be sent to parents via Parents Gate
 
 | Name of Teacher | Email Address |
 |---|---|
-| Ms Adeline Sim (Overall-In-Charge) | [sim_yuin_ling_adeline@moe.edu.sg](sim_yuin_ling_adeline@moe.edu.sg) |
-| Miss Chiang Yan Sing | [chiang_yan_sing@moe.edu.sg](chiang_yan_sing@moe.edu.sg) |
-| Mdm Cui Wenjuan | [cui_wenjuan@moe.edu.sg](cui_wenjuan@moe.edu.sg)  |
-| Mdm Siti Raudah | [siti_raudah_fawzi_laza@moe.edu.sg](siti_raudah_fawzi_laza@moe.edu.sg) |
-| Ms Jakin Ng  | [ng_yan_lin_jakin@moe.edu.sg](ng_yan_lin_jakin@moe.edu.sg) |
-| Mr Wu Hekun | [wu_hekun@moe.edu.sg](wu_hekun@moe.edu.sg) |
+| Ms Adeline Sim (Overall-In-Charge) | [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg) |
+| Miss Chiang Yan Sing | [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
+| Mdm Cui Wenjuan | [cui_wenjuan@moe.edu.sg](mailto:cui_wenjuan@moe.edu.sg)  |
+| Mdm Siti Raudah | [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg) |
+| Ms Jakin Ng  | [ng_yan_lin_jakin@moe.edu.sg](mailto:ng_yan_lin_jakin@moe.edu.sg) |
+| Mr Wu Hekun | [wu_hekun@moe.edu.sg](mailto:wu_hekun@moe.edu.sg) |
 |
 
 ![](/images/band%201.jpg)
