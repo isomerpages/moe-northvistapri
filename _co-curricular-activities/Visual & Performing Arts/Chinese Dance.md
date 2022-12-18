@@ -29,6 +29,7 @@ Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before
 | Mdm Xu Lupin | [xu_lupin@moe.edu.sg](xu_lupin@moe.edu.sg) |
 | Miss Lai Liyu |[lai_liyu@moe.edu.sg](lai_liyu@moe.edu.sg)  |
 |Ms Naomi Ashley |[naomi_ashley@moe.edu.sg](naomi_ashley@moe.edu.sg)  |
+|Ms Wu Lihua |[wu_lihua@moe.edu.sg](wu_lihua@moe.edu.sg)  |
 |
 
 ![](/images/chinese%20dance%201.jpg)
