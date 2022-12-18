@@ -21,11 +21,11 @@ Mondays and Fridays. Schedule will be sent to parents via Parent's Gateway befor
 
 | Name of Teacher | Email Address |
 |----|----|
-| Miss Norazizah Ajis (Overall-In-Charge)  | [norazizah_ajis@moe.edu.sg](norazizah_ajis@moe.edu.sg) |
-| Miss Devaki D/O Vindinnada  | [devaki_vindinnada@moe.edu.sg](devaki_vindinnada@moe.edu.sg)  |
-| Mrs Eng I-Ling   | [wong_i-ling@moe.edu.sg](wong_i-ling@moe.edu.sg)  |
-|Miss Atiroh  | [atiroh_salma_mohamed_yasin@moe.edu.sg](atiroh_salma_mohamed_yasin@moe.edu.sg)  |
-|Ms Vijayalakshmi | [r_vijayalakshmi@moe.edu.sg](r_vijayalakshmi@moe.edu.sg)  |
+| Miss Norazizah Ajis (Overall-In-Charge)  | [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg) |
+| Miss Devaki D/O Vindinnada  | [devaki_vindinnada@moe.edu.sg](mailto:devaki_vindinnada@moe.edu.sg)  |
+| Mrs Eng I-Ling   | [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  |
+|Miss Atiroh  | [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  |
+|Ms Vijayalakshmi | [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
 |
 
 
