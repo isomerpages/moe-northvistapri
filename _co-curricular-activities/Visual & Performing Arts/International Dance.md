@@ -19,7 +19,7 @@ Mondays and Fridays. Schedule will be sent to parents via Parent's Gateway befor
 
 #### Teachers-In-Charge
 
-| Mrs Eng I-Ling (Overall-In-Charge) | wong_i-ling@moe.edu.sg |
+| Name | wong_i-ling@moe.edu.sg |
 |---|---|
 | Miss Norazizah Ajis  | [norazizah_ajis@moe.edu.sg](norazizah_ajis@moe.edu.sg) |
 | Miss Devaki D/O Vindinnada  | [devaki_vindinnada@moe.edu.sg](devaki_vindinnada@moe.edu.sg)  |
