@@ -4,7 +4,7 @@ permalink: /parents-and-students/Information-for-Parents/school-services-and-fee
 description: ""
 third_nav_title: Information for Parents
 ---
-### School Services
+### More information on:
 
 ||||
 |:---:|:---:|:---:|
@@ -148,4 +148,4 @@ Parents can  approach the school directly if they require financial assistance. 
 	
 |||
 |:---:|---:|
-||<a href="#top">back to top^</a>|		
+||<a href="#top">back to top^</a>|
