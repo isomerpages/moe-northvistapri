@@ -49,7 +49,7 @@ _All in all, I will always remember my time in NVTPS and I hope that all student
 
 **Xavier Chong**  <br>
 **Class of 2017** <br>
-**Catholic High School** <br>
+**Eunoia Junior College** <br>
 
 -------------------------------
 
