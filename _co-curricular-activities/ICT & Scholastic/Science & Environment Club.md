@@ -29,11 +29,11 @@ Fridays. Schedule will be sent to parents via Parents Gateway before the start o
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mdm Nurshidah (Overall-In-Charge) | [nurshidah_mokhtar@moe.edu.sg](nurshidah_mokhtar@moe.edu.sg) |
-| Mr Tan Kheng Eng | [tan_kheng_eng@moe.edu.sg](tan_kheng_eng@moe.edu.sg) |
-| Mr Michael Au  | [au_kah_wai_michael@moe.edu.sg](au_kah_wai_michael@moe.edu.sg)  |
-| Mrs Tan Yan Bing  | [tan_yan_bing@moe.edu.sg](tan_yan_bing@moe.edu.sg)  |
-| Mrs Vivien Lim  | [lim_kim_ee_vivien@moe.edu.sg](lim_kim_ee_vivien@moe.edu.sg)  |  |  |
+| Mdm Nurshidah (Overall-In-Charge) | [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg) |
+| Mr Tan Kheng Eng | [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg) |
+| Mr Michael Au  | [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  |
+| Mrs Tan Yan Bing  | [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg)  |
+| Mrs Vivien Lim  | [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  |  |  |
 |
 
 
