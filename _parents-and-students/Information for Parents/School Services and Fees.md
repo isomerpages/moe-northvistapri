@@ -25,7 +25,7 @@ third_nav_title: Information for Parents
 | Opening Hours  | Monday to Friday (alternate weeks), 8.00 a.m. to 5.30 p.m.     |    |
 | Lunch Hour | 12.30 p.m. to 1.30 p.m.
 
-#### <a name="bookshop">School Bookshop</a> 
+#### School Bookshop<a name="bookshop"></a> 
 
 
 | Name | BL Marketing Pte Ltd | |
@@ -36,7 +36,7 @@ third_nav_title: Information for Parents
 
 During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up the [name tag order form](/files/nametag%20order.pdf) and submit to the school bookshop.
 
-#### <a name="uniform">School Uniform</a>
+#### School Uniform<a name="uniform"></a>
 
 
 | Name | Chop Kong Chong | |
@@ -47,7 +47,7 @@ During term time, parents are requested to purchase items during non-peak hours.
 
 Parents can arrange for home delivery for purchases above $50. There is a delivery charge of $4 for each delivery. Alternatively, parents can purchase the uniform from the school bookshop during school days.
 
-#### <a name="bus">School Bus</a>
+#### School Bus<a name="bus"></a>
 
 
 | Name | SFX Transport Pte Ltd | |
@@ -56,7 +56,7 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 | Fax | 6382 0262 | |
 | Email | enquiry@sfxtransport.com.sg | |
 
-#### <a name="library">School Library</a>
+#### School Library<a name="library"></a>
 
 
 
@@ -64,7 +64,7 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 | -------- | -------- | -------- |
 | Opening Hours  | 8 a.m. to 4 p.m. | |
 
-#### <a name="student">Student Care</a> 
+#### Student Care<a name="student"></a> 
 
 
 | Name | Nascans Student Care Centre | |
@@ -73,7 +73,7 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 | Email | nvscc@nascans.com | |
 | Opening Hours | 11 a.m. to 7 p.m.
 
-### <a name="fees">School Fees</a>
+### School Fees<a name="fees"></a>
 ##### School/Miscellaneous/Fees - GIRO Scheme
 1. The school is on the GIRO scheme. Parents are strongly encouraged to pay fees via the GIRO.
 2. Monthly deductions will be made on the 26th of each month from February to December. The fees payable for January and February will be deducted together on 26th February.
