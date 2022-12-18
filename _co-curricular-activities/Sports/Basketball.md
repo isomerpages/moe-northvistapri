@@ -37,4 +37,3 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 
 ![](/images/CCA/Sports/bball3.jpg)
 
-![](/images/CCA/Sports/bball4.jpg)
