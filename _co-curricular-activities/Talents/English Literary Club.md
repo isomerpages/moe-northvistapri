@@ -26,6 +26,10 @@ Schedule will be sent to parents via Parent Gateway before the start of a new se
 | Mdm Jelena Chia Wanlin | [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) |
 |  |  |
 
-![](/images/eng%20club%201.jpg)
+![](/images/CCA/Talent/eldrama1.jpg)
 
-![](/images/eng%20club%202.jpg)
+![](/images/CCA/Talent/eldrama2.jpg)
+
+![](/images/CCA/Talent/eldrama3.jpg)
+
+![](/images/CCA/Talent/eldrama4.jpg)
