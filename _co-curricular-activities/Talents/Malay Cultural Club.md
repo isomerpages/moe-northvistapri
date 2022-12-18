@@ -20,9 +20,9 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mdm Nur Ashiqin (Overall-In-Charge) | [nur_ashiqin_mohamed_sall@moe.edu.sg](nur_ashiqin_mohamed_sall@moe.edu.sg) |
-| Mdm Sarah | [nor_sarah_banu_gulam@moe.edu.sg](nor_sarah_banu_gulam@moe.edu.sg) |
-| Mr Mohd Zaki | [mohd_zaki_hashim@moe.edu.sg](mohd_zaki_hashim@moe.edu.sg) |
+| Mdm Nur Ashiqin (Overall-In-Charge) | [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg) |
+| Mdm Sarah | [nor_sarah_banu_gulam@moe.edu.sg](mailto:nor_sarah_banu_gulam@moe.edu.sg) |
+| Mr Mohd Zaki | [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg) |
 |
 
 ![](/images/malay%20cultural%20club%201.jpg)
