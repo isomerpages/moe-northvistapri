@@ -3,6 +3,9 @@ title: School Management Committee
 permalink: /our-team/management-committee/
 description: ""
 ---
+### School Leaders
+
+
 | | | |
 |:---:|:---:|:---:|
 | | <img src="/images/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg" style="width:59%">	Mr Ong Lye Whatt <br> Principal| |
