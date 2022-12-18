@@ -25,10 +25,10 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mr Lawrence Lim (Overall-In-Charge) | [lim_qi_wen_lawrence@moe.edu.sg](lim_qi_wen_lawrence@moe.edu.sg) |
-| Mdm Yeong Yi Mei | [yeong_yi_mei@moe.edu.sg](yeong_yi_mei@moe.edu.sg) |
-| Miss Josephine Ong | [josephine_ong_yan_ting@moe.edu.sg](josephine_ong_yan_ting@moe.edu.sg) |
-| Mdm Roxanne Chua  | [roxanne_chua_wan_xuan@moe.edu.sg](roxanne_chua_wan_xuan@moe.edu.sg)  |
+| Mr Lawrence Lim (Overall-In-Charge) | [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg) |
+| Mdm Yeong Yi Mei | [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) |
+| Miss Josephine Ong | [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg) |
+| Mdm Roxanne Chua  | [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  |
 |
 
 ![](/images/bball%201.jpg)
