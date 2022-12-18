@@ -18,8 +18,8 @@ Mondays.  Schedule will be sent to parents via Parents Gateway before the start
 | Name of Teacher | Email Address |
 |---|---|
 | Ms Ian Farah (Overall-In-Charge) | [ian_farah_mohamed@moe.edu.sg](ian_farah_mohamed@moe.edu.sg) |
-| Miss Loke Mei Yen  | [loke_mei_yen@moe.edu.sg](loke_mei_yen@moe.edu.sg)  |
-| Ms Yanni  | [nurhariyanni_ramli@moe.edu.sg](nurhariyanni_ramli@moe.edu.sg)  |
+| Ms Yanni   | [nurhariyanni_ramli@moe.edu.sg](nurhariyanni_ramli@moe.edu.sg)  |
+| Mdm Rozita  | [rozita_selamat@moe.edu.sg](rozita_selamat@moe.edu.sg)  |
 |
 
 ![](/images/art%20club%201.jpg)
