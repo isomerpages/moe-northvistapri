@@ -21,12 +21,12 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 
 | Name of Teacher | Email Address |
 |---|---|
-| Ms Ang Lee Im (Overall-In-Charge) |[ang_lee_im@moe.edu.sg](ang_lee_im@moe.edu.sg) |
-| Mr Reuben Lim |[reuben_lim_sin_hua@moe.edu.sg](reuben_lim_sin_hua@moe.edu.sg) |
-| Ms Sugashini |[sugashini_jayabalan@moe.edu.sg](sugashini_jayabalan@moe.edu.sg) |
-| Ms Shamin Lin |[lin_yunzhen_shamin@moe.edu.sg](lin_yunzhen_shamin@moe.edu.sg) |
-| Ms Evelyn Leo |[leo_chia_min_evelyn@moe.edu.sg](leo_chia_min_evelyn@moe.edu.sg) |
-| Mrs Kelly Lim  |[mak_wenjing@moe.edu.sg](mak_wenjing@moe.edu.sg  ) |
+| Ms Ang Lee Im (Overall-In-Charge) |[ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg) |
+| Mr Reuben Lim |[reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg) |
+| Ms Sugashini |[sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg) |
+| Ms Shamin Lin |[lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |
+| Ms Evelyn Leo |[leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg) |
+| Mrs Kelly Lim  |[mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg  ) |
 |
 
 ![](/images/softball%201.jpg)
