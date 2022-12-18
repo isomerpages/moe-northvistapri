@@ -15,7 +15,7 @@ To contribute to the education of young people, through the value system based o
 #### Overview
 Our sessions are targeted to develop our cub scouts into independent individuals through games and outdoor activities. These activities will provide them knowledge of basic Scouting skills such as knotting and pitching of tents. At the end of these activities, they will earn badges as a proof of their accomplishments.
 
-![](/images/CCA/scouts-game.jpg)
+![](/images/CCA/Adventure/scouts-game.jpg)
 
 #### Key Programmes
 
@@ -25,7 +25,7 @@ Job Week is an annual educational experience for all Scouts. The main purpose of
 **\*Sixer Training Camp**<br>
 A leadership camp aimed at training exemplary cub scouts so that they can fulfil their appointed sixer or assistant sixer duties ably and confidently once they return to their unit.
 
-![](/images/CCA/scouts-adventure.jpg)
+![](/images/CCA/Adventure/scouts-adventure.jpg)
 
  _\*New recruits (also known as Tenderfoots) will not be required to buy their uniform as they will be under a trial period to allow the child to see if they like scouting. After a few months, once the Tenderfoot has earned his/ her World Scout badge and uniform, an investiture ceremony will be held and the Tenderfoot will be promoted to a Cub Scout._
  
