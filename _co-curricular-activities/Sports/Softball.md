@@ -29,6 +29,6 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mrs Kelly Lim  |[mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg  ) |
 |
 
-![](/images/softball%201.jpg)
+![](/images/CCA/Sports/softball1.jpg)
 
-![](/images/softball%202.jpg)
+![](/images/CCA/Sports/softball2.jpg)
