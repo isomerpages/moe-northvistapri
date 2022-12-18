@@ -30,7 +30,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mr Joel Wong | [wong_seow_wei@moe.edu.sg](wong_seow_wei@moe.edu.sg) |
 | Miss Nur Khairunnisa | [nur_khairunnisa_jawahir@moe.edu.sg](nur_khairunnisa_jawahir@moe.edu.sg) |
 | Mr Dennis Tan | [tan_kim_leong_dennis@moe.edu.sg](tan_kim_leong_dennis@moe.edu.sg) |
-|  |  |
+| Miss Sukainah | [sukainah_mohamed_mohsen@moe.edu.sg](sukainah_mohamed_mohsen@moe.edu.sg) |  |  |
 
 ![](/images/rugby%201.jpg)
 
