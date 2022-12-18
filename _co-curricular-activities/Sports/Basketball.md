@@ -27,7 +27,6 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 |---|---|
 | Mr Lawrence Lim (Overall-In-Charge) | [lim_qi_wen_lawrence@moe.edu.sg](lim_qi_wen_lawrence@moe.edu.sg) |
 | Mdm Yeong Yi Mei | [yeong_yi_mei@moe.edu.sg](yeong_yi_mei@moe.edu.sg) |
-| Mr Adi Sufyan Abdul Malik | [adi_sufyan_abdul_malik@moe.edu.sg](adi_sufyan_abdul_malik@moe.edu.sg) |
 | Miss Josephine Ong | [josephine_ong_yan_ting@moe.edu.sg](josephine_ong_yan_ting@moe.edu.sg) |
 | Mdm Roxanne Chua  | [roxanne_chua_wan_xuan@moe.edu.sg](roxanne_chua_wan_xuan@moe.edu.sg)  |
 |
