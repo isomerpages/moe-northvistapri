@@ -29,10 +29,8 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Name of Teacher | Email Address |
 |---|---|
 | Mdm Peh Shay Ling (Overall-In-Charge) | [peh_shay_ling@moe.edu.sg](peh_shay_ling@moe.edu.sg) |
-| Mdm Jaclyn Lee Kah Poh | [lee_kah_poh_jaclyn@moe.edu.sg](lee_kah_poh_jaclyn@moe.edu.sg) |
-| Mrs Vivien Lim | [lim_kim_ee_vivien@moe.edu.sg](lim_kim_ee_vivien@moe.edu.sg) |
 | Mrs Letitia Lim  | [letitia_tan_xiu_xian@moe.edu.sg](letitia_tan_xiu_xian@moe.edu.sg)  |
-| Miss Cheryl Tai  | [tai_xin_yi_cheryl@moe.edu.sg](tai_xin_yi_cheryl@moe.edu.sg)  |
+| Mrs Chiu Wan Ting  | [yong_wan_ting@moe.edu.sg](yong_wan_ting@moe.edu.sg)  |
 |
 
 ![](/images/BB%201.jpg)
