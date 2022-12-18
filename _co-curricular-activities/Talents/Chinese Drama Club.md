@@ -21,9 +21,9 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mdm Choo Siang Beng (Overall-In-Charge) | [choo_siang_beng@moe.edu.sg](choo_siang_beng@moe.edu.sg) |
-| Mdm Liu Jin | [liu_jin@moe.edu.sg](liu_jin@moe.edu.sg) |
-| Mdm Liu Lingzhu  | [liu_ling_zhu@moe.edu.sg](liu_ling_zhu@moe.edu.sg)  |
+| Mdm Choo Siang Beng (Overall-In-Charge) | [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg) |
+| Mdm Liu Jin | [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg) |
+| Mdm Liu Lingzhu  | [liu_ling_zhu@moe.edu.sg](mailto:liu_ling_zhu@moe.edu.sg)  |
 |
 
 ![](/images/chi%20drama%20club%201.jpg)
