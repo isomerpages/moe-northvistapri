@@ -12,8 +12,8 @@ third_nav_title: Information for Parents
 | <a href="#dismissal">School Dismissal</a> | <a href="#outside">Outside the School</a> | <a href="#early">Early Dismissal for Students</a> |
 | <a href="#insurance">Insurance</a> | <a href="#emergency">Emergency Evacuation Guidelines</a> | <a href="#attendance">Attendance</a> |
 | <a href="#communication">Communication with Teachers</a> | <a href="#change">Change of Contact Info</a> | <a href="#responsibility">Responsibility for Personal Properties</a>|
-| <a href="#notices">Notices/Circulars</a> | <a href="#consent">Consent for Photography & VIdeos</a> |  |
-
+| <a href="#notices">Notices/Circulars</a> | <a href="#consent">Consent for Photography & VIdeos</a> | |
+|
 
 ####   1\. Access to The School<a name="access"></a>
 
