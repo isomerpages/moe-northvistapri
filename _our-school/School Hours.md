@@ -13,9 +13,10 @@ description: ""
 
 ##### Recesses
 
-| Level | Recess | Dry snack break in class (10 min) |
+||||
 |:---:|:---:|:---:|
-| P1 and P4  | 9 a.m. to 9.30 a.m. | Between 11 a.m. and 11.30 a.m. |
-| P2 and P5  | 10 a.m. to 10.30 a.m. | Between 12 noon and 12.30 p.m. |
+| **Level** | **Recess** | **Dry snack break in class (10 min**) |
+| P1 & P4 | 9 a.m. to 9.30 a.m. | Between 11 a.m. and 11.30 a.m. |
+| P2 & P5 | 10 a.m. to 10.30 a.m. | Between 12 noon and 12.30 p.m. |
 |  P3 | 10.30 a.m. to 11 a.m.  | Between 9 a.m. and 9.30 a.m.   |
-|  P6 | 11 a.m. to 11.30 a.m.  | Between 9 a.m. and 9.30 a.m.  | 
+|  P6 | 11 a.m. to 11.30 a.m.  | Between 9 a.m. and 9.30 a.m.  |
