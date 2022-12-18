@@ -35,7 +35,7 @@ _On a whole, I am thankful for the different things I got to do at NVTPS, and I 
 
 **Hum Jeng Xuin Jasmine**  <br>
 **Class of 2017**<br>
-**Nanyang Girls' High School**
+**National Junior College**
 
 ------------------------------
 
