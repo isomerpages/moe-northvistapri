@@ -20,7 +20,7 @@ To partner school in creating a nurturing and safe environment for our Vistalite
 #### Motto
 Involve – Integrate – Inspire
 
-<img src="/images/Motto%20of%20Involve_Integrate_Inspire.png" 
+<img src="/images/PSG/Motto%20of%20Involve_Integrate_Inspire.png" 
      style="width:80%" >
 		 
 #### PSG@Vista Regular Duties
