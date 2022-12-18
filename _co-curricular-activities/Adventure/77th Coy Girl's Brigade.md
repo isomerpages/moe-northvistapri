@@ -30,4 +30,4 @@ Schedule will be sent to parents via Parent Gateway before the start of a new se
 
 ![](/images/Adventure/gb1.jpg)
 
-![](/images/GB%202.jpg)
+![](/images/Adventure/gb2.jpg)
