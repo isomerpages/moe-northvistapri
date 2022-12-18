@@ -29,11 +29,11 @@ Mondays, Tuesdays and Fridays. Schedule will be sent to parents via Parents Gate
 
 | Name of Teacher | Email Address |
 |---|---|
-| Ms Jakin Ng (Overall-In-Charge) | [ng_yan_lin_jakin@moe.edu.sg](ng_yan_lin_jakin@moe.edu.sg) |
+| Ms Adeline Sim (Overall-In-Charge) | [sim_yuin_ling_adeline@moe.edu.sg](sim_yuin_ling_adeline@moe.edu.sg) |
 | Miss Chiang Yan Sing | [chiang_yan_sing@moe.edu.sg](chiang_yan_sing@moe.edu.sg) |
 | Mdm Cui Wenjuan | [cui_wenjuan@moe.edu.sg](cui_wenjuan@moe.edu.sg)  |
 | Mdm Siti Raudah | [siti_raudah_fawzi_laza@moe.edu.sg](siti_raudah_fawzi_laza@moe.edu.sg) |
-| Mrs Anne Wong | [ying_leng@moe.edu.sg](ying_leng@moe.edu.sg) |
+| Ms Jakin Ng  | [ying_leng@moe.edu.sg](ying_leng@moe.edu.sg) |
 | Mr Teo Ting Rui | [ting_rui_teo@moe.edu.sg](ting_rui_teo@moe.edu.sg) |
 |
 
