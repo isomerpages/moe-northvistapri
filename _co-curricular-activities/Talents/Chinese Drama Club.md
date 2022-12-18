@@ -26,6 +26,6 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mdm Liu Lingzhu  | [liu_ling_zhu@moe.edu.sg](mailto:liu_ling_zhu@moe.edu.sg)  |
 |
 
-![](/images/chi%20drama%20club%201.jpg)
+![](/images/CCA/Talent/cldrama1.jpg)
 
-![](/images/chi%20drama%20club%202.jpg)
+![](/images/CCA/Talent/cldrama2.jpg)
