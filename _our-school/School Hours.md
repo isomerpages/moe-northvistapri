@@ -5,10 +5,10 @@ description: ""
 ---
 ##### Daily School Hours
 
-|  |  |
-|---|---|
-| 7.30 a.m.  | Flag Raising and Pledge Taking Ceremony |
-| 1.30 p.m. | Dismissal Time <br> (Timings of CCAs vary and students will be informed separately. School bus will only leave the school at about 1.45 p.m. every day.) 
+|  |  | |
+|---|---|---|
+| 7.30 a.m. | | Flag Raising and Pledge Taking Ceremony |
+| 1.30 p.m. | | Dismissal Time <br> (Timings of CCAs vary and students will be informed separately. School bus will only leave the school at about 1.45 p.m. every day.) 
 |
 
 ##### Recesses
