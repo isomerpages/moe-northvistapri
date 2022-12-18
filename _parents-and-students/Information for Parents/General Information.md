@@ -53,7 +53,7 @@ Students entering the school should walk along the designated walkway provided (
 All students can be dismissed via the Main Gate, Side Gate 3 (near Bistro) or Side Gate 7 (near ISH). Parents should work out an agreed meeting point with their children. For the safety of all students, parents should wait at the designated void decks of the  HDB flats so as to avoid congestion at the gates. Parents who are driving into the school to pick up their children can do so only after 1.45 p.m. or when all our school buses have left. Students should be waiting for their parents at the drop off point at Block A.
 
 On CCA days, parents/caregivers will pick the students from the main gate. They may wait at the Security Post but will not be permitted to wait at the Bistro. For those who are driving, they may pick up their children from the Security Post or drive in only at  4 p.m. to pick up the students from drop off point at Block A. Parents should not alight and loiter in the Bistro or school grounds.
-![](/images/Safe%20Route%20to%20School%202022.jpg)
+![](/images/Parents_And_Students/Safe%20Route%20to%20School%202022.jpg)
 
 |||
 |:---:|---:|
