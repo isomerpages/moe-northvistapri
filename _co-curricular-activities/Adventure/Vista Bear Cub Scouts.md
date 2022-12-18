@@ -40,8 +40,8 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 
 | Name of Teacher | Email Address |
 |---|---|
-| Miss Yap Wei Tien (Overall-In-Charge) |[yap_wei_tien@moe.edu.sg](yap_wei_tien@moe.edu.sg)|
-| Mr Lim Kang Xiang, Arden |[lim_kang_xiang_arden@moe.edu.sg](lim_kang_xiang_arden@moe.edu.sg)|
+| Miss Yap Wei Tien (Overall-In-Charge) |[yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg)|
+| Mr Lim Kang Xiang, Arden |[lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg)|
 |
 
 ![](/images/scouts%201.jpg)
