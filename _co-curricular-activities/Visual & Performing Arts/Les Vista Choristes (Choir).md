@@ -29,11 +29,11 @@ Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mr Chua Gim Sen (Overall-In-Charge) | [chua_gim_sen@moe.edu.sg](chua_gim_sen@moe.edu.sg) |
-| Mr Teo Ting Rui | [ting_rui_teo@moe.edu.sg](ting_rui_teo@moe.edu.sg) |
-| Miss Chong Yuan Ping | [chong_yuan_ping@moe.edu.sg](chong_yuan_ping@moe.edu.sg) |
-| Miss Jessica Cheah | [jessica_cheah_jeay_sye@moe.edu.sg](jessica_cheah_jeay_sye@moe.edu.sg) |
-| Miss Jessica Tan  | [jessica_tan_jia_hui@moe.edu.sg](jessica_tan_jia_hui@moe.edu.sg)  |
+| Mr Chua Gim Sen (Overall-In-Charge) | [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg) |
+| Mr Teo Ting Rui | [ting_rui_teo@moe.edu.sg](mailto:ting_rui_teo@moe.edu.sg) |
+| Miss Chong Yuan Ping | [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg) |
+| Miss Jessica Cheah | [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg) |
+| Miss Jessica Tan  | [jessica_tan_jia_hui@moe.edu.sg](mailto:jessica_tan_jia_hui@moe.edu.sg)  |
 |
 
 ![](/images/choir%201.jpg)
