@@ -8,8 +8,8 @@ description: ""
 
 | | | |
 |:---:|:---:|:---:|
-| | <img src="/images/SL/Mr%20Ong%20Lye%20Whatt%20%20Principal.jpg">	Mr Ong Lye Whatt <br> **Principal**| |
-| <img src="/images/SL/Mr%20Amran%20Bin%20Tasrif%20Vice%20Principal%20EO.png"> Mr Amran Tasrif <br> **Vice Principal**| | <img src="/images/SL/Mrs%20Audrey%20Lee%20-%20Vice%20Principal%20(Admin).jpg"> Mrs Audrey Lee <br>**Vice Principal (Admin)**|
+| | <img src="/images/SL/Mr_Ong_Lye_Whatt_Principal.jpg">	Mr Ong Lye Whatt <br> **Principal**| |
+| <img src="/images/SL/Mr_Amran_Bin_Tasrif_Vice_Principal_EO.png"> Mr Amran Tasrif <br> **Vice Principal**| | <img src="/images/SL/Mrs_Audrey_Lee_Vice_Principal_(Admin).jpg"> Mrs Audrey Lee <br>**Vice Principal (Admin)**|
 
 <br>
 
