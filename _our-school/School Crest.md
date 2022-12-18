@@ -3,7 +3,7 @@ title: School Crest
 permalink: /our-school/school-crest/
 description: ""
 ---
-<img src="/images/logo.png" 
+<img src="/images/nvtps_logo.png" 
      style="width:25%">
 		 
 #### The School for the Future
