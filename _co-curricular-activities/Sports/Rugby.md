@@ -32,6 +32,10 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mr Dennis Tan | [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg) |
 | Miss Sukainah | [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg) |  |  |
 
-![](/images/rugby%201.jpg)
+![](/images/CCA/Sports/rugby1.jpg)
 
-![](/images/rugby%202.jpg)
+![](/images/CCA/Sports/rugby2.jpg)
+
+![](/images/CCA/Sports/rugby3.jpg)
+
+![](/images/CCA/Sports/rugby4.jpg)
