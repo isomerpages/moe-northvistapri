@@ -4,7 +4,7 @@ permalink: /parents-and-students/Information-for-Parents/general-info/
 description: ""
 third_nav_title: Information for Parents
 ---
-### Find more information on:
+### More information on:
 
 ||||
 |:---:|:---:|:---:|
@@ -182,4 +182,4 @@ Please note that in the course of your child/ward's journey in North Vista Prima
 
 |||
 |:---:|---:|
-||<a href="#top">back to top^</a>|		
+||<a href="#top">back to top^</a>|
