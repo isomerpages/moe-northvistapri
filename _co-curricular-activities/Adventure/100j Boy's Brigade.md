@@ -33,6 +33,6 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mrs Chiu Wan Ting  | [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)  |
 |
 
-![](/images/BB%201.jpg)
+![](/images/CCA/Adventure/bb1.jpg)
 
-![](/images/BB%202.jpg)
+![](/images/CCA/Adventure/bb2.jpg)
