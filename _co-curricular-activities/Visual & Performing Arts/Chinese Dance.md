@@ -27,7 +27,8 @@ Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before
 |---|---|
 | Mdm Zheng Hui (Overall-In-Charge) | [zheng_hui@moe.edu.sg](zheng_hui@moe.edu.sg) |
 | Mdm Xu Lupin | [xu_lupin@moe.edu.sg](xu_lupin@moe.edu.sg) |
-| Ms Amy Ong |  |
+| Miss Lai Liyu |[lai_liyu@moe.edu.sg](lai_liyu@moe.edu.sg)  |
+|Ms Naomi Ashley |[naomi_ashley@moe.edu.sg](naomi_ashley@moe.edu.sg)  |
 |
 
 ![](/images/chinese%20dance%201.jpg)
