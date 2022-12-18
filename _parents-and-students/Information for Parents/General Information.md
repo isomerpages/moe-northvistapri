@@ -8,7 +8,7 @@ third_nav_title: Information for Parents
 
 ||||
 |:---:|:---:|:---:|
-| <a href="#access">Access to school</a> | <a href="#morning">Morning Drop-off & Decal<a> | <a href="#safety">Safety Around the School</a> |
+| <a href="#access">Access to the School</a> | <a href="#morning">Morning Drop-off & Decal<a> | <a href="#safety">Safety Around the School</a> |
 | <a href="#dismissal">School Dismissal</a> | <a href="#outside">Outside the School</a> | <a href="#early">Early Dismissal for Unwell Students</a> |
 | <a href="#insurance">Insurance</a> | <a href="#emergency">Emergency Evacuation Guidelines</a> | <a href="#attendance">Attendance</a> |
 | <a href="#communication">Communication with Teachers</a> | <a href="#change">Change of Contact Info</a> | <a href="#responsibility">Responsibility for Personal Properties</a>|
