@@ -12,8 +12,8 @@ third_nav_title: Information for Parents
 
 3. Students will complete their online assignments for the respective subjects through the [Student Learning Space(SLS)](https://vle.learning.moe.edu.sg/login). Varieties of assessment modes are included to help the students monitor their own learning. There would be also opportunities for the students to video conference with their subject teachers to seek clarifications in learning via platforms such as Google Meet and Zoom.
 
-* [User-Guide-For-Google-Meet](/files/User-Guide-For-Google-Meet.pdf)
-* [User-Guide-For-Zoom](/files/User-Guide-For-Zoom.pdf)
+* [User-Guide-For-Google-Meet](/files/HBL/User-Guide-For-Google-Meet.pdf)
+* [User-Guide-For-Zoom](/files/HBL/User-Guide-For-Zoom.pdf)
 * [Students' User Guides for Zoom and Google Meet](http://go.gov.sg/user-guides-zoom-google-meet)
 
 4. For technical issues pertaining to the use of the SLS portal such as unlocking accounts and resetting passwords, please refer to the SLS self-help guide or contact the SLS School-based Helpline. Details are found at the school website.
