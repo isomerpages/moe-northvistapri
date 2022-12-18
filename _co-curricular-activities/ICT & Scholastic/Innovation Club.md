@@ -21,11 +21,11 @@ Mondays. Schedule will be sent to parents to Parents Gateway before the start of
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mrs Tan Huishan (Overall-In-Charge)  | [wang_huishan@moe.edu.sg](wang_huishan@moe.edu.sg)  |
-| Miss Tam Fong U | [tam_fong_u@moe.edu.sg](tam_fong_u@moe.edu.sg) |
-| Ms Yeo Si Min | [yeo_si_min@moe.edu.sg](yeo_si_min@moe.edu.sg) |
-| Mr Ralph Ong  | [ralph_ong@moe.edu.sg](ralph_ong@moe.edu.sg)  |
-| Mdm Gan Hui Ling Jen | [gan_hui_ling@moe.edu.sg](gan_hui_ling@moe.edu.sg) |
+| Mrs Tan Huishan (Overall-In-Charge)  | [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)  |
+| Miss Tam Fong U | [tam_fong_u@moe.edu.sg](mailto:tam_fong_u@moe.edu.sg) |
+| Ms Yeo Si Min | [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg) |
+| Mr Ralph Ong  | [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg)  |
+| Mdm Gan Hui Ling Jen | [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg) |
 |
 
 ![](/images/innovation%20club%201.jpg)
