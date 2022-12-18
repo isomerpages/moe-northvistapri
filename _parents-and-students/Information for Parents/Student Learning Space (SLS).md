@@ -18,8 +18,8 @@ _Note: Usernames will not contain spaces or special characters such as apostroph
 
 **2. I have forgotten my password. What should I do?**
 
-(a). [Reset Your Password Via Email](/files/Reset%20Your%20Password%20Via%20Email.pdf) <br>
-(b). [Reset Your Password by Answering Security Questions](/files/Reset%20Your%20Password%20by%20Answering%20Security%20Questions.pdf) <br>
+(a). [Reset Your Password Via Email](/files/SLS/Reset%20Your%20Password%20Via%20Email.pdf) <br>
+(b). [Reset Your Password by Answering Security Questions](/files/SLS/Reset%20Your%20Password%20by%20Answering%20Security%20Questions.pdf) <br>
 (c). Reset Your Password by Contacting the **School-based Helpline** as listed below. <br>
 (d). Reset Your Password by Contacting the **SLS Helpline** as listed below. <br>
 
