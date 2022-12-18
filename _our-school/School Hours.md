@@ -18,12 +18,4 @@ description: ""
 | P1 and P4  | 9 a.m. to 9.30 a.m. | Between 11 a.m. and 11.30 a.m. |
 | P2 and P5  | 10 a.m. to 10.30 a.m. | Between 12 noon and 12.30 p.m. |
 |  P3 | 10.30 a.m. to 11 a.m.  | Between 9 a.m. and 9.30 a.m.   |
-|  P6 | 11 a.m. to 11.30 a.m.  | Between 9 a.m. and 9.30 a.m.    |
-
-##### School Contact
-
-|  |  |
-|---|---|
-| Address: <br>Email Address: <br> Website:<br> Facebook: | 20 Compassvale Link Singapore (544974) <br>  nvtps@moe.edu.sg <br> [https://www.northvistapri.moe.edu.sg](https://www.northvistapri.moe.edu.sg) <br>[https://www.facebook.com/NorthVistaPrimary](https://www.facebook.com/NorthVistaPrimary) |
-| General Office Telephone: <br> Facsimile: | 6484 3566  <br> 6484 3568 |
-|  |  |
+|  P6 | 11 a.m. to 11.30 a.m.  | Between 9 a.m. and 9.30 a.m.  | 
