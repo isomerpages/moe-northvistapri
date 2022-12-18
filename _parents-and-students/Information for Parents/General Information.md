@@ -21,6 +21,12 @@ We want to keep our school safe for our students. All visitors/parents must regi
 
 Nobody is allowed to access any other parts of the school premises without prior permission from the General Office.
 
+	
+|||
+|:---:|---:|
+||<a href="#top">back to top^</a>|	
+
+	
 #### 2\. Morning Drop-Off & Vehicle Decal<a name="morning"></a>
 
 Parents who drive students to school will be allowed to drop them off along the sheltered walkway within school grounds until   7.25 a.m. Parents should not alight or park their car within the school grounds as parking lots are reserved for season parking only. Please adhere strictly to the school regulations of not driving more than 15 km/h within the school grounds. Exhibit greater care and patience while driving in the school premises.
