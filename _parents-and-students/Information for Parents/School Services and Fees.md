@@ -14,9 +14,11 @@ third_nav_title: Information for Parents
 |  |  | |
 
 	
-	#### <a name="dental">School Dental</a> 
+	
+#### School Dental <a name="dental"></a>
 
 
+	
 | Name | Field Dental Clinic by HPB |  |
 | -------- | -------- | -------- |
 | Telephone | 8764 0230 |    |
