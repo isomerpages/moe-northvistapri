@@ -13,4 +13,4 @@ Celebrating different festivals and events is an integral and exciting part of c
 ![](/images/MK/celebrations%202.jpg)
 
 <img src="/images/MK/celebrations%203.jpg" 
-     style="width:55%" align = left>
+     style="width:55%" align = center>
