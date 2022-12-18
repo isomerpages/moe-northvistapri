@@ -7,10 +7,10 @@ description: ""
 
 #### PSG@Vista
 
-<img src="/images/PSG%20Logo.jpg" 
+<img src="/images/PSG/PSG%20Logo.jpg" 
      style="width:40%" align = left>
 		 
-<br><br><br><br><br><br> 
+<br><br><br>
 		 
 PSG@Vista Committee was formed in 2008. Our parent volunteers are like-minded individuals who are passionate about creating the best learning environment for the students, contributing time, effort and talent to support the school’s activities and initiatives.		 
 
@@ -33,7 +33,7 @@ Some events that our parent volunteers are involved in include ‘Science Eureka
 
 We also co-organise events such as Tea Appreciation and Family Day to promote close relationships between school, parents and children. We actively support FamilyMatters@School and the Dads for Life movement, which organize workshops and events for parents to equip them with skills to nurture positive family relations.
 
-<img src="/images/2022%20PSG%20Exco.jpeg" 
+<img src="/images/PSG/2022%20PSG%20Exco.jpeg" 
      style="width:65%" >
 		 
 **PSG EXCO Members 2022**
@@ -69,13 +69,13 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 <thead>
   <tr>
 
-<img src="/images/FaceBookFreeQR.png" style="width:45%;">
+<img src="/images/PSG/FaceBookFreeQR.png" style="width:45%;">
 <br>
 		
 [PSGVista Facebook Page](https://www.facebook.com/PSGVista-373732262658906)
 				
 <br>		
-<img src="/images/psgqrcodeupdated.png" style="width:40%;">
+<img src="/images/PSG/psgqrcodeupdated.png" style="width:40%;">
 <br>
 		
 [NVTPSPSG](https://tinyurl.com/NVTPSPSG)
