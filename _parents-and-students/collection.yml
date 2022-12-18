@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Information for Parents/Homework Guidelines.md
       - Information for Parents/General Information.md
       - Information for Parents/School Services and Fees.md
       - Information for Parents/.keep
