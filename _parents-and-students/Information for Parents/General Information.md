@@ -4,7 +4,7 @@ permalink: /parents-and-students/Information-for-Parents/general-info/
 description: ""
 third_nav_title: Information for Parents
 ---
-### General Information for Parents/Guardians
+### Find more information on:
 
 ||||
 |:---:|:---:|:---:|
