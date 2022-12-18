@@ -25,6 +25,6 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mr Mohd Zaki | [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg) |
 |
 
-![](/images/malay%20cultural%20club%201.jpg)
+![](/images/CCA/Talent/mldrama1.jpg)
 
-![](/images/malay%20cultural%20club%202.jpg)
+![](/images/CCA/Talent/mldrama2.jpg)
