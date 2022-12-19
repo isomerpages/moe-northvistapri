@@ -34,12 +34,11 @@ Through the year, Primary 6 students are engaged in a series of hands-on activit
 ##### 6. Eureka!
 Students learn about the work of scientists in the various disciplines of science and how their values and attitudes have contributed to their success. The men and women past and present, local and international are celebrated in this program.
 
-![](/images/science%201.png)
+![](/images/SC/sc1.jpg)
 
-![](/images/science%202.png)
+![](/images/SC/sc2.jpg)
 
-<img src="/images/science%203.png" 
-     style="width:80%">
+![](/images/SC/sc3.jpg)
 
-<img src="/images/science%204.png" 
-     style="width:80%">
+![](/images/SC/sc4.jpg)
+
