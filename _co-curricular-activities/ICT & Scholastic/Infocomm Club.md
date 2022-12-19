@@ -23,4 +23,3 @@ Mondays. Schedule will be sent to parents via Parents Gateway before the start o
 |
 
 ![](/images/CCA/ICT/info1.jpg)
-
