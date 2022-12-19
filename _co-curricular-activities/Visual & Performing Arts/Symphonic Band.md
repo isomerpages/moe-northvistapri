@@ -37,6 +37,8 @@ Mondays, Tuesdays and Fridays. Schedule will be sent to parents via Parents Gate
 | Mr Wu Hekun | [wu_hekun@moe.edu.sg](mailto:wu_hekun@moe.edu.sg) |
 |
 
-![](/images/band%201.jpg)
+![](/images/CCA/VAPA/band1.jpg)
 
-![](/images/band%202.jpg)
+![](/images/CCA/VAPA/band2.jpg)
+
+![](/images/CCA/VAPA/band3.jpg)
