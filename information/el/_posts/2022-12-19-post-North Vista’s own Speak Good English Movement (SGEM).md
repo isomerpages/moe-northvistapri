@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-#### North Vista’s own Speak Good English Movement (SGEM)
+#### North Vista’s Speak Good English Movement (SGEM)
 
 Dear Parents,
 
