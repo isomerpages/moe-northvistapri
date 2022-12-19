@@ -33,7 +33,7 @@ Some events that our parent volunteers are involved in include ‘Science Eureka
 
 We also co-organise events such as Tea Appreciation and Family Day to promote close relationships between school, parents and children. We actively support FamilyMatters@School and the Dads for Life movement, which organize workshops and events for parents to equip them with skills to nurture positive family relations.
 
-<img src="/images/PSG/2022%20PSG%20Exco.jpeg" 
+<img src="/images/PSG/PSG_Exco.jpeg" 
      style="width:65%" >
 		 
 **PSG EXCO Members 2022**
