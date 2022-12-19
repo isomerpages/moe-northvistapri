@@ -31,4 +31,3 @@ Mondays. Schedule will be sent to parents to Parents Gateway before the start of
 ![](/images/CCA/ICT/inno1.jpg)
 
 ![](/images/CCA/ICT/inno2.jpg)
-
