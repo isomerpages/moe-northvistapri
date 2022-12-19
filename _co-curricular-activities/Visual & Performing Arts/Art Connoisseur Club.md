@@ -22,6 +22,6 @@ Mondays.  Schedule will be sent to parents via Parents Gateway before the start
 | Mdm Rozita  | [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  |
 |
 
-![](/images/art%20club%201.jpg)
+![](/images/CCA/VAPA/art1.jpg)
 
-![](/images/art%20club%202.jpg)
+![](/images/CCA/VAPA/art2.jpg)
