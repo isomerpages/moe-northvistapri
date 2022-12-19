@@ -28,8 +28,7 @@ Mondays. Schedule will be sent to parents to Parents Gateway before the start of
 | Mdm Gan Hui Ling Jen | [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg) |
 |
 
-![](/images/innovation%20club%201.jpg)
+![](/images/CCA/ICT/inno1.jpg)
 
-![](/images/innovation%20club%202.jpg)
+![](/images/CCA/ICT/inno2.jpg)
 
-![](/images/innovation%20club%203.jpg)
