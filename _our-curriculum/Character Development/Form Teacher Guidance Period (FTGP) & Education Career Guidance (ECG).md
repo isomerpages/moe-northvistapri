@@ -4,16 +4,19 @@ permalink: /our-curriculum/Char-and-Citizenship-Edu-CCE/ftgp-and-ecg/
 description: ""
 third_nav_title: Character Development
 ---
-
-
 ### Form Teacher Guidance Period (FTGP) & Education Career Guidance (ECG)
 
 #### Form Teacher Guidance Period (FTGP)
 
 ##### Purpose
+
+
+![](/images/CCE/ftgp1.jpg)
+
 Holistic development of students through meaningful Teacher-Student-Relationships within the class. During FTGP, teachers teach students Social and Emotional (SEL) competencies, bond and build rapport with students.
 
 ![](/images/FTGP.png)
+
 
 #### Education Career Guidance (ECG)
 
