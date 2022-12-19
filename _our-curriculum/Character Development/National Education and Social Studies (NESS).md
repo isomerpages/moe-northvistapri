@@ -17,6 +17,10 @@ Students are selected as the NE ambassadors of North Vista Primary School to att
 
 This programme conducted by SDC seeks to equip the selected students with the ‘headware’ and ‘heartware’ for the roles they are going to play ahead. The students are trained to have a basic foundation in Public Speaking to help build their confidence in public speaking.
 
+
+![](/images/CCE/ness1.jpg)
+
+![](/images/CCE/ness2.jpg)
 #### Key Programmes
 
 *   Total Defence Day
@@ -44,6 +48,3 @@ It is organised in three clusters:
 *   Cluster 3 (Primary 5 & 6): Appreciating the World and Region We Live
 
 
-![](/images/CCE/ness1.jpg)
-
-![](/images/CCE/ness2.jpg)
