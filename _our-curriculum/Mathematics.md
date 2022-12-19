@@ -35,10 +35,8 @@ Programme is designed to enrich selected P4 to P6 students who are keen to parti
 ##### 7. Excellence 2000 (E2K) Math
 Programme is for Primary 4 to 6 students who demonstrate interest and aptitude in Mathematics. It aims to develop students’ mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. The learning experience in E2K aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
-![](/images/math%201.jpg)
+![](/images/MA/ma1.jpg)
 
-![](/images/math%202.jpg)
+![](/images/MA/ma2.jpg)
 
-![](/images/math%203.jpg)
-
-![](/images/math%204.jpg)
+![](/images/MA/ma3.jpg)
