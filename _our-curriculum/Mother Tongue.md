@@ -38,13 +38,13 @@ description: ""
 | **Festival Celebrations / 庆祝传统节日** <br> <br> 传统节日承载了丰富的文化意义，通过庆祝华人新年和中秋节，学生可以感受节日气氛，更能了解华族文化。 | **Festival Celebrations / Sambutan Perayaan**<br> <br>memupuk kesedaran terhadap budaya berbilang bangda melalui sambutan perayaan |
 |
 
-![](/images/mother%20tongue%201.jpg)
+![](/images/CL/cl1.jpg)
 
-![](/images/mother%20tongue%202.jpg)
+![](/images/CL/cl2.jpg)
 
-![](/images/mother%20tongue%203.jpg)
+![](/images/CL/cl3.jpg)
 
-![](/images/mother%20tongue%204.jpg)
+![](/images/CL/cl4.jpg)
 
 ![](/images/mother%20tongue%205.jpg)
 
