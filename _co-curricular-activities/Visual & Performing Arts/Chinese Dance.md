@@ -32,6 +32,6 @@ Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before
 |Ms Wu Lihua |[wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)  |
 |
 
-![](/images/chinese%20dance%201.jpg)
+![](/images/CCA/VAPA/cld1.jpg)
 
-![](/images/chinese%20dance%202.jpg)
+![](/images/CCA/VAPA/cld2.jpg)
