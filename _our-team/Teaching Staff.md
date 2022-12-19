@@ -13,7 +13,7 @@ description: ""
 | P 1-3 |   Mdm Analiza <br> [analiza_suboh@moe.edu.sg](mailto:analiza_suboh@moe.edu.sg)  | Mrs Lim Chia Lin <br> [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg)   |
 | P 1-4 | Mdm Rozita<br>  [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  | Miss Chong Yuan Ping <br>[chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  |
 | P 1-5 |   Ms Wu Lihua <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)  |   Mr Cavin Lee <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
-|  P 1-6  | Ms Ang Lee Im <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Ms Vijayalakshmi <br> [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)  |
+|  P 1-6  | Ms Ang Lee Im <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
 |  P 1-7  | Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg) | Mr Joel Wong <br>[wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)   |
 | P 1-8 | Miss Jessica Cheah <br> [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg)   | Mr Lawrence Lim  <br> [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)  |
 
