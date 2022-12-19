@@ -50,10 +50,9 @@ To supplement oracy programmes that are carried out during curriculum, enrichmen
 **\- Speech and Drama Programme at Primary 1 & 2**
 Teachers specially crafted Speech and Drama Programme at Primary 1 & 2 to provide opportunities for students to build stage presence and confidence. The scripts which are based on STELLAR texts that students have read are written to give each student the chance to speak. Skills such as pronunciation, projecting suitable facial expressions and voice projection are explicitly taught.
 
-![](/images/english%201.jpg)
 
-![](/images/english%202.jpg)
 
-![](/images/english%203.jpg)
 
-![](/images/english%204.jpg)
+
+
+
