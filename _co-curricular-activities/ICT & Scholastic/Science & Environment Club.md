@@ -37,6 +37,8 @@ Fridays. Schedule will be sent to parents via Parents Gateway before the start o
 |
 
 
-![](/images/science%20environment%20club%201.jpg)
+![](/images/CCA/ICT/scee1.jpg)
 
-![](/images/science%20environment%20club%202.jpg)
+![](/images/CCA/ICT/scee2.jpg)
+
+![](/images/CCA/ICT/scee3.jpg)
