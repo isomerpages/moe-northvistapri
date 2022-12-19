@@ -7,7 +7,7 @@ description: ""
 
 #### PSG@Vista
 
-<img src="/images/PSG/PSG%20Logo.jpg" 
+<img src="/images/PSG/PSG_Logo.jpg" 
      style="width:40%" align = center>
 		 
 
@@ -20,7 +20,7 @@ To partner school in creating a nurturing and safe environment for our Vistalite
 #### Motto
 Involve – Integrate – Inspire
 
-<img src="/images/PSG/Motto%20of%20Involve_Integrate_Inspire.png" 
+<img src="/images/PSG/Motto_Involve_Integrate_Inspire.png" 
      style="width:80%" >
 		 
 #### PSG@Vista Regular Duties
