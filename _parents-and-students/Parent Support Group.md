@@ -69,12 +69,18 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 <thead>
   <tr>
 
+		
 [NVTPSPSG](https://tinyurl.com/NVTPSPSG) Registration Form <a name="#join"></a>		
 <br>		
+		
+		
 <img src="/images/PSG/psgqrcodeupdated.png" style="width:40%;">
 <br>		
+
 		
 [PSG Facebook Page](https://www.facebook.com/PSGVista-373732262658906)		
 		
 <img src="/images/PSG/FaceBookFreeQR.png" style="width:45%;">
 <br>
+		
+		
