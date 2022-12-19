@@ -4,8 +4,7 @@ permalink: /our-curriculum/Infocom-Technology-ICT/cyberwellness/
 description: ""
 third_nav_title: Infocom Technology (ICT)
 ---
-
-### Cyberwellness (CW)
+### Cyber Wellness (CW)
 
 #### Vision
 To nurture future-ready and responsible digital learners
