@@ -4,7 +4,7 @@ title: North Vista Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Our website is best viewed under a 1024x768 screen resolution
 sections:
   - hero:
       title: North Vista Primary School
