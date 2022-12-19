@@ -14,5 +14,5 @@ To equip students with lifelong social-emotional competencies and sound values s
 
 #### Key Programmes
 *  Cyber Wellness Student Ambassadors (CWSA)
-*  * In order to leverage positive peer influence for CW, selected students design online games and case studies that focuses on raising the awareness of Cyber Wellness issues. They share their case studies to their peers during Form Teacher Guidance Period (FTGP) and online games during learning festival.
+*  In order to leverage positive peer influence for CW, selected students design online games and case studies that focuses on raising the awareness of Cyber Wellness issues. They share their case studies to their peers during Form Teacher Guidance Period (FTGP) and online games during learning festival.
 * Cyber Wellness Learning Festival
