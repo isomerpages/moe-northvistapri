@@ -4,8 +4,6 @@ permalink: /our-curriculum/Char-and-Citizenship-Edu-CCE/
 description: ""
 third_nav_title: Character Development
 ---
-
-
 ### Character and Citizenship Education (CCE)
 
 #### Vision
@@ -21,10 +19,3 @@ Every Primary 4 Vistalite will be buddied up with a Primary 1 Vistalite and the 
 
 Every Primary 5 Vistalite will undergo a 3D2N overnight camp where friendships will be forged. Through this camp, Vistalite are inculcated with the mindset that they are to be responsible for themselves and their fellow peers.
 
-<img src="/images/CCE%201.jpg" 
-     style="width:28%" align = left >
-<img src="/images/CCE%202.jpg" 
-     style="width:65%">
-		 
-<img src="/images/CCE%203.jpg" 
-     style="width:65%">
