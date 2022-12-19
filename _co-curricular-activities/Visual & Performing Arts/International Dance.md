@@ -29,6 +29,8 @@ Mondays and Fridays. Schedule will be sent to parents via Parent's Gateway befor
 |
 
 
-![](/images/international%20dance%201.jpg)
+![](/images/CCA/VAPA/id1.jpg)
 
-![](/images/international%20dance%202.jpg)
+![](/images/CCA/VAPA/id2.jpg)
+
+![](/images/CCA/VAPA/id3.jpg)
