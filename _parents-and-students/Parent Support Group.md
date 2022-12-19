@@ -42,37 +42,12 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 **Bottom Row (From the left):** Mdm Ng Siao Hui (Event Coordinator), Mr Sam Wong (Dad For Life IC), Mdm Ang Yuat Poh
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold;color:#00009B">Join us in this meaningful endeavour today!</span></td>
-  </tr>
-</thead>
-</table>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-qrmi{background-color:#FFF;border-color:inherit;color:#1C4587;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
+#### Join us in this meaningful endeavour today! <a name="#join"></a>
 
 
 		
 		
-[NVTPSPSG](https://tinyurl.com/NVTPSPSG) Registration Form <a name="#join"></a>
+[NVTPSPSG](https://tinyurl.com/NVTPSPSG) Registration Form 
 
 		
 <img src="/images/PSG/psgqrcodeupdated.png" style="width:40%;">
