@@ -4,8 +4,6 @@ permalink: /our-curriculum/Char-and-Citizenship-Edu-CCE/ness/
 description: ""
 third_nav_title: Character Development
 ---
-
-
 ### National Education/Social Studies (NESS)
 ### National Education
 
@@ -44,3 +42,8 @@ It is organised in three clusters:
 *   Cluster 1 (Primary 1 & 2): Discovering Self and Immediate Environment
 *   Cluster 2 (Primary 3 & 4): Understanding Singapore in the Past and Present
 *   Cluster 3 (Primary 5 & 6): Appreciating the World and Region We Live
+
+
+![](/images/CCE/ness1.jpg)
+
+![](/images/CCE/ness2.jpg)
