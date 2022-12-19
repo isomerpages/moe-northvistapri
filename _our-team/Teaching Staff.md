@@ -40,7 +40,7 @@ description: ""
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 3-1  | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg)  | Mr Francis Yam <br> [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg) |
+| P 3-1  | Ms Liu Lingzhu <br> [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  | Mr Francis Yam <br> [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg) |
 | P 3-2 | Ms Gan Hui Ling Jen <br> [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg) | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg) |
 | P 3-3 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Mrs Kelly Lim <br>  [mak_wenjing@moe.edu.sg  ](mailto:mak_wenjing@moe.edu.sg  )    |
 | P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg) | Ms Jasmine Gan <br> [gan_hwee_ping@moe.edu.sg](mailto:gan_hwee_ping@moe.edu.sg) |
