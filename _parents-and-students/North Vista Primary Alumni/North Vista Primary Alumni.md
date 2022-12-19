@@ -4,7 +4,7 @@ permalink: /parents-and-students/North-Vista-Primary-Alumni/
 description: ""
 third_nav_title: North Vista Primary Alumni
 ---
-### North Vista Primary Alumni
+
 
 <img src="/images/Alumni/Alumni_logo.png" 
      style="width:25%">
