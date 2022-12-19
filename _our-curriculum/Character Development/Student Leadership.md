@@ -4,8 +4,6 @@ permalink: /our-curriculum/Char-and-Citizenship-Edu-CCE/student-leadership/
 description: ""
 third_nav_title: Character Development
 ---
-
-
 ### Student Leadership
 The school builds up the leadership quality of Vistalites through a comprehensive leadership program. The two tier progressive leadership program aims to provide every student with leadership opportunities.
 
@@ -19,10 +17,8 @@ P4 – Peer Leader <br>
 P5 – Prefects/Councillors <br>
 P6 – Senior Prefects <br>
 
-![](/images/student%20leadership%201.jpg)
 
-![](/images/student%20leadership%202-min%20(2).jpg)
 
-![](/images/student%20leadership%203.jpg)
 
-![](/images/student%20leadership%204.jpg)
+
+
