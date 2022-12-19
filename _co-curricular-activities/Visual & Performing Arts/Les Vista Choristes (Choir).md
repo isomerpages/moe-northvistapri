@@ -36,6 +36,6 @@ Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before
 | Miss Jessica Tan  | [jessica_tan_jia_hui@moe.edu.sg](mailto:jessica_tan_jia_hui@moe.edu.sg)  |
 |
 
-![](/images/choir%201.jpg)
+![](/images/CCA/PAVA/choir1.jpg)
 
 ![](/images/choir%202.jpg)
