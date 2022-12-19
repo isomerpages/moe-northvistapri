@@ -54,6 +54,6 @@ Access the <a href="https://tinyurl.com/NVTPSPSG" target="blank">NVTPS PSG Regis
 	
 
 
-Visit <a href="https://www.facebook.com/PSGVista-373732262658906"  target="_blank">PSG Facebook Page</a>		
+Visit <a href="https://www.facebook.com/PSGVista-373732262658906" target="_blank">PSG Facebook Page</a>		
 
 <img src="/images/PSG/PSG_FB_QR.png" style="width:40%;">
