@@ -13,4 +13,3 @@ third_nav_title: Infocom Technology (ICT)
 #### Programme Overview
 Students are introduced to Scratch Junior, an age-appropriate block-based programming in Primary 1 and 2. In block-based programming, computer instructions are represented as blocks of code. The students simply drag and drop these blocks of code to form a program. After learning basic coding concepts, they design their digital storyboards to promote awareness on environmental conservation.
 
-![](/images/ALP.jpg)
