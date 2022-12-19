@@ -31,16 +31,9 @@ The experiences will help your child develop a greater awareness of himself and 
 3) Performing Arts  
 4) Visual Arts
 
-<img src="/images/PAL%201.jpg" 
-     style="width:55%" align = left>
+
 		 
-<img src="/images/PAL%202.jpg" 
-     style="width:45%" align = right>
+
+
 		 
-<br> <br> <br> <br> 
-		 
-<img src="/images/PAL%203.jpg" 
-     style="width:50%" align = left>
-		 
-<img src="/images/PAL%204.jpg" 
-     style="width:49%" align = right>
+>
