@@ -4,8 +4,6 @@ permalink: /our-curriculum/Char-and-Citizenship-Edu-CCE/ness/
 description: ""
 third_nav_title: Char & Citizenship Edu (CCE)
 ---
-
-
 ### National Education/Social Studies (NESS)
 ### National Education
 
@@ -38,8 +36,10 @@ To develop students as Informed, Concerned and Participative Citizens
 #### Curriculum Approach
 Children are naturally inquisitive and the inquiry approach aims to harness this innate motivation in our students to inquire into things that catch their attention. Inquiry helps our students learn to judge whether the conclusions drawn by their peers are supported by sound information or based on opinions. Through the inquiry process, students are also empowered to be responsible for their own learning. A summary of the Inquiry approach is illustrated in the diagram below:
 
-<img src="/images/NESS%20social%20studies.png" 
-     style="width:65%">
+![](/images/CCE/nessfw.png)
+
+
+		 
 		 
 #### Syllabus
 The syllabus is framed by knowledge, skills and values outcomes that students will acquire in order to be informed, concerned and participative citizens with a global outlook.
@@ -48,5 +48,3 @@ It is organised in three clusters:
 *   Cluster 1 (Primary 1 & 2): Discovering Self and Immediate Environment
 *   Cluster 2 (Primary 3 & 4): Understanding Singapore in the Past and Present
 *   Cluster 3 (Primary 5 & 6): Appreciating the World and Region We Live
-
-
