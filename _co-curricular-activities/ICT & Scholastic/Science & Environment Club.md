@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/ICT-and-Scholastic/science-and-environment-
 description: ""
 third_nav_title: ICT & Scholastic
 ---
-### Science & Environment Club
+
 We are a group of teachers and students who loves Science and enjoys exploring the different aspects of Science. We plant and harvest our own in-house hydroponics crops, make Science toys and conduct experiments to verify different Science theories and hypothesis.
 
 The team is focused in training for National Science competitions such as Singapore Youth Science Fair, Elementz and Science Buskers.
