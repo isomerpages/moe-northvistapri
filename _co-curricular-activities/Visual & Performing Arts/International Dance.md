@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/international-da
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-### International Dance
+
 
 The school dance team Vista Danza was set up in 2010. Our all girls’ team comprises of students from the P2 to P6 cohort. International Dance aims (i) to instil a great love for dance while inspiring self-confidence, develop appreciation of various modern dance forms, to strengthen discipline and to develop collective spirit while sustaining the love for dance (ii) to build character – Every dancer embodies the value of respect, resilience, responsibility, integrity, care and harmony.
 
