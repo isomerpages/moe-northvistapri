@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Char & Citizenship Edu (CCE)
 ---
 
-
-### Character and Citizenship Education (CCE)
-
 #### Vision
 To equip each Vistalite with the values, skills and attitudes to be a caring leader.
 
@@ -20,4 +17,3 @@ Every Vistalite is inculcated with the mindset to be a Peer Supporter.
 Every Primary 4 Vistalite will be buddied up with a Primary 1 Vistalite and the older student will look out for his/her younger peer. Platforms are provided for them to meet at a regular basis through peer bonding activities.
 
 Every Primary 5 Vistalite will undergo a 3D2N overnight camp where friendships will be forged. Through this camp, Vistalite are inculcated with the mindset that they are to be responsible for themselves and their fellow peers.
-
