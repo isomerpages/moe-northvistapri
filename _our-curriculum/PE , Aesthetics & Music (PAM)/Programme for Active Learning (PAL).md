@@ -4,7 +4,7 @@ permalink: /our-curriculum/PE-Aesthetics-and-Music-PAM/PAL/
 description: ""
 third_nav_title: PE , Aesthetics & Music (PAM)
 ---
-### Programme for Active Learning (PAL)
+
 
 #### Vision
 Equipping our children with Skills, Dispositions, and Knowledge for a fast-changing and globalised future.
