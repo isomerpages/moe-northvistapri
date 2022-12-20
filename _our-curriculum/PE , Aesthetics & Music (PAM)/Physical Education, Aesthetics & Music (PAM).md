@@ -4,7 +4,7 @@ permalink: /our-curriculum/PE-Aesthetics-and-Music-PAM/
 description: ""
 third_nav_title: PE , Aesthetics & Music (PAM)
 ---
-### Physical Education, Aesthetics & Music (PAM)
+
 
 ### Physical Education (P.E.)
 
@@ -78,6 +78,3 @@ The Boomwhacker programme runs consecutively for 2 years, increasing in difficul
 
 ##### **Musical Odyssey**
 The Musical Odyssey is a milestone for the students to experience in partnership with their parents. Parents will be invited and involved in the learning process that their child/ward has undertaken through an authentic classroom learning experience. There will also be a short performance of 1 – 2 songs from the repertoire they have learnt during their music lessons.
-
-
-
