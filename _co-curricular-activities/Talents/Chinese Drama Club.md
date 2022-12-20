@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Talents/chinese-drama-club/
 description: ""
 third_nav_title: Talents
 ---
-### Chinese Drama Club
+
 
 Chinese Language (CL) Drama was set up in 2018 to offer more performing arts options to our students. Our team comprises of students from the P2 to P6 cohort.
 
