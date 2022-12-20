@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Adventure/girls-brigade/
 description: ""
 third_nav_title: Adventure
 ---
-### 77th Coy Girls' Brigade
 
 In the Girls’ Brigade, our mission is to develop each girl to her fullest potential by equipping, empowering and enabling her. Our core beliefs are Every Girl a leader.
 
