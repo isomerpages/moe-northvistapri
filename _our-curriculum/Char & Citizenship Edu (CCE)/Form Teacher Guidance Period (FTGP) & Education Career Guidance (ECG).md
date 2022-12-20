@@ -6,9 +6,7 @@ third_nav_title: Char & Citizenship Edu (CCE)
 ---
 
 
-### Form Teacher Guidance Period (FTGP) & Education Career Guidance (ECG)
-
-#### Form Teacher Guidance Period (FTGP)
+### Form Teacher Guidance Period (FTGP)
 
 ##### Purpose
 
@@ -17,7 +15,7 @@ third_nav_title: Char & Citizenship Edu (CCE)
 
 Holistic development of students through meaningful Teacher-Student-Relationships within the class. During FTGP, teachers teach students Social and Emotional (SEL) competencies, bond and build rapport with students.
 
-![](/images/FTGP.png)
+![](/images/CCE/ftgp2.png)
 
 
 #### Education Career Guidance (ECG)
