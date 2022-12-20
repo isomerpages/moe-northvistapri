@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/ICT-and-Scholastic/innovation-club/
 description: ""
 third_nav_title: ICT & Scholastic
 ---
-### Innovation Club
+
 
 Innovation Club was set up to provide students a platform to think out of the box. The hands-on activities that we conduct promote innovation, creativity and engagement. Students also infuse knowledge and skills from various fields such as engineering and science. We aim to promote a culture of innovation and a conducive environment for generation of ideas.
 
