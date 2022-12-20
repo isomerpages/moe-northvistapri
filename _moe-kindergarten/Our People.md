@@ -3,7 +3,7 @@ title: Our People
 permalink: /Kindergarten/our-people/
 description: ""
 ---
-### Our People
+
 
 #### Key Personnel
 
