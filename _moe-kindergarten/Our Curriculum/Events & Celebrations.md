@@ -4,7 +4,7 @@ permalink: /Kindergarten/our-curriculum/events-and-celebrations/
 description: ""
 third_nav_title: Our Curriculum
 ---
-### Events & Celebrations 
+
 
 Celebrating different festivals and events is an integral and exciting part of children's learning in the MK. They develop bonds and connections, instil values in the children and bring them closer to different races, cultures and traditions.
 
