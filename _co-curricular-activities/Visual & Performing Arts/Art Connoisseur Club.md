@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/art-connoisseur-
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-### Art Connoisseur Club
+
 
 Art Connoisseur Club was set up to offer opportunities to students who are interested in exploring and expanding their skills in Art. Our students comprises of students from Primary 2 to Primary 6.  Training is provided for students to further develop their potential in Art. The programme focuses on deepening the skills and the students are exposed to various art forms throughout the year.
 
