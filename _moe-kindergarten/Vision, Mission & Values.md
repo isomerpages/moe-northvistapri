@@ -5,8 +5,6 @@ description: ""
 ---
 
 
-### Vision, Mission & Values
-
 <img src="/images/MK/MKNV%20Pantone.png" 
      style="width:25%" align = left>
 <br><br><br><br>
