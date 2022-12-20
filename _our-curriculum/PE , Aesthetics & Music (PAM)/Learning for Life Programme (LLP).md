@@ -4,7 +4,7 @@ permalink: /our-curriculum/PE-Aesthetics-and-Music-PAM/LLP/
 description: ""
 third_nav_title: PE , Aesthetics & Music (PAM)
 ---
-### Learning for Life Programme (LLP)
+
 
 #### Vision
 To develop an appreciation of the visual arts through various themes and forms of art media.
@@ -34,17 +34,3 @@ Students learn how to make small projects using ceramic clay. They also learn to
 
 ##### P6 Drawing and Painting
 Students do observational drawings and explore still-life drawing using pencils, painting using watercolours and acrylic paints on various mediums.
-
-
-
-
-
-
-
-
-
-		 
-
-
-
-
