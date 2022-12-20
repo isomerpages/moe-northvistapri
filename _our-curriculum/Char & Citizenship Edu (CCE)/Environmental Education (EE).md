@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Char & Citizenship Edu (CCE)
 ---
 
-
-
-
-### Environmental Education (EE)
-
 #### Objective
 To instill a greater sense of awareness of global environmental issues so that the students take personal ownership towards the environment. Students will know more about environmental problems such as food waste, climate change, deforestation, pollution and mass extinction of species.
 
