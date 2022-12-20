@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-### Les Vista Choristes (Choir)
+
 
 Les Vista Choristes was formed in 2013 with the mission to help choristers pursue excellence through their passion in music. The choir’s motto is “We Sing. We Inspire. We Bring Joy.” Through their singing, the choir hopes to inspire and bring joy to people around them.
 
