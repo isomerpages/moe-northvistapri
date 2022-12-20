@@ -24,5 +24,5 @@ Every Parent a Supportive Partner <br>
 
 #### Student Outcomes
 
-<img src="/images/Student_Outcomes.jpg" 
-     style="width:65%" align = left>
+![](/images/Our_School/Student_Outcomes.jpg)
+
