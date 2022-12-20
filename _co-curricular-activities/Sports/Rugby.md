@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports/rugby/
 description: ""
 third_nav_title: Sports
 ---
-### Rugby
+
 Rugby is a team contact sport. The values of integrity, passion, solidarity, discipline and respect are instilled in our players through the game. Students are recruited into the school team starting from Primary 2 for early exposure and are trained in basic ball-handling and no-contact gameplay. Students will only start playing contact rugby after 1 or 2 years of basic training. Every year, the school takes part in the National School Games Rugby Championships as well as other external competitions.
 
 The programme provides training to adequately equip our members with the necessary skills and knowledge of the game to compete at National Level in the annual National Schools Games (NSG).
