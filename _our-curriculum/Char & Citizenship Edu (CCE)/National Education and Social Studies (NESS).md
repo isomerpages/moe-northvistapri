@@ -4,8 +4,6 @@ permalink: /our-curriculum/Char-and-Citizenship-Edu-CCE/ness/
 description: ""
 third_nav_title: Char & Citizenship Edu (CCE)
 ---
-### National Education/Social Studies (NESS)
-### National Education
 
 #### Mission
 National Education forms part of the school’s Citizenship Education Programme. In line with the 21st Century Competencies framework, our key mission is to nurture upright and gracious citizens who are ready to take on future challenges in playing the roles of active, caring leaders to better the lives of others around them.
