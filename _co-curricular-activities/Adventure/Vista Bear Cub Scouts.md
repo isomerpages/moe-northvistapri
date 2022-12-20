@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Adventure/scouts/
 description: ""
 third_nav_title: Adventure
 ---
-### Vista Bear Cub Scouts
+
 
 #### Vision
 Enabling young people to be active citizens creating positive change in their communities and in the world based on shared values.
