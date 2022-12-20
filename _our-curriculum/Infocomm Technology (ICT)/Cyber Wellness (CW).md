@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Infocomm Technology (ICT)
 ---
 
-### Cyber Wellness (CW)
 
 #### Vision
 To nurture future-ready and responsible digital learners
