@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/symphonic-band/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-### Symphonic Band
+
 
 Our objective is to nurture the musical talents of our Band members and through working as a team, to cultivate in them the values such as Respect, Resilience, Responsibility, Integrity, Care and Harmony.
 
