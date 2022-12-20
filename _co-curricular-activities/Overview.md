@@ -3,7 +3,7 @@ title: Overview
 permalink: /cca/overview/
 description: ""
 ---
-### Overview
+
 The co-curricular framework in North Vista Primary School provides students with opportunities to construct  knowledge through a broad range of meaningful experiences and various pathways and platforms to achieve excellence in. To achieve this aim, the provision of mass participation opportunities and avenues for excellence forms the key tenets of this framework. This provides not only the breadth and also depth in the co-curricular experience.
 
 The framework encourages risk-taking, develops social competencies, inculcates a spirit of enterprise and innovation and nurtures potential talents to ensure that students are able to achieve different peaks of successes and thus enriching to their primary school experience throughout their education in North Vista Primary School.
