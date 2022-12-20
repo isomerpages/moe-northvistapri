@@ -3,7 +3,7 @@ title: Science
 permalink: /our-curriculum/science/
 description: ""
 ---
-### Science
+
 
 #### Vision
 Every student a lifelong learner, effective thinker, scientific inquirer and team player.
@@ -41,4 +41,3 @@ Students learn about the work of scientists in the various disciplines of scienc
 ![](/images/SC/sc3.jpg)
 
 ![](/images/SC/sc4.jpg)
-
