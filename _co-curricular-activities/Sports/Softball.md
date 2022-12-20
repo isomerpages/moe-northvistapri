@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports/softball/
 description: ""
 third_nav_title: Sports
 ---
-### Softball
+
 Our Softball team (Vista Batters) participate in the National Softball Championships and comprise of students from P2 to P6. The programme provides training to adequately equip our members with the necessary skills and knowledge of the game to compete at the National Level in the annual National Schools Games (NSG). There are 2 teams - Seniors and Juniors. Students who are committed and consistent in their progression will be shortlisted to represent the school to take part in the National Schools Games. Membership in this team is mainly through trial and invitation.
 
 ##### Promotion Period for Vista Batters
