@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Adventure/boys-brigade/
 description: ""
 third_nav_title: Adventure
 ---
-### 100J Boys' Brigade
+
 
 In the Boys’ Brigade, our missions are to:
 *   develop the habits of Obedience, Reverence, Discipline, Self-Respect.
