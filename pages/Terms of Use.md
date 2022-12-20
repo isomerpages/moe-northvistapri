@@ -29,12 +29,12 @@ The Contents of this Web Site are provided on an “as is” basis without warra
 
 North Vista Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
-#### Links from this Web Site to other Websites
+#### Links from this Web Site to other Web Sites
 This Web Site contains hyperlinks to websites which are not maintained by North Vista Primary School. North Vista Primary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 Hyperlinks to other web sites are provided as a convenience. In no circumstances shall North Vista Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
-#### Links to this Web Site from other Websites
+#### Links to this Web Site from other Web Sites
 Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.
 
 You must secure permission from North Vista Primary School prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. North Vista Primary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
