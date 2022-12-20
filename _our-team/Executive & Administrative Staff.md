@@ -3,7 +3,7 @@ title: Executive & Administrative Staff
 permalink: /our-team/executive-and-administrative-staff/
 description: ""
 ---
-### Executive & Administrative Staff
+
 
 #### Administration
 
@@ -44,11 +44,3 @@ description: ""
 | 2     | Miss Christina Er Mei Teng, Desktop Engineer     |   |
 | 3     | Mdm Gajendran Parameswari, Laboratory Assistant    | [gajendran_parameswari@moe.edu.sg](mailto:gajendran_parameswari@moe.edu.sg)    |
 | 4    | Mrs Susan Tan, Librarian     | [susan_tan_ler@moe.edu.sg](mailto:susan_tan_ler@moe.edu.sg)     |
-
-
-
-
-
-
-
-
