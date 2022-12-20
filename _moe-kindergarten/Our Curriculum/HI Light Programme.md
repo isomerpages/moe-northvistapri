@@ -4,7 +4,7 @@ permalink: /Kindergarten/our-curriculum/hi-light-programme/
 description: ""
 third_nav_title: Our Curriculum
 ---
-### HI-Light Programme
+
 The HI-Light programme is designed to support the holistic development of the children across six learning areas through an integrated approach to learning.
 
 ![](/images/MK/hilight%201.jpg)
