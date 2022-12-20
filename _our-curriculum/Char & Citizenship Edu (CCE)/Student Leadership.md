@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Char & Citizenship Edu (CCE)
 ---
 
-
-### Student Leadership
 The school builds up the leadership quality of Vistalites through a comprehensive leadership program. The two tier progressive leadership program aims to provide every student with leadership opportunities.
 
 One tier of the leadership program is entitled _‘The Leader In Me’_. The leadership roles offered to all students from P1-P6 comprise of class committee roles such as class chairman, security managers, fitness captains and eco rangers.
@@ -18,9 +16,3 @@ P3 – Junior Leader <br>
 P4 – Peer Leader <br>
 P5 – Prefects/Councillors <br>
 P6 – Senior Prefects <br>
-
-
-
-
-
-
