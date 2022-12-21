@@ -12,7 +12,22 @@ These Terms of Use may be changed from time to time. Changes will be posted on t
 This Web Site is maintained by North Vista Primary School. It is owned by North Vista Primary School. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by North Vista Primary School.
 
 #### Privacy Policy
-Click **here** to review this Web Site Privacy Statement.
+This is a North Vista Primary School website. Thank you for examining our privacy statement.
+
+If you are only browsing this website, we do not capture data that allows us to identify you individually.
+
+If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
+
+For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
+
+To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
+
+This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+
+**Consent for Photography and Videos**
+
+Photograph(s) or video image(s) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCA, school camps and school concerts. The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other communication channels. Please notify the school in writing if you do not wish to grant such permission.
+
 
 #### Restriction on Use of Materials
 Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of North Vista Primary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
