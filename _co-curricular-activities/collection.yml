@@ -1,0 +1,27 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Overview.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Art Connoisseur Club.md
+      - Visual & Performing Arts/Les Vista Choristes (Choir).md
+      - Visual & Performing Arts/Symphonic Band.md
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/International Dance.md
+      - ICT & Scholastic/.keep
+      - ICT & Scholastic/Infocomm Club.md
+      - ICT & Scholastic/Innovation Club.md
+      - ICT & Scholastic/Science & Environment Club.md
+      - Sports/.keep
+      - Sports/Softball.md
+      - Sports/Rugby.md
+      - Sports/Basketball.md
+      - Talents/.keep
+      - Talents/English Literary Club.md
+      - Talents/Chinese Drama Club.md
+      - Talents/Malay Cultural Club.md
+      - Adventure/.keep
+      - Adventure/Vista Bear Cub Scouts.md
+      - Adventure/77th Coy Girl's Brigade.md
+      - Adventure/100j Boy's Brigade.md

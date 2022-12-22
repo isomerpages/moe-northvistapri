@@ -1,0 +1,26 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - PE , Aesthetics & Music (PAM)/.keep
+      - PE , Aesthetics & Music (PAM)/Physical Education, Aesthetics & Music
+        (PAM).md
+      - PE , Aesthetics & Music (PAM)/Learning for Life Programme (LLP).md
+      - PE , Aesthetics & Music (PAM)/Programme for Active Learning (PAL).md
+      - Infocomm Technology (ICT)/.keep
+      - Infocomm Technology (ICT)/Infocommunication Technology (ICT).md
+      - Infocomm Technology (ICT)/Applied Learning Programme (ALP).md
+      - Infocomm Technology (ICT)/Cyber Wellness (CW).md
+      - Char & Citizenship Edu (CCE)/.keep
+      - Char & Citizenship Edu (CCE)/Character and Citizenship Education (CCE).md
+      - Char & Citizenship Edu (CCE)/National Education and Social Studies
+        (NESS).md
+      - Char & Citizenship Edu (CCE)/Form Teacher Guidance Period (FTGP) &
+        Education Career Guidance (ECG).md
+      - Char & Citizenship Edu (CCE)/Sexuality Education.md
+      - Char & Citizenship Edu (CCE)/Environmental Education (EE).md
+      - Char & Citizenship Edu (CCE)/Student Leadership.md
