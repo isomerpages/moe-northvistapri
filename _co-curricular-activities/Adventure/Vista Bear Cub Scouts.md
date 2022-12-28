@@ -25,7 +25,7 @@ A leadership camp aimed at training exemplary cub scouts so that they can fulfil
 
 ![](/images/CCA/Adventure/scouts-adventure.jpg)
 
- _\*New recruits (also known as Tenderfoots) will not be required to buy their uniform as they will be under a trial period to allow the child to see if they like scouting. After a few months, once the Tenderfoot has earned his/ her World Scout badge and uniform, an investiture ceremony will be held and the Tenderfoot will be promoted to a Cub Scout._
+ *New recruits (also known as Tenderfoots) will not be required to buy their uniform as they will be under a trial period to allow the child to see if they like scouting. After a few months, once the Tenderfoot has earned his/ her World Scout badge and uniform, an investiture ceremony will be held and the Tenderfoot will be promoted to a Cub Scout.
  
  Students who are interested in joining us can also approach one of the Scout teachers.
  
