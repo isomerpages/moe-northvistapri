@@ -1,11 +1,12 @@
 ---
 title: Our Pride
-permalink: https://https://staging.d177jz78e0t9fa.amplifyapp.com/information/our-pride/
+permalink: https://www.northvistapri.moe.edu.sg/parents-and-students/North-Vista-Primary-Alumni/our-pride/
 date: 2021-12-17
 layout: link
 description: ""
 image: /images/Alumni/Valedictorian_Rushvida_Speech_3.jpg
 ---
+
 
 
 

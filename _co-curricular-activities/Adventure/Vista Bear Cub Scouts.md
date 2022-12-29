@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/Adventure/scouts/
 description: ""
 third_nav_title: Adventure
 ---
-
-
 #### Vision
 Enabling young people to be active citizens creating positive change in their communities and in the world based on shared values.
 
@@ -27,11 +25,14 @@ A leadership camp aimed at training exemplary cub scouts so that they can fulfil
 
 ![](/images/CCA/Adventure/scouts-adventure.jpg)
 
- _\*New recruits (also known as Tenderfoots) will not be required to buy their uniform as they will be under a trial period to allow the child to see if they like scouting. After a few months, once the Tenderfoot has earned his/ her World Scout badge and uniform, an investiture ceremony will be held and the Tenderfoot will be promoted to a Cub Scout._
+ *New recruits (also known as Tenderfoots) will not be required to buy their uniform as they will be under a trial period to allow the child to see if they like scouting. After a few months, once the Tenderfoot has earned his/ her World Scout badge and uniform, an investiture ceremony will be held and the Tenderfoot will be promoted to a Cub Scout.
  
  Students who are interested in joining us can also approach one of the Scout teachers.
  
- #### CCA Schdedule
+ 
+ #### CCA Schedule
+ 
+ 
 Fridays.
 
 Schedule will be sent to parents via Parents Gateway before the start of a new semester. Students can also check the schedule via the CCA noticeboard at the bistro entrance.

@@ -1,11 +1,12 @@
 ---
 title: North Vista Primary Alumni
-permalink: https://staging.d177jz78e0t9fa.amplifyapp.com/parents-and-students/North-Vista-Primary-Alumni/
+permalink: https://www.northvistapri.moe.edu.sg/parents-and-students/North-Vista-Primary-Alumni/
 date: 2022-12-16
 layout: link
 description: ""
 image: /images/Alumni/Alumni_logo.png
 ---
+
 
 
 
