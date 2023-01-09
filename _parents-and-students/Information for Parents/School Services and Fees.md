@@ -141,9 +141,9 @@ Parents can  approach the school directly if they require financial assistance. 
 
 ##### PC-Bundle Application Forms
 	
-* [NPP PC-Bundle Application Form (MOE-SPED FAS)](NPP_MOE_SPED_FAS.pdf)
-* [NPP PC-Bundle Application Form (Non MOE-SPED FAS)](NPP_NON_MOE_SPED_FAS.pdf)
-* [M1-IMDA Fibre Broadband Service Application Form](M1_IMDA_FBSA_Form.pdf)
+* [NPP PC-Bundle Application Form (MOE-SPED FAS)](/files/NPP_MOE_SPED_FAS.pdf)
+* [NPP PC-Bundle Application Form (Non MOE-SPED FAS)](/files/NPP_NON_MOE_SPED_FAS.pdf)
+* [M1-IMDA Fibre Broadband Service Application Form](/files/M1_IMDA_FBSA_Form.pdf)
 
 	
 |||
