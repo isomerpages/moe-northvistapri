@@ -29,7 +29,7 @@ A leadership camp aimed at training exemplary cub scouts so that they can fulfil
  
  Students who are interested in joining us can also approach one of the Scout teachers.
 
-#### CCA Schedule
+####  CCA Schedule
 
  
 Fridays.
