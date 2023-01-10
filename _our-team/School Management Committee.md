@@ -21,7 +21,7 @@ description: ""
 |:---:|---|---|---|
 | 1 | Master Teacher (Math)   | Ms Chan Min Lie | [chan_min_lie@moe.edu.sg](mailto:chan_min_lie@moe.edu.sg)  |
 | 2 | School Staff Developer   | Mdm Lua Wee Suan | [lua_wee_suan@moe.edu.sg](mailto:lua_wee_suan@moe.edu.sg)  |
-| 3 | Head of Department (English)   | Mr Nelson Ong | [nelson_ong@moe.edu.sg](mailto:nelson_ong@moe.edu.sg)  |
+| 3 | Head of Department (English)   | Mr Nelson Ong | [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg)  |
 | 4 | Head of Department (Mother Tongue)  | Mdm Zhang Lei | [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
 |  5  | Head of Department (Mathematics)    | Mrs Lim Seok Hong  | [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg)  |
 | 6 | Head of Department (Science)   | Mr Francis Yam  | [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg)  |
