@@ -3,8 +3,6 @@ title: Our People
 permalink: /Kindergarten/our-people/
 description: ""
 ---
-
-
 #### Key Personnel
 
 
@@ -14,7 +12,9 @@ description: ""
 | Ms Janis Ann Pereira | Centre Head<br> |
 | Ms Jasmine Chen Jiamin  | Deputy Centre Head<br> |
 |  Mdm An Hong |  Senior Teacher <br> (Mother Tongue Language) |
+|  Ms Lexie Wong |  Senior Teacher <br> (Child Development) |
 |
+
 
 #### Teaching Staff
 ##### English Medium Language Department 
