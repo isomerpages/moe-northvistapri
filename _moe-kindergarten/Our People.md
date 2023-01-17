@@ -22,17 +22,17 @@ description: ""
 |   |   | 
 |:---:|:---:|
 | **Name** | **Designation** | 
-| Ms Nur Syafiqah | Kindergarten 1<br> |
-|  Ms Jasmine Chen Jiamin |  Kindergarten 1<br> |
-|  Ms Nursyazana |  Kindergarten 1<br> |
-|  Ms Nur Sabrina  |  Kindergarten 1<br> |
-|  Ms Chan Wei Ling |  Kindergarten 2<br> |
-|  Ms Charlene Quek |  Kindergarten 2<br> |
+|  Ms Nur Syafiqah | Kindergarten 1<br> |
+|  Ms Nithiya Ashok |  Kindergarten 1<br> |
+|  Ms Nita Sonia |  Kindergarten 1<br> |
+|  Ms Nursyazana  |  Kindergarten 1<br> |
+|  Ms Joey Yuen |  Kindergarten 2<br> |
+|  Ms Nur Sabrina |  Kindergarten 2<br> |
+|  Ms Audrey Lim |   Kindergarten 2<br> |
+|  Ms Charlene Quek |   Kindergarten 2<br> |
 |  Mdm Herma Ayuni |   Kindergarten 2<br> |
-|  Ms Joey Yuen |   Kindergarten 2<br> |
-|  Ms Nita Sonia |   Kindergarten 2<br> |
-|  Ms Nithiya Ashok |   Kindergarten 2<br> |
-|  Ms Nur Syafiqah |   Kindergarten 2 |
+
+
 
 
 #### Teaching Staff
