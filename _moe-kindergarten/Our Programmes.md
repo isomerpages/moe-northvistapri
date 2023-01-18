@@ -3,14 +3,12 @@ title: Our Programmes
 permalink: /Kindergarten/our-programmes/
 description: ""
 ---
-
-
 #### Programme Eligibility
 
 | Programme(for Singapore Citizens & Permanent Residents) | Eligibility |
 |:---:|:---:|
 | Kindergarten 1 (K1) | Children turning 5 in the year of enrolment |
-| Kindergarten 2 (K2) | Children turning 5 in the year of enrolment |
+| Kindergarten 2 (K2) | Children turning 6 in the year of enrolment |
 |  Kindergarten Care (KCare) | Children enrolled in MK@NV  |
 |
 
