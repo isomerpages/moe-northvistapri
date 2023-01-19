@@ -29,8 +29,6 @@ MK @ North Vista welcomes you to our upcoming Open House. Here are the details b
 
 Parents who are interested in knowing more about the MK environment, can visit us from 9 am to 10.30 am OR 11.30 am to 1 pm. <br>Please note that there will be only one briefing session at 10.30 am.
 
-Register for the Open House through the link below:
-
-[2023 MK Open House Tickets, Multiple Dates | Eventbrite](https://www.eventbrite.com/e/2023-mk-open-house-tickets-505734434307?utm_campaign=open+house+&utm_medium=email&utm_source=PMKs)
+Please click [here](https://www.eventbrite.com/e/2023-mk-open-house-tickets-505734434307?utm_campaign=open+house+&utm_medium=email&utm_source=PMKs) to register for the Open House 
 
 Come and visit us on 11 Feb 2023!
