@@ -27,6 +27,27 @@ Penutur Bahasa Melayu yang fasih dan berhemah, mengamalkan penghayatan nilai dan
 Dwi Minggu Bahasa Ibunda merupakan wadah bagi para pelajar untuk melestarikan Bahasa Melayu. Melalui aktiviti-aktiviti yang disediakan, para pelajar berpeluang untuk menggunakan Bahasa Melayu. Dengan cara ini, para pelajar akan melihat Bahasa Ibunda sebagai ‘Bahasa yang Hidup’.
 
 
+Bi-MT வாரத்தில் நடைபெறும் நடவடிக்கைகள், மாணவர்கள் தமிழ் மொழியைக் கற்கவும், பாராட்டவும் ஒரு அதிவேகமான மற்றும் அர்த்தமுள்ள சூழலை உருவாக்குகிறது. எங்கள் திட்டங்கள் மற்றும் செயல்பாடுகள் மூலம், மாணவர்கள் திறமையான மற்றும் கலாச்சார ரீதியாக வேரூன்றிய கற்றவர்களாக உருவாக்கப்படுகிறார்கள்.
+
+
+
+**Reading Program / 阅读活动**
+
+读万卷书，行万里路。书籍是我们观察世界的窗口。从小养成阅读的好习惯，将受益终生。
+
+
+**Program Membaca**
+
+Program Membaca bertujuan untuk memupuk minat kepada para pelajar membaca buku Bahasa Melayu serta meningkatkan penguasaan pembacaan para pelajar. 
+
+
+
+
+
+
+
+
+
 
 
 
