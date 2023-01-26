@@ -44,18 +44,17 @@ Program Membaca bertujuan untuk memupuk minat kepada para pelajar membaca buku B
 வாசிப்புத் திட்டம் மாணவர்களின் வாசிப்பு ஆர்வத்தை வளர்ப்பதை நோக்கமாகக் கொண்டுள்ளது. தமிழ்ப் புத்தகங்களைப் படிப்பதும், படிக்க விரும்புவதும் மாணவர்களின்  தன்னம்பிக்கையை வளர்க்கும்.
 
 
+**Festival Celebrations / 庆祝传统节日**
+
+传统节日承载了丰富的文化意义，通过庆祝华人新年和中秋节，学生可以感受节日气氛，更能了解华族文化。
 
 
+**Festival Celebrations/ Sambutan Perayaan**
+
+memupuk kesedaran terhadap budaya berbilang bangda melalui  sambutan perayaan
 
 
-
-
-
-
-
-
-
-
+கொண்டாட்டத்தின் மூலம் பன்முக கலாச்சாரத்தின் விழிப்புணர்வை வளர்ப்பது
 
 
 
