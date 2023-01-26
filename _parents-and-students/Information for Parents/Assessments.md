@@ -30,9 +30,7 @@ Should a student be absent without a valid reason, zero marks will be awarded.
 
 
 
-
-
-Further details to be updated accordingly.
+Further details for Term 1 Assessments to be updated accordingly.
 *   P3 Assessment Topics, Format & Schedule
 *   P4 Assessment Topics, Format & Schedule
 *   P5 Assessment Topics, Format & Schedule
