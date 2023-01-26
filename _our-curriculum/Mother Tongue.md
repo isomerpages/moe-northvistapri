@@ -41,7 +41,7 @@ Bi-MT வாரத்தில் நடைபெறும் நடவடிக
 Program Membaca bertujuan untuk memupuk minat kepada para pelajar membaca buku Bahasa Melayu serta meningkatkan penguasaan pembacaan para pelajar. 
 
 
-
+வாசிப்புத் திட்டம் மாணவர்களின் வாசிப்பு ஆர்வத்தை வளர்ப்பதை நோக்கமாகக் கொண்டுள்ளது. தமிழ்ப் புத்தகங்களைப் படிப்பதும், படிக்க விரும்புவதும் மாணவர்களின்  தன்னம்பிக்கையை வளர்க்கும்.
 
 
 
