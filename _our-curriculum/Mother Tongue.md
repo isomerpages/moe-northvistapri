@@ -17,6 +17,25 @@ Penutur Bahasa Melayu yang fasih dan berhemah, mengamalkan penghayatan nilai dan
 	
 #### Key Programmes
 
+**MT Fortnight / 母语双周**
+
+一年一度的母语双周活动，让学生们在丰富多彩的活动中了解华族传统文化，并掌握好华文华语。
+
+
+**Dwi Minggu Bahasa** 
+
+Dwi Minggu Bahasa Ibunda merupakan wadah bagi para pelajar untuk melestarikan Bahasa Melayu. Melalui aktiviti-aktiviti yang disediakan, para pelajar berpeluang untuk menggunakan Bahasa Melayu. Dengan cara ini, para pelajar akan melihat Bahasa Ibunda sebagai ‘Bahasa yang Hidup’.
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![](/images/CL/cl1.jpg)
