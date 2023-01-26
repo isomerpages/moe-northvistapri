@@ -22,6 +22,16 @@ The following table summarises the assessments and their weightings.
 | P5     | 10%     | 15%     | 15%     | 60%     |
 | P6     | 0%       | 0%      | 100%   | NA       |
 
+**2. Absence from Examinations**
+
+All students must be punctual for the examinations. Students who are unwell should rest at home and not sit for the assessments. They should see a doctor to obtain a Medical Certificate (MC). The assessment results for students who are absent during the assessments and covered by MCs will pro-rated accordingly. There will not be any makeup for written examinations. However, for the oral exam, the school will on a case by case basis allow students to sit for the oral exam.
+
+Should a student be absent without a valid reason, zero marks will be awarded.
+
+
+
+
+
 Further details to be updated accordingly.
 *   P3 Assessment Topics, Format & Schedule
 *   P4 Assessment Topics, Format & Schedule
