@@ -3,8 +3,6 @@ title: Executive & Administrative Staff
 permalink: /our-team/executive-and-administrative-staff/
 description: ""
 ---
-
-
 #### Administration
 
 
@@ -26,12 +24,12 @@ description: ""
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     |  Mr John Leong Kok Kheong, Operations Manager     | [leong_kok_kheong_john@moe.edu.sg](mailto:leong_kok_kheong_john@moe.edu.sg)     |
-| 2     |  Mr Neo Kim Ye, Operations Support Officer     | [neo_kim_ye@moe.edu.sg](mailto:neo_kim_ye@moe.edu.sg)     |
-| 3     |  Mdm Yeo Chor Tin, Operations Support Officer      | [yeo_chor_tin@moe.edu.sg](mailto:yeo_chor_tin@moe.edu.sg)     |
-| 4     |  Mr Tay Kok Meng, Operations Support Officer      | [tay_kok_meng@moe.edu.sg](mailto:tay_kok_meng@moe.edu.sg)     |
-| 5     |  Mdm Mary Ong, Operations Support Officer      | [ong_mary@moe.edu.sg](mailto:ong_mary@moe.edu.sg)     |
-| 6     |  Mdm Ng Sok Cheng, Operations Support Officer      | [ng_sok_cheng@moe.edu.sg](mailto:ng_sok_cheng@moe.edu.sg)     |
-| 7     |  Mdm Ting Sieng Mee, Operations Support Officer      | [ting_sieng_mee@moe.edu.sg](mailto:ting_sieng_mee@moe.edu.sg)     |
+| 2     |  Mr Neo Kim Ye, Operations Support Officer     |     |
+| 3     |  Mdm Yeo Chor Tin, Operations Support Officer      |    |
+| 4     |  Mr Tay Kok Meng, Operations Support Officer      |    |
+| 5     |  Mdm Mary Ong, Operations Support Officer      |     |
+| 6     |  Mdm Ng Sok Cheng, Operations Support Officer      | 
+| 7     |  Mdm Ting Sieng Mee, Operations Support Officer      |      |
 
 #### Support
 
@@ -41,6 +39,5 @@ description: ""
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     | Mr Kumerasan s/o Kanayson, ICT Manager     | [kumerasan_kanayson@moe.edu.sg](mailto:kumerasan_kanayson@moe.edu.sg)   |
-| 2     | Miss Christina Er Mei Teng, Desktop Engineer     |   |
-| 3     | Mdm Gajendran Parameswari, Laboratory Assistant    | [gajendran_parameswari@moe.edu.sg](mailto:gajendran_parameswari@moe.edu.sg)    |
-| 4    | Mrs Susan Tan, Librarian     | [susan_tan_ler@moe.edu.sg](mailto:susan_tan_ler@moe.edu.sg)     |
+| 2     | Mdm Gajendran Parameswari, Laboratory Assistant    | [gajendran_parameswari@moe.edu.sg](mailto:gajendran_parameswari@moe.edu.sg)    |
+| 3    | Mrs Susan Tan, Librarian     | [susan_tan_ler@moe.edu.sg](mailto:susan_tan_ler@moe.edu.sg)     |
