@@ -33,4 +33,3 @@ Should a student be absent without a valid reason, zero marks will be awarded.
 * [P3 Assessment Topics & Format](/files/Assessments/P3_Sem_1_Assessment.pdf)
 
  [User-Guide-For-Google-Meet](/files/HBL/User-Guide-For-Google-Meet.pdf)
-
