@@ -29,7 +29,7 @@ All students must be punctual for the examinations. Students who are unwell shou
 Should a student be absent without a valid reason, zero marks will be awarded.
 
 
-* [P3 Assessment Topics & Format](/files/Assessments/P3_Sem_1_Assessment)
+* [P3 Assessment Topics & Format](/files/Assessments/P3_Sem_1_Assessment.pdf)
 
 *   P3 Assessment Topics, Format & Schedule
 *   P4 Assessment Topics, Format & Schedule
