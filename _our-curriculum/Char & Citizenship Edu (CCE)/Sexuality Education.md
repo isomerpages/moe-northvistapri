@@ -63,7 +63,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 | **LESSON TITLE / DURATION**| **LESSON OVERVIEW**| **TIME PERIOD** |
 | -------- | -------- | -------- |
-| Are We More than Friends? <br>Lesson 1 <br> (60 min   | Text     | Text     |
+| Are We More than Friends? <br>Lesson 1 <br> (60 min   | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
