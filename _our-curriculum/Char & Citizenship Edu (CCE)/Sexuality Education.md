@@ -74,11 +74,3 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 | Did You Know? *   | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’**.   <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Term 2 Week 8     |
 
 **Please note:** <br>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
-
-#### Information for Parents
-
-8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
-
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd_Opt_Out_Form.pdf) . The completed opt-out form is to be submitted by 10/02/2023.
-
-10.  Parents can contact the school at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) or 6484 3566  for discussion or to seek clarification about the school's sexuality education programme.
