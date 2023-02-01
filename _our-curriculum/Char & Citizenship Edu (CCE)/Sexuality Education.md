@@ -59,7 +59,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 **Primary 6**
 
-<br>
 
 | **LESSON TITLE / DURATION**| **LESSON OVERVIEW**| **TIME PERIOD** |
 | -------- | -------- | -------- |
