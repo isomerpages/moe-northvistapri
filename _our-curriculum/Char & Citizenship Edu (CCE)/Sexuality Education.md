@@ -51,8 +51,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 10)  Parents can contact the school at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) or 6484 3566  for discussion or to seek clarification about the school's sexuality education programme.
 <br>
-**At North Vista Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
+**At North Vista Primary School, the following Sexuality Education lessons will be taught in 2023:** <br><br>
+**CCE(FTGP) THEME: Growing Years**<br><br>
  **Primary 5**
 
 
