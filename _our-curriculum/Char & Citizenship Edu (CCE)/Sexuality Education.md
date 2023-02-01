@@ -59,6 +59,15 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 ##### **Primary 6**
 
+<br>
+
+| **LESSON TITLE / DURATION**| Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Are We More than Friends? <br>Lesson 1 <br> (60 min   | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
 
 
 #### Information for Parents
