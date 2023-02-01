@@ -77,4 +77,3 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 10.  Parents can contact the school at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) or 6484 3566  for discussion or to seek clarification about the school's sexuality education programme.
 
-4.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
