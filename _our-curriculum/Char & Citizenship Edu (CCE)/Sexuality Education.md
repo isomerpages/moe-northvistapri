@@ -76,4 +76,3 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd_Opt_Out_Form.pdf) . The completed opt-out form is to be submitted by 10/02/2022.
 
 10.  Parents can contact the school at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) or 6484 3566  for discussion or to seek clarification about the school's sexuality education programme.
-
