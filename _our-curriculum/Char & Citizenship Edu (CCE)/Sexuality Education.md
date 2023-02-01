@@ -43,10 +43,10 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
+
 #### At North Vista Primary School, the following Sexuality Education lessons will be taught in 2023:
 
 ##### **Primary 5**
-
 
 
 | **LESSON TITLE / DURATION** | **LESSON OVERVIEW** | **TIME PERIOD**  |
