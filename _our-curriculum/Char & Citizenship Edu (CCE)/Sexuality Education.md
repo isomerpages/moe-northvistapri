@@ -4,9 +4,9 @@ permalink: /our-curriculum/Char-and-Citizenship-Edu-CCE/sex-ed/
 description: ""
 third_nav_title: Char & Citizenship Edu (CCE)
 ---
-1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  <br><br>
+1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  <br><br>
 
-2.  The goals of Sexuality Education are:
+2. The goals of Sexuality Education are:
 
 (i)        To help students make wise, responsible and informed decisions through the provision of accurate, current and age - appropriate knowledge on human sexuality and the consequences of sexual activity;
 
@@ -43,6 +43,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
+#### Information for Parents
+
+8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd_Opt_Out_Form.pdf) . The completed opt-out form is to be submitted by 10/02/2023.
+
+10.  Parents can contact the school at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) or 6484 3566  for discussion or to seek clarification about the school's sexuality education programme.
 
 **At North Vista Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
