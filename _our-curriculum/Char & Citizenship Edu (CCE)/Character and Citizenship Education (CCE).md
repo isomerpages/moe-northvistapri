@@ -14,4 +14,7 @@ As part of North Vista Primary School’s character development program, our Vis
 
 The Peer Support structure in North Vista Primary School is known as the **Vista Rainbow Bridge**. It reaches out to the students who need help and add colours to their school life at North Vista Primary.
 
-**Objectives**
+**Objectives**<br>
+* To cultivate strong and caring peer relationships in the school
+* To help students to identify their social circle of support, and recognise signs of distress
+* To facilitate students to seek help by alerting trusted school personnel when their friends encounter difficulties
