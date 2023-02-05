@@ -18,3 +18,6 @@ The Peer Support structure in North Vista Primary School is known as the **Vista
 * To cultivate strong and caring peer relationships in the school
 * To help students to identify their social circle of support, and recognise signs of distress
 * To facilitate students to seek help by alerting trusted school personnel when their friends encounter difficulties
+<br>
+
+**Vista Bears**
