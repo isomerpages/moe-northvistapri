@@ -12,7 +12,7 @@ As part of North Vista Primary School’s character development program, our Vis
 
 #### Peer Support
 
-The Peer Support structure in North Vista Primary School is known as the **Vista Rainbow Bridge**. It reaches out to the students who need help and add colours to their school life at North Vista Primary.
+The Peer Support structure in North Vista Primary School (NVTPS) is known as the **Vista Rainbow Bridge**. It reaches out to the students who need help and add colours to their school life in NVTPS.
 
 **Objectives**<br>
 * To cultivate strong and caring peer relationships in the school
@@ -32,3 +32,4 @@ Their roles are in the acronyms of **B.E.A.R .**<br><br>
 Our school has a Vista Care Corner for students to visit during recess, to play and bond with their Vista Bears. It is a safe corner for them to confide in their class Vista Bears.
 
 **Vista Buddies**<br>
+With the vision of “Everyone has a friend in NVTPS”, each student has a Vista Buddy in the class. Vista Buddies will help each other, especially when one buddy is absent from school. He/she is responsible to inform his/her buddy of what happened in school and what assignments her buddy has missed during his/her absence. They will know more about each other and show appreciations to each other on Vista Care Day, i.e. week 5 of each term.
