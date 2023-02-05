@@ -21,7 +21,7 @@ The Peer Support structure in North Vista Primary School (NVTPS) is known as the
 <br>
 
 **Vista Bears** <br>
-Students from various levels are trained to be Peer Support Leaders a.k.a. Vista Bears yearly.
+Students from the various levels are trained to be Peer Support Leaders a.k.a. Vista Bears yearly.
 
 Their roles are in the acronyms of **B.E.A.R .**<br><br>
 **B**e a friend to all classmates and model “inclusiveness” to the rest to follow. <br>
