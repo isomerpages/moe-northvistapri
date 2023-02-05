@@ -27,3 +27,8 @@ Their roles are in the acronyms of **B.E.A.R .**<br><br>
 **B**e a friend to all classmates and model “inclusiveness” to the rest to follow. <br>
 **E**ncourage classmates to seek help from teachers, AED and counsellor when in distress<br>
 **A**lert to FTs/Mama Papa Bears of students who show signs of distress and change of behavior<br>    **R**eady to help, listen and support classmates in a non-judgmental way.
+
+**Vista Care Corner** <br>
+Our school has a Vista Care Corner for students to visit during recess, to play and bond with their Vista Bears. It is a safe corner for them to confide in their class Vista Bears.
+
+**Vista Buddies**<br>
