@@ -33,3 +33,5 @@ Our school has a Vista Care Corner for students to visit during recess, to play 
 
 **Vista Buddies**<br>
 With the vision of “Everyone has a friend in NVTPS”, each student has a Vista Buddy in the class. Vista Buddies will help each other, especially when one buddy is absent from school. He/she is responsible to inform his/her buddy of what happened in school and what assignments her buddy has missed during his/her absence. They will know more about each other and show appreciations to each other on Vista Care Day, i.e. week 5 of each term.
+
+On top of that, as Vista Buddies, each P4 student is assigned to take care one to two P1 students at the start of each school year.
