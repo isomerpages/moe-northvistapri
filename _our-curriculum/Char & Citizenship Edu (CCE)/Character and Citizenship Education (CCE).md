@@ -20,4 +20,5 @@ The Peer Support structure in North Vista Primary School is known as the **Vista
 * To facilitate students to seek help by alerting trusted school personnel when their friends encounter difficulties
 <br>
 
-**Vista Bears**
+**Vista Bears** <br>
+Students from various levels are trained to be Peer Support Leaders a.k.a. Vista Bears yearly.
