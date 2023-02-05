@@ -41,6 +41,6 @@ With the vision of “Everyone has a friend in NVTPS”, each student has a Vist
 
 On top of that, as Vista Buddies, each P4 student is assigned to take care one to two P1 students at the start of each school year.
 
+*“The culture of care begins with me”*
 ![](/images/CCE/swb3.jpg)
 
-*“The culture of care begins with me”*
