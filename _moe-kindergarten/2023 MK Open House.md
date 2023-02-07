@@ -18,12 +18,12 @@ MK @ North Vista welcomes you to our upcoming Open House. Here are the details b
 **Programme Schedule**: 
 
 
-| Time | Activity |  
-| -------- | -------- | 
-| 9 am to 10.30 am   | MK & KCare Tour    | 
-| 10.30 am to 10.40 am      | Welcome Address by Our Principal, Mr Ong     |  
-| 10.40 am to 11.30 am   | MK Briefing    |  
-| 11.30 am to 1 pm     | MK & KCare Tour     |  
+| Time | Activity |  Venue | 
+| -------- | -------- | -------- | 
+| 9 am to 10.30 am   | MK & KCare Tour    | MK & Kcare | 
+| 10.30 am to 10.40 am      | Welcome Address by Mr Ong Lye Whatt, Principal of North Vista Primary School    |  Level 2 | 
+| 10.40 am to 11.30 am   | MK Briefing    |  -------- | 
+| 11.30 am to 1 pm     | MK & KCare Tour     |  -------- | 
 
 
 Parents who are interested in knowing more about the MK environment, can visit us from 9 am to 10.30 am OR 11.30 am to 1 pm. <br>Please note that there will be only one briefing session at 10.30 am.
