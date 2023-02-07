@@ -25,6 +25,7 @@ MK @ North Vista welcomes you to our upcoming Open House. Here are the details b
 | 10.40 am to 10.50 am      | Welcome Address by Mdm Norliza A. Rahim, Principal of Punggol Primary School    |  Level 2, Primary School Hall |
 | 10.50 am to 11.30 am      | Open House Briefing by Centre Head and Deputy Centre Head |  Level 2, Primary School Hall |
 | 11.30 am to 1 pm      | MK & KCare Tour |  MK & Kcare|
+| 1 pm      | End of Open House | |
 
 
 Parents who are interested in knowing more about the MK environment, can visit us from 9 am to 10.30 am OR 11.30 am to 1 pm. <br>Please note that there will be only one briefing session at 10.30 am.
