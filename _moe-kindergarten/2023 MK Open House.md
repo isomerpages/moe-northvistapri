@@ -13,8 +13,7 @@ MK @ North Vista welcomes you to our upcoming Open House. Here are the details b
 
 **Date**: 11 Feb 2023 (Saturday) <br>
 **Time**: 9 am to 1 pm <br>
-**Venue**: MK @North Vista, 20 Compassvale Link (S544974)
-
+**Venue**: MK @North Vista, 20 Compassvale Link (S544974) <br> *Dear guests, kindly use the entrance via MK Gate 5 (located opposite Blk 266A Compassvale Bow) for the Open House Tour and Briefing.*
 
 **Programme Schedule**: 
 
