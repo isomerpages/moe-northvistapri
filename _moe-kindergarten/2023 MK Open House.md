@@ -13,18 +13,19 @@ MK @ North Vista welcomes you to our upcoming Open House. Here are the details b
 
 **Date**: 11 Feb 2023 (Saturday) <br>
 **Time**: 9 am to 1 pm <br>
-**Venue**: MK @North Vista, 20 Compassvale Link (S544974)
-
+**Venue**: MK @North Vista, 20 Compassvale Link (S544974) <br> *Dear guests, kindly use the entrance via MK Gate 5 (located opposite Blk 266A Compassvale Bow) for the Open House Tour and Briefing.*
 
 **Programme Schedule**: 
 
 
-| Time | Activity |  
-| -------- | -------- | 
-| 9 am to 10.30 am   | MK & KCare Tour    | 
-| 10.30 am to 10.40 am      | Welcome Address by Our Principal, Mr Ong     |  
-| 10.40 am to 11.30 am   | MK Briefing    |  
-| 11.30 am to 1 pm     | MK & KCare Tour     |  
+| Time | Activity |  Venue | 
+| -------- | -------- | -------- | 
+| 9 am to 10.30 am   | MK & KCare Tour    | MK & Kcare | 
+| 10.30 am to 10.40 am      | Welcome Address by Mr Ong Lye Whatt, Principal of North Vista Primary School    |  Level 2, Primary School Hall |
+| 10.40 am to 10.50 am      | Welcome Address by Mdm Norliza A. Rahim, Principal of Punggol Primary School    |  Level 2, Primary School Hall |
+| 10.50 am to 11.30 am      | Open House Briefing by Centre Head and Deputy Centre Head |  Level 2, Primary School Hall |
+| 11.30 am to 1 pm      | MK & KCare Tour |  MK & Kcare|
+| 1 pm      | End of Open House | |
 
 
 Parents who are interested in knowing more about the MK environment, can visit us from 9 am to 10.30 am OR 11.30 am to 1 pm. <br>Please note that there will be only one briefing session at 10.30 am.
