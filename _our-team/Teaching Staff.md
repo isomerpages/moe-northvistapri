@@ -31,7 +31,7 @@ description: ""
 | P 2-5 | Mrs Vivien Lim  <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg) | Miss Devaki  <br> [devaki_vindinnada@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  |
 | P 2-6  |  Mdm Jelena Chia <br>  [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) | Miss Sukainah <br>  [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)  |
 | P 2-7 | Mr Dennis Tan <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)   | Ms Ian Farah  <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)  |
-| P 2-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)   | Ms Jakin Ng  <br> [ng_yan_lin_jakin@moe.edu.sg](mailto:ng_yan_lin_jakin@moe.edu.sg) <br> Mdm Lydia  <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg) |
+| P 2-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)   | Miss Lith Heng  <br> [heng_khai_yee@moe.edu.sg](mailto:heng_khai_yee@moe.edu.sg) <br> Mdm Lydia  <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg) |
 | P2-9  | Mdm Zheng Hui <br>  [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg) |   Ms Adeline Sim   <br>[sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg) |
 
 
@@ -43,8 +43,8 @@ description: ""
 | P 3-1  | Ms Liu Lingzhu <br> [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  | Mr Francis Yam <br> [yam_hai_sun_francis@moe.edu.sg](mailto:yam_hai_sun_francis@moe.edu.sg) |
 | P 3-2 | Ms Gan Hui Ling Jen <br> [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg) | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
 | P 3-3 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Mrs Kelly Lim <br>  [mak_wenjing@moe.edu.sg  ](mailto:mak_wenjing@moe.edu.sg  )    |
-| P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg) | Ms Jasmine Gan <br> [gan_hwee_ping@moe.edu.sg](mailto:gan_hwee_ping@moe.edu.sg) |
-| P 3-5 | Miss Lai Liyu <br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg) | Mdm Sarah<br> [nor_sarah_banu_gulam@moe.edu.sg](mailto:nor_sarah_banu_gulam@moe.edu.sg) <br> Mrs Simon Foo<br> [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)|
+| P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg) | Mdm Sarah <br> [nor_sarah_banu_gulam@moe.edu.sg](mailto:nor_sarah_banu_gulam@moe.edu.sg) |
+| P 3-5 | Miss Lai Liyu <br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg) | Mrs Simon Foo<br> [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)|
 | P 3-6 | Miss Josephine Ong <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg)   | Mdm Siti Raudah <br>  [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg) |
 |P 3-7 | Miss Nur Syafiqah <br> [nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg)   | Mdm Peh Shay Ling <br>  [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg) |
 
