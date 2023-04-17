@@ -43,6 +43,6 @@ description: ""
 | Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br> |soh_ah_kiow@schools.gov.sg |
 | Ms Lexie Wong  |  Kindergarten 2<br> (Chinese Language)<br> |wong_li_lin_lexie@schools.gov.sg |
 | Mdm Nur Hafizah | Kindergarten 1<br> (Malay Language)<br> |nur_hafizah_mohamed_eddie@schools.gov.sg |
-| Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br> |
+| Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br> |siti_suzanna_kamsari@schools.gov.sg |
 |  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
