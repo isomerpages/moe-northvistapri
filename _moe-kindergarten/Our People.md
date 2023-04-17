@@ -19,7 +19,7 @@ description: ""
 |:---:|:---:|:---:|
 | **Name** | **Designation** | **Email** | 
 |  Ms Nur Syafiqah | Kindergarten 1 <br> |nur_syafiqah_aziz@schools.gov.sg |
-|  Ms Nithiya Ashok |  Kindergarten 1<br> |
+|  Ms Nithiya Ashok |  Kindergarten 1<br> |nithiya_ashok_kumar@schools.gov.sg |
 |  Ms Nita Sonia |  Kindergarten 1<br> |
 |  Ms Pei Ling  |  Kindergarten 1<br> |
 |  Ms Joey Yuen |  Kindergarten 2<br> |
