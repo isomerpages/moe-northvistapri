@@ -36,8 +36,8 @@ description: ""
 
 ||| |
 |:---:|:---:|:---:|
-| **Name of Teacher** | **Teaching Level** |
-| Mdm An Hong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |
+| **Name of Teacher** | **Teaching Level** |**Email** |
+| Mdm An Hong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |An_hong@schools.gov.sg |
 | Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |
 | Mdm Lian Yanli | Kindergarten 1 <br>(Chinese Language)<br> |
 | Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br> |
