@@ -23,7 +23,7 @@ description: ""
 |  Ms Nita Sonia |  Kindergarten 1<br> |[nita_sonia_raj@schools.gov.sg  ](mailto:nita_sonia_raj@schools.gov.sg) |
 |  Ms Pei Ling  |  Kindergarten 1<br> |[ong_pei_ling_a@schools.gov.sg  ](mailto:ong_pei_ling_a@schools.gov.sg) |
 |  Ms Joey Yuen |  Kindergarten 2<br> |[yuen_wai_yan_joey@schools.gov.sg  ](mailto:yuen_wai_yan_joey@schools.gov.sg) |
-|  Ms Nur Sabrina |  Kindergarten 2<br> |nur_sabrina_nasaruddin@schools.gov.sg |
+|  Ms Nur Sabrina |  Kindergarten 2<br> |[nur_sabrina_nasaruddin@schools.gov.sg  ](mailto:nur_sabrina_nasaruddin@schools.gov.sg) |
 |  Ms Audrey Lim |   Kindergarten 2<br> |audrey_lim@schools.gov.sg |
 |  Ms Charlene Quek |   Kindergarten 2<br> |quek_li-zhen_charlene@schools.gov.sg |
 |  Mdm Herma Ayuni |   Kindergarten 2<br> |herma_ayuni_hassan@schools.gov.sg |
