@@ -40,7 +40,7 @@ description: ""
 | Mdm An Hong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |An_hong@schools.gov.sg |
 | Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |lim_kailing@schools.gov.sg |
 | Mdm Lian Yanli | Kindergarten 1 <br>(Chinese Language)<br> |lian_yanli@schools.gov.sg |
-| Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br> |
+| Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br> |soh_ah_kiow@schools.gov.sg |
 | Ms Lexie Wong  |  Kindergarten 2<br> (Chinese Language)<br> |
 | Mdm Nur Hafizah | Kindergarten 1<br> (Malay Language)<br> |
 | Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br> |
