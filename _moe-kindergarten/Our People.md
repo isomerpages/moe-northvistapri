@@ -24,7 +24,7 @@ description: ""
 |  Ms Pei Ling  |  Kindergarten 1<br> |ong_pei_ling_a@schools.gov.sg |
 |  Ms Joey Yuen |  Kindergarten 2<br> |yuen_wai_yan_joey@schools.gov.sg |
 |  Ms Nur Sabrina |  Kindergarten 2<br> |nur_sabrina_nasaruddin@schools.gov.sg |
-|  Ms Audrey Lim |   Kindergarten 2<br> |
+|  Ms Audrey Lim |   Kindergarten 2<br> |audrey_lim@schools.gov.sg |
 |  Ms Charlene Quek |   Kindergarten 2<br> |
 |  Mdm Herma Ayuni |   Kindergarten 2<br> |
 
