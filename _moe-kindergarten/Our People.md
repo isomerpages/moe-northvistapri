@@ -6,14 +6,22 @@ description: ""
 #### Key Personnel
 
 
-|   |   | 
-|:---:|:---:|
-| **Name** | **Designation** | 
-| Ms Jasmine Chen Jiamin  | Deputy Centre Head<br> |
+|   |   |    | 
+|:---:|:---:|:---:|
+
+
+
 |  Mdm An Hong |  Senior Teacher <br> (Mother Tongue Language) |
 |  Ms Lexie Wong |  Senior Teacher <br> (Child Development) |
 |
 
+
+
+| **Name** | **Designation** | **Email** |
+| -------- | -------- | -------- |
+| Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | Chen_Jiamin@schools.gov.sg    |
+| Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | An_hong@schools.gov.sg    |
+| Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | Chen_Jiamin@schools.gov.sg    |
 
 #### Teaching Staff
 ##### English Medium Language Department 
