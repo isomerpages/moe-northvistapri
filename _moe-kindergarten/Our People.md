@@ -41,8 +41,8 @@ description: ""
 | Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |lim_kailing@schools.gov.sg |
 | Mdm Lian Yanli | Kindergarten 1 <br>(Chinese Language)<br> |lian_yanli@schools.gov.sg |
 | Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br> |soh_ah_kiow@schools.gov.sg |
-| Ms Lexie Wong  |  Kindergarten 2<br> (Chinese Language)<br> |
-| Mdm Nur Hafizah | Kindergarten 1<br> (Malay Language)<br> |
+| Ms Lexie Wong  |  Kindergarten 2<br> (Chinese Language)<br> |wong_li_lin_lexie@schools.gov.sg |
+| Mdm Nur Hafizah | Kindergarten 1<br> (Malay Language)<br> |nur_hafizah_mohamed_eddie@schools.gov.sg |
 | Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br> |
 |  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
