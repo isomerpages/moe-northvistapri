@@ -6,11 +6,6 @@ description: ""
 #### Key Personnel
 
 
-
-
-
-
-
 | **Name** | **Designation** | **Email** |
 | -------- | -------- | -------- |
 | Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | Chen_Jiamin@schools.gov.sg    |
