@@ -17,7 +17,7 @@ description: ""
 
 |   |   |    |
 |:---:|:---:|:---:|
-| **Name** | **Designation** | **Email** | 
+| **Name** | **Teaching Level** | **Email** | 
 |  Ms Nur Syafiqah | Kindergarten 1 <br> |nur_syafiqah_aziz@schools.gov.sg |
 |  Ms Nithiya Ashok |  Kindergarten 1<br> |nithiya_ashok_kumar@schools.gov.sg |
 |  Ms Nita Sonia |  Kindergarten 1<br> |nita_sonia_raj@schools.gov.sg |
@@ -34,8 +34,8 @@ description: ""
 #### Teaching Staff
 ##### Mother Tongue Language Department  
 
-||| 
-|:---:|:---:|
+||| |
+|:---:|:---:|:---:|
 | **Name of Teacher** | **Teaching Level** |
 | Mdm An Hong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |
 | Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |
