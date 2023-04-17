@@ -47,5 +47,7 @@ description: ""
 |  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) |[anees_aaysha_abdul_waheed@schools.gov.sg](mailto:anees_aaysha_abdul_waheed@schools.gov.sg) |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |[maga_panchatcharam@schools.gov.sg](mailto:maga_panchatcharam@schools.gov.sg) |
 
+<br><br>
 
-Please note for matters pertaining to MK, please contact us at [Northvistaps_MK@schools.gov.sg](mailto:Northvistaps_MK@schools.gov.sg) <br>Thank you
+
+Please note for matters pertaining to MK, <br>please contact us at [Northvistaps_MK@schools.gov.sg](mailto:Northvistaps_MK@schools.gov.sg) 
