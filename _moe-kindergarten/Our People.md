@@ -24,7 +24,7 @@ description: ""
 |  Ms Nur Syafiqah | Kindergarten 1<br> |
 |  Ms Nithiya Ashok |  Kindergarten 1<br> |
 |  Ms Nita Sonia |  Kindergarten 1<br> |
-|  Ms Nursyazana  |  Kindergarten 1<br> |
+|  Ms Pei Ling  |  Kindergarten 1<br> |
 |  Ms Joey Yuen |  Kindergarten 2<br> |
 |  Ms Nur Sabrina |  Kindergarten 2<br> |
 |  Ms Audrey Lim |   Kindergarten 2<br> |
