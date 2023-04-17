@@ -26,7 +26,7 @@ description: ""
 |  Ms Nur Sabrina |  Kindergarten 2<br> |[nur_sabrina_nasaruddin@schools.gov.sg  ](mailto:nur_sabrina_nasaruddin@schools.gov.sg) |
 |  Ms Audrey Lim |   Kindergarten 2<br> |[audrey_lim@schools.gov.sg  ](mailto:audrey_lim@schools.gov.sg)  |
 |  Ms Charlene Quek |   Kindergarten 2<br> |[quek_li-zhen_charlene@schools.gov.sg   ](mailto:quek_li-zhen_charlene@schools.gov.sg ) |
-|  Mdm Herma Ayuni |   Kindergarten 2<br> |herma_ayuni_hassan@schools.gov.sg |
+|  Mdm Herma Ayuni |   Kindergarten 2<br> |[herma_ayuni_hassan@schools.gov.sg  ](mailto:herma_ayuni_hassan@schools.gov.sg ) |
 
 
 
