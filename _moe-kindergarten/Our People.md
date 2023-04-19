@@ -6,11 +6,11 @@ description: ""
 #### Key Personnel
 
 
-| **Name** | **Designation** | **Email** |
-| -------- | -------- | -------- |
-| Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | [Chen_Jiamin@schools.gov.sg](mailto:Chen_Jiamin@schools.gov.sg)     |
-| Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | [An_hong@schools.gov.sg  ](mailto:An_hong@schools.gov.sg)   |
-| Ms Lexie Wong      |  Senior Teacher <br> (Child Development)    | [wong_li_lin_lexie@schools.gov.sg  ](mailto:wong_li_lin_lexie@schools.gov.sg)  |
+| **Name** | **Designation** | 
+| -------- | -------- |
+| Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | 
+| Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | 
+| Ms Lexie Wong      |  Senior Teacher <br> (Child Development)    | 
 
 #### Teaching Staff
 ##### English Medium Language Department 
@@ -50,4 +50,4 @@ description: ""
 <br><br>
 
 
-Please note for matters pertaining to MK, <br>please contact us at [Northvistaps_MK@schools.gov.sg](mailto:Northvistaps_MK@schools.gov.sg) 
+Please note for matters pertaining to MK, <br>please contact us at [Northvistaps_MK@schools.gov.sg](mailto:Northvistaps_MK@schools.gov.sg)
