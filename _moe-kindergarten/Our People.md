@@ -37,12 +37,12 @@ description: ""
 ||| 
 |:---:|:---:|
 | **Name of Teacher** | **Teaching Level** |
-| Mdm An Hong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |[An_hong@schools.gov.sg ](mailto:An_hong@schools.gov.sg)  |
-| Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |[lim_kailing@schools.gov.sg](mailto:lim_kailing@schools.gov.sg) |
-| Mdm Lian Yanli | Kindergarten 1 <br>(Chinese Language)<br> |[lian_yanli@schools.gov.sg](mailto:lian_yanli@schools.gov.sg)  |
-| Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br> |[soh_ah_kiow@schools.gov.sg](mailto:soh_ah_kiow@schools.gov.sg) |
-| Ms Lexie Wong  |  Kindergarten 2<br> (Chinese Language)<br> |[wong_li_lin_lexie@schools.gov.sg](mailto:wong_li_lin_lexie@schools.gov.sg) |
-| Mdm Nur Hafizah | Kindergarten 1<br> (Malay Language)<br> |[nur_hafizah_mohamed_eddie@schools.gov.sg](mailto:nur_hafizah_mohamed_eddie@schools.gov.sg) |
-| Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br> |[siti_suzanna_kamsari@schools.gov.sg](mailto:siti_suzanna_kamsari@schools.gov.sg) |
-|  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) |[anees_aaysha_abdul_waheed@schools.gov.sg](mailto:anees_aaysha_abdul_waheed@schools.gov.sg) |
-| Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |[maga_panchatcharam@schools.gov.sg](mailto:maga_panchatcharam@schools.gov.sg) |
+| Mdm An Hong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |
+| Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |
+| Mdm Lian Yanli | Kindergarten 1 <br>(Chinese Language)<br>   |
+| Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Ms Lexie Wong  |  Kindergarten 2<br> (Chinese Language)<br>  |
+| Mdm Nur Hafizah | Kindergarten 1<br> (Malay Language)<br> |
+| Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br>  |
+|  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) | |
+| Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
