@@ -18,15 +18,15 @@ description: ""
 |   |   |
 |:---:|:---:|
 | **Name** | **Teaching Level** | 
-|  Ms Nur Syafiqah | Kindergarten 1 <br> |[nur_syafiqah_aziz@schools.gov.sg  ](mailto:nur_syafiqah_aziz@schools.gov.sg)  |
-|  Ms Nithiya Ashok |  Kindergarten 1<br> |[nithiya_ashok_kumar@schools.gov.sg ](mailto:nithiya_ashok_kumar@schools.gov.sg )
-|  Ms Nita Sonia |  Kindergarten 1<br> |[nita_sonia_raj@schools.gov.sg  ](mailto:nita_sonia_raj@schools.gov.sg) |
-|  Ms Pei Ling  |  Kindergarten 1<br> |[ong_pei_ling_a@schools.gov.sg  ](mailto:ong_pei_ling_a@schools.gov.sg) |
-|  Ms Joey Yuen |  Kindergarten 2<br> |[yuen_wai_yan_joey@schools.gov.sg  ](mailto:yuen_wai_yan_joey@schools.gov.sg) |
-|  Ms Nur Sabrina |  Kindergarten 2<br> |[nur_sabrina_nasaruddin@schools.gov.sg  ](mailto:nur_sabrina_nasaruddin@schools.gov.sg) |
-|  Ms Audrey Lim |   Kindergarten 2<br> |[audrey_lim@schools.gov.sg  ](mailto:audrey_lim@schools.gov.sg)  |
-|  Ms Charlene Quek |   Kindergarten 2<br> |[quek_li-zhen_charlene@schools.gov.sg   ](mailto:quek_li-zhen_charlene@schools.gov.sg ) |
-|  Mdm Herma Ayuni |   Kindergarten 2<br> |[herma_ayuni_hassan@schools.gov.sg  ](mailto:herma_ayuni_hassan@schools.gov.sg ) |
+|  Ms Nur Syafiqah | Kindergarten 1 <br> |
+|  Ms Nithiya Ashok |  Kindergarten 1<br> |)
+|  Ms Nita Sonia |  Kindergarten 1<br> |
+|  Ms Pei Ling  |  Kindergarten 1<br> |
+|  Ms Joey Yuen |  Kindergarten 2<br> ||
+|  Ms Nur Sabrina |  Kindergarten 2<br> | |
+|  Ms Audrey Lim |   Kindergarten 2<br> |  |
+|  Ms Charlene Quek |   Kindergarten 2<br> | |
+|  Mdm Herma Ayuni |   Kindergarten 2<br> | |
 
 
 
@@ -46,6 +46,3 @@ description: ""
 | Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br> |[siti_suzanna_kamsari@schools.gov.sg](mailto:siti_suzanna_kamsari@schools.gov.sg) |
 |  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) |[anees_aaysha_abdul_waheed@schools.gov.sg](mailto:anees_aaysha_abdul_waheed@schools.gov.sg) |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |[maga_panchatcharam@schools.gov.sg](mailto:maga_panchatcharam@schools.gov.sg) |
-
-
-
