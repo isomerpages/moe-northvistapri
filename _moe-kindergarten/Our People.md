@@ -15,9 +15,9 @@ description: ""
 #### Teaching Staff
 ##### English Medium Language Department 
 
-|   |   |    |
-|:---:|:---:|:---:|
-| **Name** | **Teaching Level** | **Email** | 
+|   |   |
+|:---:|:---:|
+| **Name** | **Teaching Level** | 
 |  Ms Nur Syafiqah | Kindergarten 1 <br> |[nur_syafiqah_aziz@schools.gov.sg  ](mailto:nur_syafiqah_aziz@schools.gov.sg)  |
 |  Ms Nithiya Ashok |  Kindergarten 1<br> |[nithiya_ashok_kumar@schools.gov.sg ](mailto:nithiya_ashok_kumar@schools.gov.sg )
 |  Ms Nita Sonia |  Kindergarten 1<br> |[nita_sonia_raj@schools.gov.sg  ](mailto:nita_sonia_raj@schools.gov.sg) |
