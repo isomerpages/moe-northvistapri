@@ -34,9 +34,9 @@ description: ""
 #### Teaching Staff
 ##### Mother Tongue Language Department  
 
-||| |
-|:---:|:---:|:---:|
-| **Name of Teacher** | **Teaching Level** |**Email** |
+||| 
+|:---:|:---:|
+| **Name of Teacher** | **Teaching Level** |
 | Mdm An Hong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |[An_hong@schools.gov.sg ](mailto:An_hong@schools.gov.sg)  |
 | Mdm Lim Kai Ling | Kindergarten 1 <br>(Chinese Language)<br> |[lim_kailing@schools.gov.sg](mailto:lim_kailing@schools.gov.sg) |
 | Mdm Lian Yanli | Kindergarten 1 <br>(Chinese Language)<br> |[lian_yanli@schools.gov.sg](mailto:lian_yanli@schools.gov.sg)  |
@@ -47,7 +47,5 @@ description: ""
 |  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) |[anees_aaysha_abdul_waheed@schools.gov.sg](mailto:anees_aaysha_abdul_waheed@schools.gov.sg) |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |[maga_panchatcharam@schools.gov.sg](mailto:maga_panchatcharam@schools.gov.sg) |
 
-<br><br>
 
 
-Please note for matters pertaining to MK, <br>please contact us at [Northvistaps_MK@schools.gov.sg](mailto:Northvistaps_MK@schools.gov.sg)
