@@ -3,49 +3,41 @@ title: English
 permalink: /our-curriculum/english/
 description: ""
 ---
-
-
 #### Vision
 
-All students will be _Eloquent & Competent_ Communicators who will attain their **P.E.A.K** in North Vista.
-
-**P** \- Proficient Writers <br>
-**E** \- Eloquent Speakers <br>
-**A** \- Avid Readers <br>
-**K** \- Keen Listeners <br>
+Every student of North Vista Primary School will be engaged 21st century EL learner who is an **empathetic communicator, discerning reader and creative inquirer**. 
 
 #### Key Programmes
 
-##### 1. Stretch Programme
+##### **1. STELLAR 2.0 Programme**
+We adopt the **STELLAR 2.0** approach in the teaching and learning of the English Language. Students are immersed in language learning as they are exposed to various age-appropriate genres of reading texts. The core features of our EL classrooms include STELLAR (Strategies for the Teaching of English Language and Reading), shared book approach, explicit teaching of vocabulary and grammar, modified language experience approach, word study lessons, differentiated-focused lessons and extensive reading. 
 
-**\- Creative Writers**
-_"Start writing, no matter what. The water does not flow until the faucet is turned on."_ <br>
-_— Louis L'Amour_
+##### **2. Support Programmes**
+The **Learning Support Programme (LSP), School Dyslexia Remediation Programme (SDR) and Reading Remediation Programme (RRP)** provide interventions for students with reading difficulties. Specially trained instructors conduct targeted and focused lessons to level up students in their phonemic awareness and reading comprehension skills.
 
-With that belief, the Creative Writing Programme at Primary 4 and 5 aims to help young writers improve their writing craft and enhance their literary understanding. Activities thus provide a platform for like-minded students who are passionate about writing to meet and mutually develop their interests. Lessons focuses on using literary devices and crafting interesting plots to make their writing come alive. Students will be given opportunities to participate in writing competitions as well as the P5 Creative Writing Programme organized by the Gifted Branch.
+![](/images/EL/learning1.png)
 
-##### 2.Extend Programme
 
-**\- School Dyslexia Remediation Programme (SDR) & Reading Remediation Programme (RRP)**
-It provides intervention for students with reading difficulties. Specially trained instructors conduct targeted and focussed lessons in order to level up phonemic awareness and reading comprehension skills.
+![](/images/EL/learning2.png)
 
-**\- Extensive Reading & Sustained Programme @ North Vista (Primary 1 and 2)**
-Students who face difficulties in reading at Primary 1 and 2 are mentored by buddy readers and mentor readers. After reading a book, they will answer questions and be given reward stickers for participation. Students would read books recommended by National Library Board in order to supplement their reading diet once a term.
+##### **3. Storyboard Character Day**
+With the overarching aim of nurturing the joy of reading in students, **Storybook Character Day** is held annually to bring the characters (of books) to life. With a series of activities and lessons leading up to the actual day, both teachers and students will come dressed up in their favourite characters to showcase the range of characters in the reading world.
 
-Students who face literacy difficulties at Primary 1 undergo a year levelling up after school programme twice a week in order to help them build confidence in language acquisition. Small group instruction allows individualized attention for each student. Their progress is tracked closely in order to assess the effectiveness of the programme.
+![](/images/EL/scd111.jpg)
 
-##### 3\. Acquire Programme
+![](/images/EL/scd222.jpg)
 
-**\- Explicit Instruction of Comprehension within STELLAR programme**
-What started out as a research project among a small group of teachers has evolved into a package within the STELLAR curriculum that aims to strengthen reading comprehension skills. With comprehension skills such as prediction, making judgements etc being explicitly mentioned and taught in class, students are better able to apply these skills during independently reading. The joy of reading is also promoted through various activities during the English Fiesta Weeks held in Term 2 and Term 4.
+![](/images/EL/scd333.jpg)
 
-**\- Writing Programme**
-Writing strategies are broken down and explicitly taught to students. Teachers give detailed feedback to students in order to help them improve their writing skills. Peer editing is also carried out by students in various formats from Primary 3 onwards.
+![](/images/EL/scd444.jpg)
 
-**\- Oracy Programme**
+##### **4. Literature Appreciation**
+To deepen the love for reading, specific books such as **classic children literature and local storybooks** are brought in to be read as a level. As a follow-up, fun and engaging activities such as talks by authors and reading circles are conducted to strengthen the understanding of the books.
 
-**\- Oracy Enrichment Programmes at Primary 3 to 5**
-To supplement oracy programmes that are carried out during curriculum, enrichment programmes such as Readers’ Theatre, Storytelling and Public Speaking are carried out after school.
 
-**\- Speech and Drama Programme at Primary 1 & 2**
-Teachers specially crafted Speech and Drama Programme at Primary 1 & 2 to provide opportunities for students to build stage presence and confidence. The scripts which are based on STELLAR texts that students have read are written to give each student the chance to speak. Skills such as pronunciation, projecting suitable facial expressions and voice projection are explicitly taught.
+##### **5. Postcard Writing Activity**
+In line with P2 Unit 13 Postcards to David, students had the **authentic experience of writing a postcard to their parents** as a surprise. Not only did students have a meaningful learning experience, they also got to showcase their writing to their parents.
+
+![](/images/EL/postcard1.png)
+
+![](/images/EL/postcard2.png)
