@@ -17,5 +17,7 @@ The Learning Support Programme (LSP), School Dyslexia Remediation Programme (SDR
 
 
 ##### **3. Storyboard Character Day**
-With the overarching aim of nurturing the joy of reading in students, Storybook Character Day is held annually to bring the characters (of books) to life. With a series of activities and lessons leading up to the actual day, both teachers and students will come dressed up in their favourite characters to showcase the range of characters in the reading world. 
+With the overarching aim of nurturing the joy of reading in students, Storybook Character Day is held annually to bring the characters (of books) to life. With a series of activities and lessons leading up to the actual day, both teachers and students will come dressed up in their favourite characters to showcase the range of characters in the reading world.
 
+##### **4. Literature Appreciation**
+To deepen the love for reading, specific books such as classic children literature and local storybooks are brought in to be read as a level. As a follow-up, fun and engaging activities such as talks by authors and reading circles are conducted to strengthen the understanding of the books. 
