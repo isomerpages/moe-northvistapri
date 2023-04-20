@@ -5,7 +5,7 @@ description: ""
 ---
 #### Vision
 
-Every student of North Vista Primary School will be engaged 21st century EL learner who is an empathetic communicator, discerning reader and creative inquirer. 
+Every student of North Vista Primary School will be engaged 21st century EL learner who is an **empathetic communicator, discerning reader and creative inquirer**. 
 
 #### Key Programmes
 
