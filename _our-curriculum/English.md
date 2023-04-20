@@ -14,3 +14,8 @@ We adopt the STELLAR 2.0 approach in the teaching and learning of the English La
 
 ##### **2. Support Programmes**
 The Learning Support Programme (LSP), School Dyslexia Remediation Programme (SDR) and Reading Remediation Programme (RRP) provide interventions for students with reading difficulties. Specially trained instructors conduct targeted and focused lessons to level up students in their phonemic awareness and reading comprehension skills.
+
+
+##### **3. Storyboard Character Day**
+With the overarching aim of nurturing the joy of reading in students, Storybook Character Day is held annually to bring the characters (of books) to life. With a series of activities and lessons leading up to the actual day, both teachers and students will come dressed up in their favourite characters to showcase the range of characters in the reading world. 
+
