@@ -3,16 +3,9 @@ title: English
 permalink: /our-curriculum/english/
 description: ""
 ---
-
-
 #### Vision
 
-All students will be _Eloquent & Competent_ Communicators who will attain their **P.E.A.K** in North Vista.
-
-**P** \- Proficient Writers <br>
-**E** \- Eloquent Speakers <br>
-**A** \- Avid Readers <br>
-**K** \- Keen Listeners <br>
+Every student of North Vista Primary School will be engaged 21st century EL learner who is an empathetic communicator, discerning reader and creative inquirer. 
 
 #### Key Programmes
 
@@ -26,10 +19,10 @@ With that belief, the Creative Writing Programme at Primary 4 and 5 aims to help
 
 ##### 2.Extend Programme
 
-**\- School Dyslexia Remediation Programme (SDR) & Reading Remediation Programme (RRP)**
+**\- School Dyslexia Remediation Programme (SDR) &amp; Reading Remediation Programme (RRP)**
 It provides intervention for students with reading difficulties. Specially trained instructors conduct targeted and focussed lessons in order to level up phonemic awareness and reading comprehension skills.
 
-**\- Extensive Reading & Sustained Programme @ North Vista (Primary 1 and 2)**
+**\- Extensive Reading &amp; Sustained Programme @ North Vista (Primary 1 and 2)**
 Students who face difficulties in reading at Primary 1 and 2 are mentored by buddy readers and mentor readers. After reading a book, they will answer questions and be given reward stickers for participation. Students would read books recommended by National Library Board in order to supplement their reading diet once a term.
 
 Students who face literacy difficulties at Primary 1 undergo a year levelling up after school programme twice a week in order to help them build confidence in language acquisition. Small group instruction allows individualized attention for each student. Their progress is tracked closely in order to assess the effectiveness of the programme.
@@ -47,5 +40,5 @@ Writing strategies are broken down and explicitly taught to students. Teachers g
 **\- Oracy Enrichment Programmes at Primary 3 to 5**
 To supplement oracy programmes that are carried out during curriculum, enrichment programmes such as Readers’ Theatre, Storytelling and Public Speaking are carried out after school.
 
-**\- Speech and Drama Programme at Primary 1 & 2**
-Teachers specially crafted Speech and Drama Programme at Primary 1 & 2 to provide opportunities for students to build stage presence and confidence. The scripts which are based on STELLAR texts that students have read are written to give each student the chance to speak. Skills such as pronunciation, projecting suitable facial expressions and voice projection are explicitly taught.
+**\- Speech and Drama Programme at Primary 1 &amp; 2**
+Teachers specially crafted Speech and Drama Programme at Primary 1 &amp; 2 to provide opportunities for students to build stage presence and confidence. The scripts which are based on STELLAR texts that students have read are written to give each student the chance to speak. Skills such as pronunciation, projecting suitable facial expressions and voice projection are explicitly taught.
