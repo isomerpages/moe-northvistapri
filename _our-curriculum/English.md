@@ -24,4 +24,4 @@ To deepen the love for reading, specific books such as classic children literatu
 
 
 ##### **5. Postcard Writing Activity**
-In line with P2 Unit 13 Postcards to David, students had the authentic experience of writing a postcard to their parents as a surprise. Not only did students have a meaningful learning experience, they also got to showcase their writing to their parents. 
+In line with P2 Unit 13 Postcards to David, students had the **authentic experience of writing a postcard to their parents** as a surprise. Not only did students have a meaningful learning experience, they also got to showcase their writing to their parents.
