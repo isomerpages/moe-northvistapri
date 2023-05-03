@@ -8,4 +8,14 @@ image: ""
 ---
 ![](/images/OH/2023oph1.png)
 
-**Programme Schedule**
+**Programme Schedule:**
+
+
+| Time | Programme | 
+| -------- | -------- | 
+| 0920 - 0930     | Chinese Dance Performance   | 
+| 0950 - 1000     | Band Performance   | 
+| 1000 - 1030     | School Tour   | 
+| 1050 - 1100     | Choir Performance   | 
+| 1100 - 1130     | School Tour   | 
+| 1140 - 1150   | International Dance Performance   | 
