@@ -18,4 +18,8 @@ image: ""
 | 1000 - 1030     | School Tour   | 
 | 1050 - 1100     | Choir Performance   | 
 | 1100 - 1130     | School Tour   | 
-| 1140 - 1150   | International Dance Performance   | 
+| 1140 - 1150   | International Dance Performance   |
+
+Please register your interest by scanning the QR code in the poster or click here.
+
+We look forward to seeing you here at North Vista Primary!
