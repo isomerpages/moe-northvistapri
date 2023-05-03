@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/OH/2023oph1.png)
+![](/images/OH/2023oph2.png)
 
 **CCA  and School Tour Schedule:**
 
