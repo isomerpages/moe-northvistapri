@@ -8,7 +8,7 @@ image: ""
 ---
 ![](/images/OH/2023oph1.png)
 
-**Programme Schedule:**
+**CCA Programme and School Tour Schedule:**
 
 
 | Time | Programme | 
