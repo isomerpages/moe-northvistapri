@@ -20,6 +20,6 @@ image: ""
 | 1100 - 1130     | School Tour   | 
 | 1140 - 1150   | International Dance Performance   |
 
-Please register your interest by scanning the QR code in the poster or click here.
+Please register your interest by scanning the QR code in the poster or click [here](https://forms.moe.edu.sg/forms/oZymDJ).
 
 We look forward to seeing you here at North Vista Primary!
