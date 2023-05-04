@@ -1,12 +1,11 @@
 ---
 title: North Vista’s Speak Good English Movement (SGEM)
 permalink: /information/el/sgem/
-date: 2022-12-19
+date: 2022-12-16
 layout: post
 description: ""
 image: ""
 ---
-
 #### North Vista’s Speak Good English Movement (SGEM)
 
 Dear Parents,
