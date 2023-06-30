@@ -28,11 +28,11 @@ All students must be punctual for the examinations. Students who are unwell shou
 
 Should a student be absent without a valid reason, zero marks will be awarded.
 
-**P3 to P6 Semester 1 (Term 1 and 2) Topics, Format & Schedule**
+**P3 to P6 Semester 1 (Term 3 and 4) Topics, Format & Schedule**
 
-* [P3 Semester 1 Assessment](/files/Assessments/P3%20Sem%201%20Assessment.pdf)
-* [P4 Semester 1 Assessment](/files/Assessments/P4%20Sem%201%20Assessment.pdf)
-* [P5 Semester 1 Assessment](/files/Assessments/P5_Sem_1_Assessment.pdf)
-* [P6 Semester 1 Assessment](/files/Assessments/P6%20Sem%201%20Assessment.pdf)
+* [P3 Semester 2 Assessment](/files/Assessments/p3%20sem%202%20assessment.pdf)
+* [P4 Semester 2 Assessment](/files/Assessments/p4%20sem%202%20assessment.pdf)
+* [P5 Semester 2 Assessment](/files/Assessments/p5%20sem%202%20assessment.pdf)
+* [P6 Semester 2 Assessment](/files/Assessments/p6%20sem%202%20assessment.pdf)
 
-Information is accurate as of 16 Feb 2023.
+Information is accurate as of 30 June 2023.
