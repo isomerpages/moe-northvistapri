@@ -66,10 +66,10 @@ description: ""
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 5-1 | Mr Jason Goh <br>  [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg)  | Ms Fiona Yoong <br> [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg) <br> Mr Faizan <br> [mohamed_faizan_juli@moe.edu.sg](mailto:mohamed_faizan_juli@moe.edu.sg)   |
+| P 5-1 | Mr Jason Goh <br>  [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg)  |  Mr Faizan <br> [mohamed_faizan_juli@moe.edu.sg](mailto:mohamed_faizan_juli@moe.edu.sg)   |
 | P 5-2 | Mr Tan Kheng Eng <br> [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)  | Mr Ng Chun Hao <br> [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
 |  P 5-3  | Mr Zaki <br>  [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)   | Mr Huang Shihao <br>[huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)   |
-|  P 5-4  |   Ms Yanni <br> [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg)  | Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)   |
+|  P 5-4  |   Ms Yanni <br> [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg)  | Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)<br> Ms Fiona Yoong <br> [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)  |
 | P 5-5 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mdm Yeong Yimei <br>   [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) <br> Mr John Wu <br>   [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)   |
 | P 5-6 |  Mdm Roxanne Chua <br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mdm Zhang Lei <br>  [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg) |
 | P 5-7 | Miss Atiroh <br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  | Mrs Letitia Lim <br> [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)  || 
