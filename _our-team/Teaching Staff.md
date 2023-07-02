@@ -25,9 +25,9 @@ description: ""
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 2-1 | Miss Subhadra <br> [subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  | Miss Norazizah <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)  |
-| P 2-2 | Mdm Diyanah <br> [nur_diyanah_amalina_abdul@moe.edu.sg](mailto:nur_diyanah_amalina_abdul@moe.edu.sg)  | Mdm Cui Wenjuan <br> [cui_wenjuan@moe.edu.sg](mailto:cui_wenjuan@moe.edu.sg)    |
+| P 2-2 | Mdm Diyanah <br> [nur_diyanah_amalina_abdul@moe.edu.sg](mailto:nur_diyanah_amalina_abdul@moe.edu.sg)  | Mr Teo Ting Rui <br>  [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg)    |
 | P 2-3 |   Mdm Nur Faezah <br>  [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mdm Audrey Heng<br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)  |
-| P 2-4 | Ms Jaya <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)   | Mr Teo Ting Rui <br>  [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) <br>Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  |
+| P 2-4 | Ms Jaya <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)   |  <br>Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  |
 | P 2-5 | Mrs Vivien Lim  <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg) | Miss Devaki  <br> [devaki_vindinnada@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  |
 | P 2-6  |  Mdm Jelena Chia <br>  [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) | Miss Sukainah <br>  [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)  |
 | P 2-7 | Mr Dennis Tan <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)   | Ms Ian Farah  <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)  |
