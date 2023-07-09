@@ -34,6 +34,7 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 		 
 #### PSG EXCO Members 2023
 
+1. Mdm Janelle Liew (Chairperson)
 
 
 #### Join us in this meaningful endeavour today! <a name="#join"></a>
