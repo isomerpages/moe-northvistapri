@@ -41,6 +41,8 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 5. Mdm Ang Yuat Poh
 6. Mr Sam Wong
 7. Mdm Ng Siao Hui
+8. Mdm Shirley Ng
+9. Mdm Sharanjit Gill
 
 
 #### Join us in this meaningful endeavour today! <a name="#join"></a>
