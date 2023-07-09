@@ -38,6 +38,7 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 2. Mdm Doris Ngai (Vice-Chairperson)
 3. Mdm Akanksha Chaturvedi
 4. Mdm Kyu Kyu Win, Ivy
+5. Mdm Ang Yuat Poh
 
 
 #### Join us in this meaningful endeavour today! <a name="#join"></a>
