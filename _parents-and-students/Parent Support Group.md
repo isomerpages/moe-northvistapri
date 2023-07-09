@@ -34,7 +34,6 @@ We also co-organise events such as Tea Appreciation and Family Day to promote cl
 <img src="/images/PSG/PSG_Exco.jpeg" style="width:65%">
 		 
 **PSG EXCO Members 2022**
-**Top Row (From the left)**: Mdm Joyce Teo (Chairperson), Mdm Alicia Lim (Vice-Chairperson), Mdm Akanksha (IT Officer) <br>
 
 
 
