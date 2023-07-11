@@ -8,6 +8,7 @@ description: ""
 
 | **Name** | **Designation** | 
 | -------- | -------- |
+| Ms Nur Azlinda Ismail      | Centre Head<br>    | 
 | Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | 
 | Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | 
 | Ms Lexie Wong      |  Senior Teacher <br> (Child Development)    | 

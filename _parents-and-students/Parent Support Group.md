@@ -3,12 +3,11 @@ title: Parent Support Group
 permalink: /parents-and-students/PSG/
 description: ""
 ---
-### Parent Support Group 
+### Parent Support Group&nbsp;
 
 #### PSG@Vista
 
-<img src="/images/PSG/PSG_Logo.jpg" 
-     style="width:40%" align = center>
+<img src="/images/PSG/PSG_Logo.jpg" style="width:40%" align="center">
 		 
 
 		 
@@ -20,12 +19,11 @@ To partner school in creating a nurturing and safe environment for our Vistalite
 #### Motto
 Involve – Integrate – Inspire
 
-<img src="/images/PSG/Motto_Involve_Integrate_Inspire.png" 
-     style="width:80%" >
+<img src="/images/PSG/Motto_Involve_Integrate_Inspire.png" style="width:80%">
 		 
 #### PSG@Vista Regular Duties
 
-We support the school through various programmes such as the ‘Bistro Angels@Vista’ where parent volunteers patrol the school during recess breaks to ensure discipline and safety of the Vistalites.  Another avenue where parents contribute is through the ‘Reading Parents Programme’ where parents read to students in the Primary 1 and 2 Learning Support Programme.
+We support the school through various programmes such as the ‘Bistro Angels@Vista’ where parent volunteers patrol the school during recess breaks to ensure discipline and safety of the Vistalites.&nbsp; Another avenue where parents contribute is through the ‘Reading Parents Programme’ where parents read to students in the Primary 1 and 2 Learning Support Programme.
 
 #### PSG@Vista Events and Collaboration
 
@@ -33,13 +31,19 @@ Some events that our parent volunteers are involved in include ‘Science Eureka
 
 We also co-organise events such as Tea Appreciation and Family Day to promote close relationships between school, parents and children. We actively support FamilyMatters@School and the Dads for Life movement, which organize workshops and events for parents to equip them with skills to nurture positive family relations.
 
-<img src="/images/PSG/PSG_Exco.jpeg" 
-     style="width:65%" >
 		 
-**PSG EXCO Members 2022**
-**Top Row (From the left)**: Mdm Joyce Teo (Chairperson), Mdm Alicia Lim (Vice-Chairperson), Mdm Akanksha (IT Officer) <br>
-**Middle Row (From the left):** Mdm Janelle Liew (Secretary), Mdm Ivy Zhao (Publicity Officer), Mdm Doris Ngai (Bistro IC),<br>
-**Bottom Row (From the left):** Mdm Ng Siao Hui (Event Coordinator), Mr Sam Wong (Dad For Life IC), Mdm Ang Yuat Poh
+#### PSG EXCO Members 2023
+
+1. Mdm Janelle Liew (Chairperson)
+2. Mdm Doris Ngai (Vice-Chairperson)
+3. Mdm Akanksha Chaturvedi
+4. Mdm Kyu Kyu Win, Ivy
+5. Mdm Ang Yuat Poh
+6. Mr Sam Wong
+7. Mdm Ng Siao Hui
+8. Mdm Shirley Ng
+9. Mdm Sharanjit Gill
+10. Mdm Cynthia George
 
 
 #### Join us in this meaningful endeavour today! <a name="#join"></a>
