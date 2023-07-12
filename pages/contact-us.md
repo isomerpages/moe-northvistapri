@@ -20,7 +20,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.facebook.com/NorthVistaPrimary
+      - other: <a href="https://www.facebook.com/NorthVistaPrimary/">Visit North Vista
+          Primary Facebook Page</a>
     title: Facebook
   - content:
       - phone: +65 6484 3568
