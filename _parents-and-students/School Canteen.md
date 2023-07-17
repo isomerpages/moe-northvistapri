@@ -25,3 +25,9 @@ Upon successful award, the stallholder is expected to meet these requirements: <
 •	Proposed food menu and pricing <br>
 •	Photocopy of relevant certificates such as Basic Food Hygiene Course and previous SFA licenses, etc <br>
 •	Photocopy of the NRIC (front and back)
+
+###### Closing date for Application <br>
+The completed application form with the required documents must be submitted to the school General Office before 5pm on **18 Aug 2023** either by hand or post. <br><br>
+Late/Incomplete applications will not be considered. Only shortlisted applicants will be notified to attend an interview and food-tasting session, if applicable, at his/her own expense.
+
+Persons to Contact: Administration Manager, Ms Sandra Sia or Operations Manager, Mr John Leong at                 Tel: 6484 3566.
