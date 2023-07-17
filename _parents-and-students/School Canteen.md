@@ -17,4 +17,11 @@ North Vista Primary School has a **Japanese / Korean Rice or Other Asian Rice St
 Upon successful award, the stallholder is expected to meet these requirements: <br>
 •	Stallholder must operate the stall from 7.20 am to 2.30 pm from Mon to Fri during term time and as and when necessary, during the school holidays. <br>
 •	New stallholder to obtain the Minimum Hygiene Grade (MHG) of 'B' within 3 months from date of commencement of the license. <br>
-•	Stallholders must be in personal attendance at the stall and cannot sublet his stall to another person. 
+•	Stallholders must be in personal attendance at the stall and cannot sublet his stall to another person.
+
+ ###### Submission for Application     
+ 
+ Please submit completed application form with the following documents to the school's General Office <br><br>
+•	Proposed food menu and pricing <br>
+•	Photocopy of relevant certificates such as Basic Food Hygiene Course and previous SFA licenses, etc <br>
+•	Photocopy of the NRIC (front and back)
