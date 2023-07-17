@@ -21,7 +21,7 @@ Upon successful award, the stallholder is expected to meet these requirements: <
 
  ###### Submission for Application     
  
- Please submit completed application form with the following documents to the school's General Office: <br><br>
+ Please submit completed [application form](/files/canteen_stall.pdf) with the following documents to the school's General Office: <br><br>
 •	Proposed food menu and pricing <br>
 •	Photocopy of relevant certificates such as Basic Food Hygiene Course and previous SFA licenses, etc <br>
 •	Photocopy of the NRIC (front and back)
