@@ -13,3 +13,8 @@ North Vista Primary School has a **Japanese / Korean Rice or Other Asian Rice St
 •	Applicant to maintain high standard of food and personal hygiene.<br>
 •	Applicant must participate in HPB’s "Healthy Meals in Schools Programme (HMSP)".<br>
 •	Before operating the stall, both applicant and stall assistant(s) must pass the WSQ Basic Food Hygiene Course by training provider appointed by Workforce Development Agency (WDA). The applicant will then be required to apply for food stall license from Singapore Food Agency (SFA) upon successful completion of course.
+<br><br>
+Upon successful award, the stallholder is expected to meet these requirements: <br>
+•	Stallholder must operate the stall from 7.20 am to 2.30 pm from Mon to Fri during term time and as and when necessary, during the school holidays. <br>
+•	New stallholder to obtain the Minimum Hygiene Grade (MHG) of 'B' within 3 months from date of commencement of the license. <br>
+•	Stallholders must be in personal attendance at the stall and cannot sublet his stall to another person. 
