@@ -19,7 +19,7 @@ Upon successful award, the stallholder is expected to meet these requirements: <
 •	New stallholder to obtain the Minimum Hygiene Grade (MHG) of 'B' within 3 months from date of commencement of the license. <br>
 •	Stallholders must be in personal attendance at the stall and cannot sublet his stall to another person.
 
-**Submission for Application**
+##### Submission for Application
  
  Please submit completed [application form](/files/canteen_stall.pdf) with the following documents to the school's General Office: <br><br>
 •	Proposed food menu and pricing <br>
