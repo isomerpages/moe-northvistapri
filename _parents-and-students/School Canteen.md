@@ -5,7 +5,7 @@ description: ""
 ---
 North Vista Primary School has a **Japanese / Korean Rice or Other Asian Rice Stall** for occupancy. We are a single session school and have an estimated school enrolment of 1465 pupils and 130 staff.
 
-###### Requirements
+##### Requirements
 •	Applicant must be a Singapore Citizen or Singapore Permanent Resident. <br>
 •	Applicants who have relevant experience in a school canteen or with catering experience are preferred. <br>
 •	Applicant to provide good service and quality food at reasonable prices approved by the school.<br>
