@@ -44,7 +44,5 @@ description: ""
 | Mdm Lian Yanli | Kindergarten 1 <br>(Chinese Language)<br>   |
 | Mdm Soh Ah Kiow | Kindergarten 2 <br>(Chinese Language)<br>  |
 | Ms Lexie Wong  |  Kindergarten 2<br> (Chinese Language)<br>  |
-| Mdm Nur Hafizah | Kindergarten 1<br> (Malay Language)<br> |
-| Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br>  |
-|  Ms Anees Aaysha | Kindergarten 1 &amp; 2<br> (Tamil Language) | |
+| Mdm Siti Suzanna |  Kindergarten 1 &amp; 2<br> (Malay Language)<br>  |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
