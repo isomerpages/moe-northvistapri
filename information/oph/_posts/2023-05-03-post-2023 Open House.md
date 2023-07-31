@@ -11,4 +11,4 @@ image: ""
 Thank you to our staff, students and parents who have made the Open House a success!
 
 Please visit 
-[North Vista Facebook](https://www.facebook.com/NorthVistaPrimary)  to find out the exciting performances and activities on Open House!
+[North Vista Facebook](https://www.facebook.com/NorthVistaPrimary)  to find out the exciting performances and activities that happened on the Open House!
