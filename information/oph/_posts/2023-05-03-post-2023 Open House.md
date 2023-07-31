@@ -20,6 +20,6 @@ image: ""
 | 1100 - 1130     | School Tour   | 
 | 1140 - 1150   | International Dance Performance   |
 
-Please register your interest by scanning the QR code in the poster or click [here](https://forms.moe.edu.sg/forms/oZymDJ).
+Please visit 
+[North Vista Facebook](https://www.facebook.com/NorthVistaPrimary)  to find out the exciting performaces and activities on 2023 Open House!
 
-We look forward to seeing you here at North Vista Primary!
