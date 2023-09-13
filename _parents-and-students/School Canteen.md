@@ -3,7 +3,16 @@ title: School Canteen
 permalink: /parents-and-students/schoolcanteen/
 description: ""
 ---
-North Vista Primary School has a **Japanese / Korean Rice or Other Asian Rice Stall** for occupancy. We are a single session school and have an estimated school enrolment of 1465 pupils and 130 staff.
+North Vista Primary School has the following canteen stalls for occupancy. 
+
+
+
+| Type of Stall | | Closing Date |
+| -------- | -------- | -------- |
+| Japanese / Korean Rice or Other Asian Rice Stall |   | 29 September 2023     |
+| Muslim Rice and Noodles (Halal)   |   | 29 September 2023    |
+
+We are a single session school and have an estimated school enrolment of 1465 pupils and 130 staff.
 
 ##### Requirements
 •	Applicant must be a Singapore Citizen or Singapore Permanent Resident. <br>
