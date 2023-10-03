@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Contact Us.md
       - Vision, Mission & Values.md
       - Our People.md
       - Our Programmes.md
@@ -16,3 +15,4 @@ collections:
       - Our Learning Environment.md
       - Our Partnerships.md
       - 2023 MK Open House.md
+      - Contact Us.md
