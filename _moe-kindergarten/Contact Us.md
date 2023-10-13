@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /moe-kindergarten/contact-us/
+permalink: /kindergarten/contact-us/
 description: ""
 ---
 #### **Address**
