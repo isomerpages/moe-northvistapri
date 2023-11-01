@@ -9,8 +9,7 @@ North Vista Primary School has the following canteen stalls for occupancy.
 
 | Type of Stall | | Closing Date |
 | -------- | -------- | -------- |
-| Japanese / Korean Rice or Other Asian Rice Stall |   | 31 October 2023     |
-| Muslim Rice and Noodles (Halal)   |   | 31 October 2023    |
+| Muslim Rice and Noodles (Halal)   |   | 29 December 2023    |
 
 We are a single session school and have an estimated school enrolment of 1465 pupils and 130 staff.
 
