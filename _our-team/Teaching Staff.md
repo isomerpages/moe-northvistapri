@@ -60,6 +60,7 @@ variant: markdown
 |  P 4-4 | Ms Ian Farah <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg) |    Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)  |
 |  P 4-5  | Miss Lai Liyu <br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg)  | Mrs Simon Foo <br> [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  |
 | P 4-6 | Mdm Siti Raudah <br> [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)  | Miss Josephine Ong  <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg)  |
+|P 4-7 | Mdm Siti Raudah <br> [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)  | Miss Josephine Ong  <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg)  |
 
 
 #### Primary Five
