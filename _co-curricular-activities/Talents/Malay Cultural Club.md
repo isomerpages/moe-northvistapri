@@ -3,8 +3,8 @@ title: Malay Cultural Club
 permalink: /co-curricular-activities/Talents/malay-clultural-club/
 description: ""
 third_nav_title: Talents
+variant: markdown
 ---
-
 The Malay Cultural Club aims to promote the extensive use of Malay Language through culture programmes and instill the love for Malay Language in students. Students are also given the opportunity to learn and improve their Malay Language through the yearly Speech and Drama workshop. Selected students may be invited to showcase their talent in acting through Drama and Storytelling competitions.
 
 #### Recruitment
