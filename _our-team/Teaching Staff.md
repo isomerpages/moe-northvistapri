@@ -10,7 +10,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 1-1 | Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Ms Sugashini <br>  [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
-| P 1-2 | Ms Yeo Si Min<br>  [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg)  | Mdm Liu Jin <br>  [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg)  |
+| P 1-2 | Ms Yeo Si Min<br>  [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg)  | Ms Fiona Yoong <br>  [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)  |
 | P 1-3 |   Mdm Analiza <br> [analiza_suboh@moe.edu.sg](mailto:analiza_suboh@moe.edu.sg)  | Mrs Lim Chia Lin <br> [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg)   |
 | P 1-4 | Mdm Rozita<br>  [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  | Miss Chong Yuan Ping <br>[chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  |
 | P 1-5 |   Ms Wu Lihua <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)  |   Mr Cavin Lee <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
