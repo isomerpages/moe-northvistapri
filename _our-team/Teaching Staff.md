@@ -128,4 +128,4 @@ variant: markdown
 | 9     | Mdm Margaret Teo Hung Kimg    | [teo_hung_kimg_margaret@moe.edu.sg](mailto:teo_hung_kimg_margaret@moe.edu.sg)      |
 | 10     | Mdm Dai Ping    | [dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg)      |
 | 11     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
-| 12     | Mrs Jennifer Poh    | [tiew_tsui_lu_jennifer@moe.edu.sg](mailto:tiew_tsui_lu_jennifer@moe.edu.sg)     |
+| 12     | Mr Ang Teck Keng   | [ang_teck_keng@moe.edu.sg](mailto:ang_teck_keng@moe.edu.sg)     |
