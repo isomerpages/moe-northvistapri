@@ -86,7 +86,7 @@ variant: markdown
 | P 6-3 | Mr Zaki <br>  [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)  | Mr Huang Shihao<br>[huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)  |
 | P 6-4 | Ms Yanni <br> [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg)  | Mr Nelson Ong  <br> [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg) |
 |  P 6-5 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mr John Wu <br>  [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)  |
-| P 6-6 |   Mr Reuben Lim <br> [reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg)  | Mr Nelson Ong <br>  [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg) <br> Mrs Lim Seok Hong <br>  [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) | 
+| P 6-6 |   Mdm Roxanne Chua <br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mr Nelson Ong <br>  [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg) <br> Mrs Lim Seok Hong <br>  [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) | 
 
 
 #### Special Educational Needs Officers (SEN)
