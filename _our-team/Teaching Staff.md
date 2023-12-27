@@ -14,7 +14,7 @@ variant: markdown
 | P 1-3 |   Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mr Teo Ting Rui <br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg)   |
 | P 1-4 | Mrs Vivien Lim <br>  [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  | Mdm Analiza<br>[analiza_suboh@moe.edu.sg](mailto:analiza_suboh@moe.edu.sg)  |
 | P 1-5 |   Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)  |   Mdm Lydia <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
-|  P 1-6  | Ms Ang Lee Im <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
+|  P 1-6  | Mr Dennis Tan  <br> [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)  | Miss Lith Heng<br> [heng_khai_yee@moe.edu.sg](mailto:heng_khai_yee@moe.edu.sg)  |
 |  P 1-7  | Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg) | Mr Joel Wong <br>[wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)   |
 | P 1-8 | Miss Jessica Cheah <br> [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg)   | Mr Lawrence Lim  <br> [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)  |
 
