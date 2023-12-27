@@ -69,7 +69,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 5-1 | Miss Atiroh <br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  |  Mr Desmond Tan  <br> [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg)   |
-| P 5-2 | Mr Tan Kheng Eng <br> [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)  | Mr Ng Chun Hao <br> [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
+| P 5-2 | Miss Tam Fong U <br> [tam_fong_u@moe.edu.sg](mailto:tam_fong_u@moe.edu.sg)  | Mr Ng Chun Hao <br> [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
 |  P 5-3  | Mr Zaki <br>  [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)   | Mr Huang Shihao <br>[huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)   |
 |  P 5-4  |   Ms Yanni <br> [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg)  | Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)<br> Ms Fiona Yoong <br> [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)  |
 | P 5-5 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mdm Yeong Yimei <br>   [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) <br> Mr John Wu <br>   [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)   |
