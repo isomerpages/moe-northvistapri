@@ -32,8 +32,8 @@ variant: markdown
 | P 2-5 | Ms Wu Lihua  <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg) | Mr Cavin Lee  <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
 | P 2-6  |  Ms Ang Lee Im <br>  [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg) | Mr Alvin Lee <br>  [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg) |
 | P 2-7 | Mr Joel Wong <br>  [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)   | Ms Adeline Sim  <br> [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg)  |
-| P 2-8 | Mr Lawrence Lim  <br> [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)   | Miss Lith Heng  <br> [heng_khai_yee@moe.edu.sg](mailto:heng_khai_yee@moe.edu.sg) <br> Mdm Lydia  <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg) |
-| P2-9  | Mdm Zheng Hui <br>  [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg) |   Ms Adeline Sim   <br>[sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg) |
+| P 2-8 | Mr Lawrence Lim  <br> [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)   | Miss Devaki <br> [devaki_vindinnada@moe.edu.sg](mailto:devaki_vindinnada@moe.edu.sg) |
+
 
 
 #### Primary Three
