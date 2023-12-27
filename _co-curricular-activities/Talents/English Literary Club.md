@@ -3,8 +3,8 @@ title: English Literary Club
 permalink: /co-curricular-activities/Talents/english-literary-club/
 description: ""
 third_nav_title: Talents
+variant: markdown
 ---
-
 #### Objectives 
 *   Cultivate the love of the English language through storytelling and drama
 *   Provide opportunities for students to use the English language purposefully
