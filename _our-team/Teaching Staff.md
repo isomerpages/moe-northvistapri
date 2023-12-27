@@ -72,7 +72,7 @@ variant: markdown
 | P 5-2 | Miss Tam Fong U <br> [tam_fong_u@moe.edu.sg](mailto:tam_fong_u@moe.edu.sg)  | Mr Suryadi <br> [suryadi_mohd_bajuri@moe.edu.sg](mailto:suryadi_mohd_bajuri@moe.edu.sg)  |
 |  P 5-3  | Mr Goh Swee Teck <br>  [goh_swee_teck@moe.edu.sg](mailto:goh_swee_teck@moe.edu.sg)   | Mdm Nur Ashiqin <br>[nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)   |
 |  P 5-4  |   Mdm Zheng Hui <br> [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg)  | Mr Boh Zuze <br> [boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg)  |
-| P 5-5 | Mrs Letitia Lim <br> [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)   | Mr Rohman<br>   [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg) <br> Mdm Yeong Yimei <br>   [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)   |
+| P 5-5 | Mrs Letitia Lim <br> [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)   | Mr Rohman<br>   [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg) <br><br> Mdm Yeong Yimei <br>   [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)   |
 | P 5-6 |  Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg)  | Mdm Rose Iliyana <br>  [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg) |
 
 
