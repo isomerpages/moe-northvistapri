@@ -119,7 +119,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 1     | Ms Eileen Chee    | [eileen_chee@moe.edu.sg](mailto:eileen_chee@moe.edu.sg)    |
 | 2     | Miss Lee Siok Cheng      | [lee_siok_cheng@moe.edu.sg](mailto:lee_siok_cheng@moe.edu.sg)    |
-| 3     | Miss Lee Siok Cheng     | [lee_siok_cheng@moe.edu.sg](mailto:lee_siok_cheng@moe.edu.sg)      |
+| 3     | Mrs Irene Tan    | [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)      |
 | 4     | Mr Gerald Lee Zhao Hong     | [lee_zhaohong_gerald@moe.edu.sg](mailto:lee_zhaohong_gerald@moe.edu.sg)      |
 | 5     | Mr Hirman    | [hirman_mohamed_khamis@moe.edu.sg](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
 | 6     | Mrs Lim Choon Num     | [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg )      |
