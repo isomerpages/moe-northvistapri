@@ -29,7 +29,7 @@ variant: markdown
 | P 2-2 | Miss Chong Yuan Ping <br> [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  | Mdm Liu Jin <br>  [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg)    |
 | P 2-3 |   Mdm Jelena Chia <br>  [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg)  | Mrs Lim Chia Lin<br> [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg)<br><br> Mdm Sarah<br> [nor_sarah_banu_gulam@moe.edu.sg](mailto:nor_sarah_banu_gulam@moe.edu.sg)  |
 | P 2-4 | Mdm Rozita <br> [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)   |  Mr Goh Kah How <br> [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)  |
-| P 2-5 | Mrs Vivien Lim  <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg) | Miss Devaki  <br> [devaki_vindinnada@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  |
+| P 2-5 | Ms Wu Lihua  <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg) | Miss Devaki  <br> [devaki_vindinnada@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  |
 | P 2-6  |  Mdm Jelena Chia <br>  [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) | Miss Sukainah <br>  [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)<br><br> Mdm Rosalind Tan <br>  [tan_hwee_tiang@moe.edu.sg](mailto:tan_hwee_tiang@moe.edu.sg) |
 | P 2-7 | Mr Dennis Tan <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)   | Ms Ian Farah  <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)  |
 | P 2-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)   | Miss Lith Heng  <br> [heng_khai_yee@moe.edu.sg](mailto:heng_khai_yee@moe.edu.sg) <br> Mdm Lydia  <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg) |
