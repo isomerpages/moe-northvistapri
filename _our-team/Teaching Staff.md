@@ -31,7 +31,7 @@ variant: markdown
 | P 2-4 | Mdm Rozita <br> [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)   |  Mr Goh Kah How <br> [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)  |
 | P 2-5 | Ms Wu Lihua  <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg) | Mr Cavin Lee  <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
 | P 2-6  |  Ms Ang Lee Im <br>  [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg) | Mr Alvin Lee <br>  [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg) |
-| P 2-7 | Mr Dennis Tan <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)   | Ms Ian Farah  <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)  |
+| P 2-7 | Mr Joel Wong <br>  [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)   | Ms Ian Farah  <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)  |
 | P 2-8 | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)   | Miss Lith Heng  <br> [heng_khai_yee@moe.edu.sg](mailto:heng_khai_yee@moe.edu.sg) <br> Mdm Lydia  <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg) |
 | P2-9  | Mdm Zheng Hui <br>  [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg) |   Ms Adeline Sim   <br>[sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg) |
 
