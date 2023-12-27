@@ -3,8 +3,8 @@ title: Basketball
 permalink: /co-curricular-activities/Sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
 The school basketball team was set up in 2017 to offer more sports CCA options to our students. Our all boys’ team comprises of students from the P2 to P6 cohort.
 
 The programme provides training to adequately equip our members with the necessary skills and knowledge of the game to compete at the Zonal and National Level in the annual National Schools Games (NSG).
@@ -29,7 +29,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mdm Yeong Yi Mei | [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) |
 | Miss Josephine Ong | [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg) |
 | Mdm Roxanne Chua  | [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  |
-|
+|Miss Norazizah  | [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)  |
 
 ![](/images/CCA/Sports/bball1.jpg)
 
