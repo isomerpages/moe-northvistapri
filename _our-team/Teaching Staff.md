@@ -47,7 +47,7 @@ variant: markdown
 | P 3-4 | Mr Ralph Ong <br> [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg) | Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg) |
 | P 3-5 | Ms Shamin Lin <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) | 
 | P 3-6 | Mrs Chiu Wan Ting <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)   | Mdm Nurshidah  <br>  [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg) |
-|P 3-7 | Miss Nur Syafiqah <br> [nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg)   | Mdm Peh Shay Ling <br>  [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg) |
+|P 3-7 | Miss Norazizah <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)   | Mrs Eng I-Ling <br>  [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg) |
 
 #### Primary Four
 
