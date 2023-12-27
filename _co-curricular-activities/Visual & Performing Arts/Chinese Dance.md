@@ -3,12 +3,11 @@ title: Chinese Dance
 permalink: /co-curricular-activities/Visual-and-Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
+Vista Chinese Dance was established since 2011. It consists of students from the P2 to P6 cohort. It aims (i) to support mastery of Chinese dance form, develop appreciation of the movements and the culture of the dance origin and invoke passion for the art, (ii) to strengthen discipline, to develop collective spirit while sustaining the love for dance and lastly (iii) to build character – Every dancer embodies the values of respect, resilience, responsibility, integrity, care and harmony.&nbsp;Membership in Excellence team is mainly through trial and invitation.
 
-
-Vista Chinese Dance was established since 2011. It consists of students from the P2 to P6 cohort. It aims (i) to support mastery of Chinese dance form, develop appreciation of the movements and the culture of the dance origin and invoke passion for the art, (ii) to strengthen discipline, to develop collective spirit while sustaining the love for dance and lastly (iii) to build character – Every dancer embodies the values of respect, resilience, responsibility, integrity, care and harmony. Membership in Excellence team is mainly through trial and invitation.
-
-#### Achievements, Opportunities & Experiences
+#### Achievements, Opportunities &amp; Experiences
 
 SYF Central Judging 2012 – Gold <br>
 SYF Central Judging 2012 – Gold <br>

@@ -3,9 +3,8 @@ title: Chinese Drama Club
 permalink: /co-curricular-activities/Talents/chinese-drama-club/
 description: ""
 third_nav_title: Talents
+variant: markdown
 ---
-
-
 Chinese Language (CL) Drama was set up in 2018 to offer more performing arts options to our students. Our team comprises of students from the P2 to P6 cohort.
 
 CL Drama is open to all students who are interested. It offers students the opportunities to learn performing techniques in drama and speech presentation in Mandarin. Through this CCA, students learn the basic skills and techniques of acting, storytelling and speech presentation.
