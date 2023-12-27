@@ -42,7 +42,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 3-1  | Miss Subhadra <br> [subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  | Mdm Choo Siang Beng <br> [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg) |
-| P 3-2 | Ms Gan Hui Ling Jen <br> [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg) | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
+| P 3-2 | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg) | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
 | P 3-3 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Mrs Kelly Lim <br>  [mak_wenjing@moe.edu.sg  ](mailto:mak_wenjing@moe.edu.sg  )    |
 | P 3-4 | Mr Arden Lim <br> [lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg) | Mdm Sarah <br> [nor_sarah_banu_gulam@moe.edu.sg](mailto:nor_sarah_banu_gulam@moe.edu.sg) |
 | P 3-5 | Miss Lai Liyu <br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg) | Mrs Simon Foo<br> [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)|
