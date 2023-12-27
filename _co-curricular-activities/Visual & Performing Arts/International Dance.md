@@ -3,9 +3,8 @@ title: International Dance
 permalink: /co-curricular-activities/Visual-and-Performing-Arts/international-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
-
-
 The school dance team Vista Danza was set up in 2010. Our all girls’ team comprises of students from the P2 to P6 cohort. International Dance aims (i) to instil a great love for dance while inspiring self-confidence, develop appreciation of various modern dance forms, to strengthen discipline and to develop collective spirit while sustaining the love for dance (ii) to build character – Every dancer embodies the value of respect, resilience, responsibility, integrity, care and harmony.
 
 The programme provides training to adequately equip our members with good knowledge and techniques of the contemporary pop dance genres such as hip hop, street, lyrical jazz, theatrical and fusion to participate and perform at events and dance competitions.
@@ -21,7 +20,7 @@ Mondays and Fridays. Schedule will be sent to parents via Parent's Gateway befor
 
 | Name of Teacher | Email Address |
 |----|----|
-| Miss Norazizah Ajis (Overall-In-Charge)  | [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg) |
+| Ms Yanni  (Overall-In-Charge)  | [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg) |
 | Miss Devaki D/O Vindinnada  | [devaki_vindinnada@moe.edu.sg](mailto:devaki_vindinnada@moe.edu.sg)  |
 | Mrs Eng I-Ling   | [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  |
 |Miss Atiroh  | [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  |
