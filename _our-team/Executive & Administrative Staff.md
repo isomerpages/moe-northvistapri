@@ -2,6 +2,7 @@
 title: Executive & Administrative Staff
 permalink: /our-team/executive-and-administrative-staff/
 description: ""
+variant: markdown
 ---
 #### Administration
 
@@ -9,7 +10,7 @@ description: ""
 
 | SN | Name | Email |
 | -------- | -------- | -------- |
-| 1     | Ms Sandra Sia, Administration Manager     | [sia_yan_san@moe.edu.sg](mailto:sia_yan_san@moe.edu.sg)      |
+| 1     | Ms Thanaletchoomi D/O Ngenagaran, Administration Manager     | [sia_yan_san@moe.edu.sg](mailto:sia_yan_san@moe.edu.sg)      |
 | 2     | Mdm Rosnah Binti Edin, Corporate Support Officer     | [rosnah_edin@moe.edu.sg](mailto:rosnah_edin@moe.edu.sg)      |
 | 3     | Mdm Theresa Ng Siew San, Corporate Support Officer       | [ng_siew_san@moe.edu.sg](mailto:ng_siew_san@moe.edu.sg)      |
 | 4     | Miss Soh San San, Corporate Support Officer       | [soh_san_san@moe.edu.sg](mailto:soh_san_san@moe.edu.sg)         |
