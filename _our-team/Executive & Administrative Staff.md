@@ -40,5 +40,5 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     | Mr Kumerasan s/o Kanayson, ICT Manager     | [kumerasan_kanayson@moe.edu.sg](mailto:kumerasan_kanayson@moe.edu.sg)   |
-| 2     | Mdm Gajendran Parameswari, Laboratory Assistant    | [gajendran_parameswari@moe.edu.sg](mailto:gajendran_parameswari@moe.edu.sg)    |
+| 2     | Ms K Thenmoli, Laboratory Assistant    | [k_thenmoli@schools.gov.sg](mailto:k_thenmoli@schools.gov.sg)    |
 | 3    | Mrs Susan Tan, Librarian     | [susan_tan_ler@moe.edu.sg](mailto:susan_tan_ler@moe.edu.sg)     |
