@@ -130,4 +130,4 @@ variant: markdown
 | 11     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
 | 12     | Mr Ang Teck Keng   | [ang_teck_keng@moe.edu.sg](mailto:ang_teck_keng@moe.edu.sg)     |
 | 13     | Ms Kaur  | [amrit_kaur@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)     |
-| 14     | Mrs Chaudhari Trupti  | [amrit_kaur@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)     |
+| 14     | Mrs Chaudhari Trupti  | [trupti_vikas_palkar@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)     |
