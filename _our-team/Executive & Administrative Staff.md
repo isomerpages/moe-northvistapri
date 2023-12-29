@@ -26,10 +26,10 @@ variant: markdown
 | -------- | -------- | -------- |
 | 1     |  Mr John Leong Kok Kheong, Operations Manager     | [leong_kok_kheong_john@moe.edu.sg](mailto:leong_kok_kheong_john@moe.edu.sg)     |
 | 2     |  Mr Neo Kim Ye, Operations Support Officer     |     |
-| 3     |  Mdm Yeo Chor Tin, Operations Support Officer      |    |
-| 4     |  Mr Tay Kok Meng, Operations Support Officer      |    |
-| 5     |  Mdm Mary Ong, Operations Support Officer      |     |
-| 6     |  Mdm Ng Sok Cheng, Operations Support Officer      | 
+| 3     |  Mr Tay Kok Meng, Operations Support Officer      |    |
+| 4     |  Mdm Mary Ong, Operations Support Officer     |    |
+| 5     |  Mdm Ng Sok Cheng, Operations Support Officer       |     |
+| 6     |  Mdm Ting Sieng Mee, Operations Support Officer     | 
 | 7     |  Mdm Ting Sieng Mee, Operations Support Officer      |      |
 
 #### Support
