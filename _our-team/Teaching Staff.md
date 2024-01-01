@@ -121,7 +121,7 @@ variant: markdown
 | 2     | Miss Lee Siok Cheng      | [lee_siok_cheng@moe.edu.sg](mailto:lee_siok_cheng@moe.edu.sg)    |
 | 3     | Mrs Irene Tan    | [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)      |
 | 4     | Mrs Gilbert Veronica    | [gilbert_veronica@moe.edu.sg](mailto:gilbert_veronica@moe.edu.sg)      |
-| 5     | Mr Gerald Lee Zhao Hong   | [lee_zhaohong_gerald@moe.edu.sg](mailto:lee_zhaohong_gerald@moe.edu.sg)      |
+| 5     | Miss Doris Tang   | [tang_lai_peng_a_1@moe.edu.sg](mailto:tang_lai_peng_a_1@moe.edu.sg)      |
 | 6     | Mr Hirman     | [hirman_mohamed_khamis@moe.edu.sg ](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
 | 7     | Mrs Lim Choon Num    | [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg)      |
 | 8     | Mrs Jennifer Poh    | [tiew_tsui_lu_jennifer@moe.edu.sg](mailto:tiew_tsui_lu_jennifer@moe.edu.sg)      |
@@ -131,3 +131,7 @@ variant: markdown
 | 12     | Mr Ang Teck Keng   | [ang_teck_keng@moe.edu.sg](mailto:ang_teck_keng@moe.edu.sg)     |
 | 13     | Ms Kaur  | [amrit_kaur@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)     |
 | 14     | Mrs Chaudhari Trupti  | [trupti_vikas_palkar@moe.edu.sg](mailto:trupti_vikas_palkar@moe.edu.sg)     |
+| 15     | Mdm Kam Hui Bin  | [Kam_hui_bin_a@moe.edu.sg](mailto:Kam_hui_bin_a@moe.edu.sg)     |
+| 16     | Mrs Selene Yu  | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)     |
+| 17     | Mdm Jancy Tia  | [tia_nan_roung_jancy@moe.edu.sg](mailto:tia_nan_roung_jancy@moe.edu.sg)     |
+| 18     | Mdm Liew Huei Chun | [liew_huei_chun@moe.edu.sg](mailto:liew_huei_chun@moe.edu.sg)     |
