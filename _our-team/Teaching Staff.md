@@ -134,3 +134,4 @@ variant: markdown
 | 15     | Mdm Kam Hui Bin  | [Kam_hui_bin_a@moe.edu.sg](mailto:Kam_hui_bin_a@moe.edu.sg)     |
 | 16     | Mrs Selene Yu  | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)     |
 | 17     | Mdm Jancy Tia  | [tia_nan_roung_jancy@moe.edu.sg](mailto:tia_nan_roung_jancy@moe.edu.sg)     |
+| 18     | Mdm Liew Huei Chun | [liew_huei_chun@moe.edu.sg](mailto:liew_huei_chun@moe.edu.sg)     |
