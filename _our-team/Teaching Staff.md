@@ -131,3 +131,4 @@ variant: markdown
 | 12     | Mr Ang Teck Keng   | [ang_teck_keng@moe.edu.sg](mailto:ang_teck_keng@moe.edu.sg)     |
 | 13     | Ms Kaur  | [amrit_kaur@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)     |
 | 14     | Mrs Chaudhari Trupti  | [trupti_vikas_palkar@moe.edu.sg](mailto:trupti_vikas_palkar@moe.edu.sg)     |
+| 15     | Mdm Kam Hui Bin  | [Kam_hui_bin_a@moe.edu.sg](mailto:Kam_hui_bin_a@moe.edu.sg)     |
