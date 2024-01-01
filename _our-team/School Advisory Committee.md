@@ -8,6 +8,6 @@ variant: markdown
 
 | |||
 |:---:|:---:|:---:|
-|<img src="/images/SAC/Mr%20Ang%20Tian%20Chua_Member.jpg"> Mr Ang Tian Chua <br>**Chairperson** | 
-|<img src="/images/SAC/Mdm%20Tan%20Puay%20Hwee%20Katrina_Member.jpg"> Mdm Irene Kum <br> **Member**| <img src="/images/SAC/Mr%20Seow%20Soon%20Yong_Member.jpg"> Mr Seow Soon Yong <br> **Member** |
+||<img src="/images/SAC/mr_ang_tian_chua.jpg"> Mr Ang Tian Chua <br>**Chairperson** | 
+|<img src="/images/SAC/mdm_irene_kum.jpg"> Mdm Irene Kum <br> **Member**| <img src="/images/SAC/mr_law_yi_chung.jpg"> Mr Law Yi Chung <br> **Member** | <img src="/images/SAC/ms_joyce_teo.jpg"> Ms Joyce Yeo <br> **Member** |
 |
