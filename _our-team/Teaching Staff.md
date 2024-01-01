@@ -132,3 +132,5 @@ variant: markdown
 | 13     | Ms Kaur  | [amrit_kaur@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)     |
 | 14     | Mrs Chaudhari Trupti  | [trupti_vikas_palkar@moe.edu.sg](mailto:trupti_vikas_palkar@moe.edu.sg)     |
 | 15     | Mdm Kam Hui Bin  | [Kam_hui_bin_a@moe.edu.sg](mailto:Kam_hui_bin_a@moe.edu.sg)     |
+| 16     | Mrs Selene Yu  | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)     |
+| 17     | Mdm Jancy Tia  | [tia_nan_roung_jancy@moe.edu.sg](mailto:tia_nan_roung_jancy@moe.edu.sg)     |
