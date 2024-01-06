@@ -3,6 +3,7 @@ title: Vista Bear Cub Scouts
 permalink: /co-curricular-activities/Adventure/scouts/
 description: ""
 third_nav_title: Adventure
+variant: markdown
 ---
 #### Vision
 Enabling young people to be active citizens creating positive change in their communities and in the world based on shared values.
@@ -27,7 +28,7 @@ A leadership camp aimed at training exemplary cub scouts so that they can fulfil
 
  *New recruits (also known as Tenderfoots) will not be required to buy their uniform as they will be under a trial period to allow the child to see if they like scouting. After a few months, once the Tenderfoot has earned his/ her World Scout badge and uniform, an investiture ceremony will be held and the Tenderfoot will be promoted to a Cub Scout.
  
- Students who are interested in joining us can also approach one of the Scout teachers.
+ Students who are interested in joining us can also&nbsp;approach one of the Scout teachers.
 
 ####  CCA Schedule
 
@@ -41,7 +42,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Name of Teacher | Email Address |
 |---|---|
 | Miss Yap Wei Tien (Overall-In-Charge) |[yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg)|
-| Mr Lim Kang Xiang, Arden |[lim_kang_xiang_arden@moe.edu.sg](mailto:lim_kang_xiang_arden@moe.edu.sg)|
+| Mdm  Nurshidah  |[nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)|
 |
 
 ![](/images/CCA/Adventure/scouts-run.jpg)
