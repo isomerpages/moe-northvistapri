@@ -45,23 +45,23 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more in
 
 **Information for Parents**
 
-8) Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8) Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9)  Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/SEd_Opt_Out_Form.pdf)&nbsp;. The completed opt-out form is to be submitted by 10/02/2023.
+9)  Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/SEd_Opt_Out_Form.pdf)&nbsp;. The completed opt-out form is to be submitted by 19/01/2024.
 
-10)  Parents can contact the school at&nbsp;[nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg)&nbsp;or 6484 3566&nbsp; for discussion or to seek clarification about the school's sexuality education programme.
+10)  Parents can contact the school at&nbsp;[nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg)&nbsp;or 6484 3566&nbsp; for discussion or to seek clarification about the school's Sexuality Education programme.
 <br><br>
 
-**At North Vista Primary School, the following Sexuality Education lessons will be taught in 2023:** <br><br>
+**At North Vista Primary School, the following Sexuality Education lessons will be taught in 2024:** <br><br>
 **CCE(FTGP) THEME: Growing Years**<br><br>
  **Primary 5**
 
 
 | **LESSON TITLE / DURATION** | **LESSON OVERVIEW** | **TIME PERIOD**  |
 | -------- | -------- | -------- |
-| The Changes in Me <br> (60 min)   | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br> <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 1 Week 8    |
+| The Changes in Me <br> (60 min)   | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br> <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 1 Week 7    |
 |  Did You Know? <br> (60 min)    | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’.   <br> <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.   | Term 1 Week 9     |
-| Keeping Myself Safe <br> (60 min)    | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. <br> <br>  This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2 Week 8     |
+| Keeping Myself Safe <br> (60 min)    | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. <br> <br>  This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 1 Week 10     |
 
 
 
@@ -70,8 +70,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more in
 
 | **LESSON TITLE / DURATION**| **LESSON OVERVIEW**| **TIME PERIOD** |
 | -------- | -------- | -------- |
-| Are We More than Friends? <br>Lesson 1 <br> (60 min)   | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.     | Term 1 Week 9     |
-| Are We More than Friends? <br>Lesson 2 <br> (60 min)      | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.    | Term 1 Week 10     |
-| Did You Know? *   | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’**.   <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Term 2 Week 8     |
+| Are We More than Friends? <br>Lesson 1 <br> (60 min)   | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.     | Term 2 Week 2     |
+| Are We More than Friends? <br>Lesson 2 <br> (60 min)      | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.    | Term 2 Week 6     |
 
-**Please note:** <br>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.
+
+**Please note:** <br>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort
