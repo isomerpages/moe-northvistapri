@@ -1,5 +1,5 @@
 title: North Vista Primary School
-url: https://www.open.gov.sg
+url: https://www.northvistapri.moe.edu.sg
 favicon: /images/nvtps_logo.png
 colors:
   primary-color: "#073f7c"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: information
+google_analytics_ga4: ""
