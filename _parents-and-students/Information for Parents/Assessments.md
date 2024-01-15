@@ -3,6 +3,7 @@ title: Assessments
 permalink: /parents-and-students/Information-for-Parents/Assessments/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 The school conducts both formative and summative assessments. Formative assessments are used mainly for diagnostic purposes. These assessments help students identify their weaknesses and improve on their learning. Summative assessments measure the level of success that is obtained at the end of a unit or at the end of a semester.
 
@@ -28,11 +29,11 @@ All students must be punctual for the examinations. Students who are unwell shou
 
 Should a student be absent without a valid reason, zero marks will be awarded.
 
-**P3 to P6 Semester 2 (Term 3 and 4) Topics, Format & Schedule**
+**Topics, Format & Schedule**
 
-* [P3 Semester 2 Assessment](/files/Assessments/p3%20sem%202%20assessment.pdf)
-* [P4 Semester 2 Assessment](/files/Assessments/p4%20sem%202%20assessment.pdf)
-* [P5 Semester 2 Assessment](/files/Assessments/p5%20sem%202%20assessment.pdf)
-* [P6 Semester 2 Assessment](/files/Assessments/p6%20sem%202%20assessment.pdf)
+* 
+* 
+* 
+* 
 
 Information is accurate as of 30 June 2023.
