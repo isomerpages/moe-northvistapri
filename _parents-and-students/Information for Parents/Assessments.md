@@ -29,7 +29,7 @@ All students must be punctual for the examinations. Students who are unwell shou
 
 Should a student be absent without a valid reason, zero marks will be awarded.
 
-**P3 to P6 Semester 2 (Term 3 and 4) Topics, Format & Schedule**
+**Topics, Format & Schedule**
 
 * 
 * 
