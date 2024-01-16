@@ -12,4 +12,4 @@ The 3P Programme is a co-curricular activity framework that provides students wi
 
 At the end of Primary 2, students will be able to choose from ICT & Scholastic Clubs, Uniform Groups as well as the Modular CCAs. An option form will be made available at the end of Primary 2 and students will be encouraged to participate in that CCA until they graduate.
 
-PE, Art & Music teachers will make recommendations to parents based on their day-to-day observations of the students for the Visual, Performing Arts and Sports CCAs. Modular CCAs are experiential in nature and exposes students to different Sports or Visual & Performing Arts in a modular format.ct School Admission (DSA).
+PE, Art & Music teachers will make recommendations to parents based on their day-to-day observations of the students for the Visual, Performing Arts and Sports CCAs. Modular CCAs are experiential in nature and exposes students to different Sports or Visual & Performing Arts in a modular format.
