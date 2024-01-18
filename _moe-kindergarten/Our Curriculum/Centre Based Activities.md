@@ -1,10 +1,10 @@
 ---
 title: Centre Based Activities
-permalink: /Kindergarten/our-curriculum/centre-based-activities/
+permalink: /kindergarten/our-curriculum/centre-based-activities/
 description: ""
 third_nav_title: Our Curriculum
+variant: tiptap
 ---
-
 Our kindergarten provides other centre-based programmes and learning experiences that aim to enhance the children's holistic learning and development in the MK.
 
 ![](/images/MK/centre%20based%20activity%201.jpg)

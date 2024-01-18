@@ -1,11 +1,10 @@
 ---
 title: Homework Guidelines
-permalink: /our-school/homework-guidelines/
+permalink: /parents-and-students/homework-guidelines/
 description: ""
 third_nav_title: Information for Parents
+variant: tiptap
 ---
-
-
 Homework refers to any learning activity that students are required to complete outside of curriculum time. This includes any extension of the classroom work, revision of school work, preparation of lessons, projects and online assignments.
 
 The following table illustrates the guidelines for homework for the different levels:

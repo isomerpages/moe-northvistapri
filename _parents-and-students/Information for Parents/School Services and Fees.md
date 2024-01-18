@@ -1,14 +1,15 @@
 ---
 title: School Services and Fees
-permalink: /parents-and-students/Information-for-Parents/school-services-and-fees/
+permalink: /parents-and-students/information-for-parents/school-services-and-fees/
 description: ""
 third_nav_title: Information for Parents
+variant: tiptap
 ---
 ### More information on:
 
 ||||
 |:---:|:---:|:---:|
-| <a href="#dental">School Dental</a> | <a href="#bookshop">School Bookshop<a> | <a href="#uniform">School Uniform</a> |
+| <a href="#dental">School Dental</a> | <a href="#bookshop">School Bookshop</a><a> | </a><a href="#uniform">School Uniform</a> |
 | <a href="#bus">School Bus</a> | <a href="#library">School Library</a> | <a href="#student">Student Care</a> |
 | | <a href="#fees">School Fees</a>  |  |
 |  |  | |

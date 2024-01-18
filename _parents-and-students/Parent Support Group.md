@@ -1,7 +1,8 @@
 ---
 title: Parent Support Group
-permalink: /parents-and-students/PSG/
+permalink: /parents-and-students/psg/
 description: ""
+variant: tiptap
 ---
 ### Parent Support Group&nbsp;
 

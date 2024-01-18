@@ -1,11 +1,10 @@
 ---
 title: Home Based Learning (HBL)
-permalink: /parents-and-students/Information-for-Parents/hbl/
+permalink: /parents-and-students/information-for-parents/hbl/
 description: ""
 third_nav_title: Information for Parents
+variant: tiptap
 ---
-
-
 1. Home-Based Learning (HBL) provides opportunities for students to engage in self-directed learning and serves as an avenue for learning to continue on e-learning days. Lesson packages are prepared by teachers and uploaded online for the students to access from home.
 
 

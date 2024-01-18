@@ -1,23 +1,24 @@
 ---
 title: General Information
-permalink: /parents-and-students/Information-for-Parents/general-info/
+permalink: /parents-and-students/information-for-parents/general-info/
 description: ""
 third_nav_title: Information for Parents
+variant: tiptap
 ---
 ### More information on:
 
 ||||
 |:---:|:---:|:---:|
-| <a href="#access">Access to the School</a> | <a href="#morning">Morning Drop-off & Decal<a> | <a href="#safety">Safety Around the School</a> |
+| <a href="#access">Access to the School</a> | <a href="#morning">Morning Drop-off &amp; Decal</a><a> | </a><a href="#safety">Safety Around the School</a> |
 | <a href="#dismissal">School Dismissal</a> | <a href="#outside">Outside the School</a> | <a href="#early">Early Dismissal for Unwell Students</a> |
 | <a href="#insurance">Insurance</a> | <a href="#emergency">Emergency Evacuation Guidelines</a> | <a href="#attendance">Attendance</a> |
 | <a href="#communication">Communication with Teachers</a> | <a href="#change">Change of Contact Info</a> | <a href="#responsibility">Responsibility for Personal Properties</a>|
-| <a href="#notices">Notices/Circulars</a> | <a href="#consent">Consent for Photography & VIdeos</a> | |
+| <a href="#notices">Notices/Circulars</a> | <a href="#consent">Consent for Photography &amp; VIdeos</a> | |
 |
 
 ####   1\. Access to The School<a name="access"></a>
 
-We want to keep our school safe for our students. All visitors/parents must register their presence at the Security Post at the front gate and obtain a Visitor Sticker. The sticker is valid for visiting the school bookshop and General Office only. The Visitor Sticker shall be worn within the school premises for easy identification by staff and students. 
+We want to keep our school safe for our students. All visitors/parents must register their presence at the Security Post at the front gate and obtain a Visitor Sticker. The sticker is valid for visiting the school bookshop and General Office only. The Visitor Sticker shall be worn within the school premises for easy identification by staff and students.&nbsp;
 
 Nobody is allowed to access any other parts of the school premises without prior permission from the General Office.
 
@@ -27,11 +28,11 @@ Nobody is allowed to access any other parts of the school premises without prior
 ||<a href="#top">back to top^</a>|	
 
 	
-#### 2\. Morning Drop-Off & Vehicle Decal<a name="morning"></a>
+#### 2\. Morning Drop-Off &amp; Vehicle Decal<a name="morning"></a>
 
-Parents who drive students to school will be allowed to drop them off along the sheltered walkway within school grounds until   7.25 a.m. Parents should not alight or park their car within the school grounds as parking lots are reserved for season parking only. Please adhere strictly to the school regulations of not driving more than 15 km/h within the school grounds. Exhibit greater care and patience while driving in the school premises.
+Parents who drive students to school will be allowed to drop them off along the sheltered walkway within school grounds until&nbsp; &nbsp;7.25 a.m. Parents should not alight or park their car within the school grounds as parking lots are reserved for season parking only. Please adhere strictly to the school regulations of not driving more than 15 km/h within the school grounds. Exhibit greater care and patience while driving in the school premises.
 
-Students who walk to school should enter the school via the sheltered walkway/Side Gate 1/Side Gate 3 to the bistro,  and should not take a shortcut across the car park.
+Students who walk to school should enter the school via the sheltered walkway/Side Gate 1/Side Gate 3 to the bistro,&nbsp; and should not take a shortcut across the car park.
 	
 	
 |||
@@ -50,9 +51,9 @@ Students entering the school should walk along the designated walkway provided (
 	
 #### 4\. School Dismissal<a name="dismissal"></a>
 
-All students can be dismissed via the Main Gate, Side Gate 3 (near Bistro) or Side Gate 7 (near ISH). Parents should work out an agreed meeting point with their children. For the safety of all students, parents should wait at the designated void decks of the  HDB flats so as to avoid congestion at the gates. Parents who are driving into the school to pick up their children can do so only after 1.45 p.m. or when all our school buses have left. Students should be waiting for their parents at the drop off point at Block A.
+All students can be dismissed via the Main Gate, Side Gate 3 (near Bistro) or Side Gate 7 (near ISH). Parents should work out an agreed meeting point with their children. For the safety of all students, parents should wait at the designated void decks of the&nbsp; HDB flats so as to avoid congestion at the gates. Parents who are driving into the school to pick up their children can do so only after 1.45 p.m. or when all our school buses have left. Students should be waiting for their parents at the drop off point at Block A.
 
-On CCA days, parents/caregivers will pick the students from the main gate. They may wait at the Security Post but will not be permitted to wait at the Bistro. For those who are driving, they may pick up their children from the Security Post or drive in only at  4 p.m. to pick up the students from drop off point at Block A. Parents should not alight and loiter in the Bistro or school grounds.
+On CCA days, parents/caregivers will pick the students from the main gate. They may wait at the Security Post but will not be permitted to wait at the Bistro. For those who are driving, they may pick up their children from the Security Post or drive in only at&nbsp; 4 p.m. to pick up the students from drop off point at Block A. Parents should not alight and loiter in the Bistro or school grounds.
 ![](/images/Parents_And_Students/Safe-Route-to-School-2022.jpg)
 
 |||
@@ -84,7 +85,7 @@ When a student is unwell, the school will contact the parent/guardian to pick th
 	
 #### 7\. Insurance<a name="insurance"></a>
 
-The school provides basic insurance coverage for all students. Please click [here](/files/Insurance_Fact_Sheet_Year_2023.pdf) for more information on the insurance product fact sheet.  For claims, parents may go [](https://www.northvistapri.moe.edu.sg/)[online](https://studentgpa.incomegroupins.com.sg/#/) to apply .
+The school provides basic insurance coverage for all students. Please click [here](/files/Insurance_Fact_Sheet_Year_2023.pdf) for more information on the insurance product fact sheet.  For claims, parents may go&nbsp;[](https://www.northvistapri.moe.edu.sg/)[online](https://studentgpa.incomegroupins.com.sg/#/) to apply&nbsp;.
 
 Parents may choose to buy additional coverage at their own discretions.
 
@@ -112,7 +113,7 @@ When students hear the siren or bell ringing continuously, students are to:
 	
 #### 9\. Attendance<a name="attendance"></a>
 
-Students are expected to be regular in their attendance. The school cannot grant permission for vacation before the term ends. Please DO NOT book travel arrangements for the last days of the school term. If a student is absent from school, he/she has to produce a medical certificate (MC) or a letter from parents when he/she returns to class. The conduct grade of students absent without a valid reason will be affected.
+Students are expected to be regular in their attendance. The school cannot grant permission for vacation before the term ends. Please DO NOT book travel arrangements for the last days of the school term.&nbsp;If a student is absent from school, he/she has to produce a medical certificate (MC) or a letter from parents when he/she returns to class. The conduct grade of students absent without a valid reason will be affected.
 
 	
 |||
@@ -145,7 +146,7 @@ Should parents have any feedback, they may use the following channels of communi
 
 #### 11\. Change of Contact Information<a name="change"></a>
 
-Parents are to notify the school promptly if there is a change of address and/or telephone numbers. The school records will be updated accordingly. In case of emergencies, such information is vital.
+Parents are to notify the school promptly if there is a change of address and/or telephone numbers. The school records will be&nbsp;updated accordingly. In case of&nbsp;emergencies, such information is vital.
 
 	
 |||

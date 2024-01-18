@@ -1,6 +1,6 @@
 ---
 title: e Newsletter
-permalink: /parents-and-students/Information-for-Parents/newsletter/
+permalink: /parents-and-students/information-for-parents/newsletter/
 description: ""
 third_nav_title: Information for Parents
 variant: markdown

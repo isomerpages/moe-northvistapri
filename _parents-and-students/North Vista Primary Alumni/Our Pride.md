@@ -1,8 +1,9 @@
 ---
 title: Our Pride
-permalink: /parents-and-students/North-Vista-Primary-Alumni/our-pride/
+permalink: /parents-and-students/nvtps-alumni/our-pride/
 description: ""
 third_nav_title: North Vista Primary Alumni
+variant: tiptap
 ---
 ### Our Pride
 

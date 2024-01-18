@@ -1,12 +1,10 @@
 ---
 title: Vision, Mission & Values
-permalink: /Kindergarten/mission-vision-and-values/
+permalink: /kindergarten/mission-vision-and-values/
 description: ""
+variant: tiptap
 ---
-
-
-<img src="/images/MK/MKNV%20Pantone.png" 
-     style="width:25%" align = left>
+<img src="/images/MK/MKNV%20Pantone.png" style="width:25%" align="left">
 <br><br><br><br>
 #### Vision
 A Strong Start For Every Child
@@ -20,4 +18,4 @@ Children are active learners.
 Children are competent learners.
 
 #### Values
-Integrity, Love, Resilience & Respect
+Integrity, Love, Resilience &amp; Respect
