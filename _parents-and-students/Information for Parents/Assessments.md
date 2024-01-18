@@ -29,11 +29,11 @@ All students must be punctual for the examinations. Students who are unwell shou
 
 Should a student be absent without a valid reason, zero marks will be awarded.
 
-**Topics, Format & Schedule**
+**2024 P3 to P6 Semester 1 Topics, Format & Schedule**
 
-* 
-* 
-* 
-* 
+* [P3 Semester 1 Assessment](/files/Assessments/P3_Semester_1_Assessment.pdf)
+* [P4 Semester 1 Assessment](/files/Assessments/P4_Semester_1_Assessment.pdf)
+* [P5 Semester 1 Assessment](/files/Assessments/P5_Semester_1_Assessment.pdf)
+* [P6 Semester 1 Assessment](/files/Assessments/P6_Semester_1_Assessment.pdf)
 
-Information is accurate as of 30 June 2023.
+Information is accurate as of 18 January 2024.
