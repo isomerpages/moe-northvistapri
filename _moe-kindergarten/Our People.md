@@ -2,6 +2,7 @@
 title: Our People
 permalink: /Kindergarten/our-people/
 description: ""
+variant: markdown
 ---
 #### Key Personnel
 
@@ -12,6 +13,10 @@ description: ""
 | Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | 
 | Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | 
 | Ms Lexie Wong      |  Senior Teacher <br> (Child Development)    | 
+| Ms Nur Sabrina      |  Level Head   | 
+
+
+
 
 #### Teaching Staff
 ##### English Medium Language Department 
