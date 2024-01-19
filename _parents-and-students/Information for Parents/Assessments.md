@@ -34,6 +34,6 @@ Should a student be absent without a valid reason, zero marks will be awarded.
 * [P3 Semester 1 Assessment](/files/Assessments/P3_Semester_1_Assessment.pdf)
 * [P4 Semester 1 Assessment](/files/Assessments/P4_Semester_1_Assessment.pdf)
 * [P5 Semester 1 Assessment](/files/Assessments/P5_Semester_1_Assessment.pdf)
-* [P6 Semester 1 Assessment](/files/Assessments/P6_Semester_1_Assessment.pdf)
+* [P6 Semester 1 Assessment](/files/Assessments/P6_Semester_1_Assessment__1_.pdf)
 
-Information is accurate as of 18 January 2024.
+Information is accurate as of 19 January 2024.
