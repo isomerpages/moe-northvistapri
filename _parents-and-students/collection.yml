@@ -1,0 +1,18 @@
+collections:
+  parents-and-students:
+    output: true
+    order:
+      - Information for Parents/.keep
+      - Information for Parents/General Information.md
+      - Information for Parents/School Services and Fees.md
+      - Information for Parents/Homework Guidelines.md
+      - Information for Parents/Assessments.md
+      - Information for Parents/Home Based Learning (HBL).md
+      - Information for Parents/Student Learning Space (SLS).md
+      - Information for Parents/e Newsletter.md
+      - Parent Support Group.md
+      - North Vista Primary Alumni/.keep
+      - North Vista Primary Alumni/North Vista Primary Alumni.md
+      - North Vista Primary Alumni/Our Pride.md
+      - School Bus.md
+      - School Canteen.md

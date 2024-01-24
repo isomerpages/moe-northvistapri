@@ -1,0 +1,18 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - Vision, Mission & Values.md
+      - Our People.md
+      - Our Programmes.md
+      - Our Curriculum/.keep
+      - Our Curriculum/Our Curriculum.md
+      - Our Curriculum/HI Light Programme.md
+      - Our Curriculum/Starlight (EL & MTL).md
+      - Our Curriculum/WoW Projects.md
+      - Our Curriculum/Centre Based Activities.md
+      - Our Curriculum/Events & Celebrations.md
+      - Our Learning Environment.md
+      - Our Partnerships.md
+      - MK Open House.md
+      - Contact Us.md

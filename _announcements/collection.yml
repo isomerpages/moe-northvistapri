@@ -1,0 +1,7 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - North Vista Primary Alumni.md
+      - Graduating Class of 2021.md
+      - P1 2022 Orientation Briefing.md

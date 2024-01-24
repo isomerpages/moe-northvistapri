@@ -1,0 +1,92 @@
+logo: /images/nvtps_logo.png
+links:
+  - title: Our School
+    url: /our-school/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message/
+      - title: Vision, Mission & Values
+        url: /our-school/mission-vision-and-values
+      - title: School Crest
+        url: /our-school/school-crest/
+      - title: School Song
+        url: /our-school/school-song/
+      - title: School Rules
+        url: /our-school/school-rules/
+      - title: School Hours
+        url: /our-school/school-hours/
+  - title: Our Team
+    url: /our-team/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-team/school-advisory-committee/
+      - title: School Management Committee
+        url: /our-team/management-committee/
+      - title: Teaching Staff
+        url: /our-team/teaching-staff/
+      - title: Executive & Admin Staff
+        url: /our-team/executive-and-administrative-staff/
+  - title: Our Curriculum
+    url: /our-curriculum/english/
+    sublinks:
+      - title: English
+        url: /our-curriculum/english/
+      - title: Mathematics
+        url: /our-curriculum/mathematics/
+      - title: Science
+        url: /our-curriculum/science/
+      - title: Mother Tongue
+        url: /our-curriculum/mother-tongue/
+      - title: P.E , Aesthetics & Music (PAM)
+        url: /our-curriculum/PE-Aesthetics-and-Music-PAM/
+      - title: Infocomm Technology (ICT)
+        url: /our-curriculum/Infocomm-Technology-ICT/
+      - title: Char & Citizenship Edu (CCE)
+        url: /our-curriculum/Char-and-Citizenship-Edu-CCE/
+  - title: Co-Curricular Activities
+    url: /cca/overview/
+    sublinks:
+      - title: Overview
+        url: /cca/overview/
+      - title: Visual & Performing Arts
+        url: /co-curricular-activities/Visual-and-Performing-Arts/art-connoisseur-club/
+      - title: ICT & Scholastic
+        url: /co-curricular-activities/ICT-and-Scholastic/infocomm-club/
+      - title: Sports
+        url: /co-curricular-activities/Sports/softball/
+      - title: Talents
+        url: /co-curricular-activities/Talents/english-literary-club/
+      - title: Adventure
+        url: /co-curricular-activities/Adventure/scouts/
+  - title: Parents and Students
+    url: /parents-and-students/Information-for-Parents/general-info/
+    sublinks:
+      - title: Information for Parents
+        url: /parents-and-students/information-for-parents/general-info
+      - title: Parent Support Group
+        url: /parents-and-students/psg/
+      - title: North Vista Primary Alumni
+        url: /parents-and-students/nvtps-alumni/
+      - title: School Bus
+        url: /parents-and-students/schoolbus/
+      - title: School Canteen
+        url: /parents-and-students/schoolcanteen/
+  - title: MOE Kindergarten
+    url: /kindergarten/mission-vision-and-values/
+    sublinks:
+      - title: Vision, Mission & Values
+        url: /kindergarten/mission-vision-and-values
+      - title: Our People
+        url: /kindergarten/our-people/
+      - title: Our Programmes
+        url: /kindergarten/our-programmes/
+      - title: Our Curriculum
+        url: /kindergarten/our-curriculum/
+      - title: Our Learning Environment
+        url: /kindergarten/our-learning-environment/
+      - title: Our Partnerships
+        url: /kindergarten/our-partnerships/
+      - title: MK Open House
+        url: /kindergarten/mk-open-house
+      - title: Contact Us
+        url: /kindergarten/contact-us/
