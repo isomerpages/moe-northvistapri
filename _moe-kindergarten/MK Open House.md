@@ -8,3 +8,5 @@ variant: markdown
 
 
 ![](/images/MK/Open_House_e_Poster.jpg)
+
+![](/images/MK/NVTPS_WEBPAGE__2__min.png)
