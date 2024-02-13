@@ -11,5 +11,5 @@ variant: markdown
 
 ![](/images/MK/NVTPS_WEBPAGE__2__min.png)
 
-## Curriculum and Information****
+## Curriculum and Information
 Please click [here](/files/MKOH_2024_updated_050224.pdf) to access the curriculum and information slides.
