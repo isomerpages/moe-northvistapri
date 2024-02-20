@@ -29,7 +29,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#safety" rel="noopener noreferrer nofollow" target="_blank">Safety Around the School</a>
+<p><a href="#safety">Safety Around the School</a>
 </p>
 </td>
 </tr>
@@ -162,7 +162,7 @@ a shortcut across the car park.</p>
 </tr>
 </tbody>
 </table>
-<h4>3. Safety Around The School</h4>
+<h4 id="safety">3. Safety Around The School</h4><a rowspan="1" id="safety></a>
 <p>Students entering the school should walk along the designated walkway
 provided (<em>See Safe Route to School below</em>). Students should queue
 when buying food in the Bistro and when they are boarding their respective
@@ -174,24 +174,36 @@ activities.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th colspan=">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+
+
 <p></p>
-</th>
-</tr>
+
+
+
+
+<p></p>
+
+
+</a><p><a rowspan="1" id="safety></a>
+<p>Students entering the school should walk along the designated walkway
+provided (<em>See Safe Route to School below</em>). Students should queue
+when buying food in the Bistro and when they are boarding their respective
+school buses. Students should also use the school facilities in the way
+they are intended for, and exercise care and caution at all times. All
+students should walk quietly around the school. When the lightning risk
+alert system is activated, students should stay indoors and avoid all outdoor
+activities.</p>
+<table>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<th colspan="></a><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+
+
 <h4>4. School Dismissal</h4>
 <p>All students can be dismissed via the Main Gate, Side Gate 3 (near Bistro)
 or Side Gate 7 (near ISH). Parents should work out an agreed meeting point
