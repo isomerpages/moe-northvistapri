@@ -3,7 +3,7 @@ title: School Services and Fees
 permalink: /parents-and-students/information-for-parents/school-services-and-fees/
 description: ""
 third_nav_title: Information for Parents
-variant: tiptap
+variant: markdown
 ---
 ### More information on:
 

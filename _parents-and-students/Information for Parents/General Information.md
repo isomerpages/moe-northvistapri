@@ -3,7 +3,7 @@ title: General Information
 permalink: /parents-and-students/information-for-parents/general-info/
 description: ""
 third_nav_title: Information for Parents
-variant: tiptap
+variant: markdown
 ---
 <h3>More information on:</h3>
 <table>
@@ -21,67 +21,67 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="#access" rel="noopener noreferrer nofollow" target="_blank">Access to the School</a>
+<p><a href="#access">Access to the School</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#morning" rel="noopener noreferrer nofollow" target="_blank">Morning Drop-off &amp; Decal</a>
+<p><a href="#morning">Morning Drop-off &amp; Decal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#safety" rel="noopener noreferrer nofollow" target="_blank">Safety Around the School</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#dismissal" rel="noopener noreferrer nofollow" target="_blank">School Dismissal</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#outside" rel="noopener noreferrer nofollow" target="_blank">Outside the School</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#early" rel="noopener noreferrer nofollow" target="_blank">Early Dismissal for Unwell Students</a>
+<p><a href="#safety">Safety Around the School</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="#insurance" rel="noopener noreferrer nofollow" target="_blank">Insurance</a>
+<p><a href="#dismissal">School Dismissal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#emergency" rel="noopener noreferrer nofollow" target="_blank">Emergency Evacuation Guidelines</a>
+<p><a href="#outside">Outside the School</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#attendance" rel="noopener noreferrer nofollow" target="_blank">Attendance</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#communication" rel="noopener noreferrer nofollow" target="_blank">Communication with Teachers</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#change" rel="noopener noreferrer nofollow" target="_blank">Change of Contact Info</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="#responsibility" rel="noopener noreferrer nofollow" target="_blank">Responsibility for Personal Properties</a>
+<p><a href="#early">Early Dismissal for Unwell Students</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="#notices" rel="noopener noreferrer nofollow" target="_blank">Notices/Circulars</a>
+<p><a href="#insurance">Insurance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#consent" rel="noopener noreferrer nofollow" target="_blank">Consent for Photography &amp; VIdeos</a>
+<p><a href="#emergency">Emergency Evacuation Guidelines</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="#attendance">Attendance</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="#communication">Communication with Teachers</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="#change">Change of Contact Info</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="#responsibility">Responsibility for Personal Properties</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="#notices">Notices/Circulars</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="#consent">Consent for Photography &amp; VIdeos</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>1. Access to The School</h4>
+<h4 id="access">1. Access to The School</h4>
 <p>We want to keep our school safe for our students. All visitors/parents
 must register their presence at the Security Post at the front gate and
 obtain a Visitor Sticker. The sticker is valid for visiting the school
@@ -124,13 +124,13 @@ prior permission from the General Office.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>2. Morning Drop-Off &amp; Vehicle Decal</h4>
+<h4 id="morning">2. Morning Drop-Off &amp; Vehicle Decal</h4>
 <p>Parents who drive students to school will be allowed to drop them off
 along the sheltered walkway within school grounds until&nbsp; &nbsp;7.25
 a.m. Parents should not alight or park their car within the school grounds
@@ -156,13 +156,13 @@ a shortcut across the car park.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>3. Safety Around The School</h4>
+<h4 id="safety">3. Safety Around The School</h4>
 <p>Students entering the school should walk along the designated walkway
 provided (<em>See Safe Route to School below</em>). Students should queue
 when buying food in the Bistro and when they are boarding their respective
@@ -186,13 +186,13 @@ activities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>4. School Dismissal</h4>
+<h4 id="dismissal">4. School Dismissal</h4>
 <p>All students can be dismissed via the Main Gate, Side Gate 3 (near Bistro)
 or Side Gate 7 (near ISH). Parents should work out an agreed meeting point
 with their children. For the safety of all students, parents should wait
@@ -225,13 +225,13 @@ loiter in the Bistro or school grounds.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>5. Outside the School</h4>
+<h4 id="outside">5. Outside the School</h4>
 <p>Students are to use the pedestrian crossing and obey traffic signals.
 They are to exercise care and caution when crossing the road, such as always
 look right, look left, look right again and raise the right hand before
@@ -251,13 +251,13 @@ crossing the road.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>6. Early Dismissal for Students who are Unwell</h4>
+<h4 id="early">6. Early Dismissal for Students who are Unwell</h4>
 <p>When a student is unwell, the school will contact the parent/guardian
 to pick the student up from the General Office. The parent/ guardian will
 need to report to the Security Post to register as a Visitor prior to picking
@@ -277,13 +277,13 @@ the student from the General Office.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>7. Insurance</h4>
+<h4 id="insurance">7. Insurance</h4>
 <p>The school provides basic insurance coverage for all students. Please
 click <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the insurance product fact sheet. For claims, parents
@@ -305,13 +305,13 @@ apply&nbsp;.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>8. Emergency Evacuation Guidelines</h4>
+<h4 id="emergency">8. Emergency Evacuation Guidelines</h4>
 <p>When students hear the siren or bell ringing continuously, students are
 to:</p>
 <ul data-tight="true" class="tight">
@@ -346,13 +346,13 @@ to:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>9. Attendance</h4>
+<h4 id="attendance">9. Attendance</h4>
 <p>Students are expected to be regular in their attendance. The school cannot
 grant permission for vacation before the term ends. Please DO NOT book
 travel arrangements for the last days of the school term.&nbsp;If a student
@@ -374,13 +374,13 @@ of students absent without a valid reason will be affected.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>10. Communication with Teachers/School</h4>
+<h4 id="communication">10. Communication with Teachers/School</h4>
 <p>If parents need to meet any teacher, they may call and make an appointment,
 or leave a note with their children for the teachers. If parents need to
 see the teacher without a prior appointment, they can report to the General
@@ -467,13 +467,13 @@ Heads (SHs) / Level Heads (LHs)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>11. Change of Contact Information</h4>
+<h4 id="change">11. Change of Contact Information</h4>
 <p>Parents are to notify the school promptly if there is a change of address
 and/or telephone numbers. The school records will be&nbsp;updated accordingly.
 In case of&nbsp;emergencies, such information is vital.</p>
@@ -492,13 +492,13 @@ In case of&nbsp;emergencies, such information is vital.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>12. Responsibility for Personal Properties</h4>
+<h4 id="responsibility">12. Responsibility for Personal Properties</h4>
 <p>Students are expected to take care of their personal belongings. Lockers
 are provided in the school. Students may bring their own locks.</p>
 <p>To address the issue of heavy school bags, students are expected to pack
@@ -522,13 +522,13 @@ to be delivered to the students.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>13. Notices / Circulars</h4>
+<h4 id="notices">13. Notices / Circulars</h4>
 <p>Parents will be informed of school programmes and updates via the Parents
 Gateway, the school website, bulletins, notices and morning announcements.
 Students are expected to be alert and attentive to the morning announcements
@@ -549,13 +549,13 @@ For CCA updates, students should refer to the CCA Notice Board.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>14. Consent for Photography and Videos</h4>
+<h4 id="consent">14. Consent for Photography and Videos</h4>
 <p>Please note that in the course of your child/ward's journey in North Vista
 Primary School, photographs/videos may be taken of students taking part
 in school activities, events and/or competitions. As part of the school's
@@ -580,7 +580,7 @@ Parents will have to contact the school should they have any concerns.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
