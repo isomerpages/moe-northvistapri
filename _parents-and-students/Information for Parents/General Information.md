@@ -124,7 +124,7 @@ prior permission from the General Office.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ a shortcut across the car park.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -186,7 +186,7 @@ activities.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -225,7 +225,7 @@ loiter in the Bistro or school grounds.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -251,7 +251,7 @@ crossing the road.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -277,7 +277,7 @@ the student from the General Office.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -305,7 +305,7 @@ apply&nbsp;.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -346,7 +346,7 @@ to:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -374,7 +374,7 @@ of students absent without a valid reason will be affected.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -467,7 +467,7 @@ Heads (SHs) / Level Heads (LHs)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -492,7 +492,7 @@ In case of&nbsp;emergencies, such information is vital.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -522,7 +522,7 @@ to be delivered to the students.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -549,7 +549,7 @@ For CCA updates, students should refer to the CCA Notice Board.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
@@ -580,7 +580,7 @@ Parents will have to contact the school should they have any concerns.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#top">back to top^</a>
+<p align="right"><a href="#top">back to top^</a>
 </p>
 </td>
 </tr>
