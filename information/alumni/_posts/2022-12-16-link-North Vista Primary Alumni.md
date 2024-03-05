@@ -1,20 +1,15 @@
 ---
 title: North Vista Primary Alumni
-permalink: https://www.northvistapri.moe.edu.sg/parents-and-students/North-Vista-Primary-Alumni/
 date: 2022-12-16
 layout: link
 description: ""
 image: /images/Alumni/Alumni_logo.png
+variant: tiptap
+external: https://www.northvistapri.moe.edu.sg/parents-and-students/nvtps-alumni/
 ---
-
-
-
-
-
 ### North Vista Primary Alumni
 
-<img src="/images/Alumni/Alumni_logo.png" 
-     style="width:25%">
+<img src="/images/Alumni/Alumni_logo.png" style="width:25%">
 
 #### Mission
 
@@ -24,7 +19,7 @@ image: /images/Alumni/Alumni_logo.png
 #### Registration
 
 We would like to invite North Vista graduates to join the Alumni!
-You can submit the registration via [Nvtpsa](https://go.gov.sg/nvtpsa)
+You can submit the registration via&nbsp;[Nvtpsa](https://go.gov.sg/nvtpsa)
 
 #### North Vista Primary Alumni Committee Organization Structure
 
@@ -38,7 +33,7 @@ _I am a proud alumnus of the school choir, Les Vista Choristes. My CCA taught me
 
 _When I was in Primary 3, I was selected to be a prefect. In Primary 4, I got a chance to do podium duty, which allowed me to train my public speaking skills and learn to remain calm under pressure. By Primary 6, I got to mentor others which further honed my leadership skills._
 
-_On a whole, I am thankful for the different things I got to do at NVTPS, and I believe these experiences have shaped me to who  I am today. I am grateful to everyone who was involved in my primary school journey and for the chance to give back by serving as an alumnus._
+_On a whole, I am thankful for the different things I got to do at NVTPS, and I believe these experiences have shaped me to who&nbsp; I am today. I am grateful to everyone who was involved in my primary school journey and for the chance to give back by serving as an alumnus._
 
 **Hum Jeng Xuin Jasmine**  <br>
 **Class of 2017**<br>
