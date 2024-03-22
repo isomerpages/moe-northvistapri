@@ -38,7 +38,7 @@ promote close relationships between school, parents and children. We actively
 support FamilyMatters@School and the Dads for Life movement, which organize
 workshops and events for parents to equip them with skills to nurture positive
 family relations.</p>
-<h4>PSG EXCO Members 2023</h4>
+<h4>PSG EXCO Members 2024</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mdm Ang Yuat Poh (Chairperson)</p>
