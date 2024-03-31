@@ -14,7 +14,7 @@ variant: markdown
 | P 1-3 |   Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mr Teo Ting Rui <br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg)   |
 | P 1-4 | Mrs Vivien Lim <br>  [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  | Mdm Analiza<br>[analiza_suboh@moe.edu.sg](mailto:analiza_suboh@moe.edu.sg)  |
 | P 1-5 |   Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)  |   Mdm Lydia <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
-|  P 1-6  | Mr Dennis Tan  <br> [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)  | Ms Saangeetha <br> [saangeetha_martin_rubin_b@moe.edu.sg](mailto:saangeetha_martin_rubin_b@moe.edu.sg)  |
+|  P 1-6  | Mr Dennis Tan  <br> [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)  | Ms Gee <br> [saangeetha_martin_rubin_b@moe.edu.sg](mailto:saangeetha_martin_rubin_b@moe.edu.sg)  |
 |  P 1-7  | Mr Wu Hekun <br> [wu_hekun@moe.edu.sg](mailto:wu_hekun@moe.edu.sg) | Mdm Rosalind Tan <br>[tan_hwee_tiang@moe.edu.sg](mailto:tan_hwee_tiang@moe.edu.sg)   |
 
 
@@ -135,4 +135,3 @@ variant: markdown
 | 16     | Mrs Selene Yu  | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)     |
 | 17     | Mdm Jancy Tia  | [tia_nan_roung_jancy@moe.edu.sg](mailto:tia_nan_roung_jancy@moe.edu.sg)     |
 | 18     | Mdm Aisyah | [siti_nur_aisyah_daud@moe.edu.sg](mailto:siti_nur_aisyah_daud@moe.edu.sg)     |
-
