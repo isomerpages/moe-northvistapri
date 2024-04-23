@@ -7,3 +7,9 @@ description: NVTPS e-Open House 2024
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH/2024oph.png">
+</div>
+<p></p>
+<p>Visit our [<a href="https://for.edu.sg/nvtpsoh" rel="noopener noreferrer nofollow" target="_blank">North Vista e-Open House microsite</a>]
+to find out more!</p>
