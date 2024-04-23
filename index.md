@@ -4,7 +4,7 @@ title: North Vista Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Visit our e-Open House microsite at https://for.edu.sg/nvtpsoh
 sections:
   - hero:
       title: North Vista Primary School
