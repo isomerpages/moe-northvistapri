@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /kindergarten/contact-us/
 description: ""
+variant: markdown
 ---
 #### **Address**
 
@@ -23,3 +24,7 @@ KCare: 7am - 7pm
 #### **Email**
 
 mk_northvista@moe.edu.sg
+
+#### **Instagram**
+
+https://www.instagram.com/moekindergarten_northvista/
