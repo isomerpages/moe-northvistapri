@@ -8,10 +8,7 @@ image: /images/OH/2024oph.png
 variant: tiptap
 ---
 <p></p>
-<p>Our sign-up is officially closed, and the webinar concluded on 25 May
-at 11 a.m.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_P1_Experience_to_Vista_Experience__2_.png">
-</div>
+<p>Our sign-up is <strong>officially closed</strong>, and the webinar concluded
+on 25 May at 11 a.m.</p>
 <p>Visit our [<a href="https://for.edu.sg/nvtpsoh" rel="noopener noreferrer nofollow" target="_blank">North Vista E-Open House microsite</a>]
 to learn more!</p>
