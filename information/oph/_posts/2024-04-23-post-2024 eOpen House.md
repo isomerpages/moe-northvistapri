@@ -13,5 +13,5 @@ at 11 a.m.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_P1_Experience_to_Vista_Experience__2_.png">
 </div>
-<p>Please visit our [<a href="https://for.edu.sg/nvtpsoh" rel="noopener noreferrer nofollow" target="_blank">North Vista E-Open House microsite</a>]
+<p>Visit our [<a href="https://for.edu.sg/nvtpsoh" rel="noopener noreferrer nofollow" target="_blank">North Vista E-Open House microsite</a>]
 to learn more!</p>
