@@ -42,7 +42,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 3-1  | Miss Subhadra <br> [subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  | Mdm Choo Siang Beng <br> [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg) |
-| P 3-2 | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg) | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)<br><br>Mrs Kelly Lim <br> [mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg) |
+| P 3-2 | Miss Yap Wei Tien <br> [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg) | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg) |
 | P 3-3 | Ms Naomi Ashley <br> [naomi_ashley@moe.edu.sg](mailto:naomi_ashley@moe.edu.sg)   | Ms Sukainah <br>  [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)    |
 | P 3-4 | Mr Ralph Ong <br> [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg) | Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg) |
 | P 3-5 | Ms Shamin Lin <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) | Ms Jasmine Gan <br> [gan_hwee_ping@moe.edu.sg](mailto:gan_hwee_ping@moe.edu.sg)<br><br>Mdm Audrey Heng <br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg) 
