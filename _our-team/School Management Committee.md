@@ -416,13 +416,13 @@ variant: tiptap
 <p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Primary/P5)</p>
+<p>Assistant Year Head (Middle Primary/P3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Tan</p>
+<p>Mdm Shidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_junhao_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junhao_desmond@moe.edu.sg</a>
+<p><a href="nurshidah_mokhtar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurshidah_mokhtar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
