@@ -129,7 +129,7 @@ variant: markdown
 | 10     | Mdm Dai Ping    | [dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg)      |
 | 11     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
 | 12     |  Mdm Razia  | [abdul_majeeth_razia_sulthana@moe.edu.sg](mailto:abdul_majeeth_razia_sulthana@moe.edu.sg)     |
-| 13     | Ms Kaur  | [amrit_kaur@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)     |
+| 13     | Mr Bakri  | [ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg)     |
 | 14     | Mrs Chaudhari Trupti  | [trupti_vikas_palkar@moe.edu.sg](mailto:trupti_vikas_palkar@moe.edu.sg)     |
 | 15     | Mdm Kam Hui Bin  | [Kam_hui_bin_a@moe.edu.sg](mailto:Kam_hui_bin_a@moe.edu.sg)     |
 | 16     | Mrs Selene Yu  | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)     |
