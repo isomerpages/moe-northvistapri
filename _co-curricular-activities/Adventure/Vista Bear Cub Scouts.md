@@ -43,7 +43,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 |---|---|
 | Miss Yap Wei Tien (Overall-In-Charge) |[yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg)|
 | Mdm  Nurshidah  |[nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)|
-|
+| Mr Mohd Zaki |[mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg)|
 
 ![](/images/CCA/Adventure/scouts-run.jpg)
 
