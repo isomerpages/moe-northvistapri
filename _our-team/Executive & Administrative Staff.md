@@ -30,7 +30,8 @@ variant: markdown
 | 4     |  Ms Jasmine Tan, Operations Support Officer     |    |
 | 5     |  Mdm Ng Sok Cheng, Operations Support Officer       |     |
 | 6     |  Mdm Ting Sieng Mee, Operations Support Officer     | 
-| 7     |  Mdm Stephanie Lui Peck Lee, Operations Support Officer     | 
+| 7     |  Mdm Stephanie Lui Peck Lee, Operations Support Officer| |
+8 |  Mdm Stephanie Lui Peck Lee, Operations Support Officer| |
 
 
 #### Support
