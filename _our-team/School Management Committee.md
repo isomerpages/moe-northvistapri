@@ -251,7 +251,7 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Middle Primary/P3 &amp; P4)</p>
+<p>YH (Middle Primary/P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Simon Foo</p>
