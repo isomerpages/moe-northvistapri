@@ -131,7 +131,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (English)</p>
+<p>HOD (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nelson Ong</p>
@@ -146,7 +146,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mother Tongue)</p>
+<p>HOD (Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Lei</p>
