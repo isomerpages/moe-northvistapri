@@ -417,7 +417,7 @@ variant: tiptap
 <p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Primary/P1)</p>
+<p>AYH (Lower Primary/P1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lydia</p>
@@ -432,7 +432,7 @@ variant: tiptap
 <p>23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Primary/P3)</p>
+<p>AYH (Middle Primary/P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shidah</p>
