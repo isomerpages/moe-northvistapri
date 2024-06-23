@@ -401,7 +401,7 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Aesthetics)</p>
+<p>SH (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Sim</p>
