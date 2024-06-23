@@ -236,7 +236,7 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary/P1 &amp; P2)</p>
+<p>YH (Lower Primary/P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cavin Lee</p>
@@ -281,7 +281,7 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head (Chinese Language)</p>
+<p>LH (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fiona Yoong</p>
