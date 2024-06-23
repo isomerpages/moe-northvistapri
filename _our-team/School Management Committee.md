@@ -401,13 +401,15 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Sim</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="sim_yuin_ling_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yuin_ling_adeline@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
