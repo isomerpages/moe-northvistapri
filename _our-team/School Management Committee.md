@@ -356,7 +356,7 @@ variant: tiptap
 <p>18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (National Ed. &amp; Social Studies)</p>
+<p>SH(National Ed. &amp; Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Desmond Tan</p>
