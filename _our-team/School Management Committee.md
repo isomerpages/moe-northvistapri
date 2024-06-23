@@ -206,7 +206,7 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (ICT)</p>
+<p>HOD (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Chun Hao</p>
