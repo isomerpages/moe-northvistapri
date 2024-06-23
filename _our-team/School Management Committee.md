@@ -191,7 +191,7 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (PE/CCA/Aesthetics)</p>
+<p>HOD (PE/CCA/Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alvin Lee</p>
