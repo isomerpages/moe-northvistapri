@@ -401,6 +401,20 @@ variant: tiptap
 <p>21</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Primary/P1)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -413,7 +427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Middle Primary/P3)</p>
@@ -428,7 +442,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher (Science)</p>
@@ -443,7 +457,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (English)</p>
@@ -458,7 +472,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Chinese Language)</p>
@@ -473,7 +487,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Malay Language)</p>
@@ -488,7 +502,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (PE)</p>
