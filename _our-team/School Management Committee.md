@@ -221,7 +221,7 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Student Management &amp; CCE)</p>
+<p>HOD (Student Management &amp; CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Faizan</p>
