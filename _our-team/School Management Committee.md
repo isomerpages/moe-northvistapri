@@ -161,7 +161,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mathematics)</p>
+<p>HOD (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim Seok Hong</p>
@@ -176,7 +176,7 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Science)</p>
+<p>HOD (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Francis Yam</p>
