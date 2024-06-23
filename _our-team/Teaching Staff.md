@@ -135,4 +135,5 @@ variant: markdown
 | 16     | Mdm Jancy Tia  | [tia_nan_roung_jancy@moe.edu.sg](mailto:tia_nan_roung_jancy@moe.edu.sg)     |
 | 17     | Mrs Kelly Lim | [mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg)     |
 | 18     | Ms Naomi Ashley | [naomi_ashley@moe.edu.sg](mailto:naomi_ashley@moe.edu.sg)     |
+| 19     | Mr Gerald Lee Zhao Hong | [lee_zhaohong_gerald@moe.edu.sg](mailto:lee_zhaohong_gerald@moe.edu.sg)     |
 
