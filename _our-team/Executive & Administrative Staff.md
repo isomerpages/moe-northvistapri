@@ -32,7 +32,7 @@ variant: markdown
 | 6     |  Mdm Ting Sieng Mee, Operations Support Officer     | 
 | 7     |  Mdm Stephanie Lui Peck Lee, Operations Support Officer| |
 8 |  Mr Ng Boon Chuan, Operations Support Officer| |
-
+9 |  Mr Lawrence Koong, Operations Support Officer| |
 
 #### Support
 
