@@ -326,7 +326,7 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (ALP/Innovation)</p>
+<p>SH (ALP/Innovation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hui Min</p>
