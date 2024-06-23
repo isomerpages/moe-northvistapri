@@ -296,7 +296,7 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Malay Language)</p>
+<p>SH (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suryadi</p>
@@ -311,7 +311,7 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Science &amp; Environmental Ed.)</p>
+<p>SH (Science &amp; Environmental Ed.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Boh Zuze</p>
