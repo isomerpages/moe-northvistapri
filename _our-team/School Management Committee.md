@@ -326,7 +326,7 @@ variant: tiptap
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (ALP/Innovation)</p>
+<p>SH (Innovation/ALP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hui Min</p>
@@ -386,7 +386,7 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Leadership)</p>
+<p>SH (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Huang Shihao</p>
