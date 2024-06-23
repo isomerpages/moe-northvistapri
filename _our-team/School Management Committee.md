@@ -356,7 +356,7 @@ variant: tiptap
 <p>18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH(National Ed. &amp; Social Studies)</p>
+<p>SH (National Ed. &amp; Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Desmond Tan</p>
@@ -371,7 +371,7 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Well-Being)</p>
+<p>SH (Student Well-Being)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Audrey Heng</p>
