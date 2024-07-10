@@ -21,22 +21,31 @@ services to the following schools:</p>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
 <p></p>
-<p><strong>Service Requirements</strong>
-</p>
+<h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Call for Proposal</p>
+<p>[Call for Proposal]</p>
 <p></p>
 </li>
 <li>
-<p>Terms and Conditions for School Bus Operator to Provide School Bus Services</p>
+<p>[Terms and Conditions for School Bus Operator to Provide School Bus Services]</p>
 <p></p>
 </li>
 <li>
-<p>Request for School Bus Services</p>
+<p>[Request for School Bus Services]</p>
 </li>
 </ol>
 <p></p>
+<h4><strong>Application Procedure</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Complete the [Call for Proposal - Annex A (Information Required from Vendor)]</p>
+<p></p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
