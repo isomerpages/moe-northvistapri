@@ -43,9 +43,20 @@ Procedure below.</p>
 <p></p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal</p>
+<p>Submit the completed Call for Proposal - Annex A by closing date, <strong>22 July 2024, 1.00 pm</strong> to
+the School's General Office.</p>
+<p></p>
 </li>
 </ol>
+<p><strong>Address: </strong>20 Compassvale Link, Singapore 5444974</p>
+<p><strong>Contact No</strong>: 6484 3566</p>
+<p><strong>Email</strong>: <a href="mailto:thanaletchoomi_ngenagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thanaletchoomi_ngenagaran@schools.gov.sg</a>
+</p>
+<p><strong>Contact Person</strong>: Ms Thanaletchoomi D/O Ngenagaran</p>
+<p><strong>How to get there?</strong>
+</p>
+<p><strong>Nearest MRT: </strong>Buangkok MRT (NEL15 line) - 5 minutes walking
+distance</p>
 <p></p>
 <p></p>
 <p></p>
