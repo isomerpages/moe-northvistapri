@@ -1,6 +1,6 @@
 ---
 title: School Bus Advertisement
-permalink: /school-bus-ad/
+permalink: /parents-and-students/school-bus-ad/
 variant: tiptap
 description: ""
 ---
