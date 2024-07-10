@@ -24,22 +24,26 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>[<a href="/files/Bus/call_for_prop.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>]</p>
+<p><a href="/files/Bus/call_for_prop.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+</p>
 <p></p>
 </li>
 <li>
-<p>[<a href="/files/Bus/terms_for_sch_bus_op.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Service</a>]</p>
+<p><a href="/files/Bus/terms_for_sch_bus_op.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Service</a>
+</p>
 <p></p>
 </li>
 <li>
-<p>[<a href="/files/Bus/req_for_sch_bus_ser.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>]</p>
+<p><a href="/files/Bus/req_for_sch_bus_ser.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 </li>
 </ol>
 <p></p>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the [<a href="/files/Bus/info_vendor_annex_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>]</p>
+<p>Complete the <a href="/files/Bus/info_vendor_annex_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
+</p>
 <p></p>
 </li>
 <li>
