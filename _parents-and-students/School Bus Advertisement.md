@@ -42,7 +42,7 @@ Procedure below.</p>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the <a href="/files/Bus/info_vendor_annex_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
+<p>Complete the <a href="/files/Bus/info_vendor_annex_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor</a>
 </p>
 <p></p>
 </li>
