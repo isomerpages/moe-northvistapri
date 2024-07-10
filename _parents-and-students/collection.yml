@@ -2,7 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
-      - School Bus Advertisement.md
       - Information for Parents/.keep
       - Information for Parents/General Information.md
       - Information for Parents/School Services and Fees.md
@@ -15,5 +14,6 @@ collections:
       - North Vista Primary Alumni/.keep
       - North Vista Primary Alumni/North Vista Primary Alumni.md
       - North Vista Primary Alumni/Our Pride.md
+      - School Bus Advertisement.md
       - School Bus.md
       - School Canteen.md
