@@ -24,7 +24,7 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Bus/call_for_prop.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
 <p></p>
 </li>
@@ -47,12 +47,25 @@ Procedure below.</p>
 <p></p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal - Annex A by closing date, <strong>22 July 2024, 1.00 pm</strong> to
-the School's General Office.</p>
+<p>Bus vendors may use the following historical data when drafting your proposals.
+Please note that this data is intended as a reference guide only and is
+subject to change. It should not be considered as current data.</p>
+<p><a href="/files/NV_Additional_info.pdf" rel="noopener noreferrer nofollow" target="_blank">NV Additional info</a>
+</p>
+<p><a href="/files/SK_Additional_info.pdf" rel="noopener noreferrer nofollow" target="_blank">SK Additional info</a>
+</p>
+<p><a href="/files/AG_Additional_info.pdf" rel="noopener noreferrer nofollow" target="_blank">AG Additional info</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal - Annex A by closing date, which
+has been extended to <strong>29 July 2024, 1.00 pm</strong> to the School's
+General Office.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>Address: </strong>20 Compassvale Link, Singapore 5444974</p>
+<p><strong>Address: </strong>20 Compassvale Link, Singapore 544974</p>
 <p><strong>Contact No</strong>: 6484 3566</p>
 <p><strong>Email</strong>: <a href="mailto:thanaletchoomi_ngenagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thanaletchoomi_ngenagaran@schools.gov.sg</a>
 </p>
