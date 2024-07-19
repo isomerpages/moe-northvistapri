@@ -52,7 +52,7 @@ the School's General Office.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>Address: </strong>20 Compassvale Link, Singapore 5444974</p>
+<p><strong>Address: </strong>20 Compassvale Link, Singapore 544974</p>
 <p><strong>Contact No</strong>: 6484 3566</p>
 <p><strong>Email</strong>: <a href="mailto:thanaletchoomi_ngenagaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thanaletchoomi_ngenagaran@schools.gov.sg</a>
 </p>
