@@ -24,7 +24,7 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Bus/call_for_prop.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
 <p></p>
 </li>
@@ -50,6 +50,12 @@ Procedure below.</p>
 <p>Bus vendors may use the following historical data when drafting your proposals.
 Please note that this data is intended as a reference guide only and is
 subject to change. It should not be considered as current data.</p>
+<p><a href="/files/NV_Additional_info.pdf" rel="noopener noreferrer nofollow" target="_blank">NV Additional info</a>
+</p>
+<p><a href="/files/SK_Additional_info.pdf" rel="noopener noreferrer nofollow" target="_blank">SK Additional info</a>
+</p>
+<p><a href="/files/AG_Additional_info.pdf" rel="noopener noreferrer nofollow" target="_blank">AG Additional info</a>
+</p>
 <p></p>
 </li>
 <li>
