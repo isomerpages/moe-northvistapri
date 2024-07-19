@@ -47,7 +47,9 @@ Procedure below.</p>
 <p></p>
 </li>
 <li>
-<p></p>
+<p>Bus vendors may use the following historical data when drafting your proposals.
+Please note that this data is intended as a reference guide only and is
+subject to change. It should not be considered as current data.</p>
 <p></p>
 </li>
 <li>
