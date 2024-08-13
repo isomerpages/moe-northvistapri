@@ -12,7 +12,7 @@ sections:
       subtitle: Build Character, Inspire Passion in Learning
       variant: center
       key_highlights:
-        - title: "Express gratitude for your teachers:"
+        - title: "Express gratitude to your teachers:"
           description: https://for.edu.sg/nvtps-tdww
           url: https://for.edu.sg/nvtps-tdww
   - resources:
