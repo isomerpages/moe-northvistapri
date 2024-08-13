@@ -12,9 +12,9 @@ sections:
       subtitle: Build Character, Inspire Passion in Learning
       variant: center
       key_highlights:
-        - title: Click here to visit our e-Open House microsite
-          description: " North Vista Shine Forth!"
-          url: https://for.edu.sg/nvtpsoh
+        - title: Express gratitude for your teachers via
+          description: https://for.edu.sg/nvtps-tdww
+          url: https://for.edu.sg/nvtps-tdww
   - resources:
       button: Click here for MORE
 ---
