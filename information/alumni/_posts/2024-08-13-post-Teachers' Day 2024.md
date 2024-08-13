@@ -15,6 +15,6 @@ Visit our Padlet Gratitude Wall to leave your heartfelt messages:
   
 [https://for.edu.sg/nvtps-tdww](https://for.edu.sg/nvtps-tdww)
 
-Let's make this Teachers' Day extra special! 🍎   
+Let's make this Teachers' Day extra special!! 🍎   
   
 Watch out this space for more updates for the homecoming that's taking place on 29 Aug!!
