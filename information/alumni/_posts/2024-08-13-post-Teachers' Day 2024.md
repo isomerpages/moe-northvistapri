@@ -13,7 +13,7 @@ Let's show our appreciation to our beloved teachers this Teachers' Day by writin
   
 Visit our Padlet Gratitude Wall to leave your heartfelt messages:  
   
-[https://for.edu.sg/nvtps-tdww   ](https://for.edu.sg/nvtps-tdww   )
+[https://for.edu.sg/nvtps-tdww](https://for.edu.sg/nvtps-tdww)
 
 Let's make this Teachers' Day extra special! 🍎   
   
