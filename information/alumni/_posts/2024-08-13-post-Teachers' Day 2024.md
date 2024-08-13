@@ -9,9 +9,9 @@ variant: markdown
 ---
 ![](/images/Alumni/td.png)
 
-Let's show our appreciation to our beloved teachers this Teachers' Day by writing well-wishes on the Padlet Gratitude Wall. It's time to express our gratitude for their dedication, patience, and love. ❤️   
+Let's show our appreciation to our beloved teachers this Teachers' Day by writing well-wishes on the Padlet Gratitude Wall. It's time to express our gratitude for their dedication, patience, and love. ❤️
   
-Visit our Padlet Gratitude Wall to leave your heartfelt messages:  
+Visit our Padlet Gratitude Wall to leave your heartfelt messages:
   
 [https://for.edu.sg/nvtps-tdww](https://for.edu.sg/nvtps-tdww)
 
