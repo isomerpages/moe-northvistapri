@@ -11,6 +11,7 @@ variant: tiptap
 <hr>
 <h4>Group School Bus Service (with effect from 1 Jan 2025)</h4>
 <p>School Bus Operator and Bus Fare</p>
-<p></p>
+<p><a href="/files/Group_Service_Bus_Model.pdf" rel="noopener nofollow" target="_blank">Group Service Bus Model</a>
+</p>
 <p></p>
 <p></p>
