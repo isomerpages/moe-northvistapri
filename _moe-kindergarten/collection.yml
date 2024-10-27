@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Centre Based Activities/.keep
-      - CBAs.md
       - About Us/Our Programmes.md
       - About Us/Our People.md
       - About Us/Vision, Mission & Values.md
