@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Partnerships/Collaboration with Primary School.md
       - Our Partnerships/Early Years Centre(EYC).md
       - Our Partnerships/.keep
       - About Us/.keep
