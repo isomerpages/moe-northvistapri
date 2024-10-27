@@ -2,12 +2,12 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - About Us/MK Uniform.md
-      - About Us/Our Fees.md
       - About Us/.keep
       - About Us/Vision, Mission & Values.md
       - About Us/Our People.md
       - About Us/Our Programmes.md
+      - About Us/Our Fees.md
+      - About Us/MK Uniform.md
       - Our Curriculum/.keep
       - Our Curriculum/Flagship Programmes.md
       - Our Curriculum/HI Light Programme.md
