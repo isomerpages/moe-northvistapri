@@ -2,18 +2,18 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Centre Based Activities/Events & Celebrations.md
-      - Centre Based Activities/CBAs.md
-      - Centre Based Activities/.keep
+      - About Us/.keep
       - About Us/Our Programmes.md
       - About Us/Our People.md
       - About Us/Vision, Mission & Values.md
-      - About Us/.keep
       - Our Curriculum/.keep
       - Our Curriculum/Our Curriculum.md
       - Our Curriculum/HI Light Programme.md
       - Our Curriculum/Starlight (EL & MTL).md
       - Our Curriculum/WoW Projects.md
+      - Centre Based Activities/.keep
+      - Centre Based Activities/Events & Celebrations.md
+      - Centre Based Activities/CBAs.md
       - Our Learning Environment.md
       - Our Partnerships.md
       - MK Open House.md
