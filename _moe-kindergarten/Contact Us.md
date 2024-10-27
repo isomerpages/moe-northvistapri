@@ -30,5 +30,11 @@ Singapore 544974
 **KCare**: [supervisor.nvkcc@nascans.com](http://supervisor.nvkcc@nascans.com/)
 
 #### **Instagram**
-**Visit MOE Kindergarten @ North Vista Instagram Page**
-https://www.instagram.com/moekindergarten_northvista/
+**Visit [MK@North Vista](https://www.instagram.com/moekindergarten_northvista/?igsh=MXU5NHFxcHhsNGhyZw%3D%3D)**
+
+#### **Facebook**
+**Visit [MK@North Vista](https://go.gov.sg/mknvfacebook)**
+
+
+
+
