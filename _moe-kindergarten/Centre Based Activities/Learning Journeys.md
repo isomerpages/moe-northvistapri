@@ -9,22 +9,26 @@ third_nav_title: Centre Based Activities
 upon what children have learnt in class and help them construct new knowledge
 about the world around them.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/centre%20based%20activity%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Centre Based Activities/LJ1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/centre%20based%20activity%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Centre Based Activities/LJ2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/centre%20based%20activity%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Centre Based Activities/LJ3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/centre%20based%20activity%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Centre Based Activities/LJ4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/centre%20based%20activity%205.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Centre Based Activities/LJ5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Centre Based Activities/LJ6.jpg">
 </div>
 <p></p>
