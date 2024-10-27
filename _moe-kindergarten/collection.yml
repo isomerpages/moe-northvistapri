@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Centre Based Activities.md
       - CBAs.md
       - About Us/Our Programmes.md
       - About Us/Our People.md
