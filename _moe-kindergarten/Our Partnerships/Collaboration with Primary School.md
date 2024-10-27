@@ -5,3 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Our Partnerships
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Partnerships/2_Collaboration_w_PS.jpg">
+</div>
+<p>A successful transition to P1 will set children on the right path and
+have a positive impact on a child's social development and academic performance.&nbsp;</p>
+<p>In Term 4 of their K2 Curriculum, planned activities and collaboration
+with the lower primary classes and teachers support children’s transition
+to P1.</p>
+<p>
+<br>
+</p>
