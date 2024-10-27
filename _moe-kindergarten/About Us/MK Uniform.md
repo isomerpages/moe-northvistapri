@@ -13,11 +13,11 @@ third_nav_title: About Us
 MOE Kindergarten uniforms. For uniform orders, please visit:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank"><u>https://jeepsinguniform.com/collections/moe-kindergarten-uniforms</u></a>
+<p><a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank"><u>https://jeepsinguniform.com/collections/moe-kindergarten-uniforms</u></a>
 </p>
 </li>
 <li>
-<p> <a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg/products/moe-kindergarten</u></a>
+<p><a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg/products/moe-kindergarten</u></a>
 </p>
 </li>
 </ul>
