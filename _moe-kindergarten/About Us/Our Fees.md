@@ -19,7 +19,6 @@ calculated on an annual basis and spread over 12 months, including school
 holidays.&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <h5><strong><u>Kindergarten Fee Assistance Scheme</u></strong></h5>
 <p>(KiFAS) subsidy applies only to MK school fees.</p>
 <p>Eligible families with Singapore Citizen children may apply for KiFAS
