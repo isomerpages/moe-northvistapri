@@ -76,18 +76,16 @@ links:
   - title: MOE Kindergarten
     url: /kindergarten/mission-vision-and-values/
     sublinks:
-      - title: Vision, Mission & Values
-        url: /kindergarten/mission-vision-and-values
-      - title: Our People
-        url: /kindergarten/our-people/
-      - title: Our Programmes
-        url: /kindergarten/our-programmes/
+      - title: About Us
+        url: /kindergarten/mission-vision-and-values/
       - title: Our Curriculum
         url: /kindergarten/our-curriculum/
+      - title: Centre-based Activities
+        url: /centre-based-activities/
       - title: Our Learning Environment
         url: /kindergarten/our-learning-environment/
       - title: Our Partnerships
-        url: /kindergarten/our-partnerships/
+        url: /kindergarten/our-partnerships/eyc/
       - title: MK Open House
         url: /kindergarten/mk-open-house
       - title: Contact Us
