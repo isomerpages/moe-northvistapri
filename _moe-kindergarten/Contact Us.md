@@ -11,9 +11,9 @@ Singapore 544974
 
 ##### **Operating Hours**
 
-**MK:** 8am - 5pm
+**MK:** 8 a.m. - 5 p.m.
 
-**KCare:** 7am - 7pm
+**KCare:** 7 a.m. - 7 p.m.
 
 ##### **Phone**
 
