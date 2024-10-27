@@ -7,6 +7,7 @@ third_nav_title: About Us
 ---
 #### Key Personnel
 
+![](/images/MK/About/mk_staff.jpg)
 
 | **Name** | **Designation** | 
 | -------- | -------- |
