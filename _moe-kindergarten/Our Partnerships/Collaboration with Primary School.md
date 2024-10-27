@@ -17,6 +17,10 @@ have a positive impact on a child's social development and academic performance.
 <p>In Term 4 of their K2 Curriculum, planned activities and collaboration
 with the lower primary classes and teachers support children’s transition
 to P1.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Partnerships/2_K2_Transition.jpg">
+</div>
 <p>
 <br>
 </p>
