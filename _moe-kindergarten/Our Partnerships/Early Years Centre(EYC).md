@@ -26,6 +26,9 @@ third_nav_title: Our Partnerships
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Partnerships/1_Collaboration_w_EYC.jpg">
+</div>
 <p></p>
 <p>
 <br>
