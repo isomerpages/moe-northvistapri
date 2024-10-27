@@ -2,10 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Our Partnerships/Collaboration with PSG.md
-      - Our Partnerships/Collaboration with Primary School.md
-      - Our Partnerships/Early Years Centre(EYC).md
-      - Our Partnerships/.keep
       - About Us/.keep
       - About Us/Vision, Mission & Values.md
       - About Us/Our People.md
@@ -21,5 +17,9 @@ collections:
       - Centre Based Activities/Events & Celebrations.md
       - Centre Based Activities/Learning Journeys.md
       - Our Learning Environment.md
+      - Our Partnerships/.keep
+      - Our Partnerships/Collaboration with PSG.md
+      - Our Partnerships/Collaboration with Primary School.md
+      - Our Partnerships/Early Years Centre(EYC).md
       - MK Open House.md
       - Contact Us.md
