@@ -34,7 +34,3 @@ Singapore 544974
 
 #### **Facebook**
 **Visit [MK@North Vista](https://go.gov.sg/mknvfacebook)**
-
-
-
-
