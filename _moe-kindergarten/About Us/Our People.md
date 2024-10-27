@@ -29,10 +29,9 @@ third_nav_title: About Us
 |  Mdm Herma Ayuni |  Kindergarten 1<br> |
 |  Ms Nur Syafiqah |  Kindergarten 1<br> |
 |  Ms Sherie Wong |  Kindergarten 1<br> |
-|  Ms Joey Yuen |  Kindergarten 2<br> ||
+|  Ms Is Kalsum |  Kindergarten 2<br> ||
 |  Ms Nur Sabrina |  Kindergarten 2<br> | |
 |  Ms Razeen Banu |   Kindergarten 2<br> |  |
-|  Ms Hetty Haryanty |   Kindergarten 2<br> | |
 |  Mr Riyadh |   Kindergarten 2<br> | |
 
 
@@ -48,6 +47,7 @@ third_nav_title: About Us
 | Mdm Soh Ah Kiow | Kindergarten 1 <br>(Chinese Language)<br> |
 | Mdm An Hong | Kindergarten 2 <br>(Chinese Language)<br>   |
 | Mdm Lian Yanli | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Ms Ding Yuli | Kindergarten 2 <br>(Chinese Language)<br>  |
 | Ms Nurul Shafiqa  |  Kindergarten 1<br> (Malay Language)<br>  |
 | Mdm Siti Suzanna |  Kindergarten 2<br> (Malay Language)<br>  |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
