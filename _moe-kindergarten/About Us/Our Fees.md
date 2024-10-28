@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: About Us
 ---
-<p>Our Fees page:</p>
 <p>The monthly fee for MK in 2024 is:</p>
 <ul>
 <li>
@@ -13,8 +12,8 @@ third_nav_title: About Us
 </li>
 <li>
 <p>$320 for Singapore Permanent Residents</p>
-<p>
-<br>Fees are also payable during the June and December holidays as fees are
+<p></p>
+<p>Fees are also payable during the June and December holidays as fees are
 calculated on an annual basis and spread over 12 months, including school
 holidays.&nbsp;</p>
 </li>
