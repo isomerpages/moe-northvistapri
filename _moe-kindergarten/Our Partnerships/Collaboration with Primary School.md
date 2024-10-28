@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Our Partnerships
 ---
-<p>Nested within the Primary School, children from MOE Kindergarten are given
-opportunities for interaction with primary school students through participating
-in events organised by / with the Primary School team.</p>
+<p>Nested within the North Vista Primary School, children from MOE Kindergarten
+are given opportunities for interaction with primary school students through
+participating in events organised by / with the Primary School team.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Partnerships/2_Collaboration_w_PS.jpg">
