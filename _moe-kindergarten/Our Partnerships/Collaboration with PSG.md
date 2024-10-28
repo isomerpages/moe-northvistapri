@@ -7,7 +7,7 @@ third_nav_title: Our Partnerships
 ---
 <p>As the saying goes, “It takes a village to raise a child”. Here in MK@NV,
 we believe that parents are our school’s pillars of support. Parents volunteer
-actively for Learning Journey and centre events by engaging with children
+actively for learning journeys and centre events by engaging with children
 and conducting fun activities.</p>
 <p></p>
 <div class="isomer-image-wrapper">

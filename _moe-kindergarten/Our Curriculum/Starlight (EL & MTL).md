@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Our Curriculum
 variant: tiptap
 ---
-<p>Offered in English an the three official MTLs, the Starlight Programme
-nurtures early childhood bilingualism and focuses on developing the children's
-listening, speaking and early literacy skills.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Curriculum/SL0.jpg">
 </div>
