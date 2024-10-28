@@ -1,5 +1,5 @@
 ---
-title: Collaboration with Primary School
+title: Collaboration with NVTPS
 permalink: /collaboration/
 variant: tiptap
 description: ""
