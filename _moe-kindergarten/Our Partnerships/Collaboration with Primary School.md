@@ -15,7 +15,7 @@ team.</p>
 </div>
 <p>A successful transition to P1 will set children on the right path and
 have a positive impact on a child's social development and academic performance.&nbsp;</p>
-<p>In Term 4 of their K2 Curriculum, planned activities and collaboration
+<p>In Term 4 of their K2 curriculum, planned activities and collaboration
 with the lower primary classes and teachers support children’s transition
 to P1.</p>
 <p></p>
