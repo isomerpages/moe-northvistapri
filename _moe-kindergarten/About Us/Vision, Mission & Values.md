@@ -3,6 +3,7 @@ title: Vision, Mission & Values
 permalink: /kindergarten/mission-vision-and-values/
 description: ""
 variant: tiptap
+third_nav_title: About Us
 ---
 <img src="/images/MK/MKNV%20Pantone.png" style="width:25%" align="left">
 <br><br><br><br>

@@ -3,6 +3,7 @@ title: Our Programmes
 permalink: /kindergarten/our-programmes/
 description: ""
 variant: tiptap
+third_nav_title: About Us
 ---
 #### Programme Eligibility
 

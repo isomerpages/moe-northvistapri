@@ -2,17 +2,26 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Vision, Mission & Values.md
-      - Our People.md
-      - Our Programmes.md
+      - About Us/.keep
+      - About Us/Vision, Mission & Values.md
+      - About Us/Our People.md
+      - About Us/Our Programmes.md
+      - About Us/Our Fees.md
+      - About Us/MK Uniform.md
       - Our Curriculum/.keep
-      - Our Curriculum/Our Curriculum.md
+      - Our Curriculum/Flagship Programmes.md
       - Our Curriculum/HI Light Programme.md
       - Our Curriculum/Starlight (EL & MTL).md
       - Our Curriculum/WoW Projects.md
-      - Our Curriculum/Centre Based Activities.md
-      - Our Curriculum/Events & Celebrations.md
+      - Centre Based Activities/.keep
+      - Centre Based Activities/Centre Based Activities.md
+      - Centre Based Activities/Events & Celebrations.md
+      - Centre Based Activities/Learning Journeys.md
       - Our Learning Environment.md
-      - Our Partnerships.md
+      - Our Partnerships/.keep
+      - Our Partnerships/Early Years Centre(EYC).md
+      - Our Partnerships/Collaboration with Primary School.md
+      - Our Partnerships/Collaboration with PSG.md
+      - Kindergarten Care (KCare).md
       - MK Open House.md
       - Contact Us.md
