@@ -17,7 +17,7 @@ MOE Kindergarten uniforms. For uniform orders, please visit:</p>
 </p>
 </li>
 <li>
-<p><a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg/products/moe-kindergarten</u></a>
+<p><a href="https://www.beauvoix.com.sg/products/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.beauvoix.com.sg/products/moe-kindergarten</u></a>
 </p>
 </li>
 </ul>
