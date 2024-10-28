@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Our Curriculum
 variant: tiptap
 ---
-<p>The HI-Light programme is designed to support the holistic development
-of the children across six learning areas through an integrated approach
-to learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Curriculum/HL0.jpg">
 </div>
