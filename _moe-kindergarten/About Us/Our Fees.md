@@ -12,12 +12,12 @@ third_nav_title: About Us
 </li>
 <li>
 <p>$320 for Singapore Permanent Residents</p>
+</li>
+</ul>
 <p></p>
 <p>Fees are also payable during the June and December holidays as fees are
 calculated on an annual basis and spread over 12 months, including school
 holidays.&nbsp;</p>
-</li>
-</ul>
 <h5><strong><u>Kindergarten Fee Assistance Scheme (KiFAS)</u></strong></h5>
 <p>KiFAS subsidy applies only to MK school fees.</p>
 <p>Eligible families with Singapore Citizen children may apply for KiFAS
