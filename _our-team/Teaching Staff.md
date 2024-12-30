@@ -15,7 +15,7 @@ variant: markdown
 | P 1-4 | Miss Chong Yuan Ping <br>  [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  | Mdm Lydia<br>[lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
 | P 1-5 |   Miss Norazizah <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)  |   Mr Joel Wong <br> [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)  |
 |  P 1-6  | Mdm Rose Iliyana  <br> [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg)  | Mdm Liu Jin <br> [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg)  |
-|  P 1-7  | Mr Wu Hekun <br> [wu_hekun@moe.edu.sg](mailto:wu_hekun@moe.edu.sg) | Mdm Rosalind Tan <br>[tan_hwee_tiang@moe.edu.sg](mailto:tan_hwee_tiang@moe.edu.sg)   |
+|  P 1-7  | Mr Ralph Ong <br> [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg) | Ms Liu Lingzhu <br>[liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)   |
 
 
 
