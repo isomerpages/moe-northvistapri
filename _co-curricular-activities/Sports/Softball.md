@@ -24,7 +24,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Ms Shamin Lin (Overall-In-Charge) |[lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |
 | Ms Ang Lee Im |[ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg) |
 | Mr Reuben Lim |[reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg) |
-| Ms Sugashini |[sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg) |
+| Mdm Yeong Yi Mei |[yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) |
 | Ms Evelyn Leo |[leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg) |
 | Mrs Kelly Lim  |[mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg  ) |
 |
