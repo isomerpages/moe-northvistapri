@@ -3,9 +3,8 @@ title: 100j Boy's Brigade
 permalink: /co-curricular-activities/Adventure/boys-brigade/
 description: ""
 third_nav_title: Adventure
+variant: markdown
 ---
-
-
 In the Boys’ Brigade, our missions are to:
 *   develop the habits of Obedience, Reverence, Discipline, Self-Respect.
 *   help members develop and grow in moral character.
@@ -29,7 +28,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Name of Teacher | Email Address |
 |---|---|
 | Mdm Peh Shay Ling (Overall-In-Charge) | [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg) |
-| Mrs Letitia Lim  | [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)  |
+| Mrs Selene Yu | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)  |
 | Mrs Chiu Wan Ting  | [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)  |
 |
 
