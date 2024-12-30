@@ -28,8 +28,7 @@ Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mr Chua Gim Sen (Overall-In-Charge) | [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg) |
-| Mr Teo Ting Rui | [ting_rui_teo@moe.edu.sg](mailto:ting_rui_teo@moe.edu.sg) |
+| Mr Teo Ting Rui (Overall-In-Charge) | [ting_rui_teo@moe.edu.sg](mailto:ting_rui_teo@moe.edu.sg) |
 | Miss Chong Yuan Ping | [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg) |
 | Miss Jessica Cheah | [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg) |
 | Mdm Rosalind Tan  | [tan_hwee_tiang@moe.edu.sg](mailto:tan_hwee_tiang@moe.edu.sg)  |
