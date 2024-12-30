@@ -25,7 +25,7 @@ variant: markdown
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 2-1 | Mdm Norsafrina <br> [norsafrina_sapari@moe.edu.sg](mailto:norsafrina_sapari@moe.edu.sg)  | Mdm Lim Jia Min <br> [lim_jia_min@moe.edu.sg](mailto:lim_jia_min@moe.edu.sg)  |
+| P 2-1 | Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Ms Sugashini <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
 | P 2-2 | Miss Chong Yuan Ping <br> [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  | Mdm Liu Jin <br>  [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg)    |
 | P 2-3 |   Mdm Jelena Chia <br>  [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg)  | Mrs Lim Chia Lin<br> [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg) |
 | P 2-4 | Mdm Rozita <br> [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)   |  Mr Goh Kah How <br> [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)  |
