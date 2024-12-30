@@ -26,8 +26,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Name of Teacher | Email Address |
 |---|---|
 | Mr Lawrence Lim (Overall-In-Charge) | [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg) |
-| Mdm Yeong Yi Mei | [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) |
-| Miss Josephine Ong | [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg) |
+| Mr Lyndon Long | [long_tianjun_lyndon@moe.edu.sg](mailto:long_tianjun_lyndon@moe.edu.sg)  |
 | Mdm Roxanne Chua  | [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  |
 |Miss Norazizah  | [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)  |
 
