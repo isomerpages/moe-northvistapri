@@ -21,10 +21,9 @@ Schedule will be sent to parents via Parent Gateway before the start of a new se
 | Name of Teacher | Email Address |
 |---|---|
 | Mdm Rose Iliyana (Overall-In-Charge) | [rose_iliyana_mohamad_said@moe.edu.sg](mailto:rose_iliyana_mohamad_said@moe.edu.sg) |
+| Mdm Nur Ashiqin (Overall-In-Charge) | [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg) |
 | Mdm Nur Faezah | [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg) |
-| Miss Nur Syafiqah | [nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg) |
-| Mdm Jelena Chia Wanlin | [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) |
-|  |  |
+| 
 
 ![](/images/CCA/Talent/eldrama1.jpg)
 
