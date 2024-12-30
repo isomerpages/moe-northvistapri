@@ -20,9 +20,9 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 
 | Name of Teacher | Email Address |
 |---|---|
+| Mdm Rose Iliyana (Overall-In-Charge) | [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg) |
 | Mdm Nur Ashiqin (Overall-In-Charge) | [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg) |
-| Mdm Sarah | [nor_sarah_banu_gulam@moe.edu.sg](mailto:nor_sarah_banu_gulam@moe.edu.sg) |
-| Mr Mohd Zaki | [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg) |
+| Mdm Nur Faezah | [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg) |
 |
 
 ![](/images/CCA/Talent/mldrama1.jpg)
