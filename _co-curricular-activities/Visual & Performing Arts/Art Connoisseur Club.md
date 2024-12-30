@@ -17,7 +17,7 @@ Mondays.  Schedule will be sent to parents via Parents Gateway before the start
 | Name of Teacher | Email Address |
 |---|---|
 | Ms Ian Farah (Overall-In-Charge) | [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)
-| Ms Vanna Tan   | [Vanna_tan_a@moe.edu.sg](mailto:Vanna_tan_a@moe.edu.sg)  |
+| Ms Sugashini   | [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
 | Mdm Rozita  | [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  |
 |
 

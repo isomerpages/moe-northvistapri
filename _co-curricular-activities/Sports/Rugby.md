@@ -29,8 +29,7 @@ Schedule will be sent to parents via Parents Gateway before the start of a new s
 | Mr Jason Goh (Overall-In-Charge) | [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg) |
 | Mr Joel Wong | [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg) |
 | Miss Nur Khairunnisa | [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg) |
-| Mr Dennis Tan | [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg) |
-| Ms Sukainah | [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg) |  |  |
+| Mr Dennis Tan | [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg) |  |  |
 
 ![](/images/CCA/Sports/rugby1.jpg)
 
