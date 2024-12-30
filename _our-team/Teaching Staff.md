@@ -9,7 +9,7 @@ variant: markdown
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 1-1 | Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Ms Sugashini <br>  [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
+| P 1-1 | Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mr Alvin Lee<br>  [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
 | P 1-2 | Ms Yeo Si Min<br>  [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg)  | Ms Fiona Yoong <br>  [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)  |
 | P 1-3 |   Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mr Teo Ting Rui <br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg)   |
 | P 1-4 | Mrs Vivien Lim <br>  [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  | Mdm Analiza<br>[analiza_suboh@moe.edu.sg](mailto:analiza_suboh@moe.edu.sg)  |
