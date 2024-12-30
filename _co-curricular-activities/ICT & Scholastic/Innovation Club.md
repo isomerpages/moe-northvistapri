@@ -3,9 +3,8 @@ title: Innovation Club
 permalink: /co-curricular-activities/ICT-and-Scholastic/innovation-club/
 description: ""
 third_nav_title: ICT & Scholastic
+variant: markdown
 ---
-
-
 Innovation Club was set up to provide students a platform to think out of the box. The hands-on activities that we conduct promote innovation, creativity and engagement. Students also infuse knowledge and skills from various fields such as engineering and science. We aim to promote a culture of innovation and a conducive environment for generation of ideas.
 
 Innovation Club is basically time for FUN BRAINWORK!
@@ -22,8 +21,7 @@ Mondays. Schedule will be sent to parents to Parents Gateway before the start of
 | Name of Teacher | Email Address |
 |---|---|
 | Mrs Tan Huishan (Overall-In-Charge)  | [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)  |
-| Miss Tam Fong U | [tam_fong_u@moe.edu.sg](mailto:tam_fong_u@moe.edu.sg) |
-| Ms Yeo Si Min | [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg) |
+| Ms Soniajit Kaur| [soniajit_kaur@moe.edu.sg](mailto:soniajit_kaur@moe.edu.sg) |
 | Mr Ralph Ong  | [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg)  |
 | Mdm Gan Hui Ling Jen | [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg) |
 |
