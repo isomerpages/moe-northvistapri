@@ -296,7 +296,7 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Malay Language)</p>
+<p>SH (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suryadi</p>
