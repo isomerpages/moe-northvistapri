@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (ICT)</p>
@@ -203,10 +203,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Student Management &amp; CCE)</p>
+<p>HOD (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Faizan</p>
@@ -218,25 +218,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Lower Primary/P1 &amp; P2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Cavin Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chun_wan_cavin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun_wan_cavin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YH (Middle Primary/P3 &amp; P4)</p>
+<p>YH (P1 to P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Simon Foo</p>
