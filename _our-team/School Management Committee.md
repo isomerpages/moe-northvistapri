@@ -341,7 +341,7 @@ variant: tiptap
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Character &amp; Citizenship Ed.)</p>
+<p>SH (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ashley Mak</p>
