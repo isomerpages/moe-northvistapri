@@ -28,7 +28,7 @@ variant: markdown
 | P 2-1 | Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Ms Sugashini <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
 | P 2-2 | Ms Yeo Si Min <br> [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg)  | Ms Fiona Yoong <br>  [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)    |
 | P 2-3 |   Mdm Siti Raudah <br>  [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)  | Mr Teo Ting Rui<br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) |
-| P 2-4 | Mdm Rozita <br> [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)   |  Mr Goh Kah How <br> [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)  |
+| P 2-4 | Mrs Vivien Lim  <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)   |  Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
 | P 2-5 | Ms Wu Lihua  <br> [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg) | Mr Cavin Lee  <br> [lee_chun_wan_cavin@moe.edu.sg](mailto:lee_chun_wan_cavin@moe.edu.sg)  |
 | P 2-6  |  Ms Ang Lee Im <br>  [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg) | Mr Alvin Lee <br>  [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg) |
 | P 2-7 | Mr Joel Wong <br>  [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)   | Ms Adeline Sim  <br> [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg)  |
