@@ -57,7 +57,7 @@ variant: markdown
 | P 4-1 | Mdm Choo Siang Beng <br> [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg)  | Miss Subhadra  <br>[subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  |
 | P 4-2 | Mdm Gan Hui Ling Jen<br> [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg)  | Miss Lai Liyu<br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg)  |
 | P 4-3 |  Mr Goh Swee Teck <br> [goh_swee_teck@moe.edu.sg](mailto:goh_swee_teck@moe.edu.sg)  |  Mdm Zhang Lei <br> [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
-|  P 4-4 | Ms Ian Farah <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg) |    Mrs Ashley Mak <br> [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)  |
+|  P 4-4 | Mdm Rosalind Tan <br> [tan_hwee_tiang@moe.edu.sg](mailto:tan_hwee_tiang@moe.edu.sg) |    Mr Huang Shihao <br> [huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)  |
 |  P 4-5  | Miss Lai Liyu <br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg)  | Mrs Simon Foo <br> [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  |
 | P 4-6 | Mdm Siti Raudah <br> [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)  | Miss Josephine Ong  <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg)  |
 |P 4-7 | Mdm Peh Shay Ling<br> [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg)  | Miss Nur Syafiqah  <br> [nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg)  |
