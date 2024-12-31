@@ -462,7 +462,7 @@ variant: tiptap
 <p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (English)</p>
+<p>ST (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Eng I-Ling</p>
@@ -477,7 +477,7 @@ variant: tiptap
 <p>26</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Chinese Language)</p>
+<p>ST (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liu Jin</p>
@@ -492,7 +492,7 @@ variant: tiptap
 <p>27</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Malay Language)</p>
+<p>ST (ML)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zaki</p>
