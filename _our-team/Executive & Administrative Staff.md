@@ -11,10 +11,9 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     | Ms Thanaletchoomi D/O Ngenagaran, Administration Manager     | [thanaletchoomi_ngenagaran@moe.edu.sg](mailto:thanaletchoomi_ngenagaran@moe.edu.sg)      |
-| 2     | Ms Tanti, Corporate Support Officer     | [tanti_yani_zaini@moe.edu.sg](mailto:tanti_yani_zaini@moe.edu.sg)      |
-| 3     | Mdm Theresa Ng Siew San, Corporate Support Officer       | [ng_siew_san@moe.edu.sg](mailto:ng_siew_san@moe.edu.sg)      |
-| 4     | Miss Soh San San, Corporate Support Officer       | [soh_san_san@moe.edu.sg](mailto:soh_san_san@moe.edu.sg)         |
-| 5     | Miss Tan Young Choo Lilian, Corporate Support Officer       | [tan_young_choo_lilian@moe.edu.sg](mailto:tan_young_choo_lilian@moe.edu.sg)    |
+| 2     | Ms Tanti, Corporate Support Officer     | [tanti_yani_zaini@moe.edu.sg](mailto:tanti_yani_zaini@moe.edu.sg)         |
+| 3     | Miss Tan Young Choo Lilian, Corporate Support Officer       | [tan_young_choo_lilian@moe.edu.sg](mailto:tan_young_choo_lilian@moe.edu.sg)    |
+| 4     | Mdm Nur Amiza Zainal, Corporate Support Officer       | [nur_amiza_zainal@moe.edu.sg](mailto:nur_amiza_zainal@moe.edu.sg)    |
 | 6     | Miss Shasmita Sivakumar Pillai, Administrative Executive   | [shasmita_sivakumar_pillai@moe.edu.sg](mailto:shasmita_sivakumar_pillai@moe.edu.sg)     |
 | 7     | Ms Chua Kim Lian Susan, Administrative Executive       | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)    |
 
@@ -25,14 +24,13 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     |  Mr John Leong Kok Kheong, Operations Manager     | [leong_kok_kheong_john@moe.edu.sg](mailto:leong_kok_kheong_john@moe.edu.sg)     |
-| 2     |  Mr Neo Kim Ye, Operations Support Officer     |     |
-| 3     |  Mr Tay Kok Meng, Operations Support Officer      |    |
-| 4     |  Ms Jasmine Tan, Operations Support Officer     |    |
-| 5     |  Mdm Ng Sok Cheng, Operations Support Officer       |     |
-| 6     |  Mdm Ting Sieng Mee, Operations Support Officer     | 
-| 7     |  Mdm Stephanie Lui Peck Lee, Operations Support Officer| |
-8 |  Mr Ng Boon Chuan, Operations Support Officer| |
-9 |  Mr Lawrence Koong, Operations Support Officer| |
+| 2     |  Mr Tay Kok Meng, Operations Support Officer      |    |
+| 3     |  Ms Jasmine Tan, Operations Support Officer     |    |
+| 4     |  Mdm Ng Sok Cheng, Operations Support Officer       |     |
+| 5     |  Mdm Ting Sieng Mee, Operations Support Officer     | 
+| 6     |  Mdm Stephanie Lui Peck Lee, Operations Support Officer| |
+7 |  Mr Ng Boon Chuang, Operations Support Officer| |
+8 |  Mr Lawrence Koong, Operations Support Officer| |
 
 #### Support
 
@@ -42,5 +40,5 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     | Mr Kumerasan s/o Kanayson, ICT Manager     | [kumerasan_kanayson@moe.edu.sg](mailto:kumerasan_kanayson@moe.edu.sg)   |
-| 2     | Ms K Thenmoli, Laboratory Assistant    | [k_thenmoli@schools.gov.sg](mailto:k_thenmoli@schools.gov.sg)    |
+| 2     | Mdm Diana Chow, Laboratory Assistant    | [chow_woon_chun@schools.gov.sg](mailto:chow_woon_chun@schools.gov.sg)    |
 | 3    | Mrs Susan Tan, Librarian     | [susan_tan_ler@moe.edu.sg](mailto:susan_tan_ler@moe.edu.sg)     |
