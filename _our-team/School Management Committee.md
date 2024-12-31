@@ -311,7 +311,7 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Science &amp; Environmental Ed.)</p>
+<p>SH (SC &amp; EE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Boh Zuze</p>
