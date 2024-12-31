@@ -101,7 +101,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher (Math)</p>
+<p>Master Teacher (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Min Lie</p>
@@ -131,7 +131,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (English)</p>
+<p>HOD (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nelson Ong</p>
@@ -146,7 +146,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Mother Tongue)</p>
+<p>HOD (MT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Lei</p>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Mathematics)</p>
+<p>HOD (MA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Junice Tay</p>
@@ -233,10 +233,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Primary/P5 &amp; P6)</p>
+<p>YH (P4 to P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr John Wu</p>
@@ -248,10 +248,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH (Chinese Language)</p>
+<p>LH (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fiona Yoong</p>
