@@ -129,7 +129,7 @@ variant: markdown
 | 11     | Mrs Jayme Ong   | [pang_sook_fui@moe.edu.sg](mailto:pang_sook_fui@moe.edu.sg)      |
 | 12     |  Mrs Jennifer Poh  | [tiew_tsui_lu_jennifer@moe.edu.sg](mailto:tiew_tsui_lu_jennifer@moe.edu.sg)     |
 | 13     | Mrs Irene Tan | [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)     |
-| 14     | Mdm Kam Hui Bin  | [Kam_hui_bin_a@moe.edu.sg](mailto:Kam_hui_bin_a@moe.edu.sg)     |
+| 14     | Ms Tay Fui Fui  | [tay_fui_fui@moe.edu.sg](mailto:tay_fui_fui@moe.edu.sg)     |
 | 15     | Mrs Selene Yu  | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)     |
 | 16     | Mdm Jancy Tia  | [tia_nan_roung_jancy@moe.edu.sg](mailto:tia_nan_roung_jancy@moe.edu.sg)     |
 | 17     | Mrs Kelly Lim | [mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg)     |
