@@ -72,7 +72,7 @@ variant: markdown
 | P 5-2 | Mr Reuben Lim <br> [reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg)  | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
 |  P 5-3  | Mr Tan Kheng Eng <br>  [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)   | Ms Sukainah <br>[sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)   |
 |  P 5-4  |   Ms Evelyn Leo <br> [leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg)  | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
-| P 5-5 |  Mr Rohman<br>   [rohman_nor_b_suib@moe.edu.sg](mailto:rohman_nor_b_suib@moe.edu.sg) | Mdm Yeong Yimei <br>   [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)   |
+| P 5-5 |  Miss Nisa<br>   [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg) | Ms Adeline Sim<br>   [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg)   |
 | P 5-6 |  Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg)  | Mdm Rose Iliyana <br>  [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg) |
 
 
