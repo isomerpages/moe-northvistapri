@@ -371,13 +371,13 @@ variant: tiptap
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Student Well-Being)</p>
+<p>SH (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Audrey Heng</p>
+<p>Mr Huang Shihao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_ming_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_ming_hwee@moe.edu.sg</a>
+<p><a href="mailto:huang_shihao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_shihao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -386,10 +386,10 @@ variant: tiptap
 <p>20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Student Leadership)</p>
+<p>SH (Student Well-being)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Shihao</p>
+<p>Mdm Audrey Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huang_shihao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_shihao@moe.edu.sg</a>
