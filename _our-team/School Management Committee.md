@@ -507,7 +507,7 @@ variant: tiptap
 <p>28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (PE)</p>
+<p>ST (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeong Yi Mei</p>
