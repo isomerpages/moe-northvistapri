@@ -123,7 +123,7 @@ variant: markdown
 | 5     | Mrs Gilbert Veronica  | [gilbert_veronica@moe.edu.sg](mailto:gilbert_veronica@moe.edu.sg)      |
 | 6     | Mr Goh Kah How     | [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)      |
 | 7     | Mr Hirman   | [hirman_mohamed_khamis@moe.edu.sg](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
-| 8     | Mrs Jennifer Poh    | [tiew_tsui_lu_jennifer@moe.edu.sg](mailto:tiew_tsui_lu_jennifer@moe.edu.sg)      |
+| 8     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
 | 9     | Mdm Margaret Teo Hung Kimg    | [teo_hung_kimg_margaret@moe.edu.sg](mailto:teo_hung_kimg_margaret@moe.edu.sg)      |
 | 10     | Mdm Dai Ping    | [dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg)      |
 | 11     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
