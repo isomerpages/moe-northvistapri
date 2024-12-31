@@ -432,7 +432,7 @@ variant: tiptap
 <p>23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Middle Primary/P3)</p>
+<p>AYH (Middle Primary/P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shidah</p>
