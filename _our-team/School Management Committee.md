@@ -447,13 +447,13 @@ variant: tiptap
 <p>24</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Science)</p>
+<p>LT (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rohman</p>
+<p>Mrs Cindy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohman_nor_b_suib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohman_nor_b_suib@moe.edu.sg</a>
+<p><a href="mailto:wah_sio_ing_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wah_sio_ing_cindy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
