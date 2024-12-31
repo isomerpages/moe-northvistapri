@@ -164,7 +164,7 @@ variant: tiptap
 <p>HOD (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Seok Hong</p>
+<p>Mrs Junice Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_seok_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_seok_hong@moe.edu.sg</a>
