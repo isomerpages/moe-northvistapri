@@ -263,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH (CL)</p>
@@ -273,6 +273,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fiona_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fiona_yoong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH (MA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Josephine Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:josephine_ong_yan_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_ong_yan_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
