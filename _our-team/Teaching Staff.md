@@ -44,7 +44,7 @@ variant: markdown
 | P 3-1  | Mrs Selene Yu <br> [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)  | Mr Boh Zuze<br> [boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg) |
 | P 3-2 | Mr Jason Goh  <br> [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg) | Ms Soniajit Kaur<br> [soniajit_kaur@moe.edu.sg](mailto:soniajit_kaur@moe.edu.sg) |
 | P 3-3 | Miss Devaki <br> [devaki_vindinnada@moe.edu.sg](mailto:devaki_vindinnada@moe.edu.sg)    | Mr Lawrence Lim  <br>  [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)    |
-| P 3-4 | Mr Ralph Ong <br> [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg) | Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg) |
+| P 3-4 | Ms Naomi Ashley <br> [naomi_ashley@moe.edu.sg](mailto:naomi_ashley@moe.edu.sg) | Miss Josephine Ong <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg) |
 | P 3-5 | Ms Shamin Lin <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |Mdm Audrey Heng <br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg) 
 | P 3-6 | Mrs Chiu Wan Ting <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)   | Mdm Nurshidah  <br>  [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg) |
 |P 3-7 | Miss Norazizah <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)   | Mrs Eng I-Ling <br>  [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg) |
