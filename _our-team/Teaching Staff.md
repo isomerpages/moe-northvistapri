@@ -125,7 +125,7 @@ variant: markdown
 | 7     | Mr Hirman   | [hirman_mohamed_khamis@moe.edu.sg](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
 | 8     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
 | 9     | Miss Lee Siok Cheng    | [lee_siok_cheng@moe.edu.sg](mailto:lee_siok_cheng@moe.edu.sg)      |
-| 10     | Mdm Dai Ping    | [dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg)      |
+| 10     | Mrs Lim Choon Num    | [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg )      |
 | 11     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
 | 12     |  Mdm Razia  | [abdul_majeeth_razia_sulthana@moe.edu.sg](mailto:abdul_majeeth_razia_sulthana@moe.edu.sg)     |
 | 13     | Mr Bakri  | [ahmad_bakri_marfi@moe.edu.sg](mailto:ahmad_bakri_marfi@moe.edu.sg)     |
