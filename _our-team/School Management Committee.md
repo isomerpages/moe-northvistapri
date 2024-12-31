@@ -362,7 +362,7 @@ variant: tiptap
 <p>Mr Desmond Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_junhao_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junhao_desmond@moe.edu.sg</a>
+<p><a href="mailto:tan_junhao_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junhao_desmond@moe.edu.sg</a>
 </p>
 </td>
 </tr>
