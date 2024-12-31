@@ -116,7 +116,7 @@ variant: markdown
 
 | SN | Name | Email |
 | -------- | -------- | -------- |
-| 1     | Ms Eileen Chee    | [eileen_chee@moe.edu.sg](mailto:eileen_chee@moe.edu.sg)    |
+| 1     | Ms Kaur   | [amrit_kaur@moe.edu.sg](mailto:amrit_kaur@moe.edu.sg)    |
 | 2     | Miss Lee Siok Cheng      | [lee_siok_cheng@moe.edu.sg](mailto:lee_siok_cheng@moe.edu.sg)    |
 | 3     | Mrs Irene Tan    | [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)      |
 | 4     | Mrs Gilbert Veronica    | [gilbert_veronica@moe.edu.sg](mailto:gilbert_veronica@moe.edu.sg)      |
