@@ -84,7 +84,7 @@ variant: markdown
 | P 6-1 | Miss Atiroh  <br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  | Mr Desmond Tan <br> [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg) <br>   |
 |  P 6-2  | Mrs Tan Huishan<br>  [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mr Ng Chun Hao <br> [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
 | P 6-3 | Mdm Nur Ashiqin  <br>  [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)  | Mrs Ashley Mak<br>[tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)  |
-| P 6-4 | Mdm Zheng Hui <br> [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg)  | Mr Nelson Ong  <br> [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg) |
+| P 6-4 | Mdm Zheng Hui <br> [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg)  | Mrs Lim Seok Hong  <br> [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) |
 |  P 6-5 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mr John Wu <br>  [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)  |
 | P 6-6 |   Mdm Roxanne Chua <br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mdm Zhang Lei <br>  [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg) | 
 | P 6-7 |   Mr Chua Gim Sen <br> [chua_gim_sen@moe.edu.sg](mailto:chua_gim_sen@moe.edu.sg)  | Mr Reuben Lim <br>  [reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg) | 
