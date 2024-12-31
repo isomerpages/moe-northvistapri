@@ -176,21 +176,6 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Francis Yam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yam_hai_sun_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yam_hai_sun_francis@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>HOD (PE/CCA/Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
