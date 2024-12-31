@@ -133,5 +133,4 @@ variant: markdown
 | 15     | Mdm Margaret Teo Hung Kimg  | [teo_hung_kimg_margaret@moe.edu.sg](mailto:teo_hung_kimg_margaret@moe.edu.sg)     |
 | 16     | Mdm Jancy Tia  | [tia_nan_roung_jancy@moe.edu.sg](mailto:tia_nan_roung_jancy@moe.edu.sg)     |
 | 17     | Mrs Trinadad Alexandria | [alexandria_koh@moe.edu.sg](mailto:alexandria_koh@moe.edu.sg)     |
-
-o:lee_zhaohong_gerald@moe.edu.sg)     |
+e.edu.sg)     |
