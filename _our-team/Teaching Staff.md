@@ -74,7 +74,7 @@ variant: markdown
 |  P 5-4  |   Ms Evelyn Leo <br> [leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg)  | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
 | P 5-5 |  Miss Nisa<br>   [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg) | Ms Adeline Sim<br>   [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg)   |
 | P 5-6 |  Mdm Roxanne Chua<br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mdm Lim Jia Min <br>  [lim_jia_min@moe.edu.sg](mailto:lim_jia_min@moe.edu.sg) |
-
+| P 5-7 |  Mr Lyndon Long<br> [long_tianjun_lyndon@moe.edu.sg](mailto:long_tianjun_lyndon@moe.edu.sg)  | Miss Yap Wei Tien <br>  [yap_wei_tien@moe.edu.sg](mailto:yap_wei_tien@moe.edu.sg) |
 
 #### Primary Six
 
