@@ -11,10 +11,9 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     | Ms Thanaletchoomi D/O Ngenagaran, Administration Manager     | [thanaletchoomi_ngenagaran@moe.edu.sg](mailto:thanaletchoomi_ngenagaran@moe.edu.sg)      |
-| 2     | Ms Tanti, Corporate Support Officer     | [tanti_yani_zaini@moe.edu.sg](mailto:tanti_yani_zaini@moe.edu.sg)      |
-| 3     | Mdm Theresa Ng Siew San, Corporate Support Officer       | [ng_siew_san@moe.edu.sg](mailto:ng_siew_san@moe.edu.sg)      |
-| 4     | Miss Soh San San, Corporate Support Officer       | [soh_san_san@moe.edu.sg](mailto:soh_san_san@moe.edu.sg)         |
-| 5     | Miss Tan Young Choo Lilian, Corporate Support Officer       | [tan_young_choo_lilian@moe.edu.sg](mailto:tan_young_choo_lilian@moe.edu.sg)    |
+| 2     | Ms Tanti, Corporate Support Officer     | [tanti_yani_zaini@moe.edu.sg](mailto:tanti_yani_zaini@moe.edu.sg)         |
+| 3     | Miss Tan Young Choo Lilian, Corporate Support Officer       | [tan_young_choo_lilian@moe.edu.sg](mailto:tan_young_choo_lilian@moe.edu.sg)    |
+| 4     | Mdm Nur Amiza Zainal, Corporate Support Officer       | [nur_amiza_zainal@moe.edu.sg](mailto:nur_amiza_zainal@moe.edu.sg)    |
 | 6     | Miss Shasmita Sivakumar Pillai, Administrative Executive   | [shasmita_sivakumar_pillai@moe.edu.sg](mailto:shasmita_sivakumar_pillai@moe.edu.sg)     |
 | 7     | Ms Chua Kim Lian Susan, Administrative Executive       | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)    |
 
