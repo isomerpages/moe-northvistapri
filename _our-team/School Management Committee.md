@@ -311,7 +311,7 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (SC &amp; Environmental Ed)</p>
+<p>SH (SC &amp; Environmental Ed.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Boh Zuze</p>
@@ -408,7 +408,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sim_yuin_ling_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yuin_ling_adeline@moe.edu.sg</a>
+<p><a href="mailto:sim_yuin_ling_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yuin_ling_adeline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -438,7 +438,7 @@ variant: tiptap
 <p>Mdm Shidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nurshidah_mokhtar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurshidah_mokhtar@moe.edu.sg</a>
+<p><a href="mailto:nurshidah_mokhtar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurshidah_mokhtar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
