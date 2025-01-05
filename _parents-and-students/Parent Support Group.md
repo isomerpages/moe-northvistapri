@@ -44,7 +44,7 @@ family relations.</p>
 <p>Mdm Ang Yuat Poh (Chairperson)</p>
 </li>
 <li>
-<p>Mdm Doris Ngai (Vice-Chairperson)</p>
+<p>Mdm Kyu Kyu Win (Ivy) (Vice-Chairperson)</p>
 </li>
 <li>
 <p>Mdm Akanksha Chaturvedi</p>
