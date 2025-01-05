@@ -41,25 +41,28 @@ family relations.</p>
 <h4>PSG EXCO Members 2024</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Ang Yuat Poh (Chairperson)</p>
+<p>Chairperson - Mdm Ang Yuat Poh</p>
 </li>
 <li>
-<p>Mdm Kyu Kyu Win (Ivy) (Vice-Chairperson)</p>
+<p>Vice-Chairperson - Mdm Kyu Kyu Win (Ivy)</p>
 </li>
 <li>
-<p>Mdm Akanksha Chaturvedi</p>
+<p>IT IC - Mdm Cynthia George</p>
 </li>
 <li>
-<p>Mdm Cynthia George</p>
+<p>Bistro IC - Mdm Arati Menon</p>
 </li>
 <li>
-<p>Mdm Sharanjit Gill</p>
+<p>Publicity IC - Mdm Sharanjit Kaur Dhaliwal</p>
 </li>
 <li>
-<p>Mdm Shirley Ng</p>
+<p>Events Coordinator - Mdm Cristina Mercado</p>
 </li>
 <li>
-<p>Mdm Cristina Mercado</p>
+<p>Mdm Shirley Ng Interest Group Coordinator</p>
+</li>
+<li>
+<p></p>
 </li>
 </ol>
 <h4>Join us in this meaningful endeavour today!</h4>
