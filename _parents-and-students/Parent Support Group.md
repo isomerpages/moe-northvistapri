@@ -59,9 +59,10 @@ family relations.</p>
 <p>Events Coordinator - Mdm Cristina Mercado</p>
 </li>
 <li>
-<p>Mdm Shirley Ng Interest Group Coordinator</p>
+<p>Special Events Coordinator - Mdm Jaslyn Tan</p>
 </li>
 <li>
+<p>Interest Group Coordinator - Mdm Shirley Ng</p>
 <p></p>
 </li>
 </ol>
