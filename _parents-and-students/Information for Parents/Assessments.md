@@ -29,11 +29,6 @@ All students must be punctual for the examinations. Students who are unwell shou
 
 Should a student be absent without a valid reason, zero marks will be awarded.
 
-**2024 P3 to P6 Semester 2 Topics, Format & Schedule**
+**2025 P3 to P6 Semester 2 Topics, Format & Schedule**
 
-* [P3 Semester 2 Assessment](/files/Assessments/P3_Semester_2_Assessment.pdf)
-* [P4 Semester 2 Assessment](/files/Assessments/P4_Semester_2_Assessment.pdf)
-* [P5 Semester 2 Assessment](/files/Assessments/P5_Semester_2_Assessment.pdf)
-* [P6 Semester 2 Assessment](/files/Assessments/P6_Semester_2_Assessment.pdf)
-
-Information is accurate as of 28 June 2024.
+Update in progress
