@@ -14,7 +14,6 @@ third_nav_title: About Us
 | Ms Nur Azlinda Ismail      | Centre Head<br>    | 
 | Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | 
 | Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | 
-| Ms Lexie Wong      |  Senior Teacher <br> (Child Development)    | 
 | Ms Nur Sabrina      |  Level Head   | 
 
 
@@ -53,5 +52,3 @@ third_nav_title: About Us
 | Ms Siti Suzanna  |  Kindergarten 1<br> (Malay Language)<br>  |
 | Mdm Nurul Shafiqa |  Kindergarten 2<br> (Malay Language)<br>  |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
-
-
