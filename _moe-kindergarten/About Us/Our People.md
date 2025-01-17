@@ -44,7 +44,7 @@ third_nav_title: About Us
 ||| 
 |:---:|:---:|
 | **Name of Teacher** | **Teaching Level** |
-| Ms Lexie Wong | Kindergarten 1 &amp; 2 <br> (Chinese Language)<br> |
+| Mdm Rebekah Poh | Kindergarten 1 <br> (Chinese Language)<br> |
 | Mdm Soh Ah Kiow | Kindergarten 1 <br>(Chinese Language)<br> |
 | Mdm An Hong | Kindergarten 2 <br>(Chinese Language)<br>   |
 | Mdm Lian Yanli | Kindergarten 2 <br>(Chinese Language)<br>  |
