@@ -30,8 +30,8 @@ third_nav_title: About Us
 |  Mdm Is Kalsum |  Kindergarten 1<br> |
 |  Ms Nur Sabrina |  Kindergarten 1<br> |
 |  Ms Sherie Wong |  Kindergarten 1<br> |
-|  Ms Is Kalsum |  Kindergarten 2<br> ||
-|  Ms Nur Sabrina |  Kindergarten 2<br> | |
+|  Ms Audrey Lim |  Kindergarten 2<br> ||
+|  Ms Nur Syafiqah |  Kindergarten 2<br> | |
 |  Ms Razeen Banu |   Kindergarten 2<br> |  |
 |  Mr Riyadh |   Kindergarten 2<br> | |
 
