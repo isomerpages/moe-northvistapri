@@ -26,7 +26,7 @@ third_nav_title: About Us
 |:---:|:---:|
 | **Name** | **Teaching Level** | 
 | Mdm Herma Ayuni | Kindergarten 1 <br> |
-|  Mdm Is Kalsum |  Kindergarten 1<br> |
+|  Ms Is Kalsum |  Kindergarten 1<br> |
 |  Ms Nur Sabrina |  Kindergarten 1<br> |
 |  Ms Sherie Wong |  Kindergarten 1<br> |
 |  Ms Audrey Lim |  Kindergarten 2<br> ||
