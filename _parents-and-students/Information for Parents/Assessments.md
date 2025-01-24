@@ -31,4 +31,9 @@ Should a student be absent without a valid reason, zero marks will be awarded.
 
 **2025 P3 to P6 Semester 2 Topics, Format & Schedule**
 
-Update in progress
+* [P3 Semester 1 2025](/files/P3_Semester_1__2025_.pdf)
+* [P4 Semester 1 2025](/files/P4_Semester_1__2025_.pdf)
+* [P5 Semester 1 2025](/files/P5_Semester_1__2025_.pdf)
+* [P6 Semester 1 2025](/files/P6_Semester_1__2025_.pdf)
+
+Information is accurate as of 24 January 2025
