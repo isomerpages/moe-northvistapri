@@ -127,7 +127,7 @@ variant: markdown
 | 9     | Mrs Chua Eleanor     | [tan_yi_ling_eleanor_a@moe.edu.sg](mailto:tan_yi_ling_eleanor_a@moe.edu.sg)      |
 | 10     | Mrs Lim Choon Num    | [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg )      |
 | 11     | Mrs Jayme Ong   | [pang_sook_fui_mrs@moe.edu.sg](mailto:pang_sook_fui_mrs@moe.edu.sg)      |
-| 12     |  Mrs Jennifer Poh  | [tiew_tsui_lu_jennifer@moe.edu.sg](mailto:tiew_tsui_lu_jennifer@moe.edu.sg)     |
+| 12     |  Ms Tan Li Li  | [tan_li_li_1@moe.edu.sg](mailto:tan_li_li_1@moe.edu.sg)     |
 | 13     | Mrs Irene Tan | [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)     |
 | 14     | Ms Tay Fui Fui  | [tay_fui_fui@moe.edu.sg](mailto:tay_fui_fui@moe.edu.sg)     |
 | 15     | Mdm Margaret Teo Hung Kimg  | [teo_hung_kimg_margaret@moe.edu.sg](mailto:teo_hung_kimg_margaret@moe.edu.sg)     |
