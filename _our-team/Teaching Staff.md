@@ -132,6 +132,3 @@ variant: markdown
 | 14     | Mdm Dou Ping   | (email to be updated)     |
 | 15     | Mdm Margaret Teo Hung Kimg  | [teo_hung_kimg_margaret@moe.edu.sg](mailto:teo_hung_kimg_margaret@moe.edu.sg)     |
 | 16     | Mr Ralph Ong  | [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg)     |
-
-
-
