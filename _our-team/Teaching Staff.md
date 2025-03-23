@@ -124,7 +124,7 @@ variant: markdown
 | 6     | Mr Goh Kah How     | [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)      |
 | 7     | Mr Hirman   | [hirman_mohamed_khamis@moe.edu.sg](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
 | 8     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
-| 9     | Miss Lee Siok Cheng    | [lee_siok_cheng@moe.edu.sg](mailto:lee_siok_cheng@moe.edu.sg)      |
+| 9     | Mrs Chua Eleanor     | [tan_yi_ling_eleanor_a@moe.edu.sg](mailto:tan_yi_ling_eleanor_a@moe.edu.sg)      |
 | 10     | Mrs Lim Choon Num    | [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg )      |
 | 11     | Mrs Jayme Ong   | [pang_sook_fui_mrs@moe.edu.sg](mailto:pang_sook_fui_mrs@moe.edu.sg)      |
 | 12     |  Mrs Jennifer Poh  | [tiew_tsui_lu_jennifer@moe.edu.sg](mailto:tiew_tsui_lu_jennifer@moe.edu.sg)     |
