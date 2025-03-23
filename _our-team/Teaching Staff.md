@@ -117,7 +117,7 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     | Ms Kaur   | [amrit_kaur_a@moe.edu.sg](mailto:amrit_kaur_a@moe.edu.sg)    |
-| 2     | Mrs Bala Ananthi      | [ananthi_r_selvarajan@moe.edu.sg](mailto:ananthi_r_selvarajan@moe.edu.sg)    |
+| 2     | Mrs Letitia Lim       | [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)    |
 | 3     | Mdm Eileen Chee    | [eileen_chee@moe.edu.sg](mailto:eileen_chee@moe.edu.sg)      |
 | 4     | Mdm Dai Ping   | [dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg)      |
 | 5     | Mrs Gilbert Veronica  | [gilbert_veronica@moe.edu.sg](mailto:gilbert_veronica@moe.edu.sg)      |
