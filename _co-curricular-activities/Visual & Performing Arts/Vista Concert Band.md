@@ -17,7 +17,7 @@ After completing foundational training, recruits advance to the Junior Band, whe
 Band members regularly take part in band exchanges and performances both within and outside the school, offering them diverse opportunities to collaborate with other musicians and showcase their talents.
 
 #### Encouraging Instrument Borrowing for Self-Practise
-o support students’ continuous growth, we encourage borrowing instruments for self-practise at home. Self-practise helps students strengthen their technical abilities, build discipline, and deepen their musical understanding. Parents need to fill out and sign an indemnity form for instrument borrowing, ensuring proper care of the school’s instruments.
+To support students’ continuous growth, we encourage borrowing instruments for self-practise at home. Self-practise helps students strengthen their technical abilities, build discipline, and deepen their musical understanding. Parents need to fill out and sign an indemnity form for instrument borrowing, ensuring proper care of the school’s instruments.
 
 **Instrument Loan Form (Link:** [https://forms.moe.edu.sg/forms/JBBbLm](https://forms.moe.edu.sg/forms/JBBbLm))
 
