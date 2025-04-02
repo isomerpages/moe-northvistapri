@@ -23,7 +23,7 @@ teach proper recycling practices through activities and quizzes. A school-wide
 recycling competition further motivates students, with efforts tracked
 and recognised.</p>
 <div class="iframe-wrapper">
-<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/<qNxDR5o8xbM?si=0PhyLo900-pqTA1X>"></iframe>
+<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qNxDR5o8xbM"></iframe>
 </div>
 <p><strong>Fruit Peel Campaign</strong>
 </p>
@@ -33,7 +33,7 @@ compost for the school garden. This initiative teaches waste reduction
 and allows the school community to witness how organic waste benefits plant
 growth. Compost is also distributed during school events.</p>
 <div class="iframe-wrapper">
-<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qNxDR5o8xbM"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CDpVwnv0imY?si=ptlteXQlY_y7Iu9x"></iframe>
 </div>
 <p><strong>Farm to Table</strong>
 </p>
