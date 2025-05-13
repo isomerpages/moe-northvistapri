@@ -15,4 +15,4 @@ Discover NVTPS' signature programs, gain insights into our student outcomes, and
 Visit our Open House website to find out more: <a href="http://for.edu.sg/nvtpoh"><b>http://for.edu.sg/nvtpoh</b></a> <br>
 Please register for our e-Open House webinar at: <a href="http://for.edu.sg/nvtpsu"><b>http://for.edu.sg/nvtpsu</b></a>
 
-We look forward to seeing you at our e-Open House webinar.
+We look forward to seeing you at our e-Open House.
