@@ -19,7 +19,7 @@ Mondays.  Schedule will be sent to parents via Parents Gateway before the start
 | Ms Ian Farah (Overall-In-Charge) | [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)
 | Ms Sugashini   | [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
 | Mdm Rozita  | [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  |
-|
+| Ms Soniajit Kaur  | [soniajit_kaur@moe.edu.sg](mailto:soniajit_kaur@moe.edu.sg)  |
 
 ![](/images/CCA/VAPA/art1.jpg)
 
