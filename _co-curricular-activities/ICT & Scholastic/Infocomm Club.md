@@ -15,7 +15,7 @@ Mondays. Schedule will be sent to parents via Parents Gateway before the start o
 | Name of Teacher | Email Address |
 |---|---|
 | Mrs Tan Huishan (Overall-In-Charge)  | [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)  |
-| Ms Soniajit Kaur | [soniajit_kaur@moe.edu.sg](mailto:soniajit_kaur@moe.edu.sg) |
+| Mdm Subashini | [subashini_sivananthan@moe.edu.sg](mailto:subashini_sivananthan@moe.edu.sg) |
 | Mr Ralph Ong | [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg) |
 | Mdm Gan Hui Ling Jen  | [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg)  |
 |
