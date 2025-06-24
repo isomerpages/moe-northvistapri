@@ -221,7 +221,7 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (P1 to P3)</p>
+<p>YH (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Simon Foo</p>
@@ -236,13 +236,13 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (P4 to P6)</p>
+<p>YH (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John Wu</p>
+<p>Mr Chong Chee Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wu_chuheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_chuheng@moe.edu.sg</a>
+<p><a href="mailto:chong_chee_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chee_wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -251,13 +251,14 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>YH (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr John Wu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wu_chuheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_chuheng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
