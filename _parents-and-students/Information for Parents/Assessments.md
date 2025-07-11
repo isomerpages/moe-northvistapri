@@ -38,4 +38,3 @@ Should a student be absent without a valid reason, zero marks will be awarded.
 * [P6 Semester 2 2025](/files/Assessments/P6_Semester_2__2025_.pdf)
 
 Information is accurate as of 11 July 2025
-
