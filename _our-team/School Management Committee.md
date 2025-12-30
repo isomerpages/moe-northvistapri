@@ -13,17 +13,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -43,7 +32,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/SL/Mr_Azuan_Tan_VP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/mr_azuan_tan_vp.jpg">
 </div>
 <p>Mr Azuan Tan
 <br><strong>Vice Principal</strong>
