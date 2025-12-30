@@ -28,7 +28,7 @@ variant: markdown
 | P 2-3 |   Ms Vijayalakshmi <br>  [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  | Ms Shamin Lin <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |
 | P 2-4 | Mdm Nur Ashiqin   <br> [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)   |  Ms Vanna Tan <br> [Vanna_tan_a@moe.edu.sg](mailto:Vanna_tan_a@moe.edu.sg) <br><br>  Mdm Lydia <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
 | P 2-5 | Miss Norazizah  <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg) | Mrs Irene Tan  <br> [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)  |
-| P 2-6  |  Mr Dennis Tan  <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg) | Ms Vanna Tan <br>  [Vanna_tan_a@moe.edu.sg](mailto:Vanna_tan_a@moe.edu.sg) |
+| P 2-6  |  Mdm Rose Iliyana  <br>  [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg) | Mdm Liu Jin <br>  [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg) |
 | P 2-7 | Ms Ian Farah<br>  [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)   | Ms Shamin Lin  <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg)  |
 
 
