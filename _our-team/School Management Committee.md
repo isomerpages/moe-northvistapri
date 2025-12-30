@@ -206,13 +206,28 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>HOD (CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ashley Mak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sock_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sock_kee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>YH (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Simon Foo</p>
+<p>Mr Chong Chee Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wui_leng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wui_leng_wendy@moe.edu.sg</a>
+<p><a href="mailto:chong_chee_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chee_wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -224,10 +239,10 @@ variant: tiptap
 <p>YH (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Chee Wee</p>
+<p>Mrs Simon Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_chee_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chee_wee@moe.edu.sg</a>
+<p><a href="mailto:tan_wui_leng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wui_leng_wendy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
