@@ -43,7 +43,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SL/Mr_Amran_Bin_Tasrif_Vice_Principal_EO.png">
+<img style="width: 100%" height="auto" width="100%" src="/images/SL/Mr_Azuan_Tan_VP.jpg">
 </div>
 <p>Mr Azuan Tan
 <br><strong>Vice Principal</strong>
