@@ -9,7 +9,7 @@ variant: markdown
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 1-1 | Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Mr Alvin Lee<br>  [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
+| P 1-1 | Miss Lai Liyu <br> [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg)  | Ms Tan Li Li<br>  [tan_li_li_1@moe.edu.sg](mailto:tan_li_li_1@moe.edu.sg)  |
 | P 1-2 | Mdm Norsafrina<br>  [norsafrina_sapari@moe.edu.sg](mailto:norsafrina_sapari@moe.edu.sg)  | Mrs Lim Chia Lin <br>  [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg)  |
 | P 1-3 |   Mdm Rozita <br> [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  | Mdm Peh Shay Ling <br> [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg)   |
 | P 1-4 | Miss Chong Yuan Ping <br>  [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  | Mdm Lydia<br>[lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
