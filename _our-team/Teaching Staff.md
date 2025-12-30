@@ -23,7 +23,7 @@ variant: markdown
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 2-1 | Mr Michael Au <br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Ms Sugashini <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
+| P 2-1 | Ms Ang Lee Im<br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Ms Sugashini <br> [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
 | P 2-2 | Ms Yeo Si Min <br> [yeo_si_min@moe.edu.sg](mailto:yeo_si_min@moe.edu.sg)  | Ms Fiona Yoong <br>  [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)    |
 | P 2-3 |   Mdm Siti Raudah <br>  [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)  | Mr Teo Ting Rui<br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) |
 | P 2-4 | Mrs Vivien Lim  <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)   |  Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
