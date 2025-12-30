@@ -41,7 +41,7 @@ variant: markdown
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 3-1  | Mr Lawrence Lim  <br> [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)  | Mdm Dai Ping<br> [dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg) |
 | P 3-2 | Mr Wayne Chia <br> [chia_peng_han_wayne@moe.edu.sg](mailto:chia_peng_han_wayne@moe.edu.sg) | Ms Adeline Sim<br> [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg)<br><br>Ms Harshini<br> [harshini_arumugam@moe.edu.sg](mailto:harshini_arumugam@moe.edu.sg) |
-| P 3-3 | Miss Devaki <br> [devaki_vindinnada@moe.edu.sg](mailto:devaki_vindinnada@moe.edu.sg)    | Mr Lawrence Lim  <br>  [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)  <br><br> Mr Chong Chee Wee <br>  [chong_chee_wee@moe.edu.sg](mailto:chong_chee_wee@moe.edu.sg)  |
+| P 3-3 | Mr Benjamin Wong <br> [wong_yitung_benjamin@moe.edu.sg](mailto:wong_yitung_benjamin@moe.edu.sg)    | Mrs Simon Foo  <br>  [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  <br><br> Mr Chong Chee Wee <br>  [chong_chee_wee@moe.edu.sg](mailto:chong_chee_wee@moe.edu.sg)  |
 | P 3-4 | Ms Naomi Ashley <br> [naomi_ashley@moe.edu.sg](mailto:naomi_ashley@moe.edu.sg) | Miss Josephine Ong <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg) |
 | P 3-5 | Mr Zaki <br> [mohd_zaki_hashim@moe.edu.sg](mailto:mohd_zaki_hashim@moe.edu.sg) |Mrs Cindy Lim <br> [wah_sio_ing_cindy@moe.edu.sg](mailto:wah_sio_ing_cindy@moe.edu.sg) 
 | P 3-6 | Miss Jessica Cheah <br> [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg)   | Miss Nur Syafiqah  <br>  [nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg) |
