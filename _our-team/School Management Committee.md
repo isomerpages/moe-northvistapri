@@ -45,7 +45,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SL/Mr_Amran_Bin_Tasrif_Vice_Principal_EO.png">
 </div>
-<p>Mr Amran Tasrif
+<p>Mr Azuan Tan
 <br><strong>Vice Principal</strong>
 </p>
 </td>
