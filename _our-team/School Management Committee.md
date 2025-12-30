@@ -308,21 +308,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (ML)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Suryadi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suryadi_mohd_bajuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suryadi_mohd_bajuri@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,6 +318,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:boh_zuze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boh_zuze@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Suryadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suryadi_mohd_bajuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suryadi_mohd_bajuri@moe.edu.sg</a>
 </p>
 </td>
 </tr>
