@@ -338,7 +338,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Innovation)</p>
@@ -348,21 +348,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_huimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_huimin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (Character &amp; Citizenship Ed.)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ashley Mak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sock_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sock_kee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -432,7 +417,7 @@ variant: tiptap
 <p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Lower Primary/P1)</p>
+<p>AYH (Lower Primary/P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lydia</p>
@@ -450,6 +435,21 @@ variant: tiptap
 <p>AYH (Middle Primary/P4)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Roxanne Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:roxanne_chua_wan_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roxanne_chua_wan_xuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (Upper Primary/P5)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Shidah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -459,7 +459,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LT (EL)</p>
@@ -474,7 +474,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (EL)</p>
@@ -489,7 +489,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (CL)</p>
@@ -499,21 +499,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST (ML)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zaki</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_zaki_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_zaki_hashim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
