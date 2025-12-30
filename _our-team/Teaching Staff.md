@@ -25,7 +25,7 @@ variant: markdown
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 2-1 | Ms Ang Lee Im<br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Mr Alvin Lee <br> [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
 | P 2-2 | Mdm Peh Shay Ling <br> [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg)  | Mrs Lim Chia Lin <br>  [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg)    |
-| P 2-3 |   Mdm Siti Raudah <br>  [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)  | Mr Teo Ting Rui<br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) |
+| P 2-3 |   Ms Vijayalakshmi <br>  [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  | Ms Shamin Lin <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |
 | P 2-4 | Mrs Vivien Lim  <br> [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)   |  Ms Vijayalakshmi <br> [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
 | P 2-5 | Mdm Xu Lupin  <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg) | Mrs Simon Foo  <br> [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg)  |
 | P 2-6  |  Mr Dennis Tan  <br>  [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg) | Ms Vanna Tan <br>  [Vanna_tan_a@moe.edu.sg](mailto:Vanna_tan_a@moe.edu.sg) |
