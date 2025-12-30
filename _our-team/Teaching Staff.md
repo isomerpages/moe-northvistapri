@@ -13,7 +13,7 @@ variant: markdown
 | P 1-2 | Mdm Norsafrina<br>  [norsafrina_sapari@moe.edu.sg](mailto:norsafrina_sapari@moe.edu.sg)  | Mr John Kiang <br>  [kiang_yeow_yong@moe.edu.sg](mailto:kiang_yeow_yong@moe.edu.sg)  |
 | P 1-3 |   Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Ms Fiona Yoong <br> [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)   |
 | P 1-4 | Mrs Vivien Lim  <br>  [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  | Ms Astrinka <br>[astrinka_ryzanti_putri_kamaludin@moe.edu.sg](mailto:astrinka_ryzanti_putri_kamaludin@moe.edu.sg)  |
-| P 1-5 |   Miss Chong Yuan Ping <br>[chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  |   Mr Joel Wong <br> [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg)  |
+| P 1-5 |   Miss Chong Yuan Ping <br>[chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  |   Mrs Amin <br> [al-amin_a@moe.edu.sg](mailto:al-amin_a@moe.edu.sg)  |
 |  P 1-6  | Mdm Rose Iliyana  <br> [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg)  | Mdm Liu Jin <br> [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg)  |
 |  P 1-7  | Ms Liu Lingzhu <br> [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg) | Mdm Subashini <br> [subashini_sivananthan@moe.edu.sg](mailto:subashini_sivananthan@moe.edu.sg)  |
 |  P 1-8  | Mdm Jelena Chia <br> [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) | Ms Wu Lihua <br>[wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)   |
