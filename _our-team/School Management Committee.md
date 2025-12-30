@@ -101,21 +101,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher (MA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Min Lie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_min_lie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_min_lie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (EL)</p>
@@ -143,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (MT)</p>
@@ -158,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (MA)</p>
@@ -173,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (PE/CCA/Aesthetics)</p>
@@ -188,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (ICT)</p>
@@ -203,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Student Management)</p>
@@ -218,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YH (Lower Primary)</p>
@@ -233,7 +218,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YH (Middle Primary)</p>
@@ -248,7 +233,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>YH (Upper Primary)</p>
@@ -263,7 +248,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH (EL)</p>
@@ -278,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH (CL)</p>
@@ -293,7 +278,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH (MA)</p>
@@ -308,7 +293,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (ML)</p>
@@ -323,7 +308,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (SC &amp; Environmental Ed.)</p>
@@ -338,7 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Innovation)</p>
@@ -353,7 +338,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Character &amp; Citizenship Ed.)</p>
@@ -368,7 +353,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (National Ed. &amp; Social Studies)</p>
@@ -383,7 +368,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Student Leadership)</p>
@@ -398,7 +383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Student Well-being)</p>
@@ -413,7 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Aesthetics)</p>
@@ -429,7 +414,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (Lower Primary/P1)</p>
@@ -444,7 +429,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (Middle Primary/P4)</p>
@@ -459,7 +444,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LT (EL)</p>
@@ -474,7 +459,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (EL)</p>
@@ -489,7 +474,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (CL)</p>
@@ -504,7 +489,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (ML)</p>
@@ -519,7 +504,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (PE)</p>
