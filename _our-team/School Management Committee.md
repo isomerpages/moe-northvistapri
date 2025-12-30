@@ -43,7 +43,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SL/Mr_Azuan_Tan_VP.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/SL/Mr_Azuan_Tan_VP.jpg">
 </div>
 <p>Mr Azuan Tan
 <br><strong>Vice Principal</strong>
@@ -52,7 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL/Ms_Goh_Ai_Ling_VP.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SL/Ms_Goh_Ai_Ling_VP.jpg">
 </div>
 <p>Ms Goh Ai Ling
 <br><strong>Vice Principal</strong>
@@ -61,7 +61,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SL/Mrs_Audrey_Lee_Vice_Principal_(Admin).jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/SL/Mrs_Audrey_Lee_Vice_Principal_(Admin).jpg">
 </div>
 <p>Mrs Audrey Lee
 <br><strong>Vice Principal (Admin)</strong>
