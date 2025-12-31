@@ -83,7 +83,7 @@ variant: markdown
 |  P 6-2  | Mr Reuben Lim<br>  [reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg)   | Ms Tan Hui Min <br> [chen_huimin@moe.edu.sg](mailto:chen_huimin@moe.edu.sg)  |
 | P 6-3 | Mr Tan Kheng Eng  <br>  [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)  | Mr John Wu<br>[wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)  |
 | P 6-4 | Mrs Eng I-Ling <br> [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  | Mrs Lim Seok Hong  <br> [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) <br><br>  Mr Boh Zuze<br> [boh_zuze@moe.edu.sg](mailto:boh_zuze@moe.edu.sg) |
-|  P 6-5 | Mdm Yeong Yi Mei <br> [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)   | Mrs Junice Tay <br>  [seah_teck_ping_junice@moe.edu.sg](mailto:seah_teck_ping_junice@moe.edu.sg)<br><br>Mr John Wu <br>  [wu_chuheng@moe.edu.sg](mailto:wu_chuheng@moe.edu.sg)  |
+|  P 6-5 | Miss Nisa <br> [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg)   | Mrs Junice Tay <br>  [seah_teck_ping_junice@moe.edu.sg](mailto:seah_teck_ping_junice@moe.edu.sg)  |
 | P 6-6 |   Mrs Tan Yan Bing <br> [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg)  | Mr Nelson Ong<br>  [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg) | 
 
 #### Special Educational Needs Officers (SENO)
