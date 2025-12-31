@@ -117,17 +117,13 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     | Ms Kaur   | [amrit_kaur_a@moe.edu.sg](mailto:amrit_kaur_a@moe.edu.sg)    |
-| 2     | Mrs Letitia Lim       | [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)    |
-| 3     | Mdm Eileen Chee    | [eileen_chee@moe.edu.sg](mailto:eileen_chee@moe.edu.sg)      |
-| 4     | Mdm Dai Ping   | [dai_ping@moe.edu.sg](mailto:dai_ping@moe.edu.sg)      |
-| 5     | Mrs Gilbert Veronica  | [gilbert_veronica@moe.edu.sg](mailto:gilbert_veronica@moe.edu.sg)      |
-| 6     | Mr Goh Kah How     | [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)      |
-| 7     | Mr Hirman   | [hirman_mohamed_khamis@moe.edu.sg](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
-| 8     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
-| 9     | Mrs Chua Eleanor     | [tan_yi_ling_eleanor_a@moe.edu.sg](mailto:tan_yi_ling_eleanor_a@moe.edu.sg)      |
-| 10     | Mrs Lim Choon Num    | [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg )      |
-| 11     | Mrs Jayme Ong   | [pang_sook_fui_mrs@moe.edu.sg](mailto:pang_sook_fui_mrs@moe.edu.sg)      |
-| 12     |  Ms Tan Li Li  | [tan_li_li_1@moe.edu.sg](mailto:tan_li_li_1@moe.edu.sg)     |
-| 13     | Mrs Irene Tan | [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)     |
-| 14     | Mdm Margaret Teo Hung Kimg  | [teo_hung_kimg_margaret@moe.edu.sg](mailto:teo_hung_kimg_margaret@moe.edu.sg)     |
-| 15     | Mr Ralph Ong  | [ralph_ong@moe.edu.sg](mailto:ralph_ong@moe.edu.sg)     |
+| 2     | Mdm Eileen Chee    | [eileen_chee@moe.edu.sg](mailto:eileen_chee@moe.edu.sg)      |
+| 3     | Mr Goh Kah How     | [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)      |
+| 4     | Mr Hirman   | [hirman_mohamed_khamis@moe.edu.sg](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
+| 5     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
+| 6     | Mrs Eleanor Chua     | [tan_yi_ling_eleanor_a@moe.edu.sg](mailto:tan_yi_ling_eleanor_a@moe.edu.sg)      |
+| 7     | Mdm Margaret Teo Hung Kimg  | [teo_hung_kimg_margaret@moe.edu.sg](mailto:teo_hung_kimg_margaret@moe.edu.sg)     |
+| 8     | Mrs Jocelyn Koi  | [jocelyn_ho_chui_ling@moe.edu.sg](mailto:jocelyn_ho_chui_ling@moe.edu.sg)     |
+| 9     | Mr Ryan  | [ryan_williams_fernandez@moe.edu.sg](mailto:ryan_williams_fernandez@moe.edu.sg)     |
+| 10     | Mdm Rozita  | [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)     |
+| 11     | Mrs Chiu Wan Ting  | [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)     |
