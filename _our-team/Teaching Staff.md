@@ -68,7 +68,7 @@ variant: markdown
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 5-1 | Miss Atiroh <br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  |  Mr Huang Shihao  <br> [huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)   |
 | P 5-2 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)  | Mrs Josephine Goh <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg) <br><br> Mdm Nurshidah  <br> [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)  |
-|  P 5-3  | Mr Tan Kheng Eng <br>  [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg)   | Ms Sukainah <br>[sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg)   |
+|  P 5-3  | Mr Jason Goh  <br>  [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg)   | Mrs Dridi Elnie <br>[elnie_tryana_dridi@moe.edu.sg](mailto:elnie_tryana_dridi@moe.edu.sg) <br><br> Miss Nur Syafiqah <br>[nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg)   |
 |  P 5-4  |   Ms Evelyn Leo <br> [leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg)  | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
 | P 5-5 |  Miss Nisa<br>   [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg) | Ms Adeline Sim<br>   [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg)   |
 | P 5-6 |  Mdm Roxanne Chua<br> [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  | Mdm Lim Jia Min <br>  [lim_jia_min@moe.edu.sg](mailto:lim_jia_min@moe.edu.sg) |
