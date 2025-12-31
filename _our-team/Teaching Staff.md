@@ -79,7 +79,7 @@ variant: markdown
 ||||
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| P 6-1 | Miss Atiroh  <br>  [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  | Mr Desmond Tan <br> [tan_junhao_desmond@moe.edu.sg](mailto:tan_junhao_desmond@moe.edu.sg) <br>   |
+| P 6-1 | Mrs Kelly Lim  <br>  [mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg)  | Mrs Gilbert Veronica <br> [gilbert_veronica@moe.edu.sg](mailto:gilbert_veronica@moe.edu.sg) <br><br> Mr Faizan <br> [mohamed_faizan_juli@moe.edu.sg](mailto:mohamed_faizan_juli@moe.edu.sg)  |
 |  P 6-2  | Mrs Tan Huishan<br>  [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)   | Mr Ng Chun Hao <br> [ng_chun_hao@moe.edu.sg](mailto:ng_chun_hao@moe.edu.sg)  |
 | P 6-3 | Mdm Nur Ashiqin  <br>  [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)  | Mrs Ashley Mak<br>[tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg)  |
 | P 6-4 | Mdm Zheng Hui <br> [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg)  | Mrs Lim Seok Hong  <br> [sim_seok_hong@moe.edu.sg](mailto:sim_seok_hong@moe.edu.sg) |
