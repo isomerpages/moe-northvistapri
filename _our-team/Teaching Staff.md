@@ -54,7 +54,7 @@ variant: markdown
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 4-1 | Mr Goh Swee Teck <br> [goh_swee_teck@moe.edu.sg](mailto:goh_swee_teck@moe.edu.sg)  | Mdm Subashini  <br>[subashini_sivananthan@moe.edu.sg](mailto:subashini_sivananthan@moe.edu.sg)  |
 | P 4-2 | Mr Michael Au<br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Miss Yasmin<br> [yasmin_syed_yaacob@moe.edu.sg](mailto:yasmin_syed_yaacob@moe.edu.sg)  |
-| P 4-3 |  Mr Goh Swee Teck <br> [goh_swee_teck@moe.edu.sg](mailto:goh_swee_teck@moe.edu.sg)  |  Mdm Zhang Lei <br> [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
+| P 4-3 |  Mdm Yeong Yi Mei <br> [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)  |  Mdm Zhang Lei <br> [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg)  |
 |  P 4-4 | Mdm Rosalind Tan <br> [tan_hwee_tiang@moe.edu.sg](mailto:tan_hwee_tiang@moe.edu.sg) |    Mr Huang Shihao <br> [huang_shihao@moe.edu.sg](mailto:huang_shihao@moe.edu.sg)  |
 |  P 4-5  | Ms Ang Lee Im <br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Mdm Audrey Heng <br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)  |
 | P 4-6 | Mrs Chiu Wan Ting <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)  | Mdm Nurshidah   <br> [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)  |
