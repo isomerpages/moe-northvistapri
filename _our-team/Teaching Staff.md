@@ -29,7 +29,7 @@ variant: markdown
 | P 2-4 | Mdm Nur Ashiqin   <br> [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)   |  Ms Vanna Tan <br> [Vanna_tan_a@moe.edu.sg](mailto:Vanna_tan_a@moe.edu.sg) <br><br>  Mdm Lydia <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
 | P 2-5 | Miss Norazizah  <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg) | Mrs Irene Tan  <br> [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)  |
 | P 2-6  |  Mdm Rose Iliyana  <br>  [Rose_Iliyana_Mohamad_Said@moe.edu.sg](mailto:Rose_Iliyana_Mohamad_Said@moe.edu.sg) | Mdm Liu Jin <br>  [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg) |
-| P 2-7 | Ms Liu Lingzhu <br>  [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  | Miss Nia Haziqah <br> [nia_haziqah_hanafi@ moe.edu.sg](mailto:nia_haziqah_hanafi@moe.edu.sg) <br><br>  Ms Tan Yi Shian <br> [tan_yi_shian@moe.edu.sg](mailto:tan_yi_shian@moe.edu.sg)  |  
+| P 2-7 | Ms Liu Lingzhu <br>  [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  | Miss Nia Haziqah <br> [nia_haziqah_hanafi@ moe.edu.sg](mailto:nia_haziqah_hanafi@moe.edu.sg) |  
 | P 2-8  |  Ms Wu Lihua  <br>  [wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg) | Ms Soh Chai Pheng <br>  [soh_chai_pheng@moe.edu.sg](mailto:soh_chai_pheng@moe.edu.sg) |
 
 
