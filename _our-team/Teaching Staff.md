@@ -70,7 +70,7 @@ variant: markdown
 | P 5-2 | Mrs Tan Huishan <br> [wang_huishan@moe.edu.sg](mailto:wang_huishan@moe.edu.sg)  | Mrs Josephine Goh <br> [josephine_ong_yan_ting@moe.edu.sg](mailto:josephine_ong_yan_ting@moe.edu.sg) <br><br> Mdm Nurshidah  <br> [nurshidah_mokhtar@moe.edu.sg](mailto:nurshidah_mokhtar@moe.edu.sg)  |
 |  P 5-3  | Mr Jason Goh  <br>  [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg)   | Mrs Dridi Elnie <br>[elnie_tryana_dridi@moe.edu.sg](mailto:elnie_tryana_dridi@moe.edu.sg) <br><br> Miss Nur Syafiqah <br>[nur_syafiqah_mohamed_shah@moe.edu.sg](mailto:nur_syafiqah_mohamed_shah@moe.edu.sg)   |
 |  P 5-4  |   Mrs Angela Tan <br> [tan_shi_fern@moe.edu.sg](mailto:tan_shi_fern@moe.edu.sg)  | Ms Ian Farah <br> [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg) |
-| P 5-5 |  Ms Seah Joyce<br>   [seah_chern_mei@moe.edu.sg](mailto:seah_chern_mei@moe.edu.sg) | Mr Nelson Ong<br>   [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg) <br><br> Mrs Ashley Mak<br>   [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg) |
+| P 5-5 |  Ms Joyce Seah <br>   [seah_chern_mei@moe.edu.sg](mailto:seah_chern_mei@moe.edu.sg) | Mr Nelson Ong<br>   [ong_yong_hui_nelson@moe.edu.sg](mailto:ong_yong_hui_nelson@moe.edu.sg) <br><br> Mrs Ashley Mak<br>   [tan_sock_kee@moe.edu.sg](mailto:tan_sock_kee@moe.edu.sg) |
 | P 5-6 |  Mdm Gan Hui Ling Jen<br> [gan_hui_ling@moe.edu.sg](mailto:gan_hui_ling@moe.edu.sg)  | Mdm Zhang Lei <br>  [zhang_lei@moe.edu.sg](mailto:zhang_lei@moe.edu.sg) |
 | P 5-7 |  Mr Lyndon Long<br> [long_tianjun_lyndon@moe.edu.sg](mailto:long_tianjun_lyndon@moe.edu.sg)  | Mdm Zheng Hui  <br>  [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg) |
 
