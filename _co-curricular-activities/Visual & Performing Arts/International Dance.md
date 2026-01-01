@@ -16,16 +16,14 @@ There are 3 teams - Seniors, Juniors and Newbies. Seniors and Juniors who are co
 #### CCA Schedule
 Mondays and Fridays. Schedule will be sent to parents via Parent's Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |----|----|
-| Ms Yanni  (Overall-In-Charge)  | [nurhariyanni_ramli@moe.edu.sg](mailto:nurhariyanni_ramli@moe.edu.sg) |
-| Miss Devaki D/O Vindinnada  | [devaki_vindinnada@moe.edu.sg](mailto:devaki_vindinnada@moe.edu.sg)  |
+| Mrs Kelly Lim (Overall-In-Charge)  | [mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg  ) |
 | Mrs Eng I-Ling   | [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  |
 |Miss Atiroh  | [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  |
-|Ms Vijayalakshmi | [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
-|
+
 
 
 
