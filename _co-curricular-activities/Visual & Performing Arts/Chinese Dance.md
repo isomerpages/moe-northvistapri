@@ -20,15 +20,14 @@ Other than the Singapore Youth Festival Arts Presentation, our dancers also have
 #### CCA Schedule
 Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Mdm Zheng Hui (Overall-In-Charge) | [zheng_hui@moe.edu.sg](mailto:zheng_hui@moe.edu.sg) |
-| Mdm Xu Lupin | [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg) |
-| Miss Lai Liyu |[lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg)  |
 |Ms Wu Lihua |[wu_lihua@moe.edu.sg](mailto:wu_lihua@moe.edu.sg)  |
-|
+| Mdm Xu Lupin | [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg) |
+| Ms Joyce Seah |[seah_chern_mei@moe.edu.sg](mailto:seah_chern_mei@moe.edu.sg)  |
 
 ![](/images/CCA/VAPA/cld1.jpg)
 
