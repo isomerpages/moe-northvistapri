@@ -12,14 +12,15 @@ Students may be selected to represent the school to participate in art competiti
 #### CCA Schedule
 Mondays.  Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Ms Ian Farah (Overall-In-Charge) | [ian_farah_mohamed@moe.edu.sg](mailto:ian_farah_mohamed@moe.edu.sg)
+| Ms Liu Lingzhu  | [liu_lingzhu@moe.edu.sg](mailto:liu_lingzhu@moe.edu.sg)  |
 | Ms Sugashini   | [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)  |
 | Mdm Rozita  | [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)  |
-| Ms Soniajit Kaur  | [soniajit_kaur@moe.edu.sg](mailto:soniajit_kaur@moe.edu.sg)  |
+| Ms Vijayalakshmi  | [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  |
 
 ![](/images/CCA/VAPA/art1.jpg)
 
