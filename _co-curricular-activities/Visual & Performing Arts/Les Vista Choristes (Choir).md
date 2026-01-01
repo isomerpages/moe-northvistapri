@@ -24,15 +24,14 @@ Living by our motto “We Sing. We Inspire. We Bring Joy”, our choristers aspi
 #### CCA Schedule
 Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Mr Teo Ting Rui (Overall-In-Charge) | [ting_rui_teo@moe.edu.sg](mailto:ting_rui_teo@moe.edu.sg) |
 | Miss Chong Yuan Ping | [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg) |
-| Miss Jessica Cheah | [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg) |
-| Mdm Rosalind Tan  | [tan_hwee_tiang@moe.edu.sg](mailto:tan_hwee_tiang@moe.edu.sg)  |
-|
+| Ms Astrinka| [astrinka_ryzanti_putri_kamaludin@moe.edu.sg](mailto:astrinka_ryzanti_putri_kamaludin@moe.edu.sg) |
+
 
 ![](/images/CCA/VAPA/choir1.jpg)
 
