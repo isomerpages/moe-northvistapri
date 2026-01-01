@@ -26,14 +26,14 @@ To support students’ continuous growth, we encourage borrowing instruments for
 #### CCA Schedule
 Practises are held on Mondays and Fridays. The full schedule will be communicated to parents through Parents Gateway before the start of each semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
+| Mrs Dridi Elnie (Overall-In-Charge) | [elnie_tryana_dridi@moe.edu.sg](mailto:elnie_tryana_dridi@moe.edu.sg) |
 | Ms Vanna Tan (Overall-In-Charge) | [Vanna_tan_a@moe.edu.sg](mailto:Vanna_tan_a@moe.edu.sg) |
-| Miss Chiang Yan Sing | [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |
 | Mr Goh Swee Teck | [goh_swee_teck@moe.edu.sg](mailto:goh_swee_teck@moe.edu.sg)  |
-| Ms Sukainah | [sukainah_mohamed_mohsen@moe.edu.sg](mailto:sukainah_mohamed_mohsen@moe.edu.sg) |
+| Mrs Chiu Wan Ting | [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg) |
 
 
 
