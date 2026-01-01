@@ -25,13 +25,14 @@ variant: markdown
 | SN | Name | Email |
 | -------- | -------- | -------- |
 | 1     |  Mr John Leong Kok Kheong, Operations Manager     | [leong_kok_kheong_john@moe.edu.sg](mailto:leong_kok_kheong_john@moe.edu.sg)     |
-| 2     |  Mr Tay Kok Meng, Operations Support Officer      |    |
+| 2     |  Mr Goh Chun Guan, Operations Manager     | [goh_chun_guan@moe.edu.sg](mailto:goh_chun_guan@moe.edu.sg)     |
 | 3     |  Ms Jasmine Tan, Operations Support Officer     |    |
 | 4     |  Mdm Ng Sok Cheng, Operations Support Officer       |     |
 | 5     |  Mdm Ting Sieng Mee, Operations Support Officer     | 
-| 6     |  Mdm Stephanie Lui Peck Lee, Operations Support Officer| |
+| 6     |  Mdm Stephanie Lui, Operations Support Officer| |
 7 |  Mr Ng Boon Chuang, Operations Support Officer| |
 8 |  Mr Lawrence Koong, Operations Support Officer| |
+9 |  Mr Sim Hong Khin, Operations Support Officer| |
 
 #### Support
 
