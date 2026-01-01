@@ -12,7 +12,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 1     | Ms Thanaletchoomi D/O Ngenagaran, Administration Manager     | [thanaletchoomi_ngenagaran@moe.edu.sg](mailto:thanaletchoomi_ngenagaran@moe.edu.sg)      |
 | 2     | Ms Tanti, Corporate Support Officer     | [tanti_yani_zaini@moe.edu.sg](mailto:tanti_yani_zaini@moe.edu.sg)         |
-| 3     | Miss Tan Young Choo Lilian, Corporate Support Officer       | [tan_young_choo_lilian@moe.edu.sg](mailto:tan_young_choo_lilian@moe.edu.sg)    |
+| 3     | Ms Jesslyn Seet, Corporate Support Officer       | [seet_tiat_hian@moe.edu.sg](mailto:seet_tiat_hian@moe.edu.sg)    |
 | 4     | Mdm Nur Amiza Zainal, Corporate Support Officer       | [nur_amiza_zainal@moe.edu.sg](mailto:nur_amiza_zainal@moe.edu.sg)    |
 | 5     | Ms Elaine Ling, Corporate Support Officer        | [elaine_ling@moe.edu.sg](mailto:elaine_ling@moe.edu.sg)    |
 | 6     | Miss Shasmita Sivakumar Pillai, Administrative Executive   | [shasmita_sivakumar_pillai@moe.edu.sg](mailto:shasmita_sivakumar_pillai@moe.edu.sg)     |
