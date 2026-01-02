@@ -17,16 +17,16 @@ Tuesdays and Thursdays - Juniors
 
 Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Ms Shamin Lin (Overall-In-Charge) |[lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |
 | Ms Ang Lee Im |[ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg) |
+| Ms Evelyn Leo |[leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg) |
 | Mr Reuben Lim |[reuben_lim_sin_hua@moe.edu.sg](mailto:reuben_lim_sin_hua@moe.edu.sg) |
 | Mdm Yeong Yi Mei |[yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg) |
-| Ms Evelyn Leo |[leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg) |
-| Mrs Kelly Lim  |[mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg  ) |
+| Miss Yasmin |[yasmin_syed_yaacob@moe.edu.sg](mailto:yasmin_syed_yaacob@moe.edu.sg) |
 |
 
 ![](/images/CCA/Sports/softball1.jpg)
