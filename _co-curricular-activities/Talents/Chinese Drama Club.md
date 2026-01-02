@@ -16,14 +16,14 @@ Mondays.
 
 Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
-| Mdm Choo Siang Beng (Overall-In-Charge) | [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg) |
+| Miss Jessica Cheah (Overall-In-Charge) | [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg) |
+| Miss Lai Liyu  | [lai_liyu@moe.edu.sg](mailto:lai_liyu@moe.edu.sg)  |
 | Mdm Liu Jin | [liu_jin@moe.edu.sg](mailto:liu_jin@moe.edu.sg) |
-| Mdm Liu Lingzhu  | [liu_ling_zhu@moe.edu.sg](mailto:liu_ling_zhu@moe.edu.sg)  |
-|
+
 
 ![](/images/CCA/Talent/cldrama1.jpg)
 
