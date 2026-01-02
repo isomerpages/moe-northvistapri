@@ -25,15 +25,14 @@ Students will learn to work in teams and build on their confidence, communicatio
 #### CCA Schedule
 Fridays. Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Mr Tan Kheng Eng (Overall-In-Charge) | [tan_kheng_eng@moe.edu.sg](mailto:tan_kheng_eng@moe.edu.sg) |
 | Mr Michael Au  | [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  |
-| Mrs Tan Yan Bing  | [tan_yan_bing@moe.edu.sg](mailto:tan_yan_bing@moe.edu.sg)  |
 | Mrs Vivien Lim  | [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  |  |  |
-|
+
 
 
 ![](/images/CCA/ICT/scee1.jpg)
