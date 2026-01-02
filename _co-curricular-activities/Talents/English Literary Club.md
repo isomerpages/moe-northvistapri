@@ -16,13 +16,13 @@ Fridays.
 
 Schedule will be sent to parents via Parent Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Mdm Rose Iliyana (Overall-In-Charge) | [rose_iliyana_mohamad_said@moe.edu.sg](mailto:rose_iliyana_mohamad_said@moe.edu.sg) |
 | Mdm Nur Ashiqin (Overall-In-Charge) | [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg) |
-| Mdm Nur Faezah | [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg) |
+| Miss Alea | [alea_imran_a@moe.edu.sg](mailto:alea_imran_a@moe.edu.sg) |
 | 
 
 ![](/images/CCA/Talent/eldrama1.jpg)
