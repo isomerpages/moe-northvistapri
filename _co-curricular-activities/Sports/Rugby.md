@@ -22,14 +22,16 @@ Tuesdays and Thursdays - Juniors
 
 Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Mr Jason Goh (Overall-In-Charge) | [goh_choon_heng_jason@moe.edu.sg](mailto:goh_choon_heng_jason@moe.edu.sg) |
-| Mr Joel Wong | [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg) |
 | Miss Nur Khairunnisa | [nur_khairunnisa_jawahir@moe.edu.sg](mailto:nur_khairunnisa_jawahir@moe.edu.sg) |
-| Mr Dennis Tan | [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg) |  |  |
+| Mr Dennis Tan | [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg) |  
+| Mr Joel Wong | [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg) |
+| Mr Benjamin Wong | [wong_yitung_benjamin@moe.edu.sg](mailto:wong_yitung_benjamin@moe.edu.sg) |
+
 
 ![](/images/CCA/Sports/rugby1.jpg)
 
