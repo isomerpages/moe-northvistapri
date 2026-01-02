@@ -21,14 +21,14 @@ Mondays and Fridays.
 
 Schedule will be sent to parents via Parents Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Mr Lawrence Lim (Overall-In-Charge) | [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg) |
 | Mr Lyndon Long | [long_tianjun_lyndon@moe.edu.sg](mailto:long_tianjun_lyndon@moe.edu.sg)  |
-| Mdm Roxanne Chua  | [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg)  |
 |Miss Norazizah  | [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg)  |
+| Mr Wayne Chia  | [chia_peng_han_wayne@moe.edu.sg](mailto:chia_peng_han_wayne@moe.edu.sg)  |
 
 ![](/images/CCA/Sports/bball1.jpg)
 
