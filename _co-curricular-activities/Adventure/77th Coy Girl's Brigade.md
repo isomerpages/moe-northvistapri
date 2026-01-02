@@ -18,14 +18,14 @@ Fridays.
 
 Schedule will be sent to parents via Parent Gateway before the start of a new semester.
 
-#### Teachers-In-Charge
+#### CCA Teachers
 
 | Name of Teacher | Email Address |
 |---|---|
 | Mdm Peh Shay Ling (Overall-In-Charge) | [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg)  |
-|Mrs Selene Yu  | [ng_soo_cheng@moe.edu.sg](mailto:ng_soo_cheng@moe.edu.sg)  |
-| Mrs Chiu Wan Ting  | [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg) |
-|
+|Miss Chiang Yan Sing  | [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg)  |
+| Mdm Choo Siang Beng   | [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg) |
+
 
 ![](/images/CCA/Adventure/gb1.jpg)
 
