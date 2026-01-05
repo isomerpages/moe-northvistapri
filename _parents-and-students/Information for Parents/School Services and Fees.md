@@ -97,10 +97,10 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 #### Student Care<a name="student"></a> 
 
 
-| Name | Nascans Student Care Centre | |
+| Name | Commit Learning SchoolHouse  | |
 | -------- | -------- | -------- |
-| Telephone  | 9829 2889 or 9622 4924  | |
-| Email | nvscc@nascans.com | |
+| Telephone  | 8033 6243  | |
+| Email | admission_cls_nvtps@commitlearning.com.sg | |
 | Opening Hours | 11 a.m. to 7 p.m.
 
 	
