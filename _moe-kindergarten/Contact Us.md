@@ -11,22 +11,22 @@ Singapore 544974
 
 ##### **Operating Hours**
 
-**MK:** 8 a.m. - 5 p.m.
+**MK:** 8 am - 5 pm
 
-**KCare:** 7 a.m. - 7 p.m.
+**KCare:** 7 am - 7 pm
 
 ##### **Phone**
 
 **MK:** 6235 1247
 
-**KCare:** 8198 9722
+**KCare:** 8917 8340
 
 
 ##### **Email**
 
 **MK**: [mk\_northvista@moe.edu.sg](mailto:mk_northvista@moe.edu.sg)
 
-**KCare**: [supervisor.nvkcc@nascans.com](http://supervisor.nvkcc@nascans.com/)
+**KCare**: [admission_cls_nvtps_kcare@commitlearning.com.sg](mailto:admission_cls_nvtps_kcare@commitlearning.com.sg)
 
 ##### **Instagram**
 **Visit [MK@North Vista](https://www.instagram.com/moekindergarten_northvista/?igsh=MXU5NHFxcHhsNGhyZw%3D%3D)**
