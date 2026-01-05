@@ -131,7 +131,7 @@ A student is eligible for MOE FAS if the Gross Household Income (GHI) does not e
 
 You can apply online via this [link](https://form.gov.sg/68b7e92465cd36be287889c6).
 
-You may email us at nvtps@moe.edu.sg if you face any technical difficulties.
+You may email us at [nvtps@moe.edu.sg](nvtps@moe.edu.sg) if you face any technical difficulties.
 
 Tip: If you have children in different government or government-aided schools, you just need to submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome.
 
