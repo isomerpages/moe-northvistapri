@@ -14,9 +14,8 @@ description: ""
 <p>Kindergarten Care (KCare) is a care service available in all MOE Kindergartens
 (MK).&nbsp;</p>
 <p></p>
-<p>KCare operates from Monday to Friday, 7 a.m. to 7 p.m., including school
-holidays. It is closed on public holidays and up to 6 additional days each
-year.</p>
+<p>KCare operates from Monday to Friday, 7 am to 7 pm, including school holidays.
+It is closed on public holidays and up to 6 additional days each year.</p>
 <p></p>
 <p>The service provider for KCare @ North Vista is <strong>Commit Learning SchoolHouse.</strong>
 </p>
