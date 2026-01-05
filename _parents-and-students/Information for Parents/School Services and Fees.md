@@ -120,8 +120,6 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 
 A student is eligible for MOE FAS if the Gross Household Income (GHI) does not exceed $4000 per month or Per Capita Income (PCI) does not exceed $1000 per month.
 
-The introduction of Per Capita Income (PCI) will enable students from larger families to benefit from financial assistance. Household members include parents, unmarried siblings and grandparents of the child as well as other dependents living in the same household. PCI is computed by dividing the gross household income by the number of the members in the household. For more details, please refer to [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
-
 ##### Benefits under MOE FAS Scheme for Primary Level
 1. Full wavier of $13 per month for miscellaneous fees
 2. Free textbooks
@@ -131,13 +129,9 @@ The introduction of Per Capita Income (PCI) will enable students from larger fam
 
 ##### How to apply
 
-Parents can  approach the school directly if they require financial assistance. Please bring the following supporting documents with you during your application.
+You can apply online via this [link](https://form.gov.sg/68b7e92465cd36be287889c6).
 
-
-| | For each working household member | For each self-employed/unemployed family member |
-| -------- | -------- | -------- |
-| Documents required | a) Recent pay slip; or <br> b) Letter from the employer certifying the gross monthly income. <br> c) CPF Transaction Statement for past 12 months. | a) Latest Income Tax Assessment Returns reflecting his/her current income status; or <br> b) Written declaration at Section A/B of Annex II in the application form. <br> c) CPF Transaction Statement for past 12 months.     |
-
+You may email us at nvtps@moe.edu.sg if you face any technical difficulties.
 
 ##### PC-Bundle Application Forms
 	
