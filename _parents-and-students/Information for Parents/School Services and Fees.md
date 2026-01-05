@@ -101,7 +101,7 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 | -------- | -------- | -------- |
 | Telephone  | 8033 6243  | |
 | Email | admission_cls_nvtps@commitlearning.com.sg | |
-| Opening Hours | 11 a.m. to 7 p.m.
+| Opening Hours | Monday to Friday, 1.30 pm to 7.00 pm (School Terms) <br><br> Monday to Friday, 7.30 am to 7.00 pm (School Holidays)
 
 	
 |||
