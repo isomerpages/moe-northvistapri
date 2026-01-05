@@ -136,7 +136,7 @@ You may email us at [nvtps@moe.edu.sg](nvtps@moe.edu.sg) if you face any technic
 Tip: If you have children in different government or government-aided schools, you just need to submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome.
 
 
-Students from low-income households who are interested to apply for subsidised broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply via https://www.imda.gov.sg/how-we-can-help/digital-access-at-home or contact 6377 3800 or email: digitalaccess@imda.gov.sg .
+Students from low-income households who are interested to apply for subsidised broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply via this [link](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home) or contact 6377 3800 or email: [digitalaccess@imda.gov.sg](digitalaccess@imda.gov.sg) .
 	
 
 
