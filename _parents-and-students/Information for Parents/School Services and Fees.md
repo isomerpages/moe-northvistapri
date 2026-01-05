@@ -23,8 +23,8 @@ variant: markdown
 | Name | Field Dental Clinic by HPB |  |
 | -------- | -------- | -------- |
 | Telephone | 8764 0230 |    |
-| Opening Hours (Alternate week)  | Monday, Wednesday and Friday (8am to 5pm), Tuesday and Thursday (8am to 530pm)     |    |
-| Lunch Hour | 1pm to 2pm
+| Opening Hours (Alternate week)  | Monday, Wednesday and Friday (8 am to 5 pm), Tuesday and Thursday (8 am to 5.30 pm)     |    |
+| Lunch Hour | 1 pm to 2 pm
 
 	
 |||
@@ -38,7 +38,7 @@ variant: markdown
 | Name | BL Marketing Pte Ltd | |
 | -------- | -------- | -------- |
 | Telephone  | 6481 2378  | |
-| Opening Hours | Monday to Friday, 7.30 a.m. to 2.30 p.m.
+| Opening Hours | Monday to Friday, 7.30 am to 2.30 pm
 
 
 During term time, parents are requested to purchase items during non-peak hours. For the purchase of name tag, parents can fill up the [name tag order form](/files/nametag%20order.pdf) and submit to the school bookshop.
