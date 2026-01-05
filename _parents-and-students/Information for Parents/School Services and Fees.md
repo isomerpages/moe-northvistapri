@@ -86,7 +86,7 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 
 | Name | My Little Library | |
 | -------- | -------- | -------- |
-| Opening Hours  | 8 a.m. to 4 p.m. | |
+| Opening Hours  | 8 am to 4 pm | |
 
 	
 |||
