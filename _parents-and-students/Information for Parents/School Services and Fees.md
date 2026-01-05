@@ -133,11 +133,12 @@ You can apply online via this [link](https://form.gov.sg/68b7e92465cd36be287889c
 
 You may email us at nvtps@moe.edu.sg if you face any technical difficulties.
 
-##### PC-Bundle Application Forms
+Tip: If you have children in different government or government-aided schools, you just need to submit 1 application form to any of their schools. The school that receives the application form will inform you of the outcome.
+
+
+Students from low-income households who are interested to apply for subsidised broadband and/or laptop/tablet under IMDA DigitalAccess@Home can apply via https://www.imda.gov.sg/how-we-can-help/digital-access-at-home or contact 6377 3800 or email: digitalaccess@imda.gov.sg .
 	
-* [NPP PC-Bundle Application Form (MOE-SPED FAS)](/files/NPP_MOE_SPED_FAS.pdf)
-* [NPP PC-Bundle Application Form (Non MOE-SPED FAS)](/files/NPP_NON_MOE_SPED_FAS.pdf)
-* [M1-IMDA Fibre Broadband Service Application Form](/files/M1-IMDA%20Fibre%20Broadband%20Service%20Application%20Form.pdf)
+
 
 	
 |||
