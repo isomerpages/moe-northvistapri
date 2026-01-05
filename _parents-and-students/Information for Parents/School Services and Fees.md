@@ -69,11 +69,10 @@ Parents can arrange for home delivery for purchases above $50. There is a delive
 #### School Bus<a name="bus"></a>
 
 
-| Name | SFX Transport Pte Ltd | |
+| Name | RushOwl Singapore Pte Ltd | |
 | -------- | -------- | -------- |
-| Telephone | 6282 0262 | |
-| Fax | 6382 0262 | |
-| Email | enquiry@sfxtransport.com.sg | |
+| Telephone | 8378 3837 | |
+| Email | school@rushowl.sg | |
 
 	
 |||
