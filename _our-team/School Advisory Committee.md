@@ -60,7 +60,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SAC/ms_joyce_teo.jpg">
 </div>
-<p>Ms Joyce Yeo
+<p>Ms Joyce Yeo r
 <br><strong>Member</strong>
 </p>
 </td>
