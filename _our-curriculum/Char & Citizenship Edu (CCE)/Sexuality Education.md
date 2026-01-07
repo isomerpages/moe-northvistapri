@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Char & Citizenship Edu (CCE)
 variant: markdown
 ---
-1) Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  <br>
+1) Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  <br>
 
 2) The **Goals** of Sexuality Education are:
 
@@ -28,7 +28,7 @@ variant: markdown
 
 You may click [here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
- **Overview of North Vista Primary School's Sexuality Education Programme for 2025**
+ **Overview of North Vista Primary School's Sexuality Education Programme for 2026**
 
 4) Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum. <br>
 
@@ -47,12 +47,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more in
 
 8) Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9)  Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp; [here](/files/Parent_Opt_Out_Form.pdf) &nbsp;. The completed opt-out form is to be submitted by 24/01/2025. 
+9)  Parents who wish to opt their children out of the Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp; [here](/files/2026_Parent_Opt_Out_Form.pdf)] &nbsp;. The completed opt-out form is to be submitted by 26/01/2026. 
 
 10)  Parents can contact the school at&nbsp;[nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg)&nbsp;or 6484 3566&nbsp; for discussion or to seek clarification about the school's Sexuality Education programme.
 <br><br>
 
-**At North Vista Primary School, the following Sexuality Education lessons will be taught in 2025:** <br><br>
+**At North Vista Primary School, the following Sexuality Education lessons will be taught in 2026:** <br><br>
 **CCE(FTGP) THEME: Growing Years**<br><br>
  **Primary 5**
 
@@ -70,5 +70,5 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more in
 
 | **LESSON TITLE / DURATION**| **LESSON OVERVIEW**| **TIME PERIOD** |
 | -------- | -------- | -------- |
-| Are We More than Friends? <br>Lesson 1 <br> (60 min)   | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.     | Term 2 Week 4     |
-| Are We More than Friends? <br>Lesson 2 <br> (60 min)      | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.    | Term 2 Week 5     |
+| Are We More than Friends? <br>Lesson 1 <br> (60 min)   | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.     | Term 2 Week 7     |
+| Are We More than Friends? <br>Lesson 2 <br> (60 min)      | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.    | Term 2 Week 8     |
