@@ -36,7 +36,7 @@ Upon successful award, the stallholder is expected to meet these requirements: <
 •	Photocopy of the NRIC (front and back)
 
 ##### Closing date for Application <br>
-You may email us the completed application form with the required documents at nvtps@moe.edu.sg <br><br>
+You may email us the completed application form with the required documents at [nvtps@moe.edu.sg](mailto:nvtps@moe.edu.sg) <br><br>
 Incomplete applications will not be considered. Only shortlisted applicants will be notified to attend an interview and food-tasting session, if applicable, at his/her own expense.
 
 **Persons to Contact** <br>
