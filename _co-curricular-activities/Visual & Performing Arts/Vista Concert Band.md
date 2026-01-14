@@ -24,7 +24,7 @@ To support students’ continuous growth, we encourage borrowing instruments for
 ![](/images/bandqr.png)
 
 #### CCA Schedule
-Practises are held on Mondays and Fridays. The full schedule will be communicated to parents through Parents Gateway before the start of each semester.
+Every Monday and Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
