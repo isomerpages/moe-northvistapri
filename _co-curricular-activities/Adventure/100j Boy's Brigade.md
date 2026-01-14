@@ -19,7 +19,7 @@ Boys identify with mental and physical disciplines like time management, squad d
 Boys discover the basic building blocks of relational influence in the foundational leadership habits of encouragement, social initiative, trustworthiness and service to others.
 
 #### CCA Schedule
-Every Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
