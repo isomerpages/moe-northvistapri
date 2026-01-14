@@ -1,6 +1,6 @@
 ---
 title: English Drama Club
-permalink: /co-curricular-activities/talents/english-literary-club/
+permalink: /co-curricular-activities/talents/english-drama-club/
 description: ""
 third_nav_title: Talents
 variant: markdown
