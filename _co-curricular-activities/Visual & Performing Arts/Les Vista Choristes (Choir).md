@@ -5,12 +5,10 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-Les Vista Choristes was formed in 2013 with the mission to help choristers pursue excellence through their passion in music. The choir’s motto is “We Sing. We Inspire. We Bring Joy.” Through their singing, the choir hopes to inspire and bring joy to people around them.
+Founded in 2013, the Choir was established with the mission of nurturing a love for music while empowering choristers to pursue excellence in their vocal and musical development. United by a shared passion for singing, the Choir aims to inspire, uplift, and bring joy to audiences through heartfelt and expressive performances.
 
-Les Vista Choristes consists of the Junior and Senior choir. Selection is mainly through audition and by invitation.
+The Choir is composed of two main divisions: the Junior Choir and the Senior Choir, providing age-appropriate training and performance opportunities for choristers at different stages of their musical journey. The Choir places great importance on regular attendance and discipline, as they are essential to the growth and success of each chorister and the Choir as a whole.
 
-#### Values In Action
-Living by our motto “We Sing. We Inspire. We Bring Joy”, our choristers aspire to inspire and bring joy to the community through their voices. Les Vista Choristes’ adopted charity is Grace Lodge Nursing Home and the choir has been visiting the residents regularly to share their care and music.
 
 
 #### CCA Schedule
