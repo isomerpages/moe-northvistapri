@@ -14,7 +14,7 @@ Living by our motto “We Sing. We Inspire. We Bring Joy”, our choristers aspi
 
 
 #### CCA Schedule
-Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Every Monday and Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
