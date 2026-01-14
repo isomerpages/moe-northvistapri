@@ -12,9 +12,8 @@ variant: markdown
 *   Develop students with good sportsmanship, teamwork and discipline
 
 #### CCA Schedule
-Fridays. 
-
-Schedule will be sent to parents via Parent Gateway before the start of a new semester.
+Every Friday. 
+ Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
