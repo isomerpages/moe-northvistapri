@@ -9,7 +9,7 @@ Vista Chinese Dance was established since 2011. It consists of students from the
 
 
 #### CCA Schedule
-Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Every Monday and Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
