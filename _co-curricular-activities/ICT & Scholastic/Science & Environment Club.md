@@ -17,10 +17,6 @@ Some of the themes that students will explore include recycling, reducing food w
 
 Students will learn to work in teams and build on their confidence, communication skills and values such as respect, resilience and care.
 
-#### Achievements
-*   Participated in the Singapore Green Awards (SGA) and attained the Palm Award (2016)
-*   Participated in the Singapore Green Awards (SGA) and attained the Lotus Award (2017)
-*   Participated in the Singapore Green Awards (SGA) and attained the Yellow Flame Award (2018)
 
 #### CCA Schedule
 Fridays. Schedule will be sent to parents via Parents Gateway before the start of a new semester.
