@@ -12,14 +12,6 @@ Les Vista Choristes consists of the Junior and Senior choir. Selection is mainly
 #### Values In Action
 Living by our motto “We Sing. We Inspire. We Bring Joy”, our choristers aspire to inspire and bring joy to the community through their voices. Les Vista Choristes’ adopted charity is Grace Lodge Nursing Home and the choir has been visiting the residents regularly to share their care and music.
 
-#### Achievements
-2014: Distinction Award in Singapore Youth Festival Arts Presentation (SYF AP) 
-2015: Magical Kingdom Concert @ Esplanade Recital Studio, Distinction Award in ABRSM (Basic Level) Choral Certification <br>
-2016: Distinction Award in Singapore Youth Festival Arts Presentation (SYF AP) <br>
-2016: Silver Diploma at Singapore International Choral Festival (Children's category) <br>
-2017: Gold Diploma &amp; Category Winner at 10th Orientale Concentus International Choral Festival 2017 (Children's category) <br>
-2017: Distinction Award in ABRSM (Basic Level) Choral Certification <br>
-2018: Certificate of Accomplishment in Singapore Youth Festival Arts Presentation (SYF AP)
 
 #### CCA Schedule
 Mondays and Fridays. Schedule will be sent to parents via Parents Gateway before the start of a new semester.
