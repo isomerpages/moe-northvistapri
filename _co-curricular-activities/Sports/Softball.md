@@ -13,9 +13,7 @@ Our Softball team (Vista Batters) participate in the National Softball Champions
 
 #### CCA Schedule
 Every Monday and Friday - Seniors <br>
-Every Tuesday and Thursday - Juniors
-
-Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Tuesday and Thursday - Juniors <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
