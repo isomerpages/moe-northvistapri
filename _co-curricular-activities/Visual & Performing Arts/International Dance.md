@@ -14,7 +14,7 @@ There are 3 teams - Seniors, Juniors and Newbies. Seniors and Juniors who are co
 [2021 Vista Awards International Dance Performance](https://drive.google.com/file/d/1KSwPw9jufsLKv_504V-N2gJ8-fAHQZ1c/view?usp=sharing)
 
 #### CCA Schedule
-Mondays and Fridays. Schedule will be sent to parents via Parent's Gateway before the start of a new semester.
+Every Monday and Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
