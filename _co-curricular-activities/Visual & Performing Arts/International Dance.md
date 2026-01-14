@@ -11,7 +11,7 @@ The school dance team Vista Danza was set up in 2010. Our all-girls team compris
 The programme provides training to equip our members with good knowledge and techniques of the contemporary pop dance genres such as hip hop, street, lyrical jazz, theatrical and fusion to participate and perform at events and dance competitions. Students who are committed and consistent in their progression will be shortlisted to represent the school to take part in SYF Arts Presentation. 
 
 #### CCA Schedule
-Every Monday and Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Monday and Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
