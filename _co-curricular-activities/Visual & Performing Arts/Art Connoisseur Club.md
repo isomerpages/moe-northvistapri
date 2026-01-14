@@ -10,7 +10,7 @@ Art Connoisseur Club was set up to offer opportunities to students who are inter
 Students may be selected to represent the school to participate in art competitions. Membership to Art Connoisseur Club is only by invitation.
 
 #### CCA Schedule
-Mondays.  Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Every Monday.  Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
