@@ -12,9 +12,7 @@ CL Drama is open to all students who are interested. It offers students the oppo
 Students may be shortlisted to represent the school in story-telling and speech competitions. They will also be given opportunities to perform in drama for school performances.
 
 #### CCA Schedule
-Mondays.
-
-Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Every Monday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
