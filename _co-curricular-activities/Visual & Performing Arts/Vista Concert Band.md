@@ -10,7 +10,7 @@ The Vista Concert Band seeks to nurture students' musical talents while fosterin
 #### Recruits (P2s)
 Our recruits are the future of the Vista Concert Band. During their first year, the focus is on building a strong foundation, covering essential skills like correct posture, breathing techniques, embouchure, instrument handling, and tone production.
 
-#### Junior & Main Band (P3s - P6s)
+#### Junior &amp; Main Band (P3s - P6s)
 After completing foundational training, recruits advance to the Junior Band, where they further refine their playing abilities. Junior Band members also have the opportunity to join the Main Band, where they develop advanced performance techniques, teamwork, and listening skills through ensemble playing.
 
 #### Band Exchanges and Performances
@@ -19,12 +19,12 @@ Band members regularly take part in band exchanges and performances both within 
 #### Encouraging Instrument Borrowing for Self-Practise
 To support students’ continuous growth, we encourage borrowing instruments for self-practise at home. Self-practise helps students strengthen their technical abilities, build discipline, and deepen their musical understanding. Parents need to fill out and sign an indemnity form for instrument borrowing, ensuring proper care of the school’s instruments.
 
-**Instrument Loan Form (Link:** [https://forms.moe.edu.sg/forms/JBBbLm](https://forms.moe.edu.sg/forms/JBBbLm))
+**Instrument Loan&nbsp;Form (Link:**&nbsp;[https://forms.moe.edu.sg/forms/JBBbLm](https://forms.moe.edu.sg/forms/JBBbLm))
 
 ![](/images/bandqr.png)
 
 #### CCA Schedule
-Every Monday and Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Monday and Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
