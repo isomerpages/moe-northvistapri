@@ -5,16 +5,16 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-The school dance team Vista Danza was set up in 2010. Our all girls’ team comprises of students from the P2 to P6 cohort. International Dance aims (i) to instil a great love for dance while inspiring self-confidence, develop appreciation of various modern dance forms, to strengthen discipline and to develop collective spirit while sustaining the love for dance (ii) to build character – Every dancer embodies the value of respect, resilience, responsibility, integrity, care and harmony.
+The school dance team Vista Danza was set up in 2010. Our all girls’ team comprises of students from the P2 to P6 cohort. International Dance aims (i)&nbsp;to instil a great love for dance while inspiring self-confidence, develop appreciation of various modern dance forms, to strengthen discipline and to develop collective spirit while sustaining the love for dance (ii)&nbsp;to build character – Every dancer embodies the value of respect, resilience, responsibility, integrity, care and harmony.
 
 The programme provides training to adequately equip our members with good knowledge and techniques of the contemporary pop dance genres such as hip hop, street, lyrical jazz, theatrical and fusion to participate and perform at events and dance competitions.
 
-There are 3 teams - Seniors, Juniors and Newbies. Seniors and Juniors who are committed and consistent in their progression will be shortlisted to represent the school to take part in SYF Arts Presentation. Membership in this team is mainly through trial and invitation.
+There are 3 teams - Seniors, Juniors and Newbies. Seniors and Juniors who are committed and consistent in their progression will be shortlisted to represent the school to take part in SYF Arts Presentation.&nbsp;Membership in this team is mainly through trial and invitation.
 
 [2021 Vista Awards International Dance Performance](https://drive.google.com/file/d/1KSwPw9jufsLKv_504V-N2gJ8-fAHQZ1c/view?usp=sharing)
 
 #### CCA Schedule
-Every Monday and Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Monday and Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
