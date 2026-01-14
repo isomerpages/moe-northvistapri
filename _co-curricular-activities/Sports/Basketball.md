@@ -17,9 +17,9 @@ There are 3 teams - Seniors, Juniors and Rookies. Students (in the Seniors and J
 \*If the student is committed and shows progression during training. Note that promotion to Juniors or Seniors team does not necessarily mean that the student will be selected to participate in the NSG.
 
 #### CCA Schedule
-Mondays and Fridays. 
+Every Monday and Friday. 
 
-Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
