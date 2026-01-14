@@ -11,7 +11,7 @@ The CCA prepares students for the Singapore Youth Festival (Drama) competition w
 
 
 #### CCA Schedule
-Every Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
