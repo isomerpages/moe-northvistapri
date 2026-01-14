@@ -12,10 +12,10 @@ Our Softball team (Vista Batters) participate in the National Softball Champions
 * If the student is committed and shows progression during training. Note that promotion to Juniors or Seniors Team does not necessarily mean that the student will be selected to participate in the NSG.
 
 #### CCA Schedule
-Mondays and Fridays - Seniors <br>
-Tuesdays and Thursdays - Juniors
+Every Monday and Friday - Seniors <br>
+Every Tuesday and Thursday - Juniors
 
-Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
