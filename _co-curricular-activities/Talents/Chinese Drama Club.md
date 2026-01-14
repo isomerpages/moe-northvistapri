@@ -5,14 +5,13 @@ description: ""
 third_nav_title: Talents
 variant: markdown
 ---
-Chinese Language (CL) Drama was set up in 2018 to offer more performing arts options to our students. Our team comprises of students from the P2 to P6 cohort.
+Chinese Language Drama develops students' acting skills, stage presence, and appreciation for the performing arts. Through regular training and stage opportunities, students learn to express themselves with clarity and emotion, both verbally and non-verbally, while building confidence in using the Chinese language.
 
-CL Drama is open to all students who are interested. It offers students the opportunities to learn performing techniques in drama and speech presentation in Mandarin. Through this CCA, students learn the basic skills and techniques of acting, storytelling and speech presentation.
+Participation in this CCA also nurtures students’ holistic development. As students work together to rehearse and perform, they develop essential life skills such as creativity, teamwork, and communication. They also become more self-aware and mindful of their tone, body language, and expressions, which helps them grow into confident, expressive individuals both on and off stage.
 
-Students may be shortlisted to represent the school in story-telling and speech competitions. They will also be given opportunities to perform in drama for school performances.
 
 #### CCA Schedule
-Every Monday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Monday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 

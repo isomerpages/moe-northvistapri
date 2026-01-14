@@ -5,21 +5,16 @@ description: ""
 third_nav_title: ICT & Scholastic
 variant: markdown
 ---
-We are a group of teachers and students who loves Science and enjoys exploring the different aspects of Science. We plant and harvest our own in-house hydroponics crops, make Science toys and conduct experiments to verify different Science theories and hypothesis.
+The Science and Environment Club brings together teachers and students who enjoy exploring the wonders of Science and caring for the environment. We grow hydroponic crops, build Science toys, and conduct fun hands-on experiments to explore scientific concepts.
 
-The team is focused in training for National Science competitions such as Singapore Youth Science Fair, Elementz and Science Buskers.
+The club nurtures curiosity and a love for Science, while promoting awareness of environmental issues. Through projects and campaigns, students learn to advocate for a greener future.
 
-The Environment Club aims to deepen students’ understanding and awareness of environmental issues and cultivate a pro-environment mindset amongst the club members.
+Themes include scientific investigations through fun activities, recycling, reducing food waste, and gardening. Along the way, students develop teamwork, confidence, communication, and values such as respect, resilience, and care.
 
-Through hands-on learning experiences, students will have opportunities to carry out projects on environmental issues. Students will also help to share environmental messages through morning assembly or run programmes to promote awareness in environmental issues.
-
-Some of the themes that students will explore include recycling, reducing food waste and gardening.
-
-Students will learn to work in teams and build on their confidence, communication skills and values such as respect, resilience and care.
 
 
 #### CCA Schedule
-Every Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
