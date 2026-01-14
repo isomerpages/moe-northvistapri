@@ -17,10 +17,10 @@ There are 3 teams - Seniors, Juniors and Rookies. Seniors and Juniors who are co
 
 #### CCA Schedule
 
-Mondays and Fridays - Seniors <br>
-Tuesdays and Thursdays - Juniors 
+Every Monday and Friday - Seniors <br>
+Every Tuesday and Thursday - Juniors 
 
-Schedule will be sent to parents via Parents Gateway before the start of a new semester.
+Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
