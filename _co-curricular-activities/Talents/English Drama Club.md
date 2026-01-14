@@ -5,11 +5,10 @@ description: ""
 third_nav_title: Talents
 variant: markdown
 ---
-#### Objectives 
-*   Cultivate the love of the English language through storytelling and drama
-*   Provide opportunities for students to use the English language purposefully
-*   Develop eloquent speakers, confident communicators and creative thinkers
-*   Develop students with good sportsmanship, teamwork and discipline
+English Drama provides students with a platform to develop communication skills, creativity, and self-expression. Through guided activities and script work, students explore storytelling, vocal projection, and stage presence in a supportive environment.
+
+The CCA prepares students for the Singapore Youth Festival (Drama) competition which paves the pathway for those considering Direct School Admission opportunities to the secondary school of their choice. Structured rehearsals and performance experiences help participants build confidence, teamwork, and artistic appreciation.
+
 
 #### CCA Schedule
 Every Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
