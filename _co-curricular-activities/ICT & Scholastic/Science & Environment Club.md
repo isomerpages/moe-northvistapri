@@ -19,7 +19,7 @@ Students will learn to work in teams and build on their confidence, communicatio
 
 
 #### CCA Schedule
-Every Friday. <br>Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
+Every Friday. Schedule will be sent to parents via Parents Gateway before the start of a new term/semester.
 
 #### CCA Teachers
 
