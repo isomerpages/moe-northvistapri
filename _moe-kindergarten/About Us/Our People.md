@@ -27,12 +27,12 @@ third_nav_title: About Us
 | **Name** | **Teaching Level** | 
 | Mdm Herma Ayuni <br>(Level Coordinator)| Kindergarten 1 <br> |
 |  Ms Is Kalsum |  Kindergarten 1<br> |
-|  Ms Nur Sabrina |  Kindergarten 1<br> |
-|  Ms Sherie Wong |  Kindergarten 1<br> |
-|  Ms Audrey Lim |  Kindergarten 2<br> ||
-|  Ms Nur Syafiqah |  Kindergarten 2<br> | |
-|  Ms Razeen Banu |   Kindergarten 2<br> |  |
-|  Mr Riyadh |   Kindergarten 2<br> | |
+|  Ms Audrey Lim<br>(SEN Coordinator) |  Kindergarten 1<br> |
+|  Ms Shazilah Mashor |  Kindergarten 1<br> |
+|  Ms Nur Syafiqah<br>(Senior Teacher) |  Kindergarten 2<br> ||
+|  Mr Riyadh<br>(Level Coordinator) |  Kindergarten 2<br> | |
+|  Ms Sherie Wong |   Kindergarten 2<br> |  |
+|  Ms Tiara Ammellia |   Kindergarten 2<br> | |
 
 
 
