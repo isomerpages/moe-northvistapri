@@ -5,29 +5,125 @@ description: ""
 variant: tiptap
 third_nav_title: About Us
 ---
-#### Programme Eligibility
-
-| Programme(for Singapore Citizens &amp; Permanent Residents) | Eligibility |
-|:---:|:---:|
-| Kindergarten 1 (K1) | Children turning 5 in the year of enrolment |
-| Kindergarten 2 (K2) | Children turning 6 in the year of enrolment |
-|  Kindergarten Care (KCare) | Children enrolled in MK@NV  |
-|
-
-#### Programme Hours
-
-| K1 &amp; K2  | (4-hour MK Programme) |
-|:---:|:---:|
-| AM Session | 8 a.m. to 12 noon |
-| PM Session | 1 p.m. to 5 p.m. |
-|
-
-_MK@NV follows MOE's calendar of school terms and school holidays._
-
-| K1 &amp; K2  | (Full day MK &amp; KCare Programme) |
-|:---:|:---:|
-| K1 &amp; K2 children who attend the MOE Kindergarten AM Session | 7 a.m. to 8 a.m. (KCare)<br>8 a.m. to 12 noon (MK)<br>12 noon to 7 p.m. (KCare)<br> |
-| K1 &amp; K2 children who attend the MOE Kindergarten PM Session | 7 a.m. to 1 p.m. (KCare)<br>1 p.m. to 5 p.m. (MK)<br>5 p.m. to 7 p.m. (KCare) |
-|
-
-_KCare operates from 7 a.m. to 7 p.m. on Mondays to Fridays, including school holidays._
+<h4>Programme Eligibility</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Programme(for Singapore Citizens &amp; Permanent Residents)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Eligibility</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kindergarten 1 (K1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children turning 5 in the year of enrolment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kindergarten 2 (K2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children turning 6 in the year of enrolment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kindergarten Care (KCare)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children enrolled in MK@NV</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Programme Hours</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>K1 &amp; K2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>(4-hour MK Programme)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AM Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 a.m. to 12 noon</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>MK@NV follows MOE's calendar of school terms and school holidays.</em>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>K1 &amp; K2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>(Full day MK &amp; KCare Programme)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>K1 &amp; K2 children who attend the MOE Kindergarten AM Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 a.m. to 8 a.m. (KCare)
+<br>8 a.m. to 12 noon (MK)
+<br>12 noon to 7 p.m. (KCare)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
