@@ -36,10 +36,28 @@ the start of a new term/semester.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Reuben Lim</p>
+<p>Ms Ian Farah (Overall-In-Charge)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:reuben_lim_sin_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">reuben_lim_sin_hua@moe.edu.sg</a>
+<p><a href="mailto:ian_farah_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">ian_farah_mohamed@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rozita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rozita_selamat@moe.edu.sg" rel="noopener nofollow" target="_blank">rozita_selamat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sugashini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sugashini_jayabalan@moe.edu.sg" rel="noopener nofollow" target="_blank">sugashini_jayabalan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
