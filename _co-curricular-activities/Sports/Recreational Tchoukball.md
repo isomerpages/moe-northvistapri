@@ -40,7 +40,7 @@ the start of a new term/semester.</p>
 <p>Mr Reuben Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yunzhen_shamin@moe.edu.sg" rel="noopener nofollow" target="_blank">reuben_lim_sin_hua@moe.edu.sg</a>
+<p><a href="mailto:reuben_lim_sin_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">reuben_lim_sin_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
