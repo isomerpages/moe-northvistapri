@@ -14,7 +14,7 @@ third_nav_title: About Us
 | Ms Nur Azlinda Ismail      | Centre Head<br>    | 
 | Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | 
 | Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | 
-| Ms Nur Sabrina      |  Level Head   | 
+| Ms Nur Syafiqah       |  Senior Teacher   | 
 
 
 
