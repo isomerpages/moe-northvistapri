@@ -43,12 +43,12 @@ third_nav_title: About Us
 ||| 
 |:---:|:---:|
 | **Name of Teacher** | **Teaching Level** |
-| Mdm Rebekah Poh | Kindergarten 1 <br> (Chinese Language)<br> |
-| Mdm Soh Ah Kiow | Kindergarten 1 <br>(Chinese Language)<br> |
-| Ms Ding Yuli | Kindergarten 1 <br>(Chinese Language)<br>   |
-| Mdm An Hong | Kindergarten 2 <br>(Chinese Language)<br>  |
-| Ms Hou Can | Kindergarten 2 <br>(Chinese Language)<br>  |
-| Mdm Lian Yanli | Kindergarten 2 <br>(Chinese Language)<br>  |
-| Mdm Siti Suzanna  |  Kindergarten 1<br> (Malay Language)<br>  |
-| Ms Nurul Shafiqa |  Kindergarten 2<br> (Malay Language)<br>  |
+| Mdm An Hong<br>(Senior Teacher) | Kindergarten 1 <br> (Chinese Language)<br> |
+| Ms Zhu Xiaoyan<br>(Level Coordinator) | Kindergarten 1 <br>(Chinese Language)<br> |
+| Mdm Hou Can | Kindergarten 1 <br>(Chinese Language)<br>   |
+| Mdm Soh Ah Kiow<br>(Level Coordinator) | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Mdm Rebekah Poh | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Mdm Ding Yuli | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Mdm Lian Yanli  |  Kindergarten 2<br> (Chinese Language)<br>  |
+| Ms Nurul Shafiqa<br>(SEN Coordinator) |  Kindergarten 1 &amp; 2<br> (Malay Language)<br>  |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
