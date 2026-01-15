@@ -21,15 +21,35 @@ enjoying a unique team sport.</p>
 <p>Every Friday. Schedule will be sent to parents via Parents Gateway before
 the start of a new term/semester.</p>
 <h4>CCA Teachers</h4>
-<p>| Name of Teacher | Email Address |</p>
-<p>|---|---|</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ian Farah (Overall-In-Charge)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ian_farah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_farah_mohamed@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>| Ms Ian Farah (Overall-In-Charge) | [<a href="mailto:ian_farah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_farah_mohamed@moe.edu.sg</a>](mailto:
-<a href="mailto:ian_farah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_farah_mohamed@moe.edu.sg</a>)</p>
-<p>| Ms Liu Lingzhu | [<a href="mailto:liu_lingzhu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lingzhu@moe.edu.sg</a>](mailto:
-<a href="mailto:liu_lingzhu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lingzhu@moe.edu.sg</a>) |</p>
-<p>| Ms Sugashini | [<a href="mailto:sugashini_jayabalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sugashini_jayabalan@moe.edu.sg</a>](mailto:
-<a href="mailto:sugashini_jayabalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sugashini_jayabalan@moe.edu.sg</a>) |</p>
-<p>| Mdm Rozita | [<a href="mailto:rozita_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozita_selamat@moe.edu.sg</a>](mailto:
-<a href="mailto:rozita_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozita_selamat@moe.edu.sg</a>) |</p>
-<p>| Ms Vijayalakshmi | [<a href="mailto:r_vijayalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_vijayalakshmi@moe.edu.sg</a>](mailto:
-<a href="mailto:r_vijayalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_vijayalakshmi@moe.edu.sg</a>) |</p>
+<a href="mailto:ian_farah_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_farah_mohamed@moe.edu.sg</a>)
+<br>
+<br>
+<br>
+</p>
