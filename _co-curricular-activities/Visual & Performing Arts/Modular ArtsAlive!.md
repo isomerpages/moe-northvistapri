@@ -14,7 +14,7 @@ self-directed learning, and the appreciation of diverse perspectives.</p>
 <p></p>
 <p>Through active participation, students also develop important values such
 as empathy, respect, and teamwork. ArtsALIVE! is ideal for students who
-enjoy creative expression and are keen to grow both artistically and personally..</p>
+enjoy creative expression and are keen to grow both artistically and personally.</p>
 <p></p>
 <h4>CCA Schedule</h4>
 <p>Every Monday. Schedule will be sent to parents via Parents Gateway before

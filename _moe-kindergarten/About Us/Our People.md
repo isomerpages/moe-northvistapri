@@ -7,14 +7,14 @@ third_nav_title: About Us
 ---
 #### Key Personnel
 
-![](/images/MK/About/mk_staff.jpg)
+![](/images/MK/About/new_mkstaff.png)
 
 | **Name** | **Designation** | 
 | -------- | -------- |
 | Ms Nur Azlinda Ismail      | Centre Head<br>    | 
 | Ms Jasmine Chen Jiamin      | Deputy Centre Head<br>    | 
 | Mdm An Hong       | Senior Teacher <br> (Mother Tongue Language)    | 
-| Ms Nur Sabrina      |  Level Head   | 
+| Ms Nur Syafiqah       |  Senior Teacher   | 
 
 
 
@@ -25,14 +25,14 @@ third_nav_title: About Us
 |   |   |
 |:---:|:---:|
 | **Name** | **Teaching Level** | 
-| Mdm Herma Ayuni | Kindergarten 1 <br> |
+| Mdm Herma Ayuni <br>(Level Coordinator)| Kindergarten 1 <br> |
 |  Ms Is Kalsum |  Kindergarten 1<br> |
-|  Ms Nur Sabrina |  Kindergarten 1<br> |
-|  Ms Sherie Wong |  Kindergarten 1<br> |
-|  Ms Audrey Lim |  Kindergarten 2<br> ||
-|  Ms Nur Syafiqah |  Kindergarten 2<br> | |
-|  Ms Razeen Banu |   Kindergarten 2<br> |  |
-|  Mr Riyadh |   Kindergarten 2<br> | |
+|  Ms Audrey Lim<br>(SEN Coordinator) |  Kindergarten 1<br> |
+|  Ms Shazilah Mashor |  Kindergarten 1<br> |
+|  Ms Nur Syafiqah<br>(Senior Teacher) |  Kindergarten 2<br> ||
+|  Mr Riyadh<br>(Level Coordinator) |  Kindergarten 2<br> | |
+|  Ms Sherie Wong |   Kindergarten 2<br> |  |
+|  Ms Tiara Ammellia |   Kindergarten 2<br> | |
 
 
 
@@ -43,12 +43,12 @@ third_nav_title: About Us
 ||| 
 |:---:|:---:|
 | **Name of Teacher** | **Teaching Level** |
-| Mdm Rebekah Poh | Kindergarten 1 <br> (Chinese Language)<br> |
-| Mdm Soh Ah Kiow | Kindergarten 1 <br>(Chinese Language)<br> |
-| Ms Ding Yuli | Kindergarten 1 <br>(Chinese Language)<br>   |
-| Mdm An Hong | Kindergarten 2 <br>(Chinese Language)<br>  |
-| Ms Hou Can | Kindergarten 2 <br>(Chinese Language)<br>  |
-| Mdm Lian Yanli | Kindergarten 2 <br>(Chinese Language)<br>  |
-| Mdm Siti Suzanna  |  Kindergarten 1<br> (Malay Language)<br>  |
-| Ms Nurul Shafiqa |  Kindergarten 2<br> (Malay Language)<br>  |
+| Mdm An Hong<br>(Senior Teacher) | Kindergarten 1 <br> (Chinese Language)<br> |
+| Ms Zhu Xiaoyan<br>(Level Coordinator) | Kindergarten 1 <br>(Chinese Language)<br> |
+| Mdm Hou Can | Kindergarten 1 <br>(Chinese Language)<br>   |
+| Mdm Soh Ah Kiow<br>(Level Coordinator) | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Mdm Rebekah Poh | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Mdm Ding Yuli | Kindergarten 2 <br>(Chinese Language)<br>  |
+| Mdm Lian Yanli  |  Kindergarten 2<br> (Chinese Language)<br>  |
+| Ms Nurul Shafiqa<br>(SEN Coordinator) |  Kindergarten 1 &amp; 2<br> (Malay Language)<br>  |
 | Ms Maga Panchatcharam | Kindergarten 1 &amp; 2<br> (Tamil Language) |
