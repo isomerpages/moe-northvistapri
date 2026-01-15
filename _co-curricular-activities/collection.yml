@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Visual & Performing Arts/Modular ArtsAlive!.md
       - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Art Connoisseur Club.md
       - Visual & Performing Arts/Les Vista Choristes (Choir).md
