@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: About Us
 ---
-<p>The monthly fee for MK in 2024 is:</p>
+<p>The monthly fee for MK in 2026 is:</p>
 <ul>
 <li>
 <p>$160 for Singapore Citizens</p>
