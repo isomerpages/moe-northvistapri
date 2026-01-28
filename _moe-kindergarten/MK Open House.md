@@ -4,7 +4,7 @@ permalink: /kindergarten/mk-open-house/
 description: ""
 variant: markdown
 ---
-![](/images/MK/MKOPH/2025MKOP1.jpg)
+![](/images/MK/MKOPH/2026MKOP.jpg)
 
 ![](/images/MK/MKOPH/2025MKOP2.jpg)
 
