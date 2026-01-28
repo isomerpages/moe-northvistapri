@@ -14,7 +14,7 @@ third_nav_title: About Us
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Programme(for Singapore Citizens &amp; Permanent Residents)</p>
+<p>Programme (for Singapore Citizens &amp; Permanent Residents)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Eligibility</p>
