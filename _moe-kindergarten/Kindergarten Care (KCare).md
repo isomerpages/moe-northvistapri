@@ -44,12 +44,17 @@ gardening activities.</p>
 <p></p>
 </li>
 </ul>
-<p>If you have enrolled your child in KCare, your child can be in KCare before
-and after their MK session, providing a full-day programme for your child
-within the same premises.</p>
+<p>If you have enrolled your child in KCare, MK will receive KCare children
+at arrival between 7 am and 8 am and your child will be in KCare after
+their MK session, providing a full-day programme for your child within
+the same premises.</p>
 <p></p>
-<p><strong>Operating hours during school term (include school holidays)</strong>
-<br><strong>Mon - Fri:</strong> 7 am to 7 pm</p>
+<p><strong>Operating hours during school term</strong>
+<br><strong>Mon - Fri:</strong> 12 noon to 7 pm</p>
+<p></p>
+<p><strong>Operating hours during school holidays</strong>
+</p>
+<p><strong>Mon - Fri:</strong> 7 am to 7 pm</p>
 <p></p>
 <p>Parents who wish to enquire further on the KCare services provided, kindly
 drop an email to <a rel="noopener noreferrer nofollow" target="_blank">admission_cls_nvtps_kcare@commitlearning.com.sg</a>
