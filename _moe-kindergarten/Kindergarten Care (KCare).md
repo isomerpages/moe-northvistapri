@@ -14,12 +14,23 @@ description: ""
 <p>Kindergarten Care (KCare) is a care service available in all MOE Kindergartens
 (MK).&nbsp;</p>
 <p></p>
-<p>KCare operates from Monday to Friday, 7 am to 7 pm, including school holidays.
-It is closed on public holidays and up to 6 additional days each year.</p>
+<p>KCare operates from 12 noon till 7 pm, from Mondays and Fridays.</p>
+<p></p>
+<p>It closes for 6 days each year, in addition to gazetted public holidays,
+Teachers' Day and Children's Day.</p>
 <p></p>
 <p>The service provider for KCare @ North Vista is <strong>Commit Learning SchoolHouse.</strong>
 </p>
 <p></p>
+<p>The monthly fee for KCare in 2026 is:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$200 for Singapore Citizens</p>
+</li>
+<li>
+<p>$350 for Singapore Permanent Residents</p>
+</li>
+</ul>
 <p>The KCare programme includes meals as well as activities designed to provide
 time and space for children to play, explore and discover through:</p>
 <p></p>
