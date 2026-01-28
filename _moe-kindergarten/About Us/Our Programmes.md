@@ -55,6 +55,8 @@ third_nav_title: About Us
 </tbody>
 </table>
 <h4>Programme Hours</h4>
+<p><em>MK@NV follows MOE's calendar of school terms and school holidays.</em>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,7 +72,7 @@ third_nav_title: About Us
 <p>Period</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>(MK Programme)</p>
+<p>MK Programme</p>
 </th>
 </tr>
 <tr>
@@ -97,21 +99,24 @@ third_nav_title: About Us
 </tr>
 </tbody>
 </table>
-<p><em>MK@NV follows MOE's calendar of school terms and school holidays.</em>
-</p>
 <p></p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>K1 &amp; K2</p>
+<p>For MK children with KCare Services</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>(Full day MK &amp; KCare Programme)</p>
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Full day MK &amp; Kcare Programme</p>
 </th>
 </tr>
 <tr>
@@ -119,27 +124,27 @@ third_nav_title: About Us
 <p>K1 &amp; K2 children who attend the MOE Kindergarten AM Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 a.m. to 8 a.m. (KCare)
-<br>8 a.m. to 12 noon (MK)
-<br>12 noon to 7 p.m. (KCare)
+<p>Term Time
 <br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 am to 12 noon (MK)</p>
+<p>12 noon to 7 pm (KCare)</p>
+<p></p>
+<p><em>MK will receive KCare children at arrival between 7 am and 8 am.</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>K1 &amp; K2 children who attend the MOE Kindergarten AM Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7 am to 7 pm (KCare)</p>
 </td>
 </tr>
 </tbody>
