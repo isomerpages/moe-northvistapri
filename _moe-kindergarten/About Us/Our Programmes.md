@@ -89,10 +89,10 @@ third_nav_title: About Us
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No MK Session</p>
 </td>
 </tr>
 </tbody>
