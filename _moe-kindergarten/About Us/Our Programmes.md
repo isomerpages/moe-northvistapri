@@ -86,7 +86,7 @@ third_nav_title: About Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>K1 &amp; K2 children who attend the MOE Kindergarten AM Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holiday</p>
