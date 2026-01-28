@@ -55,26 +55,44 @@ third_nav_title: About Us
 </tbody>
 </table>
 <h4>Programme Hours</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>K1 &amp; K2</p>
+<p>For MK only children</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>(4-hour MK Programme)</p>
+<p>Period</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>(MK Programme)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AM Session</p>
+<p>K1 &amp; K2 children who attend the MOE Kindergarten AM Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 a.m. to 12 noon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
