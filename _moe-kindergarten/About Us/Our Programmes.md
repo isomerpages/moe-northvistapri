@@ -78,10 +78,10 @@ third_nav_title: About Us
 <p>K1 &amp; K2 children who attend the MOE Kindergarten AM Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 a.m. to 12 noon</p>
+<p>Term Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8 am to 12 noon (MK)</p>
 </td>
 </tr>
 <tr>
