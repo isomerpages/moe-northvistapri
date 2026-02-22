@@ -11,5 +11,7 @@ programmes, the <strong>HI-Light Programme</strong> and <strong>Starlight Litera
 English Language (EL) and Mother Tongue Languages (MTL). In addition, the
 children will also engage in a <strong>Weeks of Wonder(WoW)</strong> project
 each term.</p>
-<h4></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMtB18v7WyvuKKbPtDPmvMTZPHyvDdvJnRjgyDYbbNUbxWcqrWuhE2tMgGyBch-CDHKc7XE4a1iaDy/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
