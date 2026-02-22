@@ -12,4 +12,3 @@ Early Learners (NEL) Framework, that children are joyful, curious, active,
 and competent learners. We emphasize on children’s holistic development
 through an integrated approach to learning with teachers engaging children
 in learning through quality interaction and purposeful play.</p>
-<p></p>
