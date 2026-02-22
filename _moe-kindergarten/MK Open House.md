@@ -7,9 +7,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MKOPH/2026MKOP1.png">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MKOPH/2025MKOP2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MKOPH/2026MKOP3.png">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MKOPH/2026MKOP4.png">
+</div>
+<p></p>
 <p>Please refer to the Google Slides deck for the Open House Brief to get
 a quick introduction to MK @ North Vista before attending the Open House.</p>
 <div class="iframe-wrapper">
