@@ -12,6 +12,6 @@ English Language (EL) and Mother Tongue Languages (MTL). In addition, the
 children will also engage in a <strong>Weeks of Wonder(WoW)</strong> project
 each term.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMtB18v7WyvuKKbPtDPmvMTZPHyvDdvJnRjgyDYbbNUbxWcqrWuhE2tMgGyBch-CDHKc7XE4a1iaDy/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="355" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMtB18v7WyvuKKbPtDPmvMTZPHyvDdvJnRjgyDYbbNUbxWcqrWuhE2tMgGyBch-CDHKc7XE4a1iaDy/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
