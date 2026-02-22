@@ -27,9 +27,9 @@ bilingualism through systematic and explicit teaching of language and early
 literacy skills. Children are provided with opportunities to enjoy English
 and their Mother Tongue Language (Chinese, Malay or Tamil), communicate
 with confidence and be aware of local transitions and customs.</p>
-<p>
-<br>
-<br>
+<p>Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment" rel="noopener nofollow" target="_blank">here</a> to
+find out more about the MK Curriculum and Programmes on the MOE Kindergarten
+website.
 <br>
 <br>
 <br>
