@@ -132,8 +132,8 @@ prior permission from the General Office.</p>
 </table>
 <h4 id="morning">2. Morning Drop-Off &amp; Vehicle Decal</h4>
 <p>Parents who drive students to school will be allowed to drop them off
-along the sheltered walkway within school grounds until&nbsp; &nbsp;7.25
-a.m. Parents should not alight or park their car within the school grounds
+along the sheltered walkway within school grounds until&nbsp;7.25
+am. Parents should not alight or park their car within the school grounds
 as parking lots are reserved for season parking only. Please adhere strictly
 to the school regulations of not driving more than 15 km/h within the school
 grounds. Exhibit greater care and patience while driving in the school
