@@ -102,7 +102,7 @@ variant: markdown
 </tbody>
 </table>
 <h4 id="access">1. Access to The School</h4>
-<p>We want to keep our school safe for our students. All visitors/parents
+<p>We want to keep our school safe for our students. All parents/guardians
 must register their presence at the Security Post at the front gate and
 obtain a Visitor Sticker. The sticker is valid for visiting the school
 bookshop and General Office only. The Visitor Sticker shall be worn within
@@ -132,8 +132,8 @@ prior permission from the General Office.</p>
 </table>
 <h4 id="morning">2. Morning Drop-Off &amp; Vehicle Decal</h4>
 <p>Parents who drive students to school will be allowed to drop them off
-along the sheltered walkway within school grounds until&nbsp; &nbsp;7.25
-a.m. Parents should not alight or park their car within the school grounds
+along the sheltered walkway within school grounds until&nbsp;7.25
+am. Parents should not alight or park their car within the school grounds
 as parking lots are reserved for season parking only. Please adhere strictly
 to the school regulations of not driving more than 15 km/h within the school
 grounds. Exhibit greater care and patience while driving in the school
@@ -196,15 +196,15 @@ activities.</p>
 <p>All students can be dismissed via the Main Gate, Side Gate 3 (near Bistro)
 or Side Gate 7 (near ISH). Parents should work out an agreed meeting point
 with their children. For the safety of all students, parents should wait
-at the designated void decks of the&nbsp; HDB flats so as to avoid congestion
+at the designated void decks of the&nbsp;HDB flats so as to avoid congestion
 at the gates. Parents who are driving into the school to pick up their
-children can do so only after 1.45 p.m. or when all our school buses have
+children can do so only after 1.45 pm or when all our school buses have
 left. Students should be waiting for their parents at the drop off point
 at Block A.</p>
 <p>On CCA days, parents/caregivers will pick the students from the main gate.
 They may wait at the Security Post but will not be permitted to wait at
-the Bistro. For those who are driving, they may pick up their children
-from the Security Post or drive in only at&nbsp; 4 p.m. to pick up the
+the Bistro. For those driving, they may pick up their children
+from the Security Post or drive in only at&nbsp; 4 pm to pick up the
 students from drop off point at Block A. Parents should not alight and
 loiter in the Bistro or school grounds.</p>
 <div class="isomer-image-wrapper">
@@ -388,7 +388,7 @@ Office. Our staff will make the necessary arrangements.</p>
 <p>In order not to disrupt curriculum time, parents are encouraged to schedule
 appointments with teachers only after school dismissal. With the 5 day
 work-week, the school seeks parents’ cooperation in not expecting teachers
-to respond to queries after 6.00 p.m. on weekdays and during weekends.</p>
+to respond to queries after 5.30 pm on weekdays and during weekends.</p>
 <p>Should parents have any feedback, they may use the following channels
 of communication:</p>
 <table>
@@ -560,7 +560,7 @@ For CCA updates, students should refer to the CCA Notice Board.</p>
 Primary School, photographs/videos may be taken of students taking part
 in school activities, events and/or competitions. As part of the school's
 outreach to parents and the wider community, these images may be posted
-or published through the various platforms such as Facebook, newsletters
+or published through the various platforms such as Facebook, Instagram, newsletters
 or other publications endorsed by the school. However, in order to safeguard
 our students at North Vista Primary School, no names of students will be
 used and photos of children may be used without identifying information.
