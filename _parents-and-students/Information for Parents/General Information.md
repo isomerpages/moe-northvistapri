@@ -285,8 +285,8 @@ the student from the General Office.</p>
 </table>
 <h4 id="insurance">7. Insurance</h4>
 <p>The school provides basic insurance coverage for all students. Please
-click <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on the insurance product fact sheet. For claims, parents
+click <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+group personal accident insurance for students. For claims, parents
 may go&nbsp;<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">online</a> to
 apply&nbsp;.</p>
 <p>Parents may choose to buy additional coverage at their own discretions.</p>
