@@ -203,7 +203,7 @@ left. Students should be waiting for their parents at the drop off point
 at Block A.</p>
 <p>On CCA days, parents/caregivers will pick the students from the main gate.
 They may wait at the Security Post but will not be permitted to wait at
-the Bistro. For those who are driving, they may pick up their children
+the Bistro. For those driving, they may pick up their children
 from the Security Post or drive in only at&nbsp; 4 pm to pick up the
 students from drop off point at Block A. Parents should not alight and
 loiter in the Bistro or school grounds.</p>
