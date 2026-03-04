@@ -440,10 +440,8 @@ Heads (SHs) / Level Heads (LHs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal / Vice Principals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+</td><td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
