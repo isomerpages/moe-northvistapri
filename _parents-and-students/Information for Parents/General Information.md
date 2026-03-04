@@ -388,7 +388,7 @@ Office. Our staff will make the necessary arrangements.</p>
 <p>In order not to disrupt curriculum time, parents are encouraged to schedule
 appointments with teachers only after school dismissal. With the 5 day
 work-week, the school seeks parents’ cooperation in not expecting teachers
-to respond to queries after 6.00 p.m. on weekdays and during weekends.</p>
+to respond to queries after 5.30 pm on weekdays and during weekends.</p>
 <p>Should parents have any feedback, they may use the following channels
 of communication:</p>
 <table>
