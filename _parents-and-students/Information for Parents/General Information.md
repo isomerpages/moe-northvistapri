@@ -102,7 +102,7 @@ variant: markdown
 </tbody>
 </table>
 <h4 id="access">1. Access to The School</h4>
-<p>We want to keep our school safe for our students. All visitors/parents
+<p>We want to keep our school safe for our students. All parents/guardians
 must register their presence at the Security Post at the front gate and
 obtain a Visitor Sticker. The sticker is valid for visiting the school
 bookshop and General Office only. The Visitor Sticker shall be worn within
