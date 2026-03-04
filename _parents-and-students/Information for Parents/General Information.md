@@ -560,7 +560,7 @@ For CCA updates, students should refer to the CCA Notice Board.</p>
 Primary School, photographs/videos may be taken of students taking part
 in school activities, events and/or competitions. As part of the school's
 outreach to parents and the wider community, these images may be posted
-or published through the various platforms such as Facebook, newsletters
+or published through the various platforms such as Facebook, Instagram, newsletters
 or other publications endorsed by the school. However, in order to safeguard
 our students at North Vista Primary School, no names of students will be
 used and photos of children may be used without identifying information.
