@@ -14,7 +14,7 @@ variant: markdown
 | P 1-3 |   Mdm Nur Faezah <br> [nur_faezah_mohammed_ali@moe.edu.sg](mailto:nur_faezah_mohammed_ali@moe.edu.sg)  | Ms Fiona Yoong <br> [fiona_yoong@moe.edu.sg](mailto:fiona_yoong@moe.edu.sg)   |
 | P 1-4 | Mrs Vivien Lim  <br>  [lim_kim_ee_vivien@moe.edu.sg](mailto:lim_kim_ee_vivien@moe.edu.sg)  | Ms Astrinka <br>[astrinka_ryzanti_putri_kamaludin@moe.edu.sg](mailto:astrinka_ryzanti_putri_kamaludin@moe.edu.sg)  |
 | P 1-5 |   Miss Chong Yuan Ping <br>[chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg)  |   Mrs Amin <br> [al-amin_a@moe.edu.sg](mailto:al-amin_a@moe.edu.sg)  |
-|  P 1-6  | Mdm Xu Lupin <br> [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)  | Mrs Lim Choon Num <br> [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg)  |
+|  P 1-6  | Mrs Dridi Elnie <br> [elnie_tryana_dridi@moe.edu.sg](mailto:elnie_tryana_dridi@moe.edu.sg)  | Mrs Lim Choon Num <br> [lim_choon_num@moe.edu.sg ](mailto:lim_choon_num@moe.edu.sg)  |
 |  P 1-7  | Mr Joel Wong <br> [wong_seow_wei@moe.edu.sg](mailto:wong_seow_wei@moe.edu.sg) | Mr Chong Chee Wee <br> [chong_chee_wee@moe.edu.sg](mailto:chong_chee_wee@moe.edu.sg)  |
 
 
