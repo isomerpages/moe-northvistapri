@@ -127,3 +127,5 @@ variant: markdown
 | 9     | Mr Ryan  | [ryan_williams_fernandez@moe.edu.sg](mailto:ryan_williams_fernandez@moe.edu.sg)     |
 | 10     | Mdm Rozita  | [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)     |
 | 11     | Mrs Chiu Wan Ting  | [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)     |
+| 12     | Mdm Xu Lupin  | [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)     |
+| 13     | Ms Sugashini  | [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)     |
