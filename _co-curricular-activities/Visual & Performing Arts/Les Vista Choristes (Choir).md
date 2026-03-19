@@ -21,6 +21,7 @@ Every Monday and Friday.  Schedule will be sent to parents via Parents Gateway b
 | Mr Teo Ting Rui (Overall-In-Charge) | [ting_rui_teo@moe.edu.sg](mailto:ting_rui_teo@moe.edu.sg) |
 | Miss Chong Yuan Ping | [chong_yuan_ping@moe.edu.sg](mailto:chong_yuan_ping@moe.edu.sg) |
 | Ms Astrinka| [astrinka_ryzanti_putri_kamaludin@moe.edu.sg](mailto:astrinka_ryzanti_putri_kamaludin@moe.edu.sg) |
+| Ms Tan Yi Shian| [tan_yi_shian@moe.edu.sg](mailto:tan_yi_shian@moe.edu.sg) |
 
 
 ![](/images/CCA/VAPA/choir1.jpg)
