@@ -20,7 +20,7 @@ Every Monday and Friday. Schedule will be sent to parents via Parents Gateway be
 | Mrs Kelly Lim (Overall-In-Charge)  | [mak_wenjing@moe.edu.sg](mailto:mak_wenjing@moe.edu.sg  ) |
 | Mrs Eng I-Ling   | [wong_i-ling@moe.edu.sg](mailto:wong_i-ling@moe.edu.sg)  |
 |Miss Atiroh  | [atiroh_salma_mohamed_yasin@moe.edu.sg](mailto:atiroh_salma_mohamed_yasin@moe.edu.sg)  |
-
+|Ms Harshini  | [harshini_arumugam@moe.edu.sg](mailto:harshini_arumugam@moe.edu.sg)  |
 
 
 
