@@ -2,7 +2,7 @@
 layout: homepage
 title: North Vista Primary School
 description: Community of Learners at the School For the Future. Build Character
-  | Inspire Passion for Learning
+  | Inspire Passion in Learning
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
