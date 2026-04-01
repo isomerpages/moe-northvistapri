@@ -9,7 +9,7 @@ locations:
       - Singapore 544974
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/ntChWfcVT59HeAbp6
     title: Address
 contacts:
   - content:
@@ -28,4 +28,5 @@ contacts:
       - email: ""
       - other: ""
     title: Facismile
+feedback: ""
 ---
