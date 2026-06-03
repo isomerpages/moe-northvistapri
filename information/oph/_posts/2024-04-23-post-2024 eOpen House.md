@@ -7,8 +7,9 @@ description: NVTPS e-Open House 2024
 image: /images/OH/2024oph.png
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Open_House_sign-up_poster" src="/images/OH/E_Open_House_Poster_Final_v2b.png">
+<img style="width: 100%" height="auto" width="100%" alt="open_house_sign-up_poster" src="/images/OH/MOTD_final_v1.png">
 </div>
 <p>Nurturing every child with care, confidence &amp; curiosity. 🌱
 <br>Join our Open House Webinar to discover more!
