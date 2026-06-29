@@ -105,21 +105,6 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nelson Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_yong_hui_nelson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yong_hui_nelson@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>HOD (MT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (MA)</p>
@@ -142,6 +127,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_teck_ping_junice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_teck_ping_junice@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (SC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Boh Zuze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:boh_zuze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boh_zuze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
