@@ -118,7 +118,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 1     | Ms Kaur   | [amrit_kaur_a@moe.edu.sg](mailto:amrit_kaur_a@moe.edu.sg)    |
 | 2     | Mdm Eileen Chee    | [eileen_chee@moe.edu.sg](mailto:eileen_chee@moe.edu.sg)      |
-| 3     | Mr Goh Kah How     | [goh_kah_how@moe.edu.sg](mailto:goh_kah_how@moe.edu.sg)      |
+| 3     | Ms Evelyn Leo     | [leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg)      |
 | 4     | Mr Hirman   | [hirman_mohamed_khamis@moe.edu.sg](mailto:hirman_mohamed_khamis@moe.edu.sg)      |
 | 5     | Mrs Avonne Lee    | [avonne_tan_su_en@moe.edu.sg](mailto:avonne_tan_su_en@moe.edu.sg)      |
 | 6     | Mrs Eleanor Chua     | [tan_yi_ling_eleanor_a@moe.edu.sg](mailto:tan_yi_ling_eleanor_a@moe.edu.sg)      |
@@ -126,6 +126,6 @@ variant: markdown
 | 8     | Mrs Jocelyn Koi  | [jocelyn_ho_chui_ling@moe.edu.sg](mailto:jocelyn_ho_chui_ling@moe.edu.sg)     |
 | 9     | Mr Ryan  | [ryan_williams_fernandez@moe.edu.sg](mailto:ryan_williams_fernandez@moe.edu.sg)     |
 | 10     | Mdm Rozita  | [rozita_selamat@moe.edu.sg](mailto:rozita_selamat@moe.edu.sg)     |
-| 11     | Mrs Chiu Wan Ting  | [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)     |
-| 12     | Mdm Xu Lupin  | [xu_lupin@moe.edu.sg](mailto:xu_lupin@moe.edu.sg)     |
+| 11     | Mrs Letitia Lim  | [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)     |
+| 12     | Mdm Peh Shay Ling  | [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg)     |
 | 13     | Ms Sugashini  | [sugashini_jayabalan@moe.edu.sg](mailto:sugashini_jayabalan@moe.edu.sg)     |
