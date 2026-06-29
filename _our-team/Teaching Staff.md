@@ -55,7 +55,7 @@ variant: markdown
 | P 4-1 | Mr Goh Swee Teck <br> [goh_swee_teck@moe.edu.sg](mailto:goh_swee_teck@moe.edu.sg)  | Mdm Subashini  <br>[subashini_sivananthan@moe.edu.sg](mailto:subashini_sivananthan@moe.edu.sg)  |
 | P 4-2 | Mr Michael Au<br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Miss Yasmin<br> [yasmin_syed_yaacob@moe.edu.sg](mailto:yasmin_syed_yaacob@moe.edu.sg)  |
 | P 4-3 |  Mdm Yeong Yi Mei <br> [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)  |  Mrs Jayme Ong <br> [pang_sook_fui_mrs@moe.edu.sg](mailto:pang_sook_fui_mrs@moe.edu.sg)  |
-|  P 4-4 | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |    Mrs Letitia Lim  <br> [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)  |
+|  P 4-4 | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |    Mrs Chiu Wan Ting  <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)  |
 |  P 4-5  | Mr Dennis Tan <br> [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)  | Mr Suryadi <br> [suryadi_mohd_bajuri@moe.edu.sg](mailto:suryadi_mohd_bajuri@moe.edu.sg) <br><br> Mdm Roxanne Chua <br>  [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg) |
 | P 4-6 | Miss Jessica Cheah <br> [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg)  | Miss Subhadra   <br> [subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  |
 
