@@ -41,10 +41,10 @@ variant: markdown
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 3-1  | Mr Lawrence Lim  <br> [lim_qi_wen_lawrence@moe.edu.sg](mailto:lim_qi_wen_lawrence@moe.edu.sg)  | Mdm Audrey Heng<br> [heng_ming_hwee@moe.edu.sg](mailto:heng_ming_hwee@moe.edu.sg)<br><br>Mdm Dai Ping<br> [dai_ping_a@moe.edu.sg](mailto:dai_ping_a@moe.edu.sg) |
 | P 3-2 | Mr Wayne Chia <br> [chia_peng_han_wayne@moe.edu.sg](mailto:chia_peng_han_wayne@moe.edu.sg) | Ms Harshini<br> [harshini_arumugam@moe.edu.sg](mailto:harshini_arumugam@moe.edu.sg) |
-| P 3-3 | Mr Benjamin Wong <br> [wong_yitung_benjamin@moe.edu.sg](mailto:wong_yitung_benjamin@moe.edu.sg)    | Mrs Simon Foo  <br>  [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg) |
-| P 3-4 | Mdm Choo Siang Beng <br> [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg) | Ms Adeline Sim<br> [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg) <br><br> Mdm Zainon<br> [sitti_zainon_hassan_c@moe.edu.sg](mailto:sitti_zainon_hassan_c@moe.edu.sg)  |
+| P 3-3 | Mr Benjamin Wong <br> [wong_yitung_benjamin@moe.edu.sg](mailto:wong_yitung_benjamin@moe.edu.sg)    | Mrs Simon Foo  <br>  [tan_wui_leng_wendy@moe.edu.sg](mailto:tan_wui_leng_wendy@moe.edu.sg) <br><br> Ms Siti Humairah  <br>  [siti_humaira_abdul_aziz@moe.edu.sg](mailto:siti_humaira_abdul_aziz@moe.edu.sg) |
+| P 3-4 | Mdm Choo Siang Beng <br> [choo_siang_beng@moe.edu.sg](mailto:choo_siang_beng@moe.edu.sg) | Ms Adeline Sim<br> [sim_yuin_ling_adeline@moe.edu.sg](mailto:sim_yuin_ling_adeline@moe.edu.sg) 
 | P 3-5 | Mdm Jelena Chia <br> [chia_wanlin_jelena@moe.edu.sg](mailto:chia_wanlin_jelena@moe.edu.sg) |Mr Teo Ting Rui <br> [teo_ting_rui@moe.edu.sg](mailto:teo_ting_rui@moe.edu.sg) |
-| P 3-6 | Mdm Siti Raudah <br> [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)   | Ms Evelyn Leo  <br>  [leo_chia_min_evelyn@moe.edu.sg](mailto:leo_chia_min_evelyn@moe.edu.sg) <br><br> Miss Alea <br>  [alea_imran_a@moe.edu.sg](mailto:alea_imran_a@moe.edu.sg)   |
+| P 3-6 | Mdm Siti Raudah <br> [siti_raudah_fawzi_laza@moe.edu.sg](mailto:siti_raudah_fawzi_laza@moe.edu.sg)   | Miss Alea <br>  [alea_imran_a@moe.edu.sg](mailto:alea_imran_a@moe.edu.sg)   |
 
 
 #### Primary Four
@@ -55,7 +55,7 @@ variant: markdown
 | P 4-1 | Mr Goh Swee Teck <br> [goh_swee_teck@moe.edu.sg](mailto:goh_swee_teck@moe.edu.sg)  | Mdm Subashini  <br>[subashini_sivananthan@moe.edu.sg](mailto:subashini_sivananthan@moe.edu.sg)  |
 | P 4-2 | Mr Michael Au<br> [au_kah_wai_michael@moe.edu.sg](mailto:au_kah_wai_michael@moe.edu.sg)  | Miss Yasmin<br> [yasmin_syed_yaacob@moe.edu.sg](mailto:yasmin_syed_yaacob@moe.edu.sg)  |
 | P 4-3 |  Mdm Yeong Yi Mei <br> [yeong_yi_mei@moe.edu.sg](mailto:yeong_yi_mei@moe.edu.sg)  |  Mrs Jayme Ong <br> [pang_sook_fui_mrs@moe.edu.sg](mailto:pang_sook_fui_mrs@moe.edu.sg)  |
-|  P 4-4 | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |    Mrs Letitia Lim  <br> [letitia_tan_xiu_xian@moe.edu.sg](mailto:letitia_tan_xiu_xian@moe.edu.sg)  |
+|  P 4-4 | Miss Chiang Yan Sing <br> [chiang_yan_sing@moe.edu.sg](mailto:chiang_yan_sing@moe.edu.sg) |    Mrs Chiu Wan Ting  <br> [yong_wan_ting@moe.edu.sg](mailto:yong_wan_ting@moe.edu.sg)  |
 |  P 4-5  | Mr Dennis Tan <br> [tan_kim_leong_dennis@moe.edu.sg](mailto:tan_kim_leong_dennis@moe.edu.sg)  | Mr Suryadi <br> [suryadi_mohd_bajuri@moe.edu.sg](mailto:suryadi_mohd_bajuri@moe.edu.sg) <br><br> Mdm Roxanne Chua <br>  [roxanne_chua_wan_xuan@moe.edu.sg](mailto:roxanne_chua_wan_xuan@moe.edu.sg) |
 | P 4-6 | Miss Jessica Cheah <br> [jessica_cheah_jeay_sye@moe.edu.sg](mailto:jessica_cheah_jeay_sye@moe.edu.sg)  | Miss Subhadra   <br> [subhadra_ganesan@moe.edu.sg](mailto:subhadra_ganesan@moe.edu.sg)  |
 
