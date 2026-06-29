@@ -105,21 +105,6 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nelson Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_yong_hui_nelson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yong_hui_nelson@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>HOD (MT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (MA)</p>
@@ -142,6 +127,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_teck_ping_junice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_teck_ping_junice@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (SC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Boh Zuze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:boh_zuze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boh_zuze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -300,21 +300,6 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (SC &amp; Environmental Ed.)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Boh Zuze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:boh_zuze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boh_zuze@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>SH (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -327,7 +312,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Innovation)</p>
@@ -342,7 +327,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (National Ed. &amp; Social Studies)</p>
@@ -357,7 +342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Student Leadership)</p>
@@ -372,7 +357,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Student Well-being)</p>
@@ -387,7 +372,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Aesthetics)</p>
@@ -403,7 +388,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (Lower Primary/P2)</p>
@@ -418,7 +403,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (Middle Primary/P4)</p>
@@ -433,7 +418,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
+<p>23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (Upper Primary/P5)</p>
@@ -448,7 +433,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25</p>
+<p>24</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LT (EL)</p>
@@ -463,7 +448,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (EL)</p>
@@ -478,7 +463,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>26</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (CL)</p>
@@ -493,7 +478,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28</p>
+<p>27</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (PE)</p>
@@ -508,7 +493,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29</p>
+<p>28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST (Lower Primary)</p>
