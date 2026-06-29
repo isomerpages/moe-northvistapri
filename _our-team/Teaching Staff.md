@@ -24,7 +24,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | P 2-1 | Ms Ang Lee Im<br> [ang_lee_im@moe.edu.sg](mailto:ang_lee_im@moe.edu.sg)  | Mr Alvin Lee <br> [lee_dong_alvin@moe.edu.sg](mailto:lee_dong_alvin@moe.edu.sg)  |
-| P 2-2 | Mdm Peh Shay Ling <br> [peh_shay_ling@moe.edu.sg](mailto:peh_shay_ling@moe.edu.sg)  | Mrs Lim Chia Lin <br>  [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg)    |
+| P 2-2 | Mr Daryl Lai <br> [lai_qijie_daryl@moe.edu.sg](mailto:lai_qijie_daryl@moe.edu.sg)  | Mrs Lim Chia Lin <br>  [lee_chia_lin_a@moe.edu.sg](mailto:lee_chia_lin_a@moe.edu.sg)    |
 | P 2-3 |   Ms Vijayalakshmi <br>  [r_vijayalakshmi@moe.edu.sg](mailto:r_vijayalakshmi@moe.edu.sg)  | Ms Shamin Lin <br> [lin_yunzhen_shamin@moe.edu.sg](mailto:lin_yunzhen_shamin@moe.edu.sg) |
 | P 2-4 | Mdm Nur Ashiqin   <br> [nur_ashiqin_mohamed_sall@moe.edu.sg](mailto:nur_ashiqin_mohamed_sall@moe.edu.sg)   |  Ms Vanna Tan <br> [Vanna_tan_a@moe.edu.sg](mailto:Vanna_tan_a@moe.edu.sg) <br><br>  Mdm Lydia <br> [lydia_mohamed_yacob@moe.edu.sg](mailto:lydia_mohamed_yacob@moe.edu.sg)  |
 | P 2-5 | Miss Norazizah  <br> [norazizah_ajis@moe.edu.sg](mailto:norazizah_ajis@moe.edu.sg) | Mrs Irene Tan  <br> [tan_irene@moe.edu.sg](mailto:tan_irene@moe.edu.sg)  |
