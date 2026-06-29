@@ -14,7 +14,7 @@ variant: markdown
 | 2     | Ms Tanti, Corporate Support Officer     | [tanti_yani_zaini@moe.edu.sg](mailto:tanti_yani_zaini@moe.edu.sg)         |
 | 3     | Mdm Nur Amiza Zainal, Corporate Support Officer       | [nur_amiza_zainal@moe.edu.sg](mailto:nur_amiza_zainal@moe.edu.sg)    |
 | 4     | Ms Elaine Ling, Corporate Support Officer        | [elaine_ling@moe.edu.sg](mailto:elaine_ling@moe.edu.sg)    |
-| 5     | Miss Shasmita Sivakumar Pillai, Administrative Executive   | [shasmita_sivakumar_pillai@moe.edu.sg](mailto:shasmita_sivakumar_pillai@moe.edu.sg)     |
+| 5     | Ms Soh Sim Ping, Administrative Executive   | [soh_sim_ping@moe.edu.sg](mailto:soh_sim_ping@moe.edu.sg)     |
 | 6     | Ms Chua Kim Lian Susan, Administrative Executive       | [chua_kim_lian_susan@moe.edu.sg](mailto:chua_kim_lian_susan@moe.edu.sg)    |
 
 #### Operations
