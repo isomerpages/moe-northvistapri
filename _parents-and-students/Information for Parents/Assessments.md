@@ -29,7 +29,7 @@ All students must be punctual for the examinations. Students who are unwell shou
 
 Should a student be absent without a valid reason, zero marks will be awarded.
 
-**2026 P3 to P6 Semester 1 Topics, Format & Schedule**
+**2026 P3 to P6 Semester 2 Topics, Format & Schedule**
 
 * [P3 Semester 2 2026](/files/Assessments/P3_Semester_2__2026.pdf)
 * [P4 Semester 2 2026](/files/Assessments/P4_Semester_2__2026.pdf)
