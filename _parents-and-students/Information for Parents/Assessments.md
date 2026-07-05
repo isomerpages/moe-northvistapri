@@ -31,9 +31,9 @@ Should a student be absent without a valid reason, zero marks will be awarded.
 
 **2026 P3 to P6 Semester 1 Topics, Format & Schedule**
 
-* [P3 Semester 1 2026](/files/Assessments/P3_Semester_1__2026_.pdf)
-* [P4 Semester 1 2026](/files/Assessments/P4_Semester_1__2026_.pdf)
-* [P5 Semester 1 2026](/files/Assessments/P5_Semester_1__2026_.pdf)
-* [P6 Semester 1 2026](/files/Assessments/P6_Semester_1__2026_.pdf)
+* [P3 Semester 2 2026](/files/Assessments/P3_Semester_2__2026.pdf)
+* [P4 Semester 2 2026](/files/Assessments/P4_Semester_2__2026.pdf)
+* [P5 Semester 2 2026](/files/Assessments/P5_Semester_2__2026.pdf)
+* [P6 Semester 2 2026](/files/Assessments/P6_Semester_2__2026.pdf)
 
-Information is accurate as of 21 January 2026.
+Information is accurate as of 2 July 2026.
